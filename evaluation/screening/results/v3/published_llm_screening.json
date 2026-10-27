@@ -1,0 +1,144 @@
+{
+  "accessed": "2026-10-23",
+  "search_log": [
+    {
+      "query": "large language model abstract screening SYNERGY dataset",
+      "where": "arXiv API (export.arxiv.org), all fields"
+    },
+    {
+      "query": "LLM screening Nagtegaal Smid van de Schoot",
+      "where": "arXiv API, all fields (no result)"
+    },
+    {
+      "query": "Nudging systematic review LLM; PTSD systematic review LLM screening",
+      "where": "arXiv API, all fields (no result)"
+    },
+    {
+      "query": "zero-shot LLM title and abstract screening systematic review",
+      "where": "arXiv API, abstract field"
+    },
+    {
+      "query": "large language model title abstract screening SYNERGY dataset",
+      "where": "Crossref works search"
+    },
+    {
+      "query": "LLM screening systematic review Nagtegaal Smid",
+      "where": "Crossref works search"
+    },
+    {
+      "query": "candidate papers from the earlier audit: LGAR (arXiv 2505.24757), Jo et al. 2026 (medRxiv), Li, Sun and Tan 2024 (BMC Syst Rev)",
+      "where": "full text fetched by HTTP GET and searched for Smid, Nagtegaal, Schoot, Nudging, PTSD, SYNERGY"
+    },
+    {
+      "query": "LUMEN (arXiv 2606.28362) full text searched for the same terms",
+      "where": "full text fetched by HTTP GET from arxiv.org"
+    }
+  ],
+  "rows": [
+    {
+      "citation": "Huang Y-H, Lin Y-S. LUMEN: Cost-Transparent Multi-Agent Pipeline for Automated Systematic Review and Meta-Analysis. arXiv:2606.28362v1, 2026.",
+      "doi_or_url": "https://arxiv.org/abs/2606.28362",
+      "peer_reviewed": false,
+      "dataset": "van_de_Schoot_2017",
+      "dataset_version_note": "38 included records (ground truth) are the only count the paper gives; it names the review 'van de Schoot 2018' and states no record total, so the match to our van_de_Schoot_2017 (38 final inclusions) rests on the inclusion count and the PTSD topic.",
+      "model": "Gemini 3.1 Pro (single-model screening arm)",
+      "setting": "zero-shot, five-point relevance score, sensitive threshold",
+      "metric": "sensitivity (recall of ground-truth inclusions)",
+      "value": "0.947 (36/38)",
+      "quote": "Gemini 0.947 (36/38) 0.773 2 22 $17.53",
+      "location": "Table 4, van de Schoot block, Gemini row",
+      "caveat": "Preprint, not peer reviewed; single model arm scored at the sensitive threshold (undecided scores count as include) against the review's own ground truth, with a different prompt, record set and unreported dedup; the arm-to-model mapping (GPT arm = GPT-4.1 Mini) is read from the paper's agent inventory.",
+      "snapshot": "evaluation/screening/results/v3/published_llm_sources/huang_2026_lumen_synergy_vds.txt"
+    },
+    {
+      "citation": "Huang Y-H, Lin Y-S. LUMEN: Cost-Transparent Multi-Agent Pipeline for Automated Systematic Review and Meta-Analysis. arXiv:2606.28362v1, 2026.",
+      "doi_or_url": "https://arxiv.org/abs/2606.28362",
+      "peer_reviewed": false,
+      "dataset": "van_de_Schoot_2017",
+      "dataset_version_note": "38 included records (ground truth) are the only count the paper gives; it names the review 'van de Schoot 2018' and states no record total, so the match to our van_de_Schoot_2017 (38 final inclusions) rests on the inclusion count and the PTSD topic.",
+      "model": "GPT arm (the paper's second screener is GPT-4.1 Mini)",
+      "setting": "zero-shot, five-point relevance score, sensitive threshold",
+      "metric": "sensitivity (recall of ground-truth inclusions)",
+      "value": "0.842 (32/38)",
+      "quote": "GPT 0.842 (32/38) 0.824 6 17 $2.40",
+      "location": "Table 4, van de Schoot block, GPT row",
+      "caveat": "Preprint, not peer reviewed; single model arm scored at the sensitive threshold (undecided scores count as include) against the review's own ground truth, with a different prompt, record set and unreported dedup; the arm-to-model mapping (GPT arm = GPT-4.1 Mini) is read from the paper's agent inventory.",
+      "snapshot": "evaluation/screening/results/v3/published_llm_sources/huang_2026_lumen_synergy_vds.txt"
+    },
+    {
+      "citation": "Huang Y-H, Lin Y-S. LUMEN: Cost-Transparent Multi-Agent Pipeline for Automated Systematic Review and Meta-Analysis. arXiv:2606.28362v1, 2026.",
+      "doi_or_url": "https://arxiv.org/abs/2606.28362",
+      "peer_reviewed": false,
+      "dataset": "van_de_Schoot_2017",
+      "dataset_version_note": "38 included records (ground truth) are the only count the paper gives; it names the review 'van de Schoot 2018' and states no record total, so the match to our van_de_Schoot_2017 (38 final inclusions) rests on the inclusion count and the PTSD topic.",
+      "model": "Gemini 3.1 Pro (single-model screening arm)",
+      "setting": "zero-shot, five-point relevance score, conservative threshold",
+      "metric": "sensitivity (Sens 4 column)",
+      "value": "0.579",
+      "quote": "vdS 2018 A Gemini 0.579 0.947 0.994 0.773 22 $17.53",
+      "location": "Table S6 (supplement), vdS 2018 block, Gemini row",
+      "caveat": "Preprint, not peer reviewed; single model arm scored at the conservative threshold (a score of 4 or higher counts as include) against the review's own ground truth, with a different prompt, record set and unreported dedup; the arm-to-model mapping (GPT arm = GPT-4.1 Mini) is read from the paper's agent inventory.",
+      "snapshot": "evaluation/screening/results/v3/published_llm_sources/huang_2026_lumen_synergy_vds.txt"
+    },
+    {
+      "citation": "Huang Y-H, Lin Y-S. LUMEN: Cost-Transparent Multi-Agent Pipeline for Automated Systematic Review and Meta-Analysis. arXiv:2606.28362v1, 2026.",
+      "doi_or_url": "https://arxiv.org/abs/2606.28362",
+      "peer_reviewed": false,
+      "dataset": "van_de_Schoot_2017",
+      "dataset_version_note": "38 included records (ground truth) are the only count the paper gives; it names the review 'van de Schoot 2018' and states no record total, so the match to our van_de_Schoot_2017 (38 final inclusions) rests on the inclusion count and the PTSD topic.",
+      "model": "GPT arm (the paper's second screener is GPT-4.1 Mini)",
+      "setting": "zero-shot, five-point relevance score, conservative threshold",
+      "metric": "sensitivity (Sens 4 column)",
+      "value": "0.526",
+      "quote": "(38 GT) B GPT 0.526 0.842 0.993 0.824 17 $2.40",
+      "location": "Table S6 (supplement), vdS 2018 block, GPT row",
+      "caveat": "Preprint, not peer reviewed; single model arm scored at the conservative threshold (a score of 4 or higher counts as include) against the review's own ground truth, with a different prompt, record set and unreported dedup; the arm-to-model mapping (GPT arm = GPT-4.1 Mini) is read from the paper's agent inventory.",
+      "snapshot": "evaluation/screening/results/v3/published_llm_sources/huang_2026_lumen_synergy_vds.txt"
+    },
+    {
+      "citation": "Jaumann C, Wiedholz A, Friedrich A. LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews. Findings of the Association for Computational Linguistics: ACL 2025.",
+      "doi_or_url": "10.18653/v1/2025.findings-acl.412",
+      "peer_reviewed": true,
+      "dataset": "SYNERGY macro-average (includes Smid_2020)",
+      "dataset_version_note": "SYNERGY, 26 systematic reviews, 169288 papers, average inclusion rate 4.31 percent; Smid_2020 is one of the 26 but the paper prints no per-review value.",
+      "model": "Llama3.3-70B-Instruct",
+      "setting": "zero-shot relevance scale 0-19 with monoT5 title-only re-ranker",
+      "metric": "TNR@95% (true negative rate at 95% recall), percent",
+      "value": "67.0",
+      "quote": "Llama3.3-70B 40.7 67.0 81.9",
+      "location": "Table 3, SYNERGY block",
+      "caveat": "Ranking metric over the whole 26-review benchmark (macro-average over reviews, Llama3.3-70B with relevance scale 0-19 and a monoT5 re-ranker), not a per-record include/exclude decision, so it is not comparable to the screener's operating point.",
+      "snapshot": "evaluation/screening/results/v3/published_llm_sources/jaumann_2025_lgar_synergy.txt"
+    }
+  ],
+  "rejected": [
+    {
+      "citation": "Li D, Sun Y, Tan Z. Evaluating large language models for abstract screening (BMC Systematic Reviews 2024), doi 10.1186/s13643-024-02609-x",
+      "reason": "reports Bannach-Brown 2016, Mj2021 and Me2022 only; none of Nagtegaal_2019, Smid_2020 or van_de_Schoot_2017"
+    },
+    {
+      "citation": "Jo et al. 2026, Label-free, low-cost AI ranking for systematic review screening, medRxiv 10.64898/2026.10.09.26365173",
+      "reason": "prints pooled results over 128 reviews and no per-corpus value for the three corpora"
+    },
+    {
+      "citation": "Title and abstract screening for systematic reviews with Jev, medRxiv 10.64898/2026.09.25.26364021",
+      "reason": "no mention of the three corpora or of SYNERGY"
+    },
+    {
+      "citation": "Huang and Lin 2026 (LUMEN), the single-model arm for a third vendor's model and the dual-screener arm whose arbiter is that model",
+      "reason": "the table keeps the Gemini and GPT single arms only"
+    },
+    {
+      "citation": "Wang et al. 2024, Zero-shot Generative Large Language Models for Systematic Review Screening Automation, arXiv:2401.06320",
+      "reason": "reports CLEF TAR collections only; none of the three corpora and no SYNERGY"
+    },
+    {
+      "citation": "TiAb Review Plugin, arXiv:2604.08602",
+      "reason": "browser tool paper; reports none of the three corpora or SYNERGY"
+    },
+    {
+      "citation": "ASReview-based screening papers found in the same searches",
+      "reason": "not an LLM screener"
+    }
+  ]
+}

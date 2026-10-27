@@ -1,0 +1,1314 @@
+# False negatives - van_de_Schoot_2017
+
+Records the source review included that the screener excluded outright (status EXCLUDE), with the screener's stated reason. Records routed to NEEDS_REVIEW stay in the reading queue and are not listed.
+
+## Run A: excluded final inclusions (2)
+
+- **2473** Resource Loss, Resource Gain, and Psychological Resilience and Dysfunction Following Cancer Diagnosis: A Growth Mixture Modeling Approach
+  - reason: Growth mixture modeling used, but symptoms follow cancer diagnosis, not criterion A1 trauma.
+  - abstract: yes; run B: EXCLUDE
+- **1569** Post-traumatic stress symptoms 5 years after military deployment to Afghanistan: An observational cohort study
+  - reason: Longitudinal mixed model of PTSD symptoms; no clustering method applied.
+  - abstract: yes; run B: EXCLUDE
+
+## Run A: excluded title-and-abstract positives that were not final inclusions (212)
+
+- **5409** The coherence and correlates of intermittent explosive disorder amongst West Papuan refugees displaced to Papua New Guinea
+  - reason: Latent class analysis of symptom classes, not trajectories over waves.
+  - abstract: yes; run B: EXCLUDE
+- **5891** Social relationships and PTSD symptomatology in combat veterans
+  - reason: Factor analysis of social support, not trajectory clustering of PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **168** Polyvictimization: Latent profiles and mental health outcomes in a clinical sample of adolescents
+  - reason: Latent class analysis of trauma exposure profiles, not PTSD symptom trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **4377** Typology of posttraumatic stress disorder in children and adolescents
+  - reason: Clinical typology, no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **3056** Hurricane-related exposure experiences and stressors, other life events, and social support: concurrent and prospective impact on children's persistent posttraumatic stress symptoms
+  - reason: Only two measurement waves, fewer than three required.
+  - abstract: yes; run B: EXCLUDE
+- **3468** Profiles of Adaptation Among Child Victims of Suspected Maltreatment
+  - reason: Cross-sectional latent profile analysis, not trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **2049** Trajectories of posttraumatic stress disorder following myocardial infarction: a prospective study
+  - reason: Only two measurement waves, fewer than three required.
+  - abstract: yes; run B: EXCLUDE
+- **5569** A preliminary examination of the relationships between posttraumatic stress symptoms and crack/cocaine, heroin, and alcohol dependence
+  - reason: Cross-sectional association study; no trajectory clustering method applied.
+  - abstract: yes; run B: EXCLUDE
+- **3539** Longitudinal Examination of PTSD Symptoms and Problematic Alcohol Use as Risk Factors for Adolescent Victimization
+  - reason: Latent growth curve modeling, not mixture/clustering of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1954** Profiles of Childhood Trauma: Betrayal, Frequency, and Psychological Distress in Late Adolescence
+  - reason: Cross-sectional latent profile analysis of trauma types, not PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1834** Psychometric status and clinical utility of the MAYSI-2 with girls and boys in juvenile detention
+  - reason: Cross-sectional MAYSI-2 validation; subgroups from principal components, not trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **2660** Post-combat syndromes from the boer war to the Gulf war: A cluster analysis of their nature and attribution
+  - reason: Cluster analysis of symptoms across wars, not latent trajectories of PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **1035** Course of recovery for whiplash associated disorders in a compensation setting
+  - reason: Trajectories of whiplash disability/pain, not PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **5553** Examining the dimensionality of combat-related posttraumatic stress and depressive symptoms in treatment-seeking OEF/OIF/OND veterans
+  - reason: Cross-sectional factor analysis of PTSD/depression dimensionality.
+  - abstract: yes; run B: EXCLUDE
+- **2727** Stress-related responses after 3 years of exposure to terror in Israel: Are ideological-religious factors associated with resilience?
+  - reason: Cross-sectional survey; no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **450** Latent classes of childhood trauma exposure predict the development of behavioral health outcomes in adolescence and young adulthood
+  - reason: Latent classes of trauma exposure, not trajectories of PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **4313** Dimensional structure and prospective evolution of posttraumatic stress symptomatology in World Trade Center responders
+  - reason: CFA and cross-lagged panel analysis, no trajectory clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **4363** From prepartum to postpartum: Profiles and maternal symptomatology
+  - reason: Typologies derived, but no clustering method (LGMM/LCGA/HCA) applied to PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **2815** Profile analyses of the Personality Assessment Inventory following military-related traumatic brain injury
+  - reason: Cluster analysis of PAI personality profiles, not PTSD symptom trajectories; cross-sectional.
+  - abstract: yes; run B: EXCLUDE
+- **5482** Profiles of Resilience and Growth in Youth With Cancer and Healthy Comparisons
+  - reason: Latent profile analysis of PTS/PTG, not longitudinal PTSD trajectories across waves.
+  - abstract: yes; run B: EXCLUDE
+- **5975** Erratum for "Posttraumatic stress after a motor vehicle accident: A six-month follow-up study utilizing latent growth modeling"
+  - reason: Erratum notice duplicating the original article record.
+  - abstract: yes; run B: EXCLUDE
+- **6089** Trajectories of suicidal ideation and posttraumatic stress symptoms among former prisoners of war: A 17-year longitudinal study
+  - reason: Used latent growth curve modeling, not a clustering method identifying trajectories/classes.
+  - abstract: yes; run B: EXCLUDE
+- **1773** Profiles of adult survivors of severe sexual, physical and emotional institutional abuse in Ireland
+  - reason: Cross-sectional abuse profiles, no longitudinal PTSD trajectory clustering
+  - abstract: yes; run B: EXCLUDE
+- **2803** A comparison of PTSD symptom patterns in three types of civilian trauma
+  - reason: Cross-sectional symptom profile comparison, no trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **1110** Trajectories and associated factors of quality of life, global outcome, and post-concussion symptoms in the first year following mild traumatic brain injury
+  - reason: Trajectories of post-concussion symptoms, not PTSD after criterion A1 event.
+  - abstract: yes; run B: EXCLUDE
+- **3272** Does time heal all wounds? A longitudinal study of development of posttraumatic stress symptoms in parents of children with cancer
+  - reason: Latent growth curve modeling, not growth mixture/cluster analysis of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **2732** Natural course of posttraumatic stress disorder: A 20-month prospective study of Turkish earthquake survivors
+  - reason: Three-wave longitudinal PTSD study but no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **477** Post-traumatic stress disorder and the outcome of dialectical behaviour therapy for borderline personality disorder
+  - reason: Multilevel modelling of treatment outcome, no trajectory clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **4125** The impact of caregiver distress on the longitudinal development of child acute post-traumatic stress disorder symptoms in pediatric injury victims
+  - reason: No clustering method applied to trajectories; only SEM and regression.
+  - abstract: yes; run B: EXCLUDE
+- **2289** Early trajectory of psychiatric symptoms after traumatic brain injury: Relationship to patient and injury characteristics
+  - reason: Longitudinal but no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **4771** Single Mother's Adverse and Traumatic Experiences and Post-Traumatic Stress Symptoms
+  - reason: Cross-sectional survey; no longitudinal waves or trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **2826** Deconstructing PTSD: Traumatic Experiences, Posttraumatic Symptom Clusters, and Mental Health Problems among Delinquent Youth
+  - reason: Path analysis, not a clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1539** Exposure to trauma and posttraumatic stress disorder symptoms in older veterans attending primary care: Comorbid conditions and self-rated health status
+  - reason: Cross-sectional screening study; no clustering method applied to PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5062** Post-traumatic stress symptoms in parental dyads of children diagnosed with cancer: A longitudinal analysis
+  - reason: Longitudinal PTSS study but used latent difference score modelling, not a clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **2516** Posttraumatic stress and symptom improvement in Norwegian tourists exposed to the 2004 tsunami - a longitudinal study
+  - reason: Only two measurement waves; no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **4022** Examining a comprehensive model of disaster-related posttraumatic stress disorder in systematically studied survivors of 10 disasters
+  - reason: Predictor study; no clustering method applied to PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1872** Influence of bodily injuries on symptom reporting following uncomplicated mild traumatic brain injury in US military service members
+  - reason: No trajectory clustering method; groups classified by injury severity, cross-sectional symptom checklists.
+  - abstract: yes; run B: EXCLUDE
+- **1627** The structure of PTSD symptoms: A test of alternative models using confirmatory factor analysis
+  - reason: Confirmatory factor analysis of PTSD structure, not trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **5138** Post-traumatic stress symptoms in long-term non-Hodgkin's lymphoma survivors: Does time heal?
+  - reason: Two-wave survey of PTSD symptoms; no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **4304** Post-traumatic stress symptoms in relatives in the first weeks after severe traumatic brain injury
+  - reason: Single assessment within first month; not longitudinal with three PTSD waves.
+  - abstract: yes; run B: EXCLUDE
+- **1809** Posttraumatic stress symptoms in children of mothers diagnosed with breast cancer
+  - reason: Cross-sectional comparison of PTSD symptoms; no longitudinal trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **143** Trajectory of posttraumatic stress disorder caused by myocardial infarction: A two-year follow-up study
+  - reason: Two-wave follow-up, no trajectory clustering method applied.
+  - abstract: yes; run B: EXCLUDE
+- **303** Multisample cross-validation of a model of childhood posttraumatic stress disorder symptomatology
+  - reason: Confirmatory factor analysis of PTSD dimensionality, no trajectory clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **3692** Student-teacher relationship trajectories and mental health problems in young children
+  - reason: Trajectories of student-teacher relationship quality, not PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **1779** Comparative study of trauma-related phenomena in subjects with pseudoseizures and subjects with epilepsy
+  - reason: Cross-sectional group comparison of trauma measures; no trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **2521** Cluster analysis of MCMI and MCMI-II on chronic PTSD victims
+  - reason: Clusters derived from MCMI personality profiles, not PTSD symptom trajectories over waves.
+  - abstract: yes; run B: NEEDS_REVIEW
+- **719** Beyond resilience and PTSD: Mapping the heterogeneity of responses to potential trauma
+  - reason: Review article; no clustering method applied to its own trajectory data.
+  - abstract: yes; run B: EXCLUDE
+- **4734** One-year trajectories of depression and anxiety symptoms in older patients presenting in general practice with musculoskeletal pain: A latent class growth analysis
+  - reason: Trajectories of anxiety/depression after musculoskeletal pain, not PTSD after criterion A1 trauma.
+  - abstract: yes; run B: EXCLUDE
+- **2505** The role of shame in distinguishing perpetrators of intimate partner violence in U.S. veterans
+  - reason: Cross-sectional study, excluded as obviously irrelevant.
+  - abstract: yes; run B: EXCLUDE
+- **5958** Physical health and posttraumatic stress disorder symptoms in women experiencing intimate partner violence
+  - reason: Cross-sectional correlational study, not longitudinal with three waves.
+  - abstract: yes; run B: EXCLUDE
+- **4032** Heterogeneity of posttraumatic stress symptoms in a highly traumatized low income, urban, African American sample
+  - reason: Cross-sectional latent profile analysis, not longitudinal trajectories across waves.
+  - abstract: yes; run B: EXCLUDE
+- **797** Identifying trajectory clusters in breast cancer survivors’ supportive care needs, psychosocial difficulties, and resources from the completion of primary treatment to 8 months later
+  - reason: Trajectories of cancer care needs and growth, not PTSD after trauma.
+  - abstract: yes; run B: EXCLUDE
+- **1406** Posttraumatic stress disorder, poor physical health and substance use behaviors in a national trauma-exposed sample
+  - reason: Cross-sectional SEM analysis; no longitudinal trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **2270** Assessing possible DSM-5 ASD subtypes in a sample of victims meeting caseness for DSM-5 ASD based on self-report following multiple forms of traumatic exposure
+  - reason: Latent profile analysis of ASD subtypes, not trajectories; no growth modelling.
+  - abstract: yes; run B: EXCLUDE
+- **4917** A lifespan perspective on terrorism: Age differences in trajectories of response to 9/11
+  - reason: Longitudinal PTSD study but used multilevel models, not a clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **1870** In the shadow of terror: Posttraumatic stress and psychiatric co-morbidity following bombing in Iraq: The role of shattered world assumptions and altered self-capacities
+  - reason: Two waves only, no clustering method for trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5606** Long-term mental health of Vietnamese refugees in the aftermath of trauma
+  - reason: No clustering method (LGMM/LCGA/HCA) applied to identify trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1691** Pharmacokinetics and metabolism of SRX246: A potent and selective vasopressin 1a antagonist
+  - reason: Pharmacokinetic animal study, unrelated to PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **932** Treatment type and demographic characteristics as predictors for cancer adjustment: Prospective trajectories of depressive symptoms in a population sample
+  - reason: Cancer diagnosis does not fulfill DSM-IV criterion A1 trauma; depressive symptoms not PTSD.
+  - abstract: yes; run B: EXCLUDE
+- **1925** Heterogeneous patterns of stress over the four years of college: Associations with anxious attachment and ego-resiliency
+  - reason: College stress trajectories, not symptoms following a DSM-IV criterion A1 trauma.
+  - abstract: yes; run B: EXCLUDE
+- **3545** Service use patterns and mental health symptoms among adolescents exposed to multiple types of trauma
+  - reason: Latent class analysis of trauma types, not PTSD symptom trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5682** The association between posttraumatic stress symptoms and functional impairment during ongoing conflict in the Democratic Republic of Congo
+  - reason: Cross-sectional single assessment; no longitudinal waves or trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **4089** Configurations of early risk and their association with academic, cognitive, emotional and behavioural outcomes in middle childhood
+  - reason: Latent classes of childhood risk, not PTSD trajectories; off topic.
+  - abstract: yes; run B: EXCLUDE
+- **1765** Basic emotion profiles in healthy, chronic pain, depressed and PTSD individuals
+  - reason: Cross-sectional discriminant analysis; no trajectory clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **716** Trajectories of resilience, depression, and anxiety following spinal cord injury
+  - reason: Trajectories of depression/anxiety after spinal cord injury, not PTSD after criterion A1 trauma.
+  - abstract: yes; run B: EXCLUDE
+- **430** Profile Analysis of the Neurobehavioral and Psychiatric Symptoms Following Combat-Related Mild Traumatic Brain Injury: Identification of Subtypes
+  - reason: Cluster analysis of symptom profiles, not trajectories; no LGMM/LCGA trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **1617** Psychological adjustment one year after the diagnosis of breast cancer: A prototype study of delayed post-traumatic stress disorder
+  - reason: One-year follow-up of breast cancer patients using regression, no clustering of PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1614** Heterogeneity in clinical presentations of posttraumatic stress disorder among medical patients: Testing factor structure variation using factor mixture modeling
+  - reason: Cross-sectional factor mixture modeling; no longitudinal waves or trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **3364** Course of trauma sequelae in ex-political prisoners in the GDR: A 15-year follow-up study
+  - reason: Longitudinal follow-up but no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5067** The impact of the refugee decision on the trajectory of PTSD, anxiety, and depressive symptoms among asylum seekers: a longitudinal study
+  - reason: Trajectory described but no clustering method applied.
+  - abstract: yes; run B: EXCLUDE
+- **1467** Trauma exposure, posttraumatic stress, and psychiatric comorbidity in female juvenile offenders
+  - reason: Cross-sectional assessment; no longitudinal waves or trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **2079** Is prolonged grief distinct from bereavement-related posttraumatic stress?
+  - reason: Cross-sectional PCA of symptom clusters; no trajectory clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **4241** Posttraumatic stress disorder and chronic musculoskeletal pain: How are they related?
+  - reason: Uses CART and SEM, not LGMM/LCGA/hierarchical cluster analysis of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **3353** Impact of pre-enlistment antisocial behaviour on behavioural outcomes among UK military personnel
+  - reason: No clustering method applied to PTSD trajectories; regression of behavioural outcomes only.
+  - abstract: yes; run B: EXCLUDE
+- **5690** PMTS and stress response sequences in parents of children with spina bifida
+  - reason: No clustering method applied to identify symptom trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1595** Post-traumatic stress disorder, depression, and anxiety among Gaza Strip adolescents in the wake of the second Uprising (Intifada)
+  - reason: Cross-sectional survey; no longitudinal waves or trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **557** Predictors of the long-term course of comorbid PTSD: A naturalistic prospective study
+  - reason: Uses latent growth model, not growth mixture or clustering to identify trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **4457** Resilience in the Face of Coping With a Severe Physical Injury: A Study of Trajectories of Adjustment in a Rehabilitation Setting
+  - reason: Only two measurement waves (admission and discharge), not three.
+  - abstract: yes; run B: EXCLUDE
+- **4879** Neonaticide: A classification of female perpetrators in an east-west comparison
+  - reason: Cluster analysis of perpetrators' characteristics, not PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **331** Attachment typologies and posttraumatic stress disorder (PTSD), depression and anxiety: a latent profile analysis approach
+  - reason: Clustering applied to attachment styles, not PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1435** Post traumatic stress psychopathology 8 years after a flooding in Italy
+  - reason: Single assessment wave; not longitudinal with three PTSD waves.
+  - abstract: yes; run B: EXCLUDE
+- **1434** Victimization Profiles, Non-Suicidal Self-Injury, Suicide Attempt, and Post-Traumatic Stress Disorder Symptomology: Application of Latent Class Analysis
+  - reason: LCA clusters victimization profiles, not PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1386** Prospective evaluation of parent distress following pediatric burns and identification of risk factors for young child and parent posttraumatic stress disorder
+  - reason: Longitudinal but no LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1928** Heterogeneity in Rodents' Fear Extinction Learning: Implications for Translational Models of Stress Responses
+  - reason: Rodent fear extinction study, not human PTSD trajectory clustering.
+  - abstract: no; run B: EXCLUDE
+- **2668** Traumatic Stress Symptomatology After Child Maltreatment and Single Traumatic Events: Different Profiles
+  - reason: No clustering method applied to trajectories; compares groups only.
+  - abstract: yes; run B: EXCLUDE
+- **2480** Profiles of Connectedness: Processes of Resilience and Growth in Children With Cancer
+  - reason: Latent profiles of connectedness, not PTSD symptom trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **2611** Posttraumatic stress disorder after liver transplantation
+  - reason: Cross-sectional study of PTSD after liver transplantation; no longitudinal trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **4244** Bullying boys: The traumatic effects of bullying in male adolescent learners
+  - reason: No clustering method; cross-sectional bullying-trauma correlation study.
+  - abstract: yes; run B: EXCLUDE
+- **3414** Measurement invariance of posttraumatic stress disorder symptoms among U.S. military personnel
+  - reason: Factor analysis of PTSD symptoms, not trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **1888** Adult sexual abuse is associated with elevated neurohormone levels among women with PTSD due to childhood sexual abuse
+  - reason: Neurobiological cross-sectional study of neurohormone levels, not trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **3273** Short and longer-term psychological consequences of Operation Cast Lead: Documentation from a mental health program in the Gaza Strip
+  - reason: Program data analysis without any trajectory clustering method applied.
+  - abstract: yes; run B: EXCLUDE
+- **2539** Developmental course of early-life trauma: Later-life sleep and traumatic stress
+  - reason: No clustering method applied to PTSD trajectories; correlational sleep study.
+  - abstract: yes; run B: EXCLUDE
+- **3336** Relationships between psychopathological and demographic variables and posttraumatic growth among holocaust survivors
+  - reason: Cross-sectional survey of Holocaust survivors; no longitudinal waves or trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **4259** Longitudinal course of posttraumatic stress disorder and posttraumatic stress disorder symptoms in a community sample of adolescents and young adults
+  - reason: Longitudinal PTSD course but no trajectory clustering method used.
+  - abstract: yes; run B: EXCLUDE
+- **1879** A comparison of mother-child joint admission for postnatal mental disorders in different countries
+  - reason: Off topic: postnatal mental disorder care, no PTSD trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **3308** Pathways to change: Trajectories following treatment in women with co-occurring PTSD and substance use disorders
+  - reason: LGMM applied to substance/alcohol use trajectories, not PTSD symptom trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **3567** Event-based prospective memory among veterans: The role of posttraumatic stress disorder symptom severity in executing intentions
+  - reason: Cross-sectional neuropsychological study; no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5117** Late-onset posttraumatic stress disorder following a disaster: A longitudinal study
+  - reason: Latent growth modeling, not growth mixture modelling or class/cluster trajectory method.
+  - abstract: yes; run B: EXCLUDE
+- **1933** Quantitative forecasting of PTSD from early trauma responses: A Machine Learning application
+  - reason: Machine learning forecasting, not LGMM/LCGA/hierarchical cluster analysis of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1899** Discriminant analysis of the posttraumatic stress disorder among a group of Viet Nam veterans
+  - reason: Discriminant analysis, not a trajectory clustering method; no LGMM/LCGA/HCA.
+  - abstract: yes; run B: EXCLUDE
+- **3737** Well-being, posttraumatic growth and benefit finding in long-term breast cancer survivors
+  - reason: Cross-sectional posttraumatic growth study in cancer survivors; no PTSD trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **5166** Trajectories of PTSD: A 20-year longitudinal study
+  - reason: 20-year longitudinal PTSD study but no LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **2824** Introduction to Part I: Trauma and Juvenile Delinquency: Dynamics and Developmental Mechanisms
+  - reason: Editorial introduction to special issue; no trajectory clustering study.
+  - abstract: yes; run B: EXCLUDE
+- **5901** Deployment risk factors and postdeployment health profiles associated with traumatic brain injury in heavy drinking Veterans
+  - reason: No clustering method applied to PTSD trajectories; cross-sectional profiles.
+  - abstract: yes; run B: EXCLUDE
+- **2010** Military-related posttraumatic stress disorder and intimate relationship behaviors: A developing dyadic relationship model
+  - reason: Qualitative dyadic relationship study, no trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **3973** Response to psychotherapy for posttraumatic stress disorder: The role of pretreatment verbal memory performance
+  - reason: Treatment-response study; no trajectory clustering method used.
+  - abstract: yes; run B: EXCLUDE
+- **1619** ASD and PTSD in rape victims
+  - reason: Regression prediction of PTSD, no trajectory clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **2020** Symptoms and Subjective Quality of Life in Post-Traumatic Stress Disorder: A Longitudinal Study
+  - reason: No clustering method applied to trajectories; only regression and cross-lagged panel analysis.
+  - abstract: yes; run B: EXCLUDE
+- **2650** The association of trauma and PTSD with the substance use profiles of alcohol- and cocaine-dependent out-of-treatment women
+  - reason: Cross-sectional substance use profiles, no trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **5522** Trauma exposure and posttraumatic stress disorder in crack cocaine users
+  - reason: Cross-sectional prevalence study; no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5115** The role of stress sensitization in progression of posttraumatic distress following deployment
+  - reason: Latent growth modeling only, no clustering of trajectories reported.
+  - abstract: yes; run B: EXCLUDE
+- **1854** Anxiety and prepulse inhibition of acoustic startle in a normative sample: The importance of signal-to-noise ratio
+  - reason: Cross-sectional neurobiological startle study, not longitudinal trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **2151** What can multiwave studies teach us about disaster research: An analysis of low-income Hurricane Katrina survivors
+  - reason: Used hierarchical linear modeling, not a clustering method for trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1820** Internalizing and externalizing classes in posttraumatic stress disorder: a latent class analysis
+  - reason: LCA on personality profiles, not trajectories of PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **4174** Mental health and childhood adversities: A longitudinal study in Kabul, Afghanistan
+  - reason: Longitudinal but no clustering method applied to PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **4997** Posttraumatic stress disorder symptoms and functional impairment among OEF and OIF National Guard and Reserve veterans
+  - reason: No clustering method applied to trajectories; cross-sectional association study of symptom clusters.
+  - abstract: yes; run B: EXCLUDE
+- **1490** Pretrauma problems, prior stressor exposure, and gender as predictors of change in posttraumatic stress symptoms among physically injured children and adolescents
+  - reason: Longitudinal PTSS but multilevel regression, no clustering method for trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **3407** A Brief Retrospective Method for Identifying Longitudinal Trajectories of Adjustment Following Acute Stress
+  - reason: Self-identified trajectories, no LGMM/LCGA/hierarchical cluster analysis applied.
+  - abstract: yes; run B: EXCLUDE
+- **1927** Heterogeneity in threat extinction learning: substantive and methodological considerations for identifying individual difference in response to stress
+  - reason: Animal fear conditioning study; symptoms do not follow DSM-IV criterion A1 trauma.
+  - abstract: yes; run B: EXCLUDE
+- **1761** Serving within the British army: Research into mental health benefits
+  - reason: Qualitative mental health services study; no PTSD trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **1488** Coping strategies in daily life as protective and risk factors for post traumatic stress in motor vehicle accident survivors
+  - reason: Regression analysis only; no LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **322** Subtypes of alcohol dependence in military veterans: A latent class analysis
+  - reason: LCA of alcohol dependence subtypes, not PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5633** Prolonged exposure vs eye movement desensitization and reprocessing vs waiting list for posttraumatic stress disorder in patients with a psychotic disorder: A randomized clinical trial
+  - reason: RCT of PE/EMDR; no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1831** A longitudinal analysis of posttraumatic stress disorder symptoms and their relationship with Fear and Anxious-Misery disorders: Implications for DSM-V
+  - reason: Longitudinal but uses factor and correlation analyses, no clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **1874** Latent profile analysis and principal axis factoring of the DSM-5 dissociative subtype
+  - reason: Cross-sectional latent profile analysis; not longitudinal with three PTSD waves.
+  - abstract: yes; run B: EXCLUDE
+- **2047** Trajectories of stress reactions and somatization symptoms among war veterans: A 20-year longitudinal study
+  - reason: Longitudinal but no clustering method applied to identify trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5876** Assessing the longitudinal course of depression and economic integration of south-east Asian refugees: An application of latent growth curve analysis
+  - reason: Latent growth curve of depression, not PTSD, and no clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **1753** Potential psychosocial risk factors for chronic TMD: Descriptive data and empirically identified domains from the OPPERA case-control study
+  - reason: TMD psychosocial risk factors; principal component analysis, not trajectory clustering of PTSD.
+  - abstract: yes; run B: EXCLUDE
+- **1528** Cluster analysis as a method of recovering types of intraindividual growth trajectories: A Monte Carlo study
+  - reason: Monte Carlo simulation of cluster analysis; no PTSD or trauma population.
+  - abstract: yes; run B: EXCLUDE
+- **1641** Morphometric and psychometric comparisons between non-substance-abusing patients with posttraumatic stress disorder and normal controls
+  - reason: Neurobiological morphometry study, not trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **3434** Predicting post-traumatic stress disorder following first onset acute coronary syndrome: Testing a theoretical model
+  - reason: Regression prediction study; no clustering of PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5469** Early Symptom Predictors of Chronic Distress in Gulf War Veterans
+  - reason: Longitudinal PTSD symptoms but no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1193** Post-traumatic growth in parents after a child's admission to intensive care: maybe Nietzsche was right?
+  - reason: Two waves only, no clustering method; post-traumatic growth focus.
+  - abstract: yes; run B: EXCLUDE
+- **1821** Requiring both avoidance and emotional numbing in DSM-V PTSD: Will it help?
+  - reason: Diagnostic criteria comparison, no trajectory clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **3133** Symptom Trajectories Among Child Survivors of Maltreatment: Findings from the Longitudinal Studies of Child Abuse and Neglect (LONGSCAN)
+  - reason: Trajectories of anxiety/depression symptoms, not PTSD symptoms after criterion A1 trauma.
+  - abstract: yes; run B: EXCLUDE
+- **2126** Factors discriminating among profiles of resilience and psychopathology in children exposed to intimate partner violence (IPV)
+  - reason: Cluster analysis of adjustment profiles, not PTSD symptom trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **2531** Urban teens: Trauma, posttraumatic growth, and emotional distress among female adolescents
+  - reason: No clustering method applied to PTSD symptom trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **300** Utilizing correspondence analysis to characterize the mental health of cardiac patients with diabetes
+  - reason: Correspondence analysis of profiles, not trajectory clustering; cross-sectional screening.
+  - abstract: yes; run B: EXCLUDE
+- **1940** Longitudinal determinants of posttraumatic stress in a population-based cohort study
+  - reason: Longitudinal PTSD study but used GEE regression, not a clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **1819** The structure of posttraumatic psychopathology in veterans attending primary care
+  - reason: Cross-sectional factor structure study; no trajectory clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **1570** Patterns of emotion regulation and psychopathology
+  - reason: Cluster analysis of emotion regulation patterns, not PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1952** Sex differences in recovery from PTSD in male and female interpersonal assault survivors
+  - reason: Treatment response trajectory analysis, no clustering method reported.
+  - abstract: yes; run B: EXCLUDE
+- **1631** Resilience in the initial year of caregiving for a family member with a traumatic spinal cord injury
+  - reason: Trajectories of caregiver depression, not PTSD symptoms after criterion A1 trauma.
+  - abstract: yes; run B: NEEDS_REVIEW
+- **2099** A longitudinal investigation of posttraumatic stress disorder in patients with ovarian cancer
+  - reason: Longitudinal PTSD study but no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **2884** Sequential temporal dependencies in associations between symptoms of depression and posttraumatic stress disorder: An application of bivariate latent difference score structural equation modeling
+  - reason: No clustering method (LGMM/LCGA/HCA) applied to trajectories; latent difference score SEM instead.
+  - abstract: yes; run B: EXCLUDE
+- **4203** Trajectories of recovery among homeless adults with mental illness who participated in a randomised controlled trial of Housing First: A longitudinal, narrative analysis
+  - reason: Narrative recovery trajectories in homeless adults; no PTSD trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **4328** Psychological resilience in OEF-OIF Veterans: Application of a novel classification approach and examination of demographic and psychosocial correlates
+  - reason: Cross-sectional cluster analysis, not longitudinal with three PTSD waves.
+  - abstract: yes; run B: EXCLUDE
+- **1637** Predictors of rape: Findings from the National Survey of Adolescents
+  - reason: No clustering method applied to PTSD trajectories; predictors of rape instead.
+  - abstract: yes; run B: EXCLUDE
+- **5890** Behavioral problems and service utilization in children with chronic illnesses referred for trauma-related mental health services
+  - reason: Mixed models of associations, no trajectory clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **1840** Nosological profile and prevalence of common mental disorders of patients seen at the Family Health Program (FHP) units in Petropolis, Rio de Janeiro
+  - reason: Cross-sectional prevalence study of common mental disorders; no trajectories or clustering.
+  - abstract: yes; run B: EXCLUDE
+- **1851** Mental health in Sumatra after the tsunami
+  - reason: No clustering method applied to identify PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **3691** Typologies of Childhood Exposure to Violence: Associations With College Student Mental Health
+  - reason: Clustering applied to childhood violence exposure typologies, not PTSD trajectories; cross-sectional mental health.
+  - abstract: yes; run B: EXCLUDE
+- **6022** Ten-year follow-up study of PTSD diagnosis, symptom severity and psychosocial indices in aging holocaust survivors
+  - reason: Two-wave follow-up, no clustering method applied to identify trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5793** The mediating effect of self-efficacy in the relationship between social support and post-traumatic stress disorder symptoms among patients with central system tumors in china: A cross-sectional study
+  - reason: Cross-sectional study of CNS tumor patients; not longitudinal trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **740** PTSD onset and course following the World Trade Center disaster: Findings and implications for future research
+  - reason: Only two waves; no LGMM/LCGA/hierarchical clustering of trajectories reported.
+  - abstract: yes; run B: EXCLUDE
+- **349** Stressful life events and predictors of post-traumatic growth among high-risk early emerging adults
+  - reason: Post-traumatic growth study; no clustering method applied to PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1573** Constructing the illness narrative: A grounded theory exploring patients′ and relatives′ use of intensive care diaries
+  - reason: Qualitative grounded theory study; no LGMM/LCGA/cluster analysis of PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1402** Posttraumatic growth and posttraumatic distress: A longitudinal study
+  - reason: Longitudinal but uses cross-lagged modelling, not LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1736** Signs of mood and anxiety disorders in chimpanzees
+  - reason: Chimpanzee study, not human longitudinal PTSD trajectory study.
+  - abstract: yes; run B: EXCLUDE
+- **6087** The relationship between posttraumatic stress disorder symptoms and paternal parenting of adult children among ex-prisoners of war: A longitudinal study
+  - reason: Longitudinal PTSD study but no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1592** Posttraumatic stress disorder and HIV risk among poor, inner-city women receiving care in an emergency department
+  - reason: Cross-sectional association study of PTSD and HIV risk, no trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **2591** Subgroups of US IRAQ and Afghanistan veterans: associations with traumatic brain injury and mental health conditions
+  - reason: Cross-sectional study; excluded as obviously irrelevant per E2.
+  - abstract: yes; run B: EXCLUDE
+- **1209** Latent profile analyses of posttraumatic stress disorder, depression and generalized anxiety disorder symptoms in trauma-exposed soldiers
+  - reason: Latent profile analysis of cross-sectional symptom patterns, not trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **1822** Trauma at the hands of another: Longitudinal study of differences in the posttraumatic stress disorder symptom profile following interpersonal compared with noninterpersonal trauma
+  - reason: MANOVA used; no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1804** The impact of clergy-perpetrated sexual abuse: The role of gender, development, and posttraumatic stress
+  - reason: Narrative review of treatment needs, not a longitudinal clustering study.
+  - abstract: yes; run B: EXCLUDE
+- **5655** Health-related quality of life after burns: A prospective multicenter cohort study with 18 months follow-up
+  - reason: No clustering method applied to PTSD trajectories; HRQOL outcome study.
+  - abstract: yes; run B: EXCLUDE
+- **852** DSM-IV post-traumatic stress disorder among World Trade Center responders 11-13 years after the disaster of 11 September 2001 (9/11)
+  - reason: Describes trajectories but no clustering method (LGMM/LCGA/HCA) applied.
+  - abstract: yes; run B: EXCLUDE
+- **5767** Longitudinal trajectories of posttraumatic stress disorder symptoms and binge drinking among adolescent girls: The role of sexual victimization
+  - reason: Multilevel growth modeling, not LGMM/LCGA/hierarchical cluster analysis of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5532** Post-traumatic stress symptoms among mothers of children with leukemia undergoing treatment: A longitudinal study
+  - reason: Longitudinal PTSS study but no LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1572** 'Traumatisers or traumatised': Trauma experiences and personality characteristics of Australian prisoners
+  - reason: Cross-sectional study of PTSD and personality, no trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **4825** Associations Between Prolonged Grief Disorder, Depression, Posttraumatic Stress Disorder, and Anxiety in Rwandan Genocide Survivors
+  - reason: Cross-sectional factor analysis of PGD/PTSD symptoms, not trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **2478** A person-centred approach to modelling population experiences of trauma and mental illness
+  - reason: Latent classes of trauma exposure, not trajectories of PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **4527** The effect of a yoga intervention on alcohol and drug abuse risk in veteran and civilian women with posttraumatic stress disorder
+  - reason: Yoga trial with mixed models; no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5592** Subgroups of depression in the sequenced treatment alternatives to relieve depression (STAR∗D) study: A latent class analysis
+  - reason: Latent class analysis of baseline depression data; not PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **3195** Treatment response heterogeneity in the predominant negative symptoms of schizophrenia: Analysis of amisulpride vs placebo in three clinical trials
+  - reason: Title names schizophrenia treatment, not PTSD trajectories after trauma.
+  - abstract: no; run B: EXCLUDE
+- **3995** Role of risk factors proximate to time of trauma in the course of PTSD and MDD symptoms following traumatic injury
+  - reason: Latent growth modeling only; no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **562** Investigating the dissociative subtype of posttraumatic stress disorder in a sample of traumatized detained youth
+  - reason: Cross-sectional mixture modeling of dissociation groups, not longitudinal PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **4020** Distinguishing distress and psychopathology among survivors of the Oakland/Berkeley firestorm
+  - reason: Longitudinal PTSD symptoms but no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1690** Diagnosis of posttraumatic stress disorder after surgery for primary rhegmatogenous retinal detachment
+  - reason: Trauma is surgery/retinal detachment, not DSM-IV criterion A1 event.
+  - abstract: yes; run B: EXCLUDE
+- **1208** Latent profiles of DSM-5 PTSD symptoms and the "Big Five" personality traits
+  - reason: Cross-sectional latent profile analysis, not longitudinal trajectory modelling.
+  - abstract: yes; run B: EXCLUDE
+- **2083** Psychological distress among victimized women on probation and parole: A latent class analysis
+  - reason: Latent class analysis of BSI distress dimensions, not trajectories of PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **6155** Resilience to loss and potential trauma
+  - reason: Review of resilience literature; no primary trajectory clustering study of PTSD.
+  - abstract: yes; run B: EXCLUDE
+- **4210** Five years later: Recovery from post traumatic stress and psychological distress among low-income mothers affected by Hurricane Katrina
+  - reason: Longitudinal PTSS study but no clustering method applied to trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5750** Coping with displacement from Hurricane Katrina: Predictors of one-year post-traumatic stress and depression symptom trajectories
+  - reason: Only two measurement waves, fewer than three required.
+  - abstract: yes; run B: NEEDS_REVIEW
+- **5411** Associations of Adult Separation Anxiety Disorder With Conflict-Related Trauma, Ongoing Adversity, and the Psychosocial Disruptions of Mass Conflict Among West Papuan Refugees
+  - reason: Cross-sectional latent class analysis, not longitudinal trajectories across three waves.
+  - abstract: yes; run B: EXCLUDE
+- **2103** Reducing refugee mental health disparities: A community-based intervention to address postmigration stressors with African adults
+  - reason: Growth trajectory analysis of distress, not PTSD symptom trajectories with clustering.
+  - abstract: yes; run B: EXCLUDE
+- **1705** Adverse childhood experiences and their association to personality styles in a nonmelancholic depressive sample
+  - reason: Cross-sectional depression study, not PTSD trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **3522** A cluster analysis of symptom patterns and adjustment in Vietnam combat veterans with chronic posttraumatic stress disorder
+  - reason: Cluster analysis of symptom patterns, not longitudinal trajectories across three waves.
+  - abstract: yes; run B: NEEDS_REVIEW
+- **550** Resilience and distress: Israelis respond to the disengagement from Gaza and the second Lebanese war
+  - reason: No clustering method applied to PTSD trajectories; only resilience profiles described.
+  - abstract: yes; run B: EXCLUDE
+- **568** Trajectories of self-rated health among veterans: A latent growth curve analysis of the impact of posttraumatic symptoms
+  - reason: Latent growth curve analysis of self-rated health, not clustering of PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **5292** Validation of the negative sequelae of trauma (NeST) model: A dimensional approach to studying the neurobiology of post-traumatic stress
+  - reason: PCA symptom components, not LGMM/LCGA/hierarchical clustering of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1636** Attributional style and anxiety sensitivity as maintenance factors of posttraumatic stress symptoms: A prospective examination of a diathesis-stress model
+  - reason: Prospective regression study; no LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **2053** Does posttraumatic stress disorder affect post-treatment methamphetamine use?
+  - reason: Examines PTSD as predictor of methamphetamine outcomes; no trajectory clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **2203** Understanding the pattern of PTSD symptomatology: A comparison of between versus within-group approaches
+  - reason: Between/within-group curve estimation, no LGMM/LCGA/hierarchical clustering of trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **2233** The effect of trauma onset and frequency on PTSD-associated symptoms
+  - reason: Explicitly cross-sectional; no longitudinal waves or trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **2324** Latent profiles of PTSD symptoms in women exposed to intimate partner violence
+  - reason: Cross-sectional LPA; not longitudinal with three waves.
+  - abstract: yes; run B: EXCLUDE
+- **1746** Intolerance of uncertainty and PTSD symptoms: Exploring the construct relationship in a community sample with a heterogeneous trauma history
+  - reason: Cross-sectional regression of IU on PTSD symptoms; no trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **2352** Identification and Prediction of Distress Trajectories in the First Year After a Breast Cancer Diagnosis
+  - reason: Distress trajectories after cancer diagnosis, not PTSD after criterion A1 trauma.
+  - abstract: yes; run B: EXCLUDE
+- **4055** Exploration of delayed-onset posttraumatic stress disorder after severe injury
+  - reason: Longitudinal PTSD study but no clustering method for trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **3843** Patterns of mental distress following the violent death of a child and predictors of change over time
+  - reason: Latent growth modeling of mental distress, not a clustering method for trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **1623** Predicting criminality from child maltreatment typologies and posttraumatic stress symptoms
+  - reason: Latent class analysis of maltreatment typologies, not trajectories of PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **1140** PTSD symptoms, potentially traumatic event exposure, and binge drinking: A prospective study with a national sample of adolescents
+  - reason: Used latent growth curve models, not a clustering method for trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **3547** Profile of children investigated for sexual abuse: Association with psychopathology symptoms and services
+  - reason: No LGMM/LCGA/hierarchical cluster analysis of PTSD trajectories; factor mixture modeling of subgroups.
+  - abstract: yes; run B: EXCLUDE
+- **3959** Prospective investigation of mental health following sexual assault
+  - reason: No clustering method applied to identify PTSD trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **2130** Developmental Patterns of Adverse Childhood Experiences and Current Symptoms and Impairment in Youth Referred For Trauma-Specific Services
+  - reason: LCA clusters adverse childhood experiences, not PTSD symptom trajectories.
+  - abstract: yes; run B: EXCLUDE
+- **4528** Presence of Spontaneous Pain and Comorbid Pain Conditions Identifies Vulvodynia Subgroups
+  - reason: Vulvodynia pain subgroups; different population and phenomenon.
+  - abstract: yes; run B: EXCLUDE
+- **1708** Anatomical and neuropsychological effects of cluster munitions
+  - reason: Off topic: injuries from cluster munitions, not PTSD trajectory clustering.
+  - abstract: yes; run B: EXCLUDE
+- **588** Anxiety sensitivity taxon and trauma: Discriminant associations for posttraumatic stress and panic symptomatology among young adults
+  - reason: Cross-sectional concurrent associations; no longitudinal waves or clustering method.
+  - abstract: yes; run B: EXCLUDE
+- **1050** Patterns of violence against women: A latent class analysis
+  - reason: Latent class analysis of violence types, not trajectories of PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **624** Does abortion increase women's risk for post-traumatic stress? Findings from a prospective longitudinal cohort study
+  - reason: Longitudinal PTSS but used regression, not trajectory clustering methods.
+  - abstract: yes; run B: EXCLUDE
+- **1924** Beyond normality in the study of bereavement: Heterogeneity in depression outcomes following loss in older adults
+  - reason: LCGA trajectories of depression after bereavement, not PTSD symptoms.
+  - abstract: yes; run B: EXCLUDE
+- **1745** Clarifying the relationship between AS dimensions and PTSD symptom clusters: Are negative and positive affectivity theoretically relevant constructs?
+  - reason: Cross-sectional regression of anxiety sensitivity and PTSD clusters; no trajectories.
+  - abstract: yes; run B: EXCLUDE
+
+## Run B: excluded final inclusions (2)
+
+- **2473** Resource Loss, Resource Gain, and Psychological Resilience and Dysfunction Following Cancer Diagnosis: A Growth Mixture Modeling Approach
+  - reason: Growth mixture modeling of distress after cancer diagnosis, not a criterion A1 trauma.
+  - abstract: yes; run A: EXCLUDE
+- **1569** Post-traumatic stress symptoms 5 years after military deployment to Afghanistan: An observational cohort study
+  - reason: Longitudinal mixed model of symptom change; no latent trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+
+## Run B: excluded title-and-abstract positives that were not final inclusions (217)
+
+- **5409** The coherence and correlates of intermittent explosive disorder amongst West Papuan refugees displaced to Papua New Guinea
+  - reason: Latent class analysis of symptom classes, not longitudinal trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **4377** Typology of posttraumatic stress disorder in children and adolescents
+  - reason: Clinical typology, no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **5891** Social relationships and PTSD symptomatology in combat veterans
+  - reason: Factor analysis of social support, no trajectory clustering of PTSD symptoms.
+  - abstract: yes; run A: EXCLUDE
+- **168** Polyvictimization: Latent profiles and mental health outcomes in a clinical sample of adolescents
+  - reason: Latent class analysis of trauma exposure profiles, not PTSD symptom trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **3468** Profiles of Adaptation Among Child Victims of Suspected Maltreatment
+  - reason: Latent profile analysis of adaptation profiles, not PTSD trajectories over waves.
+  - abstract: yes; run A: EXCLUDE
+- **2000** Sleep problems among adolescent survivors following the 2008 wenchuan earthquake in China: A cohort study
+  - reason: Trajectories of sleep problems, not PTSD symptoms.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **3056** Hurricane-related exposure experiences and stressors, other life events, and social support: concurrent and prospective impact on children's persistent posttraumatic stress symptoms
+  - reason: Only two measurement waves, fewer than three required.
+  - abstract: yes; run A: EXCLUDE
+- **2049** Trajectories of posttraumatic stress disorder following myocardial infarction: a prospective study
+  - reason: Only two measurement waves, fewer than three required.
+  - abstract: yes; run A: EXCLUDE
+- **5569** A preliminary examination of the relationships between posttraumatic stress symptoms and crack/cocaine, heroin, and alcohol dependence
+  - reason: Cross-sectional association study; no trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **3539** Longitudinal Examination of PTSD Symptoms and Problematic Alcohol Use as Risk Factors for Adolescent Victimization
+  - reason: Latent growth curve modeling, not a clustering method for trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1628** Content not quantity is a better measure of muscle degeneration in whiplash
+  - reason: Professional issues paper on whiplash; no trajectory clustering method.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **1834** Psychometric status and clinical utility of the MAYSI-2 with girls and boys in juvenile detention
+  - reason: Subgroups from principal component profiles, not trajectory clustering; no LGMM/LCGA/HCA of PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2660** Post-combat syndromes from the boer war to the Gulf war: A cluster analysis of their nature and attribution
+  - reason: Cluster analysis of historical symptom records, not longitudinal PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1954** Profiles of Childhood Trauma: Betrayal, Frequency, and Psychological Distress in Late Adolescence
+  - reason: Cross-sectional latent profile analysis of trauma types, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1035** Course of recovery for whiplash associated disorders in a compensation setting
+  - reason: Trajectories of disability/pain/mental health after whiplash, not PTSD symptoms.
+  - abstract: yes; run A: EXCLUDE
+- **5553** Examining the dimensionality of combat-related posttraumatic stress and depressive symptoms in treatment-seeking OEF/OIF/OND veterans
+  - reason: Cross-sectional factor-analytic study; no trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **2727** Stress-related responses after 3 years of exposure to terror in Israel: Are ideological-religious factors associated with resilience?
+  - reason: Cross-sectional survey of stress symptoms; no longitudinal PTSD trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **450** Latent classes of childhood trauma exposure predict the development of behavioral health outcomes in adolescence and young adulthood
+  - reason: Latent class analysis of trauma exposure, not trajectories of PTSD symptoms.
+  - abstract: yes; run A: EXCLUDE
+- **4313** Dimensional structure and prospective evolution of posttraumatic stress symptomatology in World Trade Center responders
+  - reason: CFA and cross-lagged panel analysis, no trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **4363** From prepartum to postpartum: Profiles and maternal symptomatology
+  - reason: Typologies derived from prepartum profiles, not trajectories via LGMM/LCGA/cluster analysis of PTSD.
+  - abstract: yes; run A: EXCLUDE
+- **5482** Profiles of Resilience and Growth in Youth With Cancer and Healthy Comparisons
+  - reason: Cross-sectional latent profile analysis; no longitudinal PTSD measurement waves.
+  - abstract: yes; run A: EXCLUDE
+- **5975** Erratum for "Posttraumatic stress after a motor vehicle accident: A six-month follow-up study utilizing latent growth modeling"
+  - reason: Erratum duplicate of the original article record.
+  - abstract: yes; run A: EXCLUDE
+- **2815** Profile analyses of the Personality Assessment Inventory following military-related traumatic brain injury
+  - reason: Cluster analysis applied to PAI personality profiles, not to PTSD symptom trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2803** A comparison of PTSD symptom patterns in three types of civilian trauma
+  - reason: Cross-sectional symptom profile comparison, no trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **1110** Trajectories and associated factors of quality of life, global outcome, and post-concussion symptoms in the first year following mild traumatic brain injury
+  - reason: Outcome is post-concussion symptoms after mTBI, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1773** Profiles of adult survivors of severe sexual, physical and emotional institutional abuse in Ireland
+  - reason: Cross-sectional profile comparison, no trajectory clustering or longitudinal waves.
+  - abstract: yes; run A: EXCLUDE
+- **6089** Trajectories of suicidal ideation and posttraumatic stress symptoms among former prisoners of war: A 17-year longitudinal study
+  - reason: Used latent growth curve modeling, not a clustering method for trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **3272** Does time heal all wounds? A longitudinal study of development of posttraumatic stress symptoms in parents of children with cancer
+  - reason: Latent growth curve modeling, not a clustering method identifying latent classes.
+  - abstract: yes; run A: EXCLUDE
+- **2732** Natural course of posttraumatic stress disorder: A 20-month prospective study of Turkish earthquake survivors
+  - reason: Longitudinal PTSD study but no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **477** Post-traumatic stress disorder and the outcome of dialectical behaviour therapy for borderline personality disorder
+  - reason: Multilevel modelling of treatment outcome; no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **4125** The impact of caregiver distress on the longitudinal development of child acute post-traumatic stress disorder symptoms in pediatric injury victims
+  - reason: No clustering method applied to trajectories; only SEM and regression.
+  - abstract: yes; run A: EXCLUDE
+- **4771** Single Mother's Adverse and Traumatic Experiences and Post-Traumatic Stress Symptoms
+  - reason: Cross-sectional survey; no longitudinal waves or trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **2289** Early trajectory of psychiatric symptoms after traumatic brain injury: Relationship to patient and injury characteristics
+  - reason: Longitudinal psychiatric symptoms after TBI but no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2826** Deconstructing PTSD: Traumatic Experiences, Posttraumatic Symptom Clusters, and Mental Health Problems among Delinquent Youth
+  - reason: Path analysis, not a clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1539** Exposure to trauma and posttraumatic stress disorder symptoms in older veterans attending primary care: Comorbid conditions and self-rated health status
+  - reason: Cross-sectional screening study of older veterans; no trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **2516** Posttraumatic stress and symptom improvement in Norwegian tourists exposed to the 2004 tsunami - a longitudinal study
+  - reason: Only two measurement waves; no trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **5062** Post-traumatic stress symptoms in parental dyads of children diagnosed with cancer: A longitudinal analysis
+  - reason: No LGMM/LCGA/hierarchical cluster analysis of trajectories; used latent difference score modelling.
+  - abstract: yes; run A: EXCLUDE
+- **4022** Examining a comprehensive model of disaster-related posttraumatic stress disorder in systematically studied survivors of 10 disasters
+  - reason: Predictors of PTSD, no trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **1872** Influence of bodily injuries on symptom reporting following uncomplicated mild traumatic brain injury in US military service members
+  - reason: No trajectory clustering method; participants grouped by injury severity score.
+  - abstract: yes; run A: EXCLUDE
+- **1627** The structure of PTSD symptoms: A test of alternative models using confirmatory factor analysis
+  - reason: Confirmatory factor analysis of PTSD structure, not trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **5138** Post-traumatic stress symptoms in long-term non-Hodgkin's lymphoma survivors: Does time heal?
+  - reason: Two-wave survey of PTSD symptoms; no clustering method applied.
+  - abstract: yes; run A: EXCLUDE
+- **4304** Post-traumatic stress symptoms in relatives in the first weeks after severe traumatic brain injury
+  - reason: Single assessment of PTS symptoms; not longitudinal.
+  - abstract: yes; run A: EXCLUDE
+- **1809** Posttraumatic stress symptoms in children of mothers diagnosed with breast cancer
+  - reason: Cross-sectional comparison of PTSD symptoms; no longitudinal trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **303** Multisample cross-validation of a model of childhood posttraumatic stress disorder symptomatology
+  - reason: Confirmatory factor analysis of PTSD dimensionality, not trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **143** Trajectory of posttraumatic stress disorder caused by myocardial infarction: A two-year follow-up study
+  - reason: Two waves only, no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **3692** Student-teacher relationship trajectories and mental health problems in young children
+  - reason: Trajectories of student-teacher relationship quality, not PTSD after trauma.
+  - abstract: yes; run A: EXCLUDE
+- **1779** Comparative study of trauma-related phenomena in subjects with pseudoseizures and subjects with epilepsy
+  - reason: Cross-sectional group comparison; no trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **719** Beyond resilience and PTSD: Mapping the heterogeneity of responses to potential trauma
+  - reason: Review article; no clustering method applied to its own trajectory data.
+  - abstract: yes; run A: EXCLUDE
+- **4734** One-year trajectories of depression and anxiety symptoms in older patients presenting in general practice with musculoskeletal pain: A latent class growth analysis
+  - reason: Trajectories of anxiety/depression after musculoskeletal pain, not PTSD after criterion A1 trauma.
+  - abstract: yes; run A: EXCLUDE
+- **5145** The contribution of psychological factors to recovery after mild traumatic brain injury: Is cluster analysis a useful approach?
+  - reason: Cluster analysis of psychological factors, not LGMM/LCGA trajectories of PTSD symptoms.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **2505** The role of shame in distinguishing perpetrators of intimate partner violence in U.S. veterans
+  - reason: Cross-sectional study, excluded as obviously irrelevant.
+  - abstract: yes; run A: EXCLUDE
+- **5958** Physical health and posttraumatic stress disorder symptoms in women experiencing intimate partner violence
+  - reason: Cross-sectional correlational study, not longitudinal with three PTSD waves.
+  - abstract: yes; run A: EXCLUDE
+- **4032** Heterogeneity of posttraumatic stress symptoms in a highly traumatized low income, urban, African American sample
+  - reason: Cross-sectional latent profile analysis, not longitudinal trajectories across three waves.
+  - abstract: yes; run A: EXCLUDE
+- **3667** Trajectories of attachment insecurities over a 17-year period: A latent growth curve analysis of the impact of war captivity and posttraumatic stress disorder
+  - reason: Latent growth curve analysis of attachment, not clustering of PTSD trajectories.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **797** Identifying trajectory clusters in breast cancer survivors’ supportive care needs, psychosocial difficulties, and resources from the completion of primary treatment to 8 months later
+  - reason: Clustering of supportive care needs trajectories, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1406** Posttraumatic stress disorder, poor physical health and substance use behaviors in a national trauma-exposed sample
+  - reason: Cross-sectional SEM analysis; no longitudinal PTSD trajectory waves.
+  - abstract: yes; run A: EXCLUDE
+- **2270** Assessing possible DSM-5 ASD subtypes in a sample of victims meeting caseness for DSM-5 ASD based on self-report following multiple forms of traumatic exposure
+  - reason: Latent profile analysis of ASD subtypes, not trajectories; no LGMM/LCGA/HCA trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **1870** In the shadow of terror: Posttraumatic stress and psychiatric co-morbidity following bombing in Iraq: The role of shattered world assumptions and altered self-capacities
+  - reason: Longitudinal but no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **4917** A lifespan perspective on terrorism: Age differences in trajectories of response to 9/11
+  - reason: Longitudinal PTSD study but used multilevel models, not a clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **5606** Long-term mental health of Vietnamese refugees in the aftermath of trauma
+  - reason: No clustering method (LGMM/LCGA/HCA) applied to identify trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **932** Treatment type and demographic characteristics as predictors for cancer adjustment: Prospective trajectories of depressive symptoms in a population sample
+  - reason: Cancer diagnosis does not fulfill DSM-IV criterion A1 trauma; depressive symptoms not PTSD.
+  - abstract: yes; run A: EXCLUDE
+- **1691** Pharmacokinetics and metabolism of SRX246: A potent and selective vasopressin 1a antagonist
+  - reason: Pharmacokinetic animal study; unrelated field, no PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1925** Heterogeneous patterns of stress over the four years of college: Associations with anxious attachment and ego-resiliency
+  - reason: College stress trajectories, not PTSD after criterion A1 trauma.
+  - abstract: yes; run A: EXCLUDE
+- **3545** Service use patterns and mental health symptoms among adolescents exposed to multiple types of trauma
+  - reason: Off topic: latent class analysis of trauma types and service use, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **5682** The association between posttraumatic stress symptoms and functional impairment during ongoing conflict in the Democratic Republic of Congo
+  - reason: Cross-sectional single assessment; no longitudinal PTSD trajectory waves.
+  - abstract: yes; run A: EXCLUDE
+- **4089** Configurations of early risk and their association with academic, cognitive, emotional and behavioural outcomes in middle childhood
+  - reason: Clusters of childhood risk, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1765** Basic emotion profiles in healthy, chronic pain, depressed and PTSD individuals
+  - reason: Cross-sectional discriminant analysis; no trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **3445** Trajectories of posttraumatic growth and depreciation after two major earthquakes
+  - reason: Trajectories of growth/depreciation, not PTSD symptoms.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **716** Trajectories of resilience, depression, and anxiety following spinal cord injury
+  - reason: Trajectories of depression/anxiety after spinal cord injury, not PTSD after criterion A1 trauma.
+  - abstract: yes; run A: EXCLUDE
+- **430** Profile Analysis of the Neurobehavioral and Psychiatric Symptoms Following Combat-Related Mild Traumatic Brain Injury: Identification of Subtypes
+  - reason: Cluster analysis of symptom profiles, not trajectories; no LGMM/LCGA trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **1617** Psychological adjustment one year after the diagnosis of breast cancer: A prototype study of delayed post-traumatic stress disorder
+  - reason: One-year follow-up PTSD study but no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **4406** Risk and Resilience Factors among Italian Municipal Police Officers Exposed to Critical Incidents
+  - reason: Cluster analysis of risk/protective factors, not PTSD symptom trajectories.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **1614** Heterogeneity in clinical presentations of posttraumatic stress disorder among medical patients: Testing factor structure variation using factor mixture modeling
+  - reason: Cross-sectional factor mixture modeling of PTSD symptoms; no longitudinal waves.
+  - abstract: yes; run A: EXCLUDE
+- **3364** Course of trauma sequelae in ex-political prisoners in the GDR: A 15-year follow-up study
+  - reason: Follow-up course description without any clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **5067** The impact of the refugee decision on the trajectory of PTSD, anxiety, and depressive symptoms among asylum seekers: a longitudinal study
+  - reason: Trajectory described but no clustering method applied.
+  - abstract: yes; run A: EXCLUDE
+- **2079** Is prolonged grief distinct from bereavement-related posttraumatic stress?
+  - reason: Cross-sectional PCA study; no trajectory clustering method applied.
+  - abstract: yes; run A: EXCLUDE
+- **1467** Trauma exposure, posttraumatic stress, and psychiatric comorbidity in female juvenile offenders
+  - reason: Cross-sectional assessment; no longitudinal waves or trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **4241** Posttraumatic stress disorder and chronic musculoskeletal pain: How are they related?
+  - reason: Uses CART, not LGMM/LCGA/hierarchical cluster analysis of trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **3353** Impact of pre-enlistment antisocial behaviour on behavioural outcomes among UK military personnel
+  - reason: No clustering method applied to PTSD trajectories; regression of behavioural outcomes only.
+  - abstract: yes; run A: EXCLUDE
+- **5690** PMTS and stress response sequences in parents of children with spina bifida
+  - reason: No clustering method applied to identify trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **557** Predictors of the long-term course of comorbid PTSD: A naturalistic prospective study
+  - reason: Latent growth model used, but no clustering of trajectories into classes.
+  - abstract: yes; run A: EXCLUDE
+- **4457** Resilience in the Face of Coping With a Severe Physical Injury: A Study of Trajectories of Adjustment in a Rehabilitation Setting
+  - reason: Only two measurement waves (admission and discharge), fewer than three PTSD waves.
+  - abstract: yes; run A: EXCLUDE
+- **4879** Neonaticide: A classification of female perpetrators in an east-west comparison
+  - reason: Cluster analysis of neonaticide perpetrators, not PTSD trajectories after criterion A1 trauma.
+  - abstract: yes; run A: EXCLUDE
+- **331** Attachment typologies and posttraumatic stress disorder (PTSD), depression and anxiety: a latent profile analysis approach
+  - reason: Clustering applied to attachment styles, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1435** Post traumatic stress psychopathology 8 years after a flooding in Italy
+  - reason: Single assessment 8 years post-flooding; not longitudinal with three waves.
+  - abstract: yes; run A: EXCLUDE
+- **1595** Post-traumatic stress disorder, depression, and anxiety among Gaza Strip adolescents in the wake of the second Uprising (Intifada)
+  - reason: Cross-sectional survey; no repeated waves or trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **1434** Victimization Profiles, Non-Suicidal Self-Injury, Suicide Attempt, and Post-Traumatic Stress Disorder Symptomology: Application of Latent Class Analysis
+  - reason: LCA clusters victimization profiles, not PTSD symptom trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1386** Prospective evaluation of parent distress following pediatric burns and identification of risk factors for young child and parent posttraumatic stress disorder
+  - reason: Longitudinal but uses regression/path analysis, not trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **2668** Traumatic Stress Symptomatology After Child Maltreatment and Single Traumatic Events: Different Profiles
+  - reason: No clustering method applied to trajectories; compares groups only.
+  - abstract: yes; run A: EXCLUDE
+- **1928** Heterogeneity in Rodents' Fear Extinction Learning: Implications for Translational Models of Stress Responses
+  - reason: Rodent fear extinction study, not human PTSD trajectory clustering.
+  - abstract: no; run A: EXCLUDE
+- **2480** Profiles of Connectedness: Processes of Resilience and Growth in Children With Cancer
+  - reason: Latent profiles of connectedness, not PTSD symptom trajectories; cancer population.
+  - abstract: yes; run A: EXCLUDE
+- **2611** Posttraumatic stress disorder after liver transplantation
+  - reason: Cross-sectional study of PTSD after liver transplantation; not longitudinal trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **3414** Measurement invariance of posttraumatic stress disorder symptoms among U.S. military personnel
+  - reason: Factor analysis of PTSD symptoms, not trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **4244** Bullying boys: The traumatic effects of bullying in male adolescent learners
+  - reason: Cross-sectional bullying study; no longitudinal PTSD trajectory waves.
+  - abstract: yes; run A: EXCLUDE
+- **1888** Adult sexual abuse is associated with elevated neurohormone levels among women with PTSD due to childhood sexual abuse
+  - reason: Neurobiological cross-sectional study of neurohormone levels, not trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **3273** Short and longer-term psychological consequences of Operation Cast Lead: Documentation from a mental health program in the Gaza Strip
+  - reason: Program data analysis with regression; no LGMM/LCGA/cluster trajectory method.
+  - abstract: yes; run A: EXCLUDE
+- **3336** Relationships between psychopathological and demographic variables and posttraumatic growth among holocaust survivors
+  - reason: Cross-sectional survey of Holocaust survivors; no longitudinal PTSD trajectory waves.
+  - abstract: yes; run A: EXCLUDE
+- **2539** Developmental course of early-life trauma: Later-life sleep and traumatic stress
+  - reason: No clustering method applied to PTSD trajectories; correlational sleep study.
+  - abstract: yes; run A: EXCLUDE
+- **4259** Longitudinal course of posttraumatic stress disorder and posttraumatic stress disorder symptoms in a community sample of adolescents and young adults
+  - reason: Longitudinal PTSD course but no trajectory clustering method reported.
+  - abstract: yes; run A: EXCLUDE
+- **1879** A comparison of mother-child joint admission for postnatal mental disorders in different countries
+  - reason: Off topic: postnatal mental disorder care, no PTSD trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **3308** Pathways to change: Trajectories following treatment in women with co-occurring PTSD and substance use disorders
+  - reason: LGMM applied to substance/alcohol use trajectories, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **3567** Event-based prospective memory among veterans: The role of posttraumatic stress disorder symptom severity in executing intentions
+  - reason: Cross-sectional regression of prospective memory; no trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **5117** Late-onset posttraumatic stress disorder following a disaster: A longitudinal study
+  - reason: Latent growth modeling used, not growth mixture/cluster analysis of trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1933** Quantitative forecasting of PTSD from early trauma responses: A Machine Learning application
+  - reason: Machine learning classification, not LGMM/LCGA/hierarchical cluster analysis of trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1899** Discriminant analysis of the posttraumatic stress disorder among a group of Viet Nam veterans
+  - reason: Discriminant analysis, not a trajectory clustering method; no LGMM/LCGA/HCA.
+  - abstract: yes; run A: EXCLUDE
+- **3737** Well-being, posttraumatic growth and benefit finding in long-term breast cancer survivors
+  - reason: Cross-sectional breast cancer survivor study of growth, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **5166** Trajectories of PTSD: A 20-year longitudinal study
+  - reason: Longitudinal PTSD study but no LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2824** Introduction to Part I: Trauma and Juvenile Delinquency: Dynamics and Developmental Mechanisms
+  - reason: Editorial introduction on trauma and delinquency; no trajectory clustering study.
+  - abstract: yes; run A: EXCLUDE
+- **5901** Deployment risk factors and postdeployment health profiles associated with traumatic brain injury in heavy drinking Veterans
+  - reason: No clustering method applied to PTSD trajectories; cross-sectional comparison by mTBI.
+  - abstract: yes; run A: EXCLUDE
+- **2010** Military-related posttraumatic stress disorder and intimate relationship behaviors: A developing dyadic relationship model
+  - reason: Qualitative dyadic relationship study, no trajectory clustering of PTSD.
+  - abstract: yes; run A: EXCLUDE
+- **3973** Response to psychotherapy for posttraumatic stress disorder: The role of pretreatment verbal memory performance
+  - reason: Treatment response study, no trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **1619** ASD and PTSD in rape victims
+  - reason: Regression prediction of PTSD, no clustering method for trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2020** Symptoms and Subjective Quality of Life in Post-Traumatic Stress Disorder: A Longitudinal Study
+  - reason: No clustering method applied to trajectories; only regression and cross-lagged panel analysis.
+  - abstract: yes; run A: EXCLUDE
+- **2650** The association of trauma and PTSD with the substance use profiles of alcohol- and cocaine-dependent out-of-treatment women
+  - reason: Cross-sectional substance-use profile study, no trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **5522** Trauma exposure and posttraumatic stress disorder in crack cocaine users
+  - reason: Cross-sectional prevalence study; no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1854** Anxiety and prepulse inhibition of acoustic startle in a normative sample: The importance of signal-to-noise ratio
+  - reason: Cross-sectional neurobiological startle study, no trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **5115** The role of stress sensitization in progression of posttraumatic distress following deployment
+  - reason: Latent growth modeling only; no mixture/clustering of trajectories reported.
+  - abstract: yes; run A: EXCLUDE
+- **1490** Pretrauma problems, prior stressor exposure, and gender as predictors of change in posttraumatic stress symptoms among physically injured children and adolescents
+  - reason: Longitudinal PTSS study using multilevel regression, not a clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **3407** A Brief Retrospective Method for Identifying Longitudinal Trajectories of Adjustment Following Acute Stress
+  - reason: Self-identified trajectories via retrospective method, not LGMM/LCGA/cluster analysis.
+  - abstract: yes; run A: EXCLUDE
+- **4174** Mental health and childhood adversities: A longitudinal study in Kabul, Afghanistan
+  - reason: Longitudinal but no clustering method applied to identify PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2151** What can multiwave studies teach us about disaster research: An analysis of low-income Hurricane Katrina survivors
+  - reason: Uses hierarchical linear modeling, not a clustering method for trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1820** Internalizing and externalizing classes in posttraumatic stress disorder: a latent class analysis
+  - reason: LCA of personality profiles, not trajectories; no longitudinal waves.
+  - abstract: yes; run A: EXCLUDE
+- **4997** Posttraumatic stress disorder symptoms and functional impairment among OEF and OIF National Guard and Reserve veterans
+  - reason: Cross-sectional associations; no trajectory clustering method applied.
+  - abstract: yes; run A: EXCLUDE
+- **2618** Tsunami-exposed tourist survivors: Signs of recovery in a 3-year Perspective
+  - reason: Two waves only; no clustering method applied to identify trajectories.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **1927** Heterogeneity in threat extinction learning: substantive and methodological considerations for identifying individual difference in response to stress
+  - reason: Animal fear conditioning study; symptoms do not follow DSM-IV criterion A1 trauma.
+  - abstract: yes; run A: EXCLUDE
+- **1761** Serving within the British army: Research into mental health benefits
+  - reason: Qualitative mental health services study; no PTSD trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **1488** Coping strategies in daily life as protective and risk factors for post traumatic stress in motor vehicle accident survivors
+  - reason: Regression analysis only; no LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **345** Posttraumatic stress in survivors 1 month to 19 years after an airliner emergency landing
+  - reason: Longitudinal PTS course but no clustering method applied to trajectories.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **322** Subtypes of alcohol dependence in military veterans: A latent class analysis
+  - reason: Cross-sectional latent class analysis of alcohol dependence, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **5633** Prolonged exposure vs eye movement desensitization and reprocessing vs waiting list for posttraumatic stress disorder in patients with a psychotic disorder: A randomized clinical trial
+  - reason: RCT of PE/EMDR; no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1831** A longitudinal analysis of posttraumatic stress disorder symptoms and their relationship with Fear and Anxious-Misery disorders: Implications for DSM-V
+  - reason: Longitudinal but uses factor and correlation analyses, no clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **1874** Latent profile analysis and principal axis factoring of the DSM-5 dissociative subtype
+  - reason: Latent profile analysis of cross-sectional symptom profiles, not longitudinal trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2047** Trajectories of stress reactions and somatization symptoms among war veterans: A 20-year longitudinal study
+  - reason: Longitudinal growth analysis but no clustering method to identify trajectory classes.
+  - abstract: yes; run A: EXCLUDE
+- **5876** Assessing the longitudinal course of depression and economic integration of south-east Asian refugees: An application of latent growth curve analysis
+  - reason: Depression LGC study; no clustering method and not PTSD.
+  - abstract: yes; run A: EXCLUDE
+- **1641** Morphometric and psychometric comparisons between non-substance-abusing patients with posttraumatic stress disorder and normal controls
+  - reason: Neuroimaging morphometry study, not trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **3434** Predicting post-traumatic stress disorder following first onset acute coronary syndrome: Testing a theoretical model
+  - reason: Regression prediction study, no trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **1753** Potential psychosocial risk factors for chronic TMD: Descriptive data and empirically identified domains from the OPPERA case-control study
+  - reason: TMD psychosocial study; principal component analysis, not trajectory clustering of PTSD.
+  - abstract: yes; run A: EXCLUDE
+- **1528** Cluster analysis as a method of recovering types of intraindividual growth trajectories: A Monte Carlo study
+  - reason: Monte Carlo simulation methodology paper, no trauma or PTSD population.
+  - abstract: yes; run A: EXCLUDE
+- **5469** Early Symptom Predictors of Chronic Distress in Gulf War Veterans
+  - reason: Longitudinal PTSD predictors but no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1193** Post-traumatic growth in parents after a child's admission to intensive care: maybe Nietzsche was right?
+  - reason: No clustering method; only two waves and post-traumatic growth focus.
+  - abstract: yes; run A: EXCLUDE
+- **1821** Requiring both avoidance and emotional numbing in DSM-V PTSD: Will it help?
+  - reason: Proportion comparison analyses, no trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **3133** Symptom Trajectories Among Child Survivors of Maltreatment: Findings from the Longitudinal Studies of Child Abuse and Neglect (LONGSCAN)
+  - reason: Latent class trajectories of anxiety/depression, not PTSD symptoms.
+  - abstract: yes; run A: EXCLUDE
+- **2126** Factors discriminating among profiles of resilience and psychopathology in children exposed to intimate partner violence (IPV)
+  - reason: Cluster analysis of child adjustment profiles, not PTSD symptom trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2531** Urban teens: Trauma, posttraumatic growth, and emotional distress among female adolescents
+  - reason: Examines posttraumatic growth profiles, not PTSD trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **300** Utilizing correspondence analysis to characterize the mental health of cardiac patients with diabetes
+  - reason: Correspondence analysis of profiles, not trajectory clustering; cross-sectional screening.
+  - abstract: yes; run A: EXCLUDE
+- **1940** Longitudinal determinants of posttraumatic stress in a population-based cohort study
+  - reason: Longitudinal PTSD predictors but no LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1819** The structure of posttraumatic psychopathology in veterans attending primary care
+  - reason: Confirmatory factor analysis of PTSD structure; no trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **1570** Patterns of emotion regulation and psychopathology
+  - reason: Cluster analysis of emotion regulation, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1952** Sex differences in recovery from PTSD in male and female interpersonal assault survivors
+  - reason: Treatment response trajectory analysis, no LGMM/LCGA/hierarchical clustering of PTSD classes.
+  - abstract: yes; run A: EXCLUDE
+- **2099** A longitudinal investigation of posttraumatic stress disorder in patients with ovarian cancer
+  - reason: Longitudinal PTSD study but no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2884** Sequential temporal dependencies in associations between symptoms of depression and posttraumatic stress disorder: An application of bivariate latent difference score structural equation modeling
+  - reason: No clustering method (LGMM/LCGA/HCA) applied to identify trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **4203** Trajectories of recovery among homeless adults with mental illness who participated in a randomised controlled trial of Housing First: A longitudinal, narrative analysis
+  - reason: Narrative recovery trajectories, no LGMM/LCGA/HCA clustering of PTSD symptoms.
+  - abstract: yes; run A: EXCLUDE
+- **4328** Psychological resilience in OEF-OIF Veterans: Application of a novel classification approach and examination of demographic and psychosocial correlates
+  - reason: Cross-sectional cluster analysis, not longitudinal trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1637** Predictors of rape: Findings from the National Survey of Adolescents
+  - reason: Predictors of rape; no clustering method applied to PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **5890** Behavioral problems and service utilization in children with chronic illnesses referred for trauma-related mental health services
+  - reason: Mixed models of service use; no clustering method for PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1840** Nosological profile and prevalence of common mental disorders of patients seen at the Family Health Program (FHP) units in Petropolis, Rio de Janeiro
+  - reason: Cross-sectional prevalence study of common mental disorders; no trajectories or clustering.
+  - abstract: yes; run A: EXCLUDE
+- **1851** Mental health in Sumatra after the tsunami
+  - reason: Longitudinal PTSR scales but no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **3691** Typologies of Childhood Exposure to Violence: Associations With College Student Mental Health
+  - reason: Clustering applied to childhood violence exposure typologies, not PTSD trajectories; cross-sectional.
+  - abstract: yes; run A: EXCLUDE
+- **6022** Ten-year follow-up study of PTSD diagnosis, symptom severity and psychosocial indices in aging holocaust survivors
+  - reason: Only two measurement waves, fewer than three.
+  - abstract: yes; run A: EXCLUDE
+- **5793** The mediating effect of self-efficacy in the relationship between social support and post-traumatic stress disorder symptoms among patients with central system tumors in china: A cross-sectional study
+  - reason: Cross-sectional study of CNS tumor patients; no longitudinal trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **740** PTSD onset and course following the World Trade Center disaster: Findings and implications for future research
+  - reason: PTSD status classified by hand, not by LGMM/LCGA/hierarchical cluster analysis.
+  - abstract: yes; run A: EXCLUDE
+- **349** Stressful life events and predictors of post-traumatic growth among high-risk early emerging adults
+  - reason: No clustering method applied to PTSD trajectories; outcome is post-traumatic growth.
+  - abstract: yes; run A: EXCLUDE
+- **1573** Constructing the illness narrative: A grounded theory exploring patients′ and relatives′ use of intensive care diaries
+  - reason: Qualitative grounded theory study; no LGMM/LCGA/cluster analysis of PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1402** Posttraumatic growth and posttraumatic distress: A longitudinal study
+  - reason: Longitudinal PTSD study but no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1736** Signs of mood and anxiety disorders in chimpanzees
+  - reason: Animal study of chimpanzee behavior, not human PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **6087** The relationship between posttraumatic stress disorder symptoms and paternal parenting of adult children among ex-prisoners of war: A longitudinal study
+  - reason: Longitudinal but no clustering method applied to identify trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1592** Posttraumatic stress disorder and HIV risk among poor, inner-city women receiving care in an emergency department
+  - reason: Cross-sectional association study of PTSD and HIV risk, no trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2591** Subgroups of US IRAQ and Afghanistan veterans: associations with traumatic brain injury and mental health conditions
+  - reason: Cross-sectional study; excluded as obviously irrelevant.
+  - abstract: yes; run A: EXCLUDE
+- **1209** Latent profile analyses of posttraumatic stress disorder, depression and generalized anxiety disorder symptoms in trauma-exposed soldiers
+  - reason: Used latent profile analysis, not a trajectory clustering method; cross-sectional class identification.
+  - abstract: yes; run A: EXCLUDE
+- **1822** Trauma at the hands of another: Longitudinal study of differences in the posttraumatic stress disorder symptom profile following interpersonal compared with noninterpersonal trauma
+  - reason: MANOVA used; no clustering method to identify trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1804** The impact of clergy-perpetrated sexual abuse: The role of gender, development, and posttraumatic stress
+  - reason: Narrative review of treatment needs, not a longitudinal clustering study.
+  - abstract: yes; run A: EXCLUDE
+- **5655** Health-related quality of life after burns: A prospective multicenter cohort study with 18 months follow-up
+  - reason: No clustering method applied to PTSD trajectories; HRQOL study, not trajectory classes.
+  - abstract: yes; run A: EXCLUDE
+- **852** DSM-IV post-traumatic stress disorder among World Trade Center responders 11-13 years after the disaster of 11 September 2001 (9/11)
+  - reason: Describes trajectories but no clustering method (LGMM/LCGA/HCA) applied.
+  - abstract: yes; run A: EXCLUDE
+- **5767** Longitudinal trajectories of posttraumatic stress disorder symptoms and binge drinking among adolescent girls: The role of sexual victimization
+  - reason: Multilevel growth modeling of PTSD symptoms, not latent class/growth mixture clustering.
+  - abstract: yes; run A: EXCLUDE
+- **5532** Post-traumatic stress symptoms among mothers of children with leukemia undergoing treatment: A longitudinal study
+  - reason: Longitudinal PTSS but no LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1572** 'Traumatisers or traumatised': Trauma experiences and personality characteristics of Australian prisoners
+  - reason: Cross-sectional personality/PTSD association, no trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **4825** Associations Between Prolonged Grief Disorder, Depression, Posttraumatic Stress Disorder, and Anxiety in Rwandan Genocide Survivors
+  - reason: Cross-sectional factor analysis of symptom clusters, not trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **5592** Subgroups of depression in the sequenced treatment alternatives to relieve depression (STAR∗D) study: A latent class analysis
+  - reason: Latent class analysis of depression subtypes, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2478** A person-centred approach to modelling population experiences of trauma and mental illness
+  - reason: Latent class analysis of trauma exposure types, not PTSD symptom trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **4527** The effect of a yoga intervention on alcohol and drug abuse risk in veteran and civilian women with posttraumatic stress disorder
+  - reason: Yoga trial with mixed models; no trajectory clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **3195** Treatment response heterogeneity in the predominant negative symptoms of schizophrenia: Analysis of amisulpride vs placebo in three clinical trials
+  - reason: Title names schizophrenia negative symptoms, not PTSD trajectories after trauma.
+  - abstract: no; run A: EXCLUDE
+- **3995** Role of risk factors proximate to time of trauma in the course of PTSD and MDD symptoms following traumatic injury
+  - reason: Latent growth modeling only; no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **4020** Distinguishing distress and psychopathology among survivors of the Oakland/Berkeley firestorm
+  - reason: Longitudinal PTSD symptoms but no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1690** Diagnosis of posttraumatic stress disorder after surgery for primary rhegmatogenous retinal detachment
+  - reason: Cross-sectional prevalence study of PTSD after eye surgery; no trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **562** Investigating the dissociative subtype of posttraumatic stress disorder in a sample of traumatized detained youth
+  - reason: Cross-sectional mixture model of dissociation, not longitudinal PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1208** Latent profiles of DSM-5 PTSD symptoms and the "Big Five" personality traits
+  - reason: Latent profile analysis of cross-sectional profiles, not trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **2083** Psychological distress among victimized women on probation and parole: A latent class analysis
+  - reason: Latent class analysis of BSI distress dimensions, not trajectories of PTSD symptoms.
+  - abstract: yes; run A: EXCLUDE
+- **6155** Resilience to loss and potential trauma
+  - reason: Review of resilience literature; no primary trajectory clustering analysis.
+  - abstract: yes; run A: EXCLUDE
+- **4210** Five years later: Recovery from post traumatic stress and psychological distress among low-income mothers affected by Hurricane Katrina
+  - reason: Longitudinal PTSS change but no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **5411** Associations of Adult Separation Anxiety Disorder With Conflict-Related Trauma, Ongoing Adversity, and the Psychosocial Disruptions of Mass Conflict Among West Papuan Refugees
+  - reason: Latent class analysis of cross-sectional symptom profiles, not trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **550** Resilience and distress: Israelis respond to the disengagement from Gaza and the second Lebanese war
+  - reason: No clustering method applied to PTSD trajectories; only resilience profiles described.
+  - abstract: yes; run A: EXCLUDE
+- **568** Trajectories of self-rated health among veterans: A latent growth curve analysis of the impact of posttraumatic symptoms
+  - reason: Latent growth curve analysis of self-rated health, not trajectory clustering of PTSD.
+  - abstract: yes; run A: EXCLUDE
+- **2103** Reducing refugee mental health disparities: A community-based intervention to address postmigration stressors with African adults
+  - reason: Growth trajectory analysis of distress, not PTSD symptom trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1705** Adverse childhood experiences and their association to personality styles in a nonmelancholic depressive sample
+  - reason: Cross-sectional study of depression and personality styles, not PTSD trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **5292** Validation of the negative sequelae of trauma (NeST) model: A dimensional approach to studying the neurobiology of post-traumatic stress
+  - reason: PCA of symptom items, not trajectory clustering; cross-sectional design.
+  - abstract: yes; run A: EXCLUDE
+- **2053** Does posttraumatic stress disorder affect post-treatment methamphetamine use?
+  - reason: Symptom clusters, not latent trajectory clustering; no LGMM/LCGA/HCA.
+  - abstract: yes; run A: EXCLUDE
+- **1636** Attributional style and anxiety sensitivity as maintenance factors of posttraumatic stress symptoms: A prospective examination of a diathesis-stress model
+  - reason: Prospective regression study; no LGMM/LCGA/cluster analysis of trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **2203** Understanding the pattern of PTSD symptomatology: A comparison of between versus within-group approaches
+  - reason: Between/within-group curve fitting, no LGMM/LCGA/cluster trajectory method.
+  - abstract: yes; run A: EXCLUDE
+- **2233** The effect of trauma onset and frequency on PTSD-associated symptoms
+  - reason: Explicitly cross-sectional; no longitudinal waves or trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **2324** Latent profiles of PTSD symptoms in women exposed to intimate partner violence
+  - reason: Cross-sectional LPA; not longitudinal with three PTSD waves.
+  - abstract: yes; run A: EXCLUDE
+- **1852** Evaluating the dimensionality of PTSD in a sample of OIF/OEF veterans
+  - reason: Cross-sectional latent profile analysis, not longitudinal trajectory clustering.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **1746** Intolerance of uncertainty and PTSD symptoms: Exploring the construct relationship in a community sample with a heterogeneous trauma history
+  - reason: Cross-sectional self-report study; no trajectory clustering method used.
+  - abstract: yes; run A: EXCLUDE
+- **2352** Identification and Prediction of Distress Trajectories in the First Year After a Breast Cancer Diagnosis
+  - reason: Trajectories of general psychological distress, not PTSD symptoms.
+  - abstract: yes; run A: EXCLUDE
+- **1623** Predicting criminality from child maltreatment typologies and posttraumatic stress symptoms
+  - reason: Clustering applied to maltreatment typologies, not to PTSD symptom trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **4055** Exploration of delayed-onset posttraumatic stress disorder after severe injury
+  - reason: Longitudinal PTSD study but no clustering method for trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **3843** Patterns of mental distress following the violent death of a child and predictors of change over time
+  - reason: Latent growth modeling of mental distress, not a clustering method for trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1140** PTSD symptoms, potentially traumatic event exposure, and binge drinking: A prospective study with a national sample of adolescents
+  - reason: Latent growth curve models, not a clustering method for trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **3547** Profile of children investigated for sexual abuse: Association with psychopathology symptoms and services
+  - reason: No LGMM/LCGA/hierarchical cluster analysis of PTSD trajectories; factor mixture modeling of subgroups.
+  - abstract: yes; run A: EXCLUDE
+- **3959** Prospective investigation of mental health following sexual assault
+  - reason: Mediation analysis of symptom change, no clustering method applied to trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **4528** Presence of Spontaneous Pain and Comorbid Pain Conditions Identifies Vulvodynia Subgroups
+  - reason: Vulvodynia pain subgroups; different population and phenomenon.
+  - abstract: yes; run A: EXCLUDE
+- **2130** Developmental Patterns of Adverse Childhood Experiences and Current Symptoms and Impairment in Youth Referred For Trauma-Specific Services
+  - reason: LCA clusters adverse childhood experiences, not PTSD symptom trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **1708** Anatomical and neuropsychological effects of cluster munitions
+  - reason: Neurobiological/medical injury study, not trajectory clustering of PTSD symptoms.
+  - abstract: yes; run A: EXCLUDE
+- **588** Anxiety sensitivity taxon and trauma: Discriminant associations for posttraumatic stress and panic symptomatology among young adults
+  - reason: Cross-sectional interaction study; no longitudinal trajectory clustering.
+  - abstract: yes; run A: EXCLUDE
+- **1050** Patterns of violence against women: A latent class analysis
+  - reason: Latent class analysis of violence types, not PTSD symptom trajectories.
+  - abstract: yes; run A: EXCLUDE
+- **624** Does abortion increase women's risk for post-traumatic stress? Findings from a prospective longitudinal cohort study
+  - reason: Longitudinal PTSS but used logistic mixed-effects regression, no clustering method.
+  - abstract: yes; run A: EXCLUDE
+- **1924** Beyond normality in the study of bereavement: Heterogeneity in depression outcomes following loss in older adults
+  - reason: LCGA applied to depression trajectories after bereavement, not PTSD symptoms.
+  - abstract: yes; run A: EXCLUDE
+- **1745** Clarifying the relationship between AS dimensions and PTSD symptom clusters: Are negative and positive affectivity theoretically relevant constructs?
+  - reason: Cross-sectional regression of AS and PTSD clusters; no trajectory clustering.
+  - abstract: yes; run A: EXCLUDE

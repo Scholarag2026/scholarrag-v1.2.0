@@ -1,0 +1,1887 @@
+{
+  "draft_id": "383d9618-0aa8-475b-9f28-da9f34ebaf81",
+  "verifications": [
+    {
+      "claim_text": "A synthesis of 50 classroom studies found most were qualitative and few theoretically motivated",
+      "paper_id": "c5c68874-7dbe-4180-bd00-ceff93a9b93b",
+      "status": "verified",
+      "evidence_quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+      "explanation": "The claim has three propositions, all supported. (1) The synthesis covers 50 studies: \"A systematic search generated 50 empirical studies that met our inclusion criteria for the current review\" and \"Our final sample contains 50 journal articles\". (2) Most were qualitative: \"Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies\" (Table 4: 35 of 53 = 66.0%). (3) Few were theoretically motivated: \"Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets.\" No assertion is contradicted and none is absent, so the claim is verified.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "The synthesis reviewed 50 classroom studies.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "50",
+          "source_value": "50",
+          "quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+          "central": false,
+          "entity": "naturalistic classroom WCF studies in L2 writing",
+          "measure": "number of included studies",
+          "quotes": [
+            "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+            "Our final sample contains 50 journal articles, which are listed in Table 1."
+          ]
+        },
+        {
+          "text": "Most of the reviewed studies were qualitative.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "most (66.0%)",
+          "source_value": "66.0% (35 of 53 strand entries)",
+          "quote": "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+          "central": true,
+          "entity": "the 50 included naturalistic WCF studies",
+          "measure": "proportion of studies using a qualitative research design",
+          "quotes": [
+            "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+            "all four research strands are dominated by the qualitative paradigm"
+          ]
+        },
+        {
+          "text": "Few of the reviewed studies were theoretically motivated.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "few",
+          "source_value": "only 11 studies (22.0%)",
+          "quote": "Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets.",
+          "central": false,
+          "entity": "the 50 included naturalistic WCF studies",
+          "measure": "number/proportion of studies explicitly drawing on theoretical tenets",
+          "quotes": [
+            "Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets."
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+        "Our final sample contains 50 journal articles, which are listed in Table 1.",
+        "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+        "Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "A synthesis of 50 classroom studies found most were qualitative and few theoretically motivated (Mao et al., 2024).",
+      "citation": "(Mao et al., 2024)",
+      "paper_doi": "10.1017/s0261444823000393",
+      "paper_title": "Written corrective feedback in second language writing: A synthesis of naturalistic classroom studies",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+            "Our final sample contains 50 journal articles, which are listed in Table 1.",
+            "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+            "Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets."
+          ],
+          "tokens": {
+            "input_tokens": 23548,
+            "output_tokens": 940
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Iranian male learners receiving WCF outperformed controls on writing performance and self-efficacy and showed lower writing anxiety, though the sample was small, exclusively male, and intermediate-level",
+      "paper_id": "a409059f-55f8-470b-ae72-64a08b3a5735",
+      "status": "verified",
+      "evidence_quote": "the experimental group outperformed the control group in all three measures with larger effect size, as evidenced by the results of independent sample t-tests (Table 3).",
+      "explanation": "Every proposition in the claim is stated in the source. The central assertion — that the WCF (experimental) group outperformed the control group on writing performance and self-efficacy and had lower writing anxiety — is supported by the posttest results: \"the experimental group outperformed the control group in terms of writing performance, as indicated by the statistically significant difference between their mean scores, M = 79.34, SD = 11.14 vs. M = 62.53, SD = 14.32\", \"the experimental group reported higher levels of writing self-efficacy, M = 51.30, SD = 7.29 compared to the control group, M = 42.15, SD = 9.64\", and \"the experimental group demonstrated a significant decrease in writing anxiety, as evidenced by their lower mean score on the posttest anxiety assessment, M = 49.96, SD = 18.75 compared to the control group, M = 71.19, SD=14.91\". The population details are also stated: \"52 EFL male students (age range of 12-18)\" from Iran, at \"the level B1 as measured by OPT\", and the limitations section confirms \"the sample size was relatively small, with only 52 participants\" and \"the study focused solely on intermediate level students who were exclusively male\". No assertion is contradicted or absent.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Iranian male learners who received WCF outperformed controls on writing performance, self-efficacy, and showed lower writing anxiety",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "experimental group higher on writing performance and self-efficacy, lower on anxiety",
+          "source_value": "writing 79.34 vs 62.53; WSEQ 51.30 vs 42.15; SLWAI 49.96 vs 71.19",
+          "quote": "the experimental group outperformed the control group in all three measures with larger effect size, as evidenced by the results of independent sample t-tests (Table 3).",
+          "central": true,
+          "entity": "Iranian male EFL learners (experimental vs. control group)",
+          "measure": "posttest writing performance, writing self-efficacy, and writing anxiety scores",
+          "quotes": [
+            "the experimental group outperformed the control group in all three measures with larger effect size, as evidenced by the results of independent sample t-tests (Table 3).",
+            "the experimental group outperformed the control group in terms of writing performance, as indicated by the statistically significant difference between their mean scores, M = 79.34, SD = 11.14 vs. M = 62.53, SD = 14.32",
+            "the experimental group reported higher levels of writing self-efficacy, M = 51.30, SD = 7.29 compared to the control group, M = 42.15, SD = 9.64",
+            "the experimental group demonstrated a significant decrease in writing anxiety, as evidenced by their lower mean score on the posttest anxiety assessment, M = 49.96, SD = 18.75 compared to the control group, M = 71.19, SD=14.91"
+          ]
+        },
+        {
+          "text": "The learners were Iranian",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "Iranian",
+          "source_value": "Iranian",
+          "quote": "52 Iranian male learners were selected as participants by using the Oxford Placement Test",
+          "central": false,
+          "entity": "participants",
+          "measure": "nationality/context",
+          "quotes": [
+            "52 Iranian male learners were selected as participants by using the Oxford Placement Test"
+          ]
+        },
+        {
+          "text": "The learners were male",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "male",
+          "source_value": "male",
+          "quote": "52 EFL male students (age range of 12-18), selected among 82 students based on the Oxford Placement Test (OPT) results in an English institute, constituted the participants in this study.",
+          "central": false,
+          "entity": "participants",
+          "measure": "gender",
+          "quotes": [
+            "52 EFL male students (age range of 12-18), selected among 82 students based on the Oxford Placement Test (OPT) results in an English institute, constituted the participants in this study."
+          ]
+        },
+        {
+          "text": "The sample was small",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "small (52)",
+          "source_value": "relatively small, 52 participants",
+          "quote": "First, the sample size was relatively small, with only 52 participants.",
+          "central": false,
+          "entity": "sample",
+          "measure": "sample size",
+          "quotes": [
+            "First, the sample size was relatively small, with only 52 participants."
+          ]
+        },
+        {
+          "text": "The sample was exclusively male",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "exclusively male",
+          "source_value": "exclusively male",
+          "quote": "the study focused solely on intermediate level students who were exclusively male, with the age range limited to 12-18 years",
+          "central": false,
+          "entity": "sample",
+          "measure": "gender composition",
+          "quotes": [
+            "the study focused solely on intermediate level students who were exclusively male, with the age range limited to 12-18 years"
+          ]
+        },
+        {
+          "text": "The learners were intermediate-level",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "intermediate (B1)",
+          "source_value": "B1 / intermediate",
+          "quote": "Their scores ranged from 41 to 52 and were at the level B1 as measured by OPT.",
+          "central": false,
+          "entity": "learners",
+          "measure": "proficiency level",
+          "quotes": [
+            "Their scores ranged from 41 to 52 and were at the level B1 as measured by OPT.",
+            "the study focused solely on intermediate level students who were exclusively male, with the age range limited to 12-18 years"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "the experimental group outperformed the control group in all three measures with larger effect size, as evidenced by the results of independent sample t-tests (Table 3).",
+        "the experimental group outperformed the control group in terms of writing performance, as indicated by the statistically significant difference between their mean scores, M = 79.34, SD = 11.14 vs. M = 62.53, SD = 14.32",
+        "the experimental group reported higher levels of writing self-efficacy, M = 51.30, SD = 7.29 compared to the control group, M = 42.15, SD = 9.64",
+        "the experimental group demonstrated a significant decrease in writing anxiety, as evidenced by their lower mean score on the posttest anxiety assessment, M = 49.96, SD = 18.75 compared to the control group, M = 71.19, SD=14.91",
+        "52 EFL male students (age range of 12-18), selected among 82 students based on the Oxford Placement Test (OPT) results in an English institute, constituted the participants in this study.",
+        "Their scores ranged from 41 to 52 and were at the level B1 as measured by OPT.",
+        "First, the sample size was relatively small, with only 52 participants. Second, the study focused solely on intermediate level students who were exclusively male, with the age range limited to 12-18 years."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Razmi and Ghane (2024) reported that Iranian male learners receiving WCF outperformed controls on writing performance and self-efficacy and showed lower writing anxiety, though the sample was small, exclusively male, and intermediate-level.",
+      "citation": "Razmi and Ghane (2024)",
+      "paper_doi": "10.17239/jowr-2024.16.02.04",
+      "paper_title": "The impact of written corrective feedback on students’ writing performance, self-efficacy, and anxiety",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 1 (preamble)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "the experimental group outperformed the control group in all three measures with larger effect size, as evidenced by the results of independent sample t-tests (Table 3).",
+            "the experimental group outperformed the control group in terms of writing performance, as indicated by the statistically significant difference between their mean scores, M = 79.34, SD = 11.14 vs. M = 62.53, SD = 14.32",
+            "the experimental group reported higher levels of writing self-efficacy, M = 51.30, SD = 7.29 compared to the control group, M = 42.15, SD = 9.64",
+            "the experimental group demonstrated a significant decrease in writing anxiety, as evidenced by their lower mean score on the posttest anxiety assessment, M = 49.96, SD = 18.75 compared to the control group, M = 71.19, SD=14.91",
+            "52 EFL male students (age range of 12-18), selected among 82 students based on the Oxford Placement Test (OPT) results in an English institute, constituted the participants in this study.",
+            "Their scores ranged from 41 to 52 and were at the level B1 as measured by OPT.",
+            "First, the sample size was relatively small, with only 52 participants. Second, the study focused solely on intermediate level students who were exclusively male, with the age range limited to 12-18 years."
+          ],
+          "tokens": {
+            "input_tokens": 14339,
+            "output_tokens": 1829
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "teacher feedback addressed more error types than automated writing evaluation (AWE), which tended to highlight rather than correct errors",
+      "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+      "status": "verified",
+      "evidence_quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+      "explanation": "Both propositions are stated almost verbatim in Section 5 (\"Differences between teacher and AWE feedback\"): \"Teacher feedback addressed more error types (16) than the AWE feedback (8)\" supports the central comparative assertion, and \"AWE feedback tended to highlight, rather than correct, student errors\" supports the second proposition, including its hedge (\"tended to\"), which the claim preserves. Table 1 (Total 16 vs 8) and Table 2 (Correction marked only for teacher feedback) corroborate both. No assertion is contradicted or absent.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Teacher feedback addressed more error types than AWE feedback",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "more (teacher) than AWE",
+          "source_value": "16 vs 8",
+          "quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+          "central": true,
+          "entity": "teacher feedback versus AWE feedback on L2 student writing",
+          "measure": "number of error types addressed",
+          "quotes": [
+            "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+            "Total \n16 \n8"
+          ]
+        },
+        {
+          "text": "AWE feedback tended to highlight rather than correct errors",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "highlight rather than correct",
+          "source_value": "highlight rather than correct",
+          "quote": "AWE feedback tended to highlight, rather than correct, student errors",
+          "central": false,
+          "entity": "AWE feedback",
+          "measure": "feedback type (highlighting vs correction)",
+          "quotes": [
+            "AWE feedback tended to highlight, rather than correct, student errors"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+        "AWE feedback tended to highlight, rather than correct, student errors",
+        "Total \n16 \n8"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Zhang and Hyland (2018) showed that teacher feedback addressed more error types than automated writing evaluation (AWE), which tended to highlight rather than correct errors; the highly engaged learner outperformed the moderately engaged one in responding to both sources.",
+      "citation": "Zhang and Hyland (2018)",
+      "paper_doi": "10.1016/j.asw.2018.02.004",
+      "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+            "AWE feedback tended to highlight, rather than correct, student errors",
+            "Total \n16 \n8"
+          ],
+          "tokens": {
+            "input_tokens": 17564,
+            "output_tokens": 628
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "the highly engaged learner outperformed the moderately engaged one in responding to both sources",
+      "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+      "status": "verified",
+      "evidence_quote": "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+      "explanation": "The claim restates the paper's own comparison sentence almost verbatim. Section 8 states: \"the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.\" The highlights also state \"The highly engaged learner outperformed the moderately engaged learner.\" The entities (Flora as highly engaged, David as moderately engaged), the measure (response to both teacher and AWE feedback sources) and the direction (outperformed) all match, with no contradiction and no hedge removed.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "The highly engaged learner outperformed the moderately engaged learner in responding to both sources of feedback.",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "highly engaged outperformed moderately engaged",
+          "source_value": "highly engaged outperformed moderately engaged",
+          "quote": "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+          "central": true,
+          "entity": "the highly engaged learner (Flora) versus the moderately engaged learner (David)",
+          "measure": "response to both teacher and AWE feedback sources",
+          "quotes": [
+            "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+            "The highly engaged learner outperformed the moderately engaged learner."
+          ]
+        },
+        {
+          "text": "The learner identified as highly engaged is Flora.",
+          "kind": "attribution",
+          "verdict": "supported",
+          "claim_value": "highly engaged",
+          "source_value": "highly engaged",
+          "quote": "6  Flora: A highly engaged learner",
+          "central": false,
+          "entity": "Flora",
+          "measure": "engagement classification",
+          "quotes": [
+            "6  Flora: A highly engaged learner",
+            "We characterise Flora as a student who demonstrated deep and full engagement with both teacher and AWE feedback on her writing."
+          ]
+        },
+        {
+          "text": "The learner identified as moderately engaged is David.",
+          "kind": "attribution",
+          "verdict": "supported",
+          "claim_value": "moderately engaged",
+          "source_value": "moderately engaged",
+          "quote": "7   David: A moderately engaged learner",
+          "central": false,
+          "entity": "David",
+          "measure": "engagement classification",
+          "quotes": [
+            "7   David: A moderately engaged learner",
+            "In contrast to Flora, David was far less-engaged in his approach to feedback and revision."
+          ]
+        },
+        {
+          "text": "The two sources of feedback are teacher feedback and AWE feedback.",
+          "kind": "scope",
+          "verdict": "supported",
+          "claim_value": "teacher and AWE feedback",
+          "source_value": "teacher and AWE feedback",
+          "quote": "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing",
+          "central": false,
+          "entity": "sources of feedback",
+          "measure": "feedback types compared",
+          "quotes": [
+            "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+        "The highly engaged learner outperformed the moderately engaged learner.",
+        "We characterise Flora as a student who demonstrated deep and full engagement with both teacher and AWE feedback on her writing.",
+        "In contrast to Flora, David was far less-engaged in his approach to feedback and revision."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Zhang and Hyland (2018) showed that teacher feedback addressed more error types than automated writing evaluation (AWE), which tended to highlight rather than correct errors; the highly engaged learner outperformed the moderately engaged one in responding to both sources.",
+      "citation": "Zhang and Hyland (2018)",
+      "paper_doi": "10.1016/j.asw.2018.02.004",
+      "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+            "The highly engaged learner outperformed the moderately engaged learner.",
+            "We characterise Flora as a student who demonstrated deep and full engagement with both teacher and AWE feedback on her writing.",
+            "In contrast to Flora, David was far less-engaged in his approach to feedback and revision."
+          ],
+          "tokens": {
+            "input_tokens": 17557,
+            "output_tokens": 1000
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Learner preferences converge on explicit teacher input: university ESL students favoured direct correction combined with metalinguistic explanations over direct correction alone (Liu & Wu, 2019).",
+      "paper_id": "f86fb131-21e8-4973-aaa5-57ca65cfc223",
+      "status": "verified",
+      "evidence_quote": "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).",
+      "explanation": "The central assertion — that the surveyed university ESL students preferred direct correction with metalinguistic explanations over direct correction alone — is stated directly in the results: \"In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).\" The discussion repeats it: \"Overall, students preferred direct correction accompanied by metalinguistic explanations.\" The population (70 students in a university ESL program in the southwestern U.S.) matches the claim's \"university ESL students,\" and the ranking (48.10% vs. 24.83%) supports \"over direct correction alone.\" No assertion is contradicted and no peripheral detail is absent.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "University ESL students favoured direct correction combined with metalinguistic explanations over direct correction alone.",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "DC + metalinguistic explanation preferred over DC alone",
+          "source_value": "215/447 (48.10%) vs 111/447 (24.83%)",
+          "quote": "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).",
+          "central": true,
+          "entity": "university ESL students in the surveyed program",
+          "measure": "preference ranking between direct correction + metalinguistic explanation and direct correction without metalinguistic explanation",
+          "quotes": [
+            "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).",
+            "Overall, students preferred direct correction accompanied by metalinguistic explanations."
+          ]
+        },
+        {
+          "text": "The learners in question were university ESL students.",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "university ESL students",
+          "source_value": "70 students from a university ESL program in the southwestern U.S.",
+          "quote": "Seventy students from a university ESL program in the southwestern U.S. participated in the study.",
+          "central": false,
+          "entity": "student participants",
+          "measure": "programme type and level",
+          "quotes": [
+            "Seventy students from a university ESL program in the southwestern U.S. participated in the study."
+          ]
+        },
+        {
+          "text": "The preference pattern is a convergence of learner preferences on explicit teacher input.",
+          "kind": "attribution",
+          "verdict": "supported",
+          "claim_value": "convergence on explicit teacher-provided correction",
+          "source_value": "students favored direct correction with metalinguistic explanations",
+          "quote": "Overall, students preferred direct correction accompanied by metalinguistic explanations.",
+          "central": false,
+          "entity": "student preferences for explicitness of CF",
+          "measure": "overall preference pattern",
+          "quotes": [
+            "Overall, students preferred direct correction accompanied by metalinguistic explanations."
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).",
+        "Overall, students preferred direct correction accompanied by metalinguistic explanations.",
+        "Seventy students from a university ESL program in the southwestern U.S. participated in the study."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Learner preferences converge on explicit teacher input: university ESL students favoured direct correction combined with metalinguistic explanations over direct correction alone (Liu & Wu, 2019).",
+      "citation": "(Liu & Wu, 2019)",
+      "paper_doi": "10.17239/jowr-2019.11.02.03",
+      "paper_title": "Same goal, different beliefs: Students’ preferences and teachers’ perceptions of feedback on second language writing",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 1 (preamble)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).",
+            "Overall, students preferred direct correction accompanied by metalinguistic explanations.",
+            "Seventy students from a university ESL program in the southwestern U.S. participated in the study."
+          ],
+          "tokens": {
+            "input_tokens": 17503,
+            "output_tokens": 998
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Self-reported cognitive load was lower after direct corrections on grammatical errors than after metalinguistic codes on all errors",
+      "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+      "status": "verified",
+      "evidence_quote": "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+      "explanation": "The central assertion — that self-reported cognitive load after direct corrections on grammatical errors (DCF+G) was lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN) — is stated directly in section 5.4: \"the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)\", and corroborated by Table 3 (\"***ME+GN > DCF+G 1.91 [0.95, 2.88]\") and the descriptive means (DCF+G M = 4.76 vs. ME+GN M = 6.68). The peripheral assertions (self-report measure via Paas's mental-effort scale; the two feedback conditions as described) are also supported by the methods and results sections. No contradiction and no hedge removal.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Self-reported cognitive load after direct corrections on grammatical errors (DCF+G) was lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN).",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "lower after DCF+G than after ME+GN",
+          "source_value": "significantly lower after DCF+G than after ME+GN (p < 0.001)",
+          "quote": "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+          "central": true,
+          "entity": "EFL writers (low intermediate, N = 139) revising texts under comprehensive CF conditions DCF+G vs. ME+GN",
+          "measure": "self-reported cognitive load (Paas mental-effort scale) after text revision",
+          "quotes": [
+            "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+            "***ME+GN > DCF+G \n1.91 [0.95, 2.88]"
+          ]
+        },
+        {
+          "text": "Cognitive load was measured by self-report.",
+          "kind": "intervention",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4.",
+          "central": false,
+          "entity": "participants in the study",
+          "measure": "instrument used to measure cognitive load",
+          "quotes": [
+            "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4.",
+            "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms"
+          ]
+        },
+        {
+          "text": "The compared conditions were direct corrections on grammatical errors and metalinguistic codes on grammatical and non-grammatical (all) errors.",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "direct CF on grammatical errors (hereafter DCF+G), metalinguistic CF with codes on grammatical errors (hereafter ME+G), direct CF on grammatical errors and non-grammatical errors (hereafter DCF+GN), and metalinguistic CF with codes on grammatical errors and non-grammatical errors (hereafter ME+GN)",
+          "central": false,
+          "entity": "experimental conditions in the study",
+          "measure": "feedback condition definitions",
+          "quotes": [
+            "direct CF on grammatical errors (hereafter DCF+G), metalinguistic CF with codes on grammatical errors (hereafter ME+G), direct CF on grammatical errors and non-grammatical errors (hereafter DCF+GN), and metalinguistic CF with codes on grammatical errors and non-grammatical errors (hereafter ME+GN)"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+        "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+        "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4.",
+        "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+        "direct CF on grammatical errors (hereafter DCF+G), metalinguistic CF with codes on grammatical errors (hereafter ME+G), direct CF on grammatical errors and non-grammatical errors (hereafter DCF+GN), and metalinguistic CF with codes on grammatical errors and non-grammatical errors (hereafter ME+GN)"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Self-reported cognitive load was lower after direct corrections on grammatical errors than after metalinguistic codes on all errors (Bonilla López et al., 2018).",
+      "citation": "(Bonilla López et al., 2018)",
+      "paper_doi": "10.1111/lang.12295",
+      "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 1 (preamble)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+            "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+            "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4.",
+            "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+            "direct CF on grammatical errors (hereafter DCF+G), metalinguistic CF with codes on grammatical errors (hereafter ME+G), direct CF on grammatical errors and non-grammatical errors (hereafter DCF+GN), and metalinguistic CF with codes on grammatical errors and non-grammatical errors (hereafter ME+GN)"
+          ],
+          "tokens": {
+            "input_tokens": 22179,
+            "output_tokens": 1236
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Peer-mediated revision also produced meaningful score gains, although students ignored some peer comments",
+      "paper_id": "ed3099af-1e6d-490d-9f1b-e50b69dc7019",
+      "status": "verified",
+      "evidence_quote": "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts.",
+      "explanation": "The central assertion — that peer-mediated revision produced meaningful score gains — is stated directly: \"A paired t-test (t(11) = 6.51, p < 0.000, Cohen's d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students' revisions produced meaningful improvements in the scores between drafts.\" The peripheral assertion that students ignored some peer comments is also supported: \"Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.\" No contradiction and no hedge removal; the source's own hedge (\"suggesting that\") is retained in the claim's framing of gains as produced by peer-mediated revision.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Peer-mediated revision produced meaningful score gains between drafts.",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "meaningful score gains",
+          "source_value": "mean improvement of 1.1 points out of 7; t(11) = 6.51, p < 0.000, Cohen's d = 1.62",
+          "quote": "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts.",
+          "central": true,
+          "entity": "L2 undergraduate students' persuasive essay drafts revised after online peer feedback",
+          "measure": "mean change in analytic rubric scores from first to second draft (paired t-test)",
+          "quotes": [
+            "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts.",
+            "The quantitative analysis of students writing performance indicated that peer feedback led to students’ revisions produced mean-"
+          ]
+        },
+        {
+          "text": "Students ignored some peer comments.",
+          "kind": "scope",
+          "verdict": "supported",
+          "claim_value": "some",
+          "source_value": "four students ignored unity-related feedback; two ignored word-use-related feedback",
+          "quote": "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.",
+          "central": false,
+          "entity": "participating students",
+          "measure": "number of students who ignored peer feedback on specific writing issues",
+          "quotes": [
+            "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback."
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts.",
+        "The quantitative analysis of students writing performance indicated that peer feedback led to students’ revisions produced mean-",
+        "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Peer-mediated revision also produced meaningful score gains, although students ignored some peer comments (Li & Hebert, 2023).",
+      "citation": "(Li & Hebert, 2023)",
+      "paper_doi": "10.1007/s11145-023-10466-8",
+      "paper_title": "Unpacking an online peer-mediated and self-reflective revision process in second-language persuasive writing",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (introduction)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts.",
+            "The quantitative analysis of students writing performance indicated that peer feedback led to students’ revisions produced mean-",
+            "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback."
+          ],
+          "tokens": {
+            "input_tokens": 18222,
+            "output_tokens": 996
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "most students actively engaged and revised thoughtfully",
+      "paper_id": "352c8d24-a3b2-4956-b6ef-22a954b81f19",
+      "status": "verified",
+      "evidence_quote": "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+      "explanation": "The central assertion — that the majority of students actively engaged — is stated directly in the abstract: \"We found that the majority of students actively engaged with this integrated approach\". The peripheral assertion about thoughtful revision is also supported: the same sentence says the approach \"encouraged thoughtful revisions\", and the findings section reports that \"many students were able to evaluate their essays and focus on content after receiving teacher feedback\", with rewriting (a cognitively demanding operation) rising to 63.2% of revisions in the fourth draft. The paper does note that some students \"failed to engage\", but this is consistent with \"most\" rather than contradicting it.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Most (the majority of) students actively engaged with the integrated feedback approach",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "most / majority",
+          "source_value": "the majority",
+          "quote": "We found that the majority of students actively engaged with this integrated approach",
+          "central": true,
+          "entity": "the 33 students in the case study",
+          "measure": "proportion of students actively engaged",
+          "quotes": [
+            "We found that the majority of students actively engaged with this integrated approach"
+          ]
+        },
+        {
+          "text": "Students revised thoughtfully (their revisions reflected thoughtful/cognitive engagement)",
+          "kind": "other",
+          "verdict": "supported",
+          "claim_value": "thoughtful revisions",
+          "source_value": "encouraged thoughtful revisions",
+          "quote": "encouraged thoughtful revisions",
+          "central": false,
+          "entity": "the 33 students in the case study",
+          "measure": "quality of revisions",
+          "quotes": [
+            "encouraged thoughtful revisions",
+            "This suggests that many students were able to evaluate their essays and focus on content after receiving teacher feedback."
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+        "This suggests that many students were able to evaluate their essays and focus on content after receiving teacher feedback.",
+        "One striking aspect of this table is that, after teacher feedback, there was a substantial amount of rewriting compared with other revision operations."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "In an integrated approach, most students actively engaged and revised thoughtfully (Zhang and Hyland, 2021).",
+      "citation": "(Zhang and Hyland, 2021)",
+      "paper_doi": "10.1016/j.asw.2021.100586",
+      "paper_title": "Fostering student engagement with feedback: An integrated approach",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+            "This suggests that many students were able to evaluate their essays and focus on content after receiving teacher feedback.",
+            "One striking aspect of this table is that, after teacher feedback, there was a substantial amount of rewriting compared with other revision operations."
+          ],
+          "tokens": {
+            "input_tokens": 12701,
+            "output_tokens": 681
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Teachers using Grammarly reported time savings yet still addressed lower-order concerns",
+      "paper_id": "6ec99bcb-e7dc-48a0-a292-af6b34d9889d",
+      "status": "verified",
+      "evidence_quote": "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+      "explanation": "The central assertion — that the six postsecondary L2 writing teachers, despite using Grammarly as a complement, still provided feedback on lower-order concerns — is stated directly: \"all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement,\" and the discussion repeats that \"the participants provided feedback both on HOCs and LOCs.\" The peripheral assertion about reported time savings is also supported: Rob said \"It really reduces time and effort, and it can let me focus on higher-order issues,\" and the discussion notes \"the participants indicated that Grammarly liberated their time to focus more on HOCs.\" No contradiction and no removed hedge.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Teachers using Grammarly as a complement still provided feedback on lower-order concerns (LOCs).",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": null,
+          "central": true,
+          "entity": "six postsecondary L2 writing teachers using Grammarly as a complement",
+          "measure": "provision of feedback on LOCs",
+          "quotes": [
+            "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+            "The quantitative findings of the study revealed that despite using Grammarly to complement their feedback, the participants provided feedback both on HOCs and LOCs, along with other types of feedback (e.g. positive feedback)."
+          ]
+        },
+        {
+          "text": "Teachers using Grammarly reported time savings.",
+          "kind": "attribution",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": null,
+          "central": false,
+          "entity": "participants in the study",
+          "measure": "reported reduction of time/effort",
+          "quotes": [
+            "It really reduces time and effort, and it can let me focus on higher-order issues.",
+            "Interestingly, the participants indicated that Grammarly liberated their time to focus more on HOCs."
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+        "It really reduces time and effort, and it can let me focus on higher-order issues.",
+        "Interestingly, the participants indicated that Grammarly liberated their time to focus more on HOCs."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Teachers using Grammarly reported time savings yet still addressed lower-order concerns (Koltovskaia, 2022).",
+      "citation": "(Koltovskaia, 2022)",
+      "paper_doi": "10.1017/s0958344022000179",
+      "paper_title": "Postsecondary L2 writing teachers’ use and perceptions of Grammarly as a complement to their feedback",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+            "It really reduces time and effort, and it can let me focus on higher-order issues.",
+            "Interestingly, the participants indicated that Grammarly liberated their time to focus more on HOCs."
+          ],
+          "tokens": {
+            "input_tokens": 13694,
+            "output_tokens": 733
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Concerns persist that AI feedback lacks specificity and rhetorical insight",
+      "paper_id": "bb622ec0-d7ce-46e3-b8be-0c13572e64eb",
+      "status": "verified",
+      "evidence_quote": "I don’t know what you think, but I feel expressions like ‘We usually use the -ing form …’, ‘you could say x’, and ‘we usually use y’ lack specificity and linguistic insight",
+      "explanation": "The claim's central proposition — that AI feedback is criticised for lacking specificity and rhetorical insight — is stated in the source. The author writes of ChatGPT's supportive feedback that expressions like 'We usually use the -ing form …' 'lack specificity and linguistic insight', and concludes that 'the Gen AI feedback seems formulaic while positive feedback lacks sincerity and specificity'. On rhetorical matters, the source states that 'ChatGPT is unable to accurately offer feedback on rhetorical and pragmatic aspects of arguments produced by real human writers' and that AI 'has limitations in understanding context, depth of analysis, and rhetorical elements of writing'. The framing that such concerns persist is also supported by the reported student criticism of 'a lack of accuracy and explicitness as the feedback tended to be generic and formulaic' (Fu et al., 2022). All assertions are supported; no contradiction and no removed hedge.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "AI feedback lacks specificity",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "the Gen AI feedback seems formulaic while positive feedback lacks sincerity and specificity.",
+          "central": true,
+          "entity": "AI (GenAI/ChatGPT) feedback",
+          "measure": "specificity of feedback",
+          "quotes": [
+            "I don’t know what you think, but I feel expressions like ‘We usually use the -ing form …’, ‘you could say x’, and ‘we usually use y’ lack specificity and linguistic insight",
+            "the Gen AI feedback seems formulaic while positive feedback lacks sincerity and specificity."
+          ]
+        },
+        {
+          "text": "AI feedback lacks rhetorical insight",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "ChatGPT is unable to accurately offer feedback on rhetorical and pragmatic aspects of arguments produced by real human writers",
+          "central": false,
+          "entity": "AI (ChatGPT) feedback",
+          "measure": "ability to address rhetorical aspects of writing",
+          "quotes": [
+            "This more retiring or ‘invisible’ stance means that ChatGPT is unable to accurately offer feedback on rhetorical and pragmatic aspects of arguments produced by real human writers.",
+            "However, it has limitations in understanding context, depth of analysis, and rhetorical elements of writing."
+          ]
+        },
+        {
+          "text": "Such concerns persist (are ongoing/reported in the literature)",
+          "kind": "attribution",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "although they criticised a lack of accuracy and explicitness as the feedback tended to be generic and formulaic",
+          "central": false,
+          "entity": "research literature on automated/AI feedback",
+          "measure": "reported criticisms of AI feedback",
+          "quotes": [
+            "although they criticised a lack of accuracy and explicitness as the feedback tended to be generic and formulaic"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "I don’t know what you think, but I feel expressions like ‘We usually use the -ing form …’, ‘you could say x’, and ‘we usually use y’ lack specificity and linguistic insight",
+        "the Gen AI feedback seems formulaic while positive feedback lacks sincerity and specificity.",
+        "This more retiring or ‘invisible’ stance means that ChatGPT is unable to accurately offer feedback on rhetorical and pragmatic aspects of arguments produced by real human writers.",
+        "However, it has limitations in understanding context, depth of analysis, and rhetorical elements of writing.",
+        "although they criticised a lack of accuracy and explicitness as the feedback tended to be generic and formulaic"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Concerns persist that AI feedback lacks specificity and rhetorical insight (Hyland, 2025).",
+      "citation": "(Hyland, 2025)",
+      "paper_doi": "10.1017/s0261444825101018",
+      "paper_title": "EFL teachers and feedback fatigue: AI to the rescue?",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 1 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "I don’t know what you think, but I feel expressions like ‘We usually use the -ing form …’, ‘you could say x’, and ‘we usually use y’ lack specificity and linguistic insight",
+            "the Gen AI feedback seems formulaic while positive feedback lacks sincerity and specificity.",
+            "This more retiring or ‘invisible’ stance means that ChatGPT is unable to accurately offer feedback on rhetorical and pragmatic aspects of arguments produced by real human writers.",
+            "However, it has limitations in understanding context, depth of analysis, and rhetorical elements of writing.",
+            "although they criticised a lack of accuracy and explicitness as the feedback tended to be generic and formulaic"
+          ],
+          "tokens": {
+            "input_tokens": 13754,
+            "output_tokens": 900
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    }
+  ],
+  "verified_count": 10,
+  "unsupported_count": 0,
+  "nuance_count": 0,
+  "abstract_only_count": 0,
+  "error_count": 0,
+  "needs_rewrite": 0,
+  "needs_removal": 0,
+  "provenance": {
+    "agent": "claim_verification",
+    "calls": 10,
+    "temperature": 0.0,
+    "guard_digest": "8a6c833ffc329f89",
+    "input_tokens": 171061,
+    "output_tokens": 9941,
+    "model_reported": [
+      "deepseek-flash"
+    ],
+    "prompt_version": "sha256:49fcfbfaf2f6",
+    "model_configured": "deepseek-chat",
+    "system_fingerprints": [
+      "e72d3c7f663d3e1383b00b3884cb4501"
+    ],
+    "repair_prompt_version": "sha256:7ec7cffe852d",
+    "quote_relocation_version": "0269a13351c0da7d",
+    "verification_policy_version": "667bcc9209126ddc"
+  },
+  "full_text_coverage": 1.0,
+  "task_id": "52ad7568-e4fc-4131-92c7-0a2a72cfba00",
+  "contradicted_count": 0,
+  "guarded_count": 0,
+  "citation_coverage": {
+    "found": 9,
+    "linked": 9,
+    "sent_to_verifier": 10,
+    "unresolved": 0,
+    "unresolved_citations": [],
+    "by_source": {
+      "mapping": 9,
+      "numbered": 0,
+      "author-year": 0
+    }
+  },
+  "healed": true,
+  "finalize_stats": {
+    "frame_spans_accepted": 3,
+    "sentences_residue_excised": 0,
+    "sentences_removed_dangling": 0,
+    "sentences_unclassified_kept": 0,
+    "sentences_removed_unverified": 0,
+    "citations_dropped_no_full_text": 0,
+    "needs_citation_markers_removed": 0,
+    "sentences_removed_no_full_text": 0,
+    "sentences_removed_verb_initial": 0,
+    "sentences_removed_heading_shaped": 0,
+    "sentences_removed_uncited_finding": 0,
+    "sentences_removed_coverage_incomplete": 0,
+    "sentences_truncated_fragment_repaired": 0,
+    "sentences_removed_meta_evaluation_uncited": 0
+  },
+  "final_report": {
+    "verifications": [
+      {
+        "claim_text": "A synthesis of 50 classroom studies found most were qualitative and few theoretically motivated",
+        "paper_id": "c5c68874-7dbe-4180-bd00-ceff93a9b93b",
+        "status": "verified",
+        "evidence_quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+        "explanation": "The claim has three propositions, all supported. (1) The synthesis covers 50 studies: \"A systematic search generated 50 empirical studies that met our inclusion criteria for the current review\" and \"Our final sample contains 50 journal articles\". (2) Most were qualitative: \"Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies\" (Table 4: 35 of 53 = 66.0%). (3) Few were theoretically motivated: \"Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets.\" No assertion is contradicted and none is absent, so the claim is verified.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "The synthesis reviewed 50 classroom studies.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "50",
+            "source_value": "50",
+            "quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+            "central": false,
+            "entity": "naturalistic classroom WCF studies in L2 writing",
+            "measure": "number of included studies",
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+              "Our final sample contains 50 journal articles, which are listed in Table 1."
+            ]
+          },
+          {
+            "text": "Most of the reviewed studies were qualitative.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "most (66.0%)",
+            "source_value": "66.0% (35 of 53 strand entries)",
+            "quote": "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+            "central": true,
+            "entity": "the 50 included naturalistic WCF studies",
+            "measure": "proportion of studies using a qualitative research design",
+            "quotes": [
+              "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+              "all four research strands are dominated by the qualitative paradigm"
+            ]
+          },
+          {
+            "text": "Few of the reviewed studies were theoretically motivated.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "few",
+            "source_value": "only 11 studies (22.0%)",
+            "quote": "Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets.",
+            "central": false,
+            "entity": "the 50 included naturalistic WCF studies",
+            "measure": "number/proportion of studies explicitly drawing on theoretical tenets",
+            "quotes": [
+              "Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets."
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+          "Our final sample contains 50 journal articles, which are listed in Table 1.",
+          "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+          "Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "A synthesis of 50 classroom studies found most were qualitative and few theoretically motivated (Mao et al., 2024).",
+        "citation": "(Mao et al., 2024)",
+        "paper_doi": "10.1017/s0261444823000393",
+        "paper_title": "Written corrective feedback in second language writing: A synthesis of naturalistic classroom studies",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+              "Our final sample contains 50 journal articles, which are listed in Table 1.",
+              "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+              "Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets."
+            ],
+            "tokens": {
+              "input_tokens": 23548,
+              "output_tokens": 940
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Iranian male learners receiving WCF outperformed controls on writing performance and self-efficacy and showed lower writing anxiety, though the sample was small, exclusively male, and intermediate-level",
+        "paper_id": "a409059f-55f8-470b-ae72-64a08b3a5735",
+        "status": "verified",
+        "evidence_quote": "the experimental group outperformed the control group in all three measures with larger effect size, as evidenced by the results of independent sample t-tests (Table 3).",
+        "explanation": "Every proposition in the claim is stated in the source. The central assertion — that the WCF (experimental) group outperformed the control group on writing performance and self-efficacy and had lower writing anxiety — is supported by the posttest results: \"the experimental group outperformed the control group in terms of writing performance, as indicated by the statistically significant difference between their mean scores, M = 79.34, SD = 11.14 vs. M = 62.53, SD = 14.32\", \"the experimental group reported higher levels of writing self-efficacy, M = 51.30, SD = 7.29 compared to the control group, M = 42.15, SD = 9.64\", and \"the experimental group demonstrated a significant decrease in writing anxiety, as evidenced by their lower mean score on the posttest anxiety assessment, M = 49.96, SD = 18.75 compared to the control group, M = 71.19, SD=14.91\". The population details are also stated: \"52 EFL male students (age range of 12-18)\" from Iran, at \"the level B1 as measured by OPT\", and the limitations section confirms \"the sample size was relatively small, with only 52 participants\" and \"the study focused solely on intermediate level students who were exclusively male\". No assertion is contradicted or absent.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Iranian male learners who received WCF outperformed controls on writing performance, self-efficacy, and showed lower writing anxiety",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "experimental group higher on writing performance and self-efficacy, lower on anxiety",
+            "source_value": "writing 79.34 vs 62.53; WSEQ 51.30 vs 42.15; SLWAI 49.96 vs 71.19",
+            "quote": "the experimental group outperformed the control group in all three measures with larger effect size, as evidenced by the results of independent sample t-tests (Table 3).",
+            "central": true,
+            "entity": "Iranian male EFL learners (experimental vs. control group)",
+            "measure": "posttest writing performance, writing self-efficacy, and writing anxiety scores",
+            "quotes": [
+              "the experimental group outperformed the control group in all three measures with larger effect size, as evidenced by the results of independent sample t-tests (Table 3).",
+              "the experimental group outperformed the control group in terms of writing performance, as indicated by the statistically significant difference between their mean scores, M = 79.34, SD = 11.14 vs. M = 62.53, SD = 14.32",
+              "the experimental group reported higher levels of writing self-efficacy, M = 51.30, SD = 7.29 compared to the control group, M = 42.15, SD = 9.64",
+              "the experimental group demonstrated a significant decrease in writing anxiety, as evidenced by their lower mean score on the posttest anxiety assessment, M = 49.96, SD = 18.75 compared to the control group, M = 71.19, SD=14.91"
+            ]
+          },
+          {
+            "text": "The learners were Iranian",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": "Iranian",
+            "source_value": "Iranian",
+            "quote": "52 Iranian male learners were selected as participants by using the Oxford Placement Test",
+            "central": false,
+            "entity": "participants",
+            "measure": "nationality/context",
+            "quotes": [
+              "52 Iranian male learners were selected as participants by using the Oxford Placement Test"
+            ]
+          },
+          {
+            "text": "The learners were male",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": "male",
+            "source_value": "male",
+            "quote": "52 EFL male students (age range of 12-18), selected among 82 students based on the Oxford Placement Test (OPT) results in an English institute, constituted the participants in this study.",
+            "central": false,
+            "entity": "participants",
+            "measure": "gender",
+            "quotes": [
+              "52 EFL male students (age range of 12-18), selected among 82 students based on the Oxford Placement Test (OPT) results in an English institute, constituted the participants in this study."
+            ]
+          },
+          {
+            "text": "The sample was small",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "small (52)",
+            "source_value": "relatively small, 52 participants",
+            "quote": "First, the sample size was relatively small, with only 52 participants.",
+            "central": false,
+            "entity": "sample",
+            "measure": "sample size",
+            "quotes": [
+              "First, the sample size was relatively small, with only 52 participants."
+            ]
+          },
+          {
+            "text": "The sample was exclusively male",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": "exclusively male",
+            "source_value": "exclusively male",
+            "quote": "the study focused solely on intermediate level students who were exclusively male, with the age range limited to 12-18 years",
+            "central": false,
+            "entity": "sample",
+            "measure": "gender composition",
+            "quotes": [
+              "the study focused solely on intermediate level students who were exclusively male, with the age range limited to 12-18 years"
+            ]
+          },
+          {
+            "text": "The learners were intermediate-level",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": "intermediate (B1)",
+            "source_value": "B1 / intermediate",
+            "quote": "Their scores ranged from 41 to 52 and were at the level B1 as measured by OPT.",
+            "central": false,
+            "entity": "learners",
+            "measure": "proficiency level",
+            "quotes": [
+              "Their scores ranged from 41 to 52 and were at the level B1 as measured by OPT.",
+              "the study focused solely on intermediate level students who were exclusively male, with the age range limited to 12-18 years"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "the experimental group outperformed the control group in all three measures with larger effect size, as evidenced by the results of independent sample t-tests (Table 3).",
+          "the experimental group outperformed the control group in terms of writing performance, as indicated by the statistically significant difference between their mean scores, M = 79.34, SD = 11.14 vs. M = 62.53, SD = 14.32",
+          "the experimental group reported higher levels of writing self-efficacy, M = 51.30, SD = 7.29 compared to the control group, M = 42.15, SD = 9.64",
+          "the experimental group demonstrated a significant decrease in writing anxiety, as evidenced by their lower mean score on the posttest anxiety assessment, M = 49.96, SD = 18.75 compared to the control group, M = 71.19, SD=14.91",
+          "52 EFL male students (age range of 12-18), selected among 82 students based on the Oxford Placement Test (OPT) results in an English institute, constituted the participants in this study.",
+          "Their scores ranged from 41 to 52 and were at the level B1 as measured by OPT.",
+          "First, the sample size was relatively small, with only 52 participants. Second, the study focused solely on intermediate level students who were exclusively male, with the age range limited to 12-18 years."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Razmi and Ghane (2024) reported that Iranian male learners receiving WCF outperformed controls on writing performance and self-efficacy and showed lower writing anxiety, though the sample was small, exclusively male, and intermediate-level.",
+        "citation": "Razmi and Ghane (2024)",
+        "paper_doi": "10.17239/jowr-2024.16.02.04",
+        "paper_title": "The impact of written corrective feedback on students’ writing performance, self-efficacy, and anxiety",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (preamble)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "the experimental group outperformed the control group in all three measures with larger effect size, as evidenced by the results of independent sample t-tests (Table 3).",
+              "the experimental group outperformed the control group in terms of writing performance, as indicated by the statistically significant difference between their mean scores, M = 79.34, SD = 11.14 vs. M = 62.53, SD = 14.32",
+              "the experimental group reported higher levels of writing self-efficacy, M = 51.30, SD = 7.29 compared to the control group, M = 42.15, SD = 9.64",
+              "the experimental group demonstrated a significant decrease in writing anxiety, as evidenced by their lower mean score on the posttest anxiety assessment, M = 49.96, SD = 18.75 compared to the control group, M = 71.19, SD=14.91",
+              "52 EFL male students (age range of 12-18), selected among 82 students based on the Oxford Placement Test (OPT) results in an English institute, constituted the participants in this study.",
+              "Their scores ranged from 41 to 52 and were at the level B1 as measured by OPT.",
+              "First, the sample size was relatively small, with only 52 participants. Second, the study focused solely on intermediate level students who were exclusively male, with the age range limited to 12-18 years."
+            ],
+            "tokens": {
+              "input_tokens": 14339,
+              "output_tokens": 1829
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "teacher feedback addressed more error types than automated writing evaluation (AWE), which tended to highlight rather than correct errors",
+        "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+        "status": "verified",
+        "evidence_quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+        "explanation": "Both propositions are stated almost verbatim in Section 5 (\"Differences between teacher and AWE feedback\"): \"Teacher feedback addressed more error types (16) than the AWE feedback (8)\" supports the central comparative assertion, and \"AWE feedback tended to highlight, rather than correct, student errors\" supports the second proposition, including its hedge (\"tended to\"), which the claim preserves. Table 1 (Total 16 vs 8) and Table 2 (Correction marked only for teacher feedback) corroborate both. No assertion is contradicted or absent.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Teacher feedback addressed more error types than AWE feedback",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "more (teacher) than AWE",
+            "source_value": "16 vs 8",
+            "quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+            "central": true,
+            "entity": "teacher feedback versus AWE feedback on L2 student writing",
+            "measure": "number of error types addressed",
+            "quotes": [
+              "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+              "Total \n16 \n8"
+            ]
+          },
+          {
+            "text": "AWE feedback tended to highlight rather than correct errors",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "highlight rather than correct",
+            "source_value": "highlight rather than correct",
+            "quote": "AWE feedback tended to highlight, rather than correct, student errors",
+            "central": false,
+            "entity": "AWE feedback",
+            "measure": "feedback type (highlighting vs correction)",
+            "quotes": [
+              "AWE feedback tended to highlight, rather than correct, student errors"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+          "AWE feedback tended to highlight, rather than correct, student errors",
+          "Total \n16 \n8"
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Zhang and Hyland (2018) showed that teacher feedback addressed more error types than automated writing evaluation (AWE), which tended to highlight rather than correct errors; the highly engaged learner outperformed the moderately engaged one in responding to both sources.",
+        "citation": "Zhang and Hyland (2018)",
+        "paper_doi": "10.1016/j.asw.2018.02.004",
+        "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+              "AWE feedback tended to highlight, rather than correct, student errors",
+              "Total \n16 \n8"
+            ],
+            "tokens": {
+              "input_tokens": 17564,
+              "output_tokens": 628
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "the highly engaged learner outperformed the moderately engaged one in responding to both sources",
+        "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+        "status": "verified",
+        "evidence_quote": "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+        "explanation": "The claim restates the paper's own comparison sentence almost verbatim. Section 8 states: \"the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.\" The highlights also state \"The highly engaged learner outperformed the moderately engaged learner.\" The entities (Flora as highly engaged, David as moderately engaged), the measure (response to both teacher and AWE feedback sources) and the direction (outperformed) all match, with no contradiction and no hedge removed.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "The highly engaged learner outperformed the moderately engaged learner in responding to both sources of feedback.",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "highly engaged outperformed moderately engaged",
+            "source_value": "highly engaged outperformed moderately engaged",
+            "quote": "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+            "central": true,
+            "entity": "the highly engaged learner (Flora) versus the moderately engaged learner (David)",
+            "measure": "response to both teacher and AWE feedback sources",
+            "quotes": [
+              "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+              "The highly engaged learner outperformed the moderately engaged learner."
+            ]
+          },
+          {
+            "text": "The learner identified as highly engaged is Flora.",
+            "kind": "attribution",
+            "verdict": "supported",
+            "claim_value": "highly engaged",
+            "source_value": "highly engaged",
+            "quote": "6  Flora: A highly engaged learner",
+            "central": false,
+            "entity": "Flora",
+            "measure": "engagement classification",
+            "quotes": [
+              "6  Flora: A highly engaged learner",
+              "We characterise Flora as a student who demonstrated deep and full engagement with both teacher and AWE feedback on her writing."
+            ]
+          },
+          {
+            "text": "The learner identified as moderately engaged is David.",
+            "kind": "attribution",
+            "verdict": "supported",
+            "claim_value": "moderately engaged",
+            "source_value": "moderately engaged",
+            "quote": "7   David: A moderately engaged learner",
+            "central": false,
+            "entity": "David",
+            "measure": "engagement classification",
+            "quotes": [
+              "7   David: A moderately engaged learner",
+              "In contrast to Flora, David was far less-engaged in his approach to feedback and revision."
+            ]
+          },
+          {
+            "text": "The two sources of feedback are teacher feedback and AWE feedback.",
+            "kind": "scope",
+            "verdict": "supported",
+            "claim_value": "teacher and AWE feedback",
+            "source_value": "teacher and AWE feedback",
+            "quote": "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing",
+            "central": false,
+            "entity": "sources of feedback",
+            "measure": "feedback types compared",
+            "quotes": [
+              "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+          "The highly engaged learner outperformed the moderately engaged learner.",
+          "We characterise Flora as a student who demonstrated deep and full engagement with both teacher and AWE feedback on her writing.",
+          "In contrast to Flora, David was far less-engaged in his approach to feedback and revision."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Zhang and Hyland (2018) showed that teacher feedback addressed more error types than automated writing evaluation (AWE), which tended to highlight rather than correct errors; the highly engaged learner outperformed the moderately engaged one in responding to both sources.",
+        "citation": "Zhang and Hyland (2018)",
+        "paper_doi": "10.1016/j.asw.2018.02.004",
+        "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+              "The highly engaged learner outperformed the moderately engaged learner.",
+              "We characterise Flora as a student who demonstrated deep and full engagement with both teacher and AWE feedback on her writing.",
+              "In contrast to Flora, David was far less-engaged in his approach to feedback and revision."
+            ],
+            "tokens": {
+              "input_tokens": 17557,
+              "output_tokens": 1000
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Learner preferences converge on explicit teacher input: university ESL students favoured direct correction combined with metalinguistic explanations over direct correction alone (Liu & Wu, 2019).",
+        "paper_id": "f86fb131-21e8-4973-aaa5-57ca65cfc223",
+        "status": "verified",
+        "evidence_quote": "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).",
+        "explanation": "The central assertion — that the surveyed university ESL students preferred direct correction with metalinguistic explanations over direct correction alone — is stated directly in the results: \"In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).\" The discussion repeats it: \"Overall, students preferred direct correction accompanied by metalinguistic explanations.\" The population (70 students in a university ESL program in the southwestern U.S.) matches the claim's \"university ESL students,\" and the ranking (48.10% vs. 24.83%) supports \"over direct correction alone.\" No assertion is contradicted and no peripheral detail is absent.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "University ESL students favoured direct correction combined with metalinguistic explanations over direct correction alone.",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "DC + metalinguistic explanation preferred over DC alone",
+            "source_value": "215/447 (48.10%) vs 111/447 (24.83%)",
+            "quote": "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).",
+            "central": true,
+            "entity": "university ESL students in the surveyed program",
+            "measure": "preference ranking between direct correction + metalinguistic explanation and direct correction without metalinguistic explanation",
+            "quotes": [
+              "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).",
+              "Overall, students preferred direct correction accompanied by metalinguistic explanations."
+            ]
+          },
+          {
+            "text": "The learners in question were university ESL students.",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": "university ESL students",
+            "source_value": "70 students from a university ESL program in the southwestern U.S.",
+            "quote": "Seventy students from a university ESL program in the southwestern U.S. participated in the study.",
+            "central": false,
+            "entity": "student participants",
+            "measure": "programme type and level",
+            "quotes": [
+              "Seventy students from a university ESL program in the southwestern U.S. participated in the study."
+            ]
+          },
+          {
+            "text": "The preference pattern is a convergence of learner preferences on explicit teacher input.",
+            "kind": "attribution",
+            "verdict": "supported",
+            "claim_value": "convergence on explicit teacher-provided correction",
+            "source_value": "students favored direct correction with metalinguistic explanations",
+            "quote": "Overall, students preferred direct correction accompanied by metalinguistic explanations.",
+            "central": false,
+            "entity": "student preferences for explicitness of CF",
+            "measure": "overall preference pattern",
+            "quotes": [
+              "Overall, students preferred direct correction accompanied by metalinguistic explanations."
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).",
+          "Overall, students preferred direct correction accompanied by metalinguistic explanations.",
+          "Seventy students from a university ESL program in the southwestern U.S. participated in the study."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Learner preferences converge on explicit teacher input: university ESL students favoured direct correction combined with metalinguistic explanations over direct correction alone (Liu & Wu, 2019).",
+        "citation": "(Liu & Wu, 2019)",
+        "paper_doi": "10.17239/jowr-2019.11.02.03",
+        "paper_title": "Same goal, different beliefs: Students’ preferences and teachers’ perceptions of feedback on second language writing",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (preamble)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).",
+              "Overall, students preferred direct correction accompanied by metalinguistic explanations.",
+              "Seventy students from a university ESL program in the southwestern U.S. participated in the study."
+            ],
+            "tokens": {
+              "input_tokens": 17503,
+              "output_tokens": 998
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Self-reported cognitive load was lower after direct corrections on grammatical errors than after metalinguistic codes on all errors",
+        "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+        "status": "verified",
+        "evidence_quote": "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+        "explanation": "The central assertion — that self-reported cognitive load after direct corrections on grammatical errors (DCF+G) was lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN) — is stated directly in section 5.4: \"the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)\", and corroborated by Table 3 (\"***ME+GN > DCF+G 1.91 [0.95, 2.88]\") and the descriptive means (DCF+G M = 4.76 vs. ME+GN M = 6.68). The peripheral assertions (self-report measure via Paas's mental-effort scale; the two feedback conditions as described) are also supported by the methods and results sections. No contradiction and no hedge removal.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Self-reported cognitive load after direct corrections on grammatical errors (DCF+G) was lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN).",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "lower after DCF+G than after ME+GN",
+            "source_value": "significantly lower after DCF+G than after ME+GN (p < 0.001)",
+            "quote": "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+            "central": true,
+            "entity": "EFL writers (low intermediate, N = 139) revising texts under comprehensive CF conditions DCF+G vs. ME+GN",
+            "measure": "self-reported cognitive load (Paas mental-effort scale) after text revision",
+            "quotes": [
+              "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+              "***ME+GN > DCF+G \n1.91 [0.95, 2.88]"
+            ]
+          },
+          {
+            "text": "Cognitive load was measured by self-report.",
+            "kind": "intervention",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4.",
+            "central": false,
+            "entity": "participants in the study",
+            "measure": "instrument used to measure cognitive load",
+            "quotes": [
+              "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4.",
+              "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms"
+            ]
+          },
+          {
+            "text": "The compared conditions were direct corrections on grammatical errors and metalinguistic codes on grammatical and non-grammatical (all) errors.",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "direct CF on grammatical errors (hereafter DCF+G), metalinguistic CF with codes on grammatical errors (hereafter ME+G), direct CF on grammatical errors and non-grammatical errors (hereafter DCF+GN), and metalinguistic CF with codes on grammatical errors and non-grammatical errors (hereafter ME+GN)",
+            "central": false,
+            "entity": "experimental conditions in the study",
+            "measure": "feedback condition definitions",
+            "quotes": [
+              "direct CF on grammatical errors (hereafter DCF+G), metalinguistic CF with codes on grammatical errors (hereafter ME+G), direct CF on grammatical errors and non-grammatical errors (hereafter DCF+GN), and metalinguistic CF with codes on grammatical errors and non-grammatical errors (hereafter ME+GN)"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+          "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+          "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4.",
+          "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+          "direct CF on grammatical errors (hereafter DCF+G), metalinguistic CF with codes on grammatical errors (hereafter ME+G), direct CF on grammatical errors and non-grammatical errors (hereafter DCF+GN), and metalinguistic CF with codes on grammatical errors and non-grammatical errors (hereafter ME+GN)"
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Self-reported cognitive load was lower after direct corrections on grammatical errors than after metalinguistic codes on all errors (Bonilla López et al., 2018).",
+        "citation": "(Bonilla López et al., 2018)",
+        "paper_doi": "10.1111/lang.12295",
+        "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (preamble)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+              "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+              "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4.",
+              "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+              "direct CF on grammatical errors (hereafter DCF+G), metalinguistic CF with codes on grammatical errors (hereafter ME+G), direct CF on grammatical errors and non-grammatical errors (hereafter DCF+GN), and metalinguistic CF with codes on grammatical errors and non-grammatical errors (hereafter ME+GN)"
+            ],
+            "tokens": {
+              "input_tokens": 22179,
+              "output_tokens": 1236
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Peer-mediated revision also produced meaningful score gains, although students ignored some peer comments",
+        "paper_id": "ed3099af-1e6d-490d-9f1b-e50b69dc7019",
+        "status": "verified",
+        "evidence_quote": "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts.",
+        "explanation": "The central assertion — that peer-mediated revision produced meaningful score gains — is stated directly: \"A paired t-test (t(11) = 6.51, p < 0.000, Cohen's d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students' revisions produced meaningful improvements in the scores between drafts.\" The peripheral assertion that students ignored some peer comments is also supported: \"Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.\" No contradiction and no hedge removal; the source's own hedge (\"suggesting that\") is retained in the claim's framing of gains as produced by peer-mediated revision.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Peer-mediated revision produced meaningful score gains between drafts.",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "meaningful score gains",
+            "source_value": "mean improvement of 1.1 points out of 7; t(11) = 6.51, p < 0.000, Cohen's d = 1.62",
+            "quote": "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts.",
+            "central": true,
+            "entity": "L2 undergraduate students' persuasive essay drafts revised after online peer feedback",
+            "measure": "mean change in analytic rubric scores from first to second draft (paired t-test)",
+            "quotes": [
+              "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts.",
+              "The quantitative analysis of students writing performance indicated that peer feedback led to students’ revisions produced mean-"
+            ]
+          },
+          {
+            "text": "Students ignored some peer comments.",
+            "kind": "scope",
+            "verdict": "supported",
+            "claim_value": "some",
+            "source_value": "four students ignored unity-related feedback; two ignored word-use-related feedback",
+            "quote": "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.",
+            "central": false,
+            "entity": "participating students",
+            "measure": "number of students who ignored peer feedback on specific writing issues",
+            "quotes": [
+              "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback."
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts.",
+          "The quantitative analysis of students writing performance indicated that peer feedback led to students’ revisions produced mean-",
+          "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Peer-mediated revision also produced meaningful score gains, although students ignored some peer comments (Li & Hebert, 2023).",
+        "citation": "(Li & Hebert, 2023)",
+        "paper_doi": "10.1007/s11145-023-10466-8",
+        "paper_title": "Unpacking an online peer-mediated and self-reflective revision process in second-language persuasive writing",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (introduction)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts.",
+              "The quantitative analysis of students writing performance indicated that peer feedback led to students’ revisions produced mean-",
+              "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback."
+            ],
+            "tokens": {
+              "input_tokens": 18222,
+              "output_tokens": 996
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "most students actively engaged and revised thoughtfully",
+        "paper_id": "352c8d24-a3b2-4956-b6ef-22a954b81f19",
+        "status": "verified",
+        "evidence_quote": "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+        "explanation": "The central assertion — that the majority of students actively engaged — is stated directly in the abstract: \"We found that the majority of students actively engaged with this integrated approach\". The peripheral assertion about thoughtful revision is also supported: the same sentence says the approach \"encouraged thoughtful revisions\", and the findings section reports that \"many students were able to evaluate their essays and focus on content after receiving teacher feedback\", with rewriting (a cognitively demanding operation) rising to 63.2% of revisions in the fourth draft. The paper does note that some students \"failed to engage\", but this is consistent with \"most\" rather than contradicting it.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Most (the majority of) students actively engaged with the integrated feedback approach",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "most / majority",
+            "source_value": "the majority",
+            "quote": "We found that the majority of students actively engaged with this integrated approach",
+            "central": true,
+            "entity": "the 33 students in the case study",
+            "measure": "proportion of students actively engaged",
+            "quotes": [
+              "We found that the majority of students actively engaged with this integrated approach"
+            ]
+          },
+          {
+            "text": "Students revised thoughtfully (their revisions reflected thoughtful/cognitive engagement)",
+            "kind": "other",
+            "verdict": "supported",
+            "claim_value": "thoughtful revisions",
+            "source_value": "encouraged thoughtful revisions",
+            "quote": "encouraged thoughtful revisions",
+            "central": false,
+            "entity": "the 33 students in the case study",
+            "measure": "quality of revisions",
+            "quotes": [
+              "encouraged thoughtful revisions",
+              "This suggests that many students were able to evaluate their essays and focus on content after receiving teacher feedback."
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+          "This suggests that many students were able to evaluate their essays and focus on content after receiving teacher feedback.",
+          "One striking aspect of this table is that, after teacher feedback, there was a substantial amount of rewriting compared with other revision operations."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "In an integrated approach, most students actively engaged and revised thoughtfully (Zhang and Hyland, 2021).",
+        "citation": "(Zhang and Hyland, 2021)",
+        "paper_doi": "10.1016/j.asw.2021.100586",
+        "paper_title": "Fostering student engagement with feedback: An integrated approach",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+              "This suggests that many students were able to evaluate their essays and focus on content after receiving teacher feedback.",
+              "One striking aspect of this table is that, after teacher feedback, there was a substantial amount of rewriting compared with other revision operations."
+            ],
+            "tokens": {
+              "input_tokens": 12701,
+              "output_tokens": 681
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Teachers using Grammarly reported time savings yet still addressed lower-order concerns",
+        "paper_id": "6ec99bcb-e7dc-48a0-a292-af6b34d9889d",
+        "status": "verified",
+        "evidence_quote": "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+        "explanation": "The central assertion — that the six postsecondary L2 writing teachers, despite using Grammarly as a complement, still provided feedback on lower-order concerns — is stated directly: \"all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement,\" and the discussion repeats that \"the participants provided feedback both on HOCs and LOCs.\" The peripheral assertion about reported time savings is also supported: Rob said \"It really reduces time and effort, and it can let me focus on higher-order issues,\" and the discussion notes \"the participants indicated that Grammarly liberated their time to focus more on HOCs.\" No contradiction and no removed hedge.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Teachers using Grammarly as a complement still provided feedback on lower-order concerns (LOCs).",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": null,
+            "central": true,
+            "entity": "six postsecondary L2 writing teachers using Grammarly as a complement",
+            "measure": "provision of feedback on LOCs",
+            "quotes": [
+              "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+              "The quantitative findings of the study revealed that despite using Grammarly to complement their feedback, the participants provided feedback both on HOCs and LOCs, along with other types of feedback (e.g. positive feedback)."
+            ]
+          },
+          {
+            "text": "Teachers using Grammarly reported time savings.",
+            "kind": "attribution",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": null,
+            "central": false,
+            "entity": "participants in the study",
+            "measure": "reported reduction of time/effort",
+            "quotes": [
+              "It really reduces time and effort, and it can let me focus on higher-order issues.",
+              "Interestingly, the participants indicated that Grammarly liberated their time to focus more on HOCs."
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+          "It really reduces time and effort, and it can let me focus on higher-order issues.",
+          "Interestingly, the participants indicated that Grammarly liberated their time to focus more on HOCs."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Teachers using Grammarly reported time savings yet still addressed lower-order concerns (Koltovskaia, 2022).",
+        "citation": "(Koltovskaia, 2022)",
+        "paper_doi": "10.1017/s0958344022000179",
+        "paper_title": "Postsecondary L2 writing teachers’ use and perceptions of Grammarly as a complement to their feedback",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+              "It really reduces time and effort, and it can let me focus on higher-order issues.",
+              "Interestingly, the participants indicated that Grammarly liberated their time to focus more on HOCs."
+            ],
+            "tokens": {
+              "input_tokens": 13694,
+              "output_tokens": 733
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Concerns persist that AI feedback lacks specificity and rhetorical insight",
+        "paper_id": "bb622ec0-d7ce-46e3-b8be-0c13572e64eb",
+        "status": "verified",
+        "evidence_quote": "I don’t know what you think, but I feel expressions like ‘We usually use the -ing form …’, ‘you could say x’, and ‘we usually use y’ lack specificity and linguistic insight",
+        "explanation": "The claim's central proposition — that AI feedback is criticised for lacking specificity and rhetorical insight — is stated in the source. The author writes of ChatGPT's supportive feedback that expressions like 'We usually use the -ing form …' 'lack specificity and linguistic insight', and concludes that 'the Gen AI feedback seems formulaic while positive feedback lacks sincerity and specificity'. On rhetorical matters, the source states that 'ChatGPT is unable to accurately offer feedback on rhetorical and pragmatic aspects of arguments produced by real human writers' and that AI 'has limitations in understanding context, depth of analysis, and rhetorical elements of writing'. The framing that such concerns persist is also supported by the reported student criticism of 'a lack of accuracy and explicitness as the feedback tended to be generic and formulaic' (Fu et al., 2022). All assertions are supported; no contradiction and no removed hedge.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "AI feedback lacks specificity",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "the Gen AI feedback seems formulaic while positive feedback lacks sincerity and specificity.",
+            "central": true,
+            "entity": "AI (GenAI/ChatGPT) feedback",
+            "measure": "specificity of feedback",
+            "quotes": [
+              "I don’t know what you think, but I feel expressions like ‘We usually use the -ing form …’, ‘you could say x’, and ‘we usually use y’ lack specificity and linguistic insight",
+              "the Gen AI feedback seems formulaic while positive feedback lacks sincerity and specificity."
+            ]
+          },
+          {
+            "text": "AI feedback lacks rhetorical insight",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "ChatGPT is unable to accurately offer feedback on rhetorical and pragmatic aspects of arguments produced by real human writers",
+            "central": false,
+            "entity": "AI (ChatGPT) feedback",
+            "measure": "ability to address rhetorical aspects of writing",
+            "quotes": [
+              "This more retiring or ‘invisible’ stance means that ChatGPT is unable to accurately offer feedback on rhetorical and pragmatic aspects of arguments produced by real human writers.",
+              "However, it has limitations in understanding context, depth of analysis, and rhetorical elements of writing."
+            ]
+          },
+          {
+            "text": "Such concerns persist (are ongoing/reported in the literature)",
+            "kind": "attribution",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "although they criticised a lack of accuracy and explicitness as the feedback tended to be generic and formulaic",
+            "central": false,
+            "entity": "research literature on automated/AI feedback",
+            "measure": "reported criticisms of AI feedback",
+            "quotes": [
+              "although they criticised a lack of accuracy and explicitness as the feedback tended to be generic and formulaic"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "I don’t know what you think, but I feel expressions like ‘We usually use the -ing form …’, ‘you could say x’, and ‘we usually use y’ lack specificity and linguistic insight",
+          "the Gen AI feedback seems formulaic while positive feedback lacks sincerity and specificity.",
+          "This more retiring or ‘invisible’ stance means that ChatGPT is unable to accurately offer feedback on rhetorical and pragmatic aspects of arguments produced by real human writers.",
+          "However, it has limitations in understanding context, depth of analysis, and rhetorical elements of writing.",
+          "although they criticised a lack of accuracy and explicitness as the feedback tended to be generic and formulaic"
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Concerns persist that AI feedback lacks specificity and rhetorical insight (Hyland, 2025).",
+        "citation": "(Hyland, 2025)",
+        "paper_doi": "10.1017/s0261444825101018",
+        "paper_title": "EFL teachers and feedback fatigue: AI to the rescue?",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "I don’t know what you think, but I feel expressions like ‘We usually use the -ing form …’, ‘you could say x’, and ‘we usually use y’ lack specificity and linguistic insight",
+              "the Gen AI feedback seems formulaic while positive feedback lacks sincerity and specificity.",
+              "This more retiring or ‘invisible’ stance means that ChatGPT is unable to accurately offer feedback on rhetorical and pragmatic aspects of arguments produced by real human writers.",
+              "However, it has limitations in understanding context, depth of analysis, and rhetorical elements of writing.",
+              "although they criticised a lack of accuracy and explicitness as the feedback tended to be generic and formulaic"
+            ],
+            "tokens": {
+              "input_tokens": 13754,
+              "output_tokens": 900
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      }
+    ],
+    "verified_count": 10
+  }
+}

@@ -1,0 +1,1776 @@
+{
+  "content": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024). Most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024).\n\nIn a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023). Notably, participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts (Li & Hebert, 2023). The authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).\n\nFour students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021). The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021). Affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021).\n\nIn a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018). The same study found that the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources (Zhang & Hyland, 2018).",
+  "metrics": {
+    "analysis": {
+      "papers": 0,
+      "papers_failed": 0,
+      "verbatim_rate": 1.0,
+      "evidence_items": 0,
+      "rejected_items": 0,
+      "papers_attempted": 0
+    }
+  },
+  "gate_log": {
+    "attempts": [
+      {
+        "kept": true,
+        "attempt": "first",
+        "finalize": {
+          "sentences": [
+            {
+              "fate": "removed",
+              "rule": "uncited_finding",
+              "sentence": "Research on written corrective feedback (WCF) in second-language (L2) writing has shifted from asking whether feedback works to asking how learners engage with it and how teacher, peer, and automated sources compare.",
+              "delivered": null,
+              "paragraph": 0
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024).",
+              "delivered": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024).",
+              "paragraph": 0
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "Most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024).",
+              "delivered": "Most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024).",
+              "paragraph": 0
+            },
+            {
+              "fate": "removed",
+              "rule": "uncited_finding",
+              "sentence": "Evidence on the accuracy effects of peer feedback is limited and largely indirect.",
+              "delivered": null,
+              "paragraph": 1
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "In a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023).",
+              "delivered": "In a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023).",
+              "paragraph": 1
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "Notably, participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts (Li & Hebert, 2023).",
+              "delivered": "Notably, participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts (Li & Hebert, 2023).",
+              "paragraph": 1
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "The authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+              "delivered": "The authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+              "paragraph": 1
+            },
+            {
+              "fate": "removed",
+              "rule": "uncited_finding",
+              "sentence": "Uptake of peer comments is uneven.",
+              "delivered": null,
+              "paragraph": 2
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+              "delivered": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+              "paragraph": 2
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021).",
+              "delivered": "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021).",
+              "paragraph": 2
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "Affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021).",
+              "delivered": "Affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021).",
+              "paragraph": 2
+            },
+            {
+              "fate": "removed",
+              "rule": "uncited_finding",
+              "sentence": "Comparative evidence on teacher versus automated feedback is sparse.",
+              "delivered": null,
+              "paragraph": 3
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+              "delivered": "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+              "paragraph": 3
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "The same study found that the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources (Zhang & Hyland, 2018).",
+              "delivered": "The same study found that the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources (Zhang & Hyland, 2018).",
+              "paragraph": 3
+            },
+            {
+              "fate": "removed",
+              "rule": "uncited_finding",
+              "sentence": "Across these sources, peer WCF is associated with revision improvements and generally positive usefulness ratings, yet the evidence base is dominated by small, qualitative, single-context designs.",
+              "delivered": null,
+              "paragraph": 4
+            },
+            {
+              "fate": "removed",
+              "rule": "uncited_finding",
+              "sentence": "Three gaps follow: no direct experimental comparison of peer, teacher, and automated WCF on accuracy; limited evidence on the conditions governing uptake; and an affective dimension that remains unexamined.",
+              "delivered": null,
+              "paragraph": 4
+            }
+          ]
+        },
+        "revision": {
+          "claims": [
+            {
+              "key": "mao_2024",
+              "reused": false,
+              "status": "verified",
+              "sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024).",
+              "proposition": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes"
+            },
+            {
+              "key": "mao_2024",
+              "reused": false,
+              "status": "verified",
+              "sentence": "Most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024).",
+              "proposition": "Most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated"
+            },
+            {
+              "key": "li_2023",
+              "reused": false,
+              "status": "verified",
+              "sentence": "In a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023).",
+              "proposition": "paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision"
+            },
+            {
+              "key": "li_2023",
+              "reused": true,
+              "status": "verified",
+              "sentence": "Notably, participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts (Li & Hebert, 2023).",
+              "proposition": "participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts"
+            },
+            {
+              "key": "li_2023",
+              "reused": false,
+              "status": "verified",
+              "sentence": "The authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+              "proposition": "a causal role for students' self-reflections was not established"
+            },
+            {
+              "key": "li_2023",
+              "reused": true,
+              "status": "verified",
+              "sentence": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+              "proposition": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback"
+            },
+            {
+              "key": "yallop_2021",
+              "reused": true,
+              "status": "verified",
+              "sentence": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+              "proposition": "in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful"
+            },
+            {
+              "key": "yallop_2021",
+              "reused": false,
+              "status": "verified",
+              "sentence": "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021).",
+              "proposition": "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility"
+            },
+            {
+              "key": "yallop_2021",
+              "reused": false,
+              "status": "verified",
+              "sentence": "Affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021).",
+              "proposition": "Affect was not coded because evidence was insufficient for reliable coding"
+            },
+            {
+              "key": "zhang_2018",
+              "reused": true,
+              "status": "verified",
+              "sentence": "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+              "proposition": "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018)."
+            },
+            {
+              "key": "zhang_2018",
+              "reused": true,
+              "status": "verified",
+              "sentence": "The same study found that the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources (Zhang & Hyland, 2018).",
+              "proposition": "the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources"
+            }
+          ],
+          "failed": [],
+          "triggers": [
+            "coverage_flag",
+            "needs_nuance"
+          ],
+          "sentences": [
+            "Research on written corrective feedback (WCF) in second-language (L2) writing has shifted from asking whether feedback works to asking how learners engage with it and how teacher, peer, and automated sources compare.",
+            "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024).",
+            "Most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024).",
+            "Evidence on the accuracy effects of peer feedback is limited and largely indirect.",
+            "In a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023).",
+            "Notably, participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts (Li & Hebert, 2023).",
+            "The authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+            "Uptake of peer comments is uneven.",
+            "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+            "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021).",
+            "Affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021).",
+            "Comparative evidence on teacher versus automated feedback is sparse.",
+            "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+            "The same study found that the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources (Zhang & Hyland, 2018).",
+            "Across these sources, peer WCF is associated with revision improvements and generally positive usefulness ratings, yet the evidence base is dominated by small, qualitative, single-context designs.",
+            "Three gaps follow: no direct experimental comparison of peer, teacher, and automated WCF on accuracy; limited evidence on the conditions governing uptake; and an affective dimension that remains unexamined."
+          ],
+          "unclassified": [],
+          "keep_verbatim": [
+            "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+            "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+            "In a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023).",
+            "Notably, participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts (Li & Hebert, 2023).",
+            "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021).",
+            "The same study found that the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources (Zhang & Hyland, 2018)."
+          ],
+          "coverage_issue": [
+            "A further limitation is that affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021), leaving the emotional dimension of peer feedback unexamined.",
+            "A strength of this design is the objective rubric-based scoring; a limitation is that the design cannot attribute gains to peer feedback specifically, and the authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+            "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024), but most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024), constraining causal inference."
+          ],
+          "link_map_failed": false,
+          "uncited_finding": [
+            "Research on written corrective feedback (WCF) in second-language (L2) writing has moved from asking whether feedback works to asking how learners engage with it and how teacher, peer, and automated sources compare.",
+            "Evidence on accuracy gains from peer feedback is limited and largely indirect.",
+            "Uptake is uneven.",
+            "Comparative evidence is sparse.",
+            "Peer WCF is associated with revision improvements and generally positive usefulness ratings, yet evidence is dominated by small, qualitative, single-context designs.",
+            "Three gaps follow: no direct experimental comparison of peer, teacher, and automated WCF on accuracy; limited evidence on uptake conditions; and an unexamined affective dimension."
+          ]
+        },
+        "first_pass": {
+          "claims": [
+            {
+              "key": "li_2023",
+              "status": "verified",
+              "sentence": "In a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023).",
+              "proposition": "paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62)"
+            },
+            {
+              "key": "li_2023",
+              "status": "verified",
+              "sentence": "In a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023).",
+              "proposition": "which the authors interpret as meaningful improvement following feedback-driven revision"
+            },
+            {
+              "key": "li_2023",
+              "status": "verified",
+              "sentence": "A strength of this design is the objective rubric-based scoring; a limitation is that the design cannot attribute gains to peer feedback specifically, and the authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+              "proposition": "the authors state that a causal role for students' self-reflections was not established"
+            },
+            {
+              "key": "li_2023",
+              "status": "needs_nuance",
+              "sentence": "A strength of this design is the objective rubric-based scoring; a limitation is that the design cannot attribute gains to peer feedback specifically, and the authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+              "proposition": "a limitation is that the design cannot attribute gains to peer feedback specifically"
+            },
+            {
+              "key": "li_2023",
+              "status": "needs_nuance",
+              "sentence": "A strength of this design is the objective rubric-based scoring; a limitation is that the design cannot attribute gains to peer feedback specifically, and the authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+              "proposition": "A strength of this design is the objective rubric-based scoring"
+            },
+            {
+              "key": "li_2023",
+              "status": "verified",
+              "sentence": "Notably, participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts (Li & Hebert, 2023).",
+              "proposition": "participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts"
+            },
+            {
+              "key": "li_2023",
+              "status": "verified",
+              "sentence": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+              "proposition": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback"
+            },
+            {
+              "key": "yallop_2021",
+              "status": "verified",
+              "sentence": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+              "proposition": "in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful"
+            },
+            {
+              "key": "yallop_2021",
+              "status": "verified",
+              "sentence": "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021).",
+              "proposition": "the authors make no claim of reproducibility"
+            },
+            {
+              "key": "yallop_2021",
+              "status": "verified",
+              "sentence": "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021).",
+              "proposition": "The latter study's small, single-group design limits generalizability"
+            },
+            {
+              "key": "yallop_2021",
+              "status": "verified",
+              "sentence": "A further limitation is that affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021), leaving the emotional dimension of peer feedback unexamined.",
+              "proposition": "affect was not coded because evidence was insufficient for reliable coding"
+            },
+            {
+              "key": "zhang_2018",
+              "status": "verified",
+              "sentence": "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+              "proposition": "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018)."
+            },
+            {
+              "key": "zhang_2018",
+              "status": "verified",
+              "sentence": "The same study found that the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources (Zhang & Hyland, 2018).",
+              "proposition": "the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources"
+            },
+            {
+              "key": "mao_2024",
+              "status": "verified",
+              "sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024), but most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024), constraining causal inference.",
+              "proposition": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes"
+            },
+            {
+              "key": "mao_2024",
+              "status": "verified",
+              "sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024), but most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024), constraining causal inference.",
+              "proposition": "most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated"
+            },
+            {
+              "key": "yallop_2021",
+              "status": "needs_nuance",
+              "sentence": "A further limitation is that affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021), leaving the emotional dimension of peer feedback unexamined.",
+              "proposition": "A further limitation is that affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021), leaving the emotional dimension of peer feedback unexamined."
+            },
+            {
+              "key": "mao_2024",
+              "status": "needs_nuance",
+              "sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024), but most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024), constraining causal inference.",
+              "proposition": "constraining causal inference"
+            }
+          ],
+          "sentences": [
+            "Research on written corrective feedback (WCF) in second-language (L2) writing has moved from asking whether feedback works to asking how learners engage with it and how teacher, peer, and automated sources compare.",
+            "This review synthesizes the project library on peer-provided WCF, organized around three themes: effects on accuracy and revision, engagement and uptake, and the comparative positioning of peer feedback against teacher and automated feedback.",
+            "Evidence on accuracy gains from peer feedback is limited and largely indirect.",
+            "In a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023).",
+            "A strength of this design is the objective rubric-based scoring; a limitation is that the design cannot attribute gains to peer feedback specifically, and the authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+            "Notably, participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts (Li & Hebert, 2023).",
+            "for direct comparisons of accuracy gains under peer versus teacher feedback.",
+            "Uptake is uneven.",
+            "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+            "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021).",
+            "A further limitation is that affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021), leaving the emotional dimension of peer feedback unexamined.",
+            "on how peer feedback compares with teacher or automated feedback in promoting revision behaviour.",
+            "Comparative evidence is sparse.",
+            "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+            "The same study found that the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources (Zhang & Hyland, 2018).",
+            "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024), but most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024), constraining causal inference.",
+            "Peer WCF is associated with revision improvements and generally positive usefulness ratings, yet evidence is dominated by small, qualitative, single-context designs.",
+            "Three gaps follow: no direct experimental comparison of peer, teacher, and automated WCF on accuracy; limited evidence on uptake conditions; and an unexamined affective dimension.",
+            "These gaps motivate the present study's comparative design."
+          ]
+        },
+        "link_map_failed": false
+      }
+    ],
+    "kept_attempt": "first",
+    "schema_version": 1
+  },
+  "loop_stats": {
+    "loop_revised": true,
+    "survival_rate": 0.6375,
+    "length_trimmed": false,
+    "link_map_failed": false,
+    "headings_removed": 0,
+    "regeneration_kept": "first",
+    "length_regenerated": false,
+    "frame_spans_accepted": 5,
+    "verb_initial_reasons": [],
+    "heading_shaped_reasons": [],
+    "meta_evaluation_reasons": [],
+    "first_pass_verified_rate": 0.7647058823529411,
+    "headings_removed_reasons": [],
+    "empty_section_regenerated": 0,
+    "sentences_residue_excised": 0,
+    "link_coverage_retry_failed": false,
+    "sentences_removed_dangling": 0,
+    "truncated_fragment_reasons": [],
+    "coverage_incomplete_reasons": [],
+    "links_unmatched_to_sentence": 0,
+    "sentences_unclassified_kept": 0,
+    "sentences_removed_title_echo": 0,
+    "sentences_removed_unverified": 0,
+    "citations_dropped_no_full_text": 0,
+    "needs_citation_markers_removed": 0,
+    "sentences_removed_no_full_text": 0,
+    "sentences_removed_verb_initial": 0,
+    "empty_section_after_regeneration": false,
+    "sentences_removed_heading_shaped": 0,
+    "sentences_removed_uncited_finding": 6,
+    "sentences_removed_coverage_incomplete": 0,
+    "sentences_truncated_fragment_repaired": 0,
+    "sentences_removed_meta_evaluation_uncited": 0
+  },
+  "provenance": {
+    "agent": "writing",
+    "length": {
+      "words": 463,
+      "final_words": 255,
+      "over_target": true,
+      "regenerated": false,
+      "hard_maximum": 500,
+      "target_words": 400
+    },
+    "provider": "deepseek",
+    "thinking": "disabled",
+    "called_at": "2026-10-26T17:46:42.314006Z",
+    "max_tokens": 4096,
+    "output_mode": null,
+    "temperature": 0.7,
+    "total_calls": 31,
+    "input_tokens": 19262,
+    "output_tokens": 691,
+    "analysis_calls": [],
+    "model_reported": "deepseek-flash",
+    "prompt_version": "sha256:e71cdbee1ba1",
+    "model_configured": "deepseek-chat",
+    "reasoning_effort": null,
+    "guard_conversions": 0,
+    "citation_link_call": {
+      "agent": "citation_link",
+      "provider": "deepseek",
+      "called_at": "2026-10-26T17:47:42.147675Z",
+      "output_mode": null,
+      "temperature": null,
+      "input_tokens": 8111,
+      "output_tokens": 1607,
+      "model_reported": "deepseek-flash",
+      "prompt_version": "sha256:5a8092ebd77b",
+      "model_configured": "deepseek-chat",
+      "reasoning_effort": null,
+      "guard_conversions": 0,
+      "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+      "provider_response_id": "6746f69f-db6a-4418-ba51-22fec5ae33f3"
+    },
+    "regeneration_calls": [],
+    "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+    "total_input_tokens": 657019,
+    "verification_calls": [
+      {
+        "agent": "claim_verification",
+        "calls": 19,
+        "temperature": 0.0,
+        "guard_digest": "8a6c833ffc329f89",
+        "input_tokens": 431570,
+        "output_tokens": 17357,
+        "model_reported": [
+          "deepseek-flash"
+        ],
+        "prompt_version": "sha256:49fcfbfaf2f6",
+        "model_configured": "deepseek-chat",
+        "system_fingerprints": [
+          "e72d3c7f663d3e1383b00b3884cb4501"
+        ],
+        "repair_prompt_version": "sha256:7ec7cffe852d",
+        "quote_relocation_version": "0269a13351c0da7d",
+        "verification_policy_version": "667bcc9209126ddc"
+      },
+      {
+        "agent": "claim_verification",
+        "calls": 7,
+        "temperature": 0.0,
+        "guard_digest": "8a6c833ffc329f89",
+        "input_tokens": 161859,
+        "output_tokens": 6214,
+        "model_reported": [
+          "deepseek-flash"
+        ],
+        "prompt_version": "sha256:49fcfbfaf2f6",
+        "model_configured": "deepseek-chat",
+        "system_fingerprints": [
+          "e72d3c7f663d3e1383b00b3884cb4501"
+        ],
+        "repair_prompt_version": "sha256:7ec7cffe852d",
+        "quote_relocation_version": "0269a13351c0da7d",
+        "verification_policy_version": "667bcc9209126ddc"
+      }
+    ],
+    "citation_link_calls": [
+      {
+        "agent": "citation_link",
+        "provider": "deepseek",
+        "called_at": "2026-10-26T17:46:50.809291Z",
+        "output_mode": null,
+        "temperature": null,
+        "input_tokens": 8265,
+        "output_tokens": 2204,
+        "model_reported": "deepseek-flash",
+        "prompt_version": "sha256:5a8092ebd77b",
+        "model_configured": "deepseek-chat",
+        "reasoning_effort": null,
+        "guard_conversions": 0,
+        "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+        "provider_response_id": "204c5eb2-bfa1-4d7f-ab0d-307c43e2b3b1"
+      },
+      {
+        "agent": "citation_link",
+        "provider": "deepseek",
+        "called_at": "2026-10-26T17:46:54.365019Z",
+        "output_mode": null,
+        "temperature": null,
+        "input_tokens": 7698,
+        "output_tokens": 734,
+        "model_reported": "deepseek-flash",
+        "prompt_version": "sha256:5a8092ebd77b",
+        "model_configured": "deepseek-chat",
+        "reasoning_effort": null,
+        "guard_conversions": 0,
+        "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+        "provider_response_id": "8c0626d0-a4eb-49a4-8a6f-2284ddf2aac5"
+      },
+      {
+        "agent": "citation_link",
+        "provider": "deepseek",
+        "called_at": "2026-10-26T17:47:42.147675Z",
+        "output_mode": null,
+        "temperature": null,
+        "input_tokens": 8111,
+        "output_tokens": 1607,
+        "model_reported": "deepseek-flash",
+        "prompt_version": "sha256:5a8092ebd77b",
+        "model_configured": "deepseek-chat",
+        "reasoning_effort": null,
+        "guard_conversions": 0,
+        "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+        "provider_response_id": "6746f69f-db6a-4418-ba51-22fec5ae33f3"
+      }
+    ],
+    "total_output_tokens": 29364,
+    "provider_response_id": "c16de8d8-cf87-4023-a814-fb10ec02da63",
+    "prompt_template_version": "sha256:beb00d2d0e42"
+  },
+  "papers_used": 12,
+  "claim_report": {
+    "draft_id": "f5b6839c-3f77-4830-8f42-24ee18c160a7",
+    "error_count": 0,
+    "nuance_count": 0,
+    "verifications": [
+      {
+        "passes": [
+          {
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+              "A systematic review was conducted by the review team to synthesize and interpret findings accumulated across individual primary studies.",
+              "there is not yet a synthesis of naturalistic classroom studies where the type and amount of feedback provided on students’ writing performance is not manipulated or controlled"
+            ],
+            "tokens": {
+              "input_tokens": 23555,
+              "output_tokens": 952
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Mao et al., 2024)",
+        "paper_id": "c5c68874-7dbe-4180-bd00-ceff93a9b93b",
+        "paper_doi": "10.1017/s0261444823000393",
+        "assertions": [
+          {
+            "kind": "quantity",
+            "text": "The paper is a systematic review of 50 naturalistic classroom studies of WCF.",
+            "quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+            "entity": "the review reported in the paper",
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+              "A systematic review was conducted by the review team to synthesize and interpret findings accumulated across individual primary studies.",
+              "there is not yet a synthesis of naturalistic classroom studies where the type and amount of feedback provided on students’ writing performance is not manipulated or controlled"
+            ],
+            "central": true,
+            "measure": "number and type of included studies",
+            "verdict": "supported",
+            "claim_value": "50 naturalistic classroom studies",
+            "source_value": "50 empirical studies"
+          },
+          {
+            "kind": "other",
+            "text": "L2 learner responses to WCF was identified as one of the major themes.",
+            "quote": "(2) L2 learner responses to WCF",
+            "entity": "themes identified in the review",
+            "quotes": [
+              "(2) L2 learner responses to WCF"
+            ],
+            "central": false,
+            "measure": "identification of learner responses to WCF as a major theme",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null
+          },
+          {
+            "kind": "other",
+            "text": "Stakeholders' beliefs and perspectives on WCF was identified as one of the major themes.",
+            "quote": "(3) stakeholders’ beliefs and perspectives on WCF",
+            "entity": "themes identified in the review",
+            "quotes": [
+              "(3) stakeholders’ beliefs and perspectives on WCF"
+            ],
+            "central": false,
+            "measure": "identification of stakeholders' beliefs as a major theme",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null
+          }
+        ],
+        "claim_text": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes",
+        "diagnostics": [],
+        "explanation": "The abstract states that \"A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.\" This supports the central assertion (a systematic review of 50 naturalistic classroom studies identified major themes) and both named themes: learner responses to WCF and stakeholders' beliefs. The paper also describes itself as \"A systematic review was conducted by the review team\" and defines its scope as naturalistic classroom studies (\"there is not yet a synthesis of naturalistic classroom studies where the type and amount of feedback provided on students’ writing performance is not manipulated or controlled\"). No assertion is contradicted or absent.",
+        "paper_title": "Written corrective feedback in second language writing: A synthesis of naturalistic classroom studies",
+        "model_status": "verified",
+        "claim_sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024).",
+        "evidence_quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+          "A systematic review was conducted by the review team to synthesize and interpret findings accumulated across individual primary studies.",
+          "there is not yet a synthesis of naturalistic classroom studies where the type and amount of feedback provided on students’ writing performance is not manipulated or controlled"
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (abstract)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+              "Qualitative\n7\n16\n7\n5\n35 (66.0%)",
+              "Among the 50 articles included in this review, most were not the-\noretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets."
+            ],
+            "tokens": {
+              "input_tokens": 23553,
+              "output_tokens": 839
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Mao et al., 2024)",
+        "paper_id": "c5c68874-7dbe-4180-bd00-ceff93a9b93b",
+        "paper_doi": "10.1017/s0261444823000393",
+        "assertions": [
+          {
+            "kind": "quantity",
+            "text": "Most included studies were qualitative, at 66.0%",
+            "quote": "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+            "entity": "included studies in the review (50 naturalistic WCF studies)",
+            "quotes": [
+              "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+              "Qualitative\n7\n16\n7\n5\n35 (66.0%)"
+            ],
+            "central": true,
+            "measure": "proportion of included studies using a qualitative research design",
+            "verdict": "supported",
+            "claim_value": "66.0% (most)",
+            "source_value": "66.0% (35 of 53 strand entries; most)"
+          },
+          {
+            "kind": "quantity",
+            "text": "Only 22.0% of included studies were theoretically motivated",
+            "quote": "Among the 50 articles included in this review, most were not the-\noretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets.",
+            "entity": "included studies in the review (50 naturalistic WCF studies)",
+            "quotes": [
+              "Among the 50 articles included in this review, most were not the-\noretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets."
+            ],
+            "central": false,
+            "measure": "proportion of studies making explicit reference to theoretical tenets",
+            "verdict": "supported",
+            "claim_value": "22.0% (only)",
+            "source_value": "11 studies (22.0%)"
+          }
+        ],
+        "claim_text": "Most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated",
+        "diagnostics": [],
+        "explanation": "Both propositions are stated in the source. Chunk 2 reports that \"Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies,\" and Table 4 lists Qualitative 35 (66.0%). Chunk 1 reports \"Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets.\" The claim's \"only 22.0% were theoretically motivated\" matches the source's 11/50 = 22.0% figure for studies making explicit reference to theoretical tenets, and the \"most ... qualitative\" quantifier matches the source's \"Most of the studies in our review have adopted a qualitative research design.\"",
+        "paper_title": "Written corrective feedback in second language writing: A synthesis of naturalistic classroom studies",
+        "model_status": "verified",
+        "claim_sentence": "Most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024).",
+        "evidence_quote": "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+          "Qualitative\n7\n16\n7\n5\n35 (66.0%)",
+          "Among the 50 articles included in this review, most were not the-\noretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets."
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (abstract)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the sec-\nond draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggest-\ning that the feedback led to students’ revisions produced meaningful improvements \nin the scores between drafts.",
+              "The quantitative analysis of students writing \nperformance indicated that peer feedback led to students’ revisions produced mean-\ningful improvements in the scores between drafts.",
+              "The rubric included a definition for each writing element, questions evaluators \nshould ask themselves when scoring the element, and a scoring guide with a 1–7 \nscale (7 is the highest score)."
+            ],
+            "tokens": {
+              "input_tokens": 18263,
+              "output_tokens": 1517
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Li & Hebert, 2023)",
+        "paper_id": "ed3099af-1e6d-490d-9f1b-e50b69dc7019",
+        "paper_doi": "10.1007/s11145-023-10466-8",
+        "assertions": [
+          {
+            "kind": "quantity",
+            "text": "Paper ratings improved by a mean of 1.1 points between the first and second drafts.",
+            "quote": "paper ratings improved by a mean of 1.1 points (out of 7)",
+            "entity": "paper ratings of the twelve L2 students' first and second drafts",
+            "quotes": [
+              "paper ratings improved by a mean of 1.1 points (out of 7)"
+            ],
+            "central": true,
+            "measure": "mean score change between drafts",
+            "verdict": "supported",
+            "claim_value": "1.1 points",
+            "source_value": "1.1 points"
+          },
+          {
+            "kind": "quantity",
+            "text": "The rating scale is out of 7 points.",
+            "quote": "a scoring guide with a 1–7 \nscale (7 is the highest score)",
+            "entity": "writing rubric scale",
+            "quotes": [
+              "a scoring guide with a 1–7 \nscale (7 is the highest score)"
+            ],
+            "central": false,
+            "measure": "scale range",
+            "verdict": "supported",
+            "claim_value": "out of 7",
+            "source_value": "1–7 scale (7 is the highest score)"
+          },
+          {
+            "kind": "quantity",
+            "text": "The paired t-test statistic was t(11) = 6.51.",
+            "quote": "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62)",
+            "entity": "paired t-test of paper ratings from first to second draft",
+            "quotes": [
+              "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62)"
+            ],
+            "central": false,
+            "measure": "t statistic with 11 degrees of freedom",
+            "verdict": "supported",
+            "claim_value": "t(11) = 6.51",
+            "source_value": "t(11) = 6.51"
+          },
+          {
+            "kind": "quantity",
+            "text": "The effect size was Cohen's d = 1.62.",
+            "quote": "Cohen’s d = 1.62",
+            "entity": "paired t-test of paper ratings from first to second draft",
+            "quotes": [
+              "Cohen’s d = 1.62"
+            ],
+            "central": false,
+            "measure": "Cohen's d",
+            "verdict": "supported",
+            "claim_value": "1.62",
+            "source_value": "1.62"
+          },
+          {
+            "kind": "quantity",
+            "text": "The p-value was below 0.001.",
+            "quote": "p < 0.000",
+            "entity": "paired t-test of paper ratings from first to second draft",
+            "quotes": [
+              "p < 0.000"
+            ],
+            "central": false,
+            "measure": "p-value",
+            "verdict": "supported",
+            "claim_value": "p < 0.001",
+            "source_value": "p < 0.000"
+          },
+          {
+            "kind": "attribution",
+            "text": "The authors interpret the gain as meaningful improvement following feedback-driven revision.",
+            "quote": "suggesting that the feedback led to students’ revisions produced meaningful improvements \nin the scores between drafts",
+            "entity": "authors' interpretation of the score gain",
+            "quotes": [
+              "suggesting that the feedback led to students’ revisions produced meaningful improvements \nin the scores between drafts",
+              "The quantitative analysis of students writing \nperformance indicated that peer feedback led to students’ revisions produced mean-\ningful improvements in the scores between drafts."
+            ],
+            "central": false,
+            "measure": "interpretation of improvement as meaningful and attributable to feedback-driven revision",
+            "verdict": "supported",
+            "claim_value": "meaningful improvement following feedback-driven revision",
+            "source_value": "suggesting that the feedback led to students’ revisions produced meaningful improvements in the scores between drafts"
+          }
+        ],
+        "claim_text": "paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision",
+        "diagnostics": [],
+        "explanation": "The source states: \"A paired t-test (t(11) = 6.51, p < 0.000, Cohen's d = 1.62) of paper ratings from the first to the second draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggesting that the feedback led to students' revisions produced meaningful improvements in the scores between drafts.\" Every element of the claim — the mean gain of 1.1 points on a 7-point scale, t(11) = 6.51, Cohen's d = 1.62, and the authors' interpretation of meaningful improvement attributed to feedback-driven revision — is reproduced. The only difference is the p-value notation: the claim writes p < 0.001 while the source prints p < 0.000; these are numerically equivalent at the stated precision (a p-value reported as < .000 is conventionally read as < .001), so no value, direction or quantifier differs. The abstract likewise reports that \"peer feedback led to students' revisions produced meaningful improvements in the scores between drafts.\"",
+        "paper_title": "Unpacking an online peer-mediated and self-reflective revision process in second-language persuasive writing",
+        "model_status": "verified",
+        "claim_sentence": "In a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023).",
+        "evidence_quote": "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the sec-\nond draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggest-\ning that the feedback led to students’ revisions produced meaningful improvements \nin the scores between drafts.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "A paired t-test (t(11) = 6.51, p < 0.000, Cohen’s d = 1.62) of paper ratings from the first to the sec-\nond draft shows paper ratings improved by a mean of 1.1 points (out of 7), suggest-\ning that the feedback led to students’ revisions produced meaningful improvements \nin the scores between drafts.",
+          "The quantitative analysis of students writing \nperformance indicated that peer feedback led to students’ revisions produced mean-\ningful improvements in the scores between drafts.",
+          "The rubric included a definition for each writing element, questions evaluators \nshould ask themselves when scoring the element, and a scoring guide with a 1–7 \nscale (7 is the highest score)."
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (introduction)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "participants \ndecided to follow and incorporate both higher- and lower-order peer feedback \ninto their second draft and revise the writing issues, especially regarding support, \ncoherence, grammar, and spelling.",
+              "Contrary to the conclusions drawn from other empirical studies (e.g., Cho & MacArthur, 2010; Min, 2006) which found that stu-\ndents tended to act on micro-level language issues from their peers and make only \nlow-level revisions on their second drafts, this finding indicates that students could \nidentify and balance both higher-order content and low-level language issues upon \nreceiving peer feedback",
+              "Twelve students (9 female and 3 male) who sought online peer feedback on \nthe QQ platform after writing the first draft were recruited to complete the revi-\nsion worksheet and allow the first author to collect their first and second writing \ndrafts."
+            ],
+            "tokens": {
+              "input_tokens": 18234,
+              "output_tokens": 1307
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [
+              "quote_not_verbatim"
+            ],
+            "repair_prompt_version": null
+          },
+          {
+            "quotes": [
+              "Contrary to the conclusions drawn from other empirical studies (e.g., Cho & MacArthur, 2010; Min, 2006) which found that stu-\ndents tended to act on micro-level language issues from their peers and make only \nlow-level revisions on their second drafts, this finding indicates that students could \nidentify and balance both higher-order content and low-level language issues upon \nreceiving peer feedback",
+              "Twelve students (9 female and 3 male) who sought online peer feedback on \nthe QQ platform after writing the first draft were recruited to complete the revi-\nsion worksheet and allow the first author to collect their first and second writing \ndrafts."
+            ],
+            "tokens": {
+              "input_tokens": 19853,
+              "output_tokens": 1350
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": "sha256:7ec7cffe852d"
+          }
+        ],
+        "status": "verified",
+        "citation": "(Li & Hebert, 2023)",
+        "paper_id": "ed3099af-1e6d-490d-9f1b-e50b69dc7019",
+        "paper_doi": "10.1007/s11145-023-10466-8",
+        "assertions": [
+          {
+            "kind": "direction",
+            "text": "The study's participants (the twelve recruited L2 students) acted on both higher-order content issues and low-level language issues in their revisions",
+            "quote": "Contrary to the conclusions drawn from other empirical studies (e.g., Cho & MacArthur, 2010; Min, 2006) which found that stu-\ndents tended to act on micro-level language issues from their peers and make only \nlow-level revisions on their second drafts, this finding indicates that students could \nidentify and balance both higher-order content and low-level language issues upon \nreceiving peer feedback",
+            "entity": "the twelve recruited Chinese-speaking L2 English students in the study",
+            "quotes": [
+              "Contrary to the conclusions drawn from other empirical studies (e.g., Cho & MacArthur, 2010; Min, 2006) which found that stu-\ndents tended to act on micro-level language issues from their peers and make only \nlow-level revisions on their second drafts, this finding indicates that students could \nidentify and balance both higher-order content and low-level language issues upon \nreceiving peer feedback"
+            ],
+            "central": true,
+            "measure": "whether revisions incorporated both higher-order content and lower-order language peer feedback",
+            "verdict": "supported",
+            "claim_value": "both higher-order content and low-level language issues",
+            "source_value": "both higher-order content and low-level language issues"
+          },
+          {
+            "kind": "attribution",
+            "text": "Earlier empirical studies found that students make only low-level revisions on second drafts",
+            "quote": "Contrary to the conclusions drawn from other empirical studies (e.g., Cho & MacArthur, 2010; Min, 2006) which found that stu-\ndents tended to act on micro-level language issues from their peers and make only \nlow-level revisions on their second drafts",
+            "entity": "earlier empirical studies (e.g., Cho & MacArthur, 2010; Min, 2006)",
+            "quotes": [
+              "Contrary to the conclusions drawn from other empirical studies (e.g., Cho & MacArthur, 2010; Min, 2006) which found that stu-\ndents tended to act on micro-level language issues from their peers and make only \nlow-level revisions on their second drafts"
+            ],
+            "central": false,
+            "measure": "reported revision behavior on second drafts",
+            "verdict": "supported",
+            "claim_value": "only low-level revisions on second drafts",
+            "source_value": "make only low-level revisions on their second drafts"
+          },
+          {
+            "kind": "population",
+            "text": "The participants are the students of this study (twelve recruited L2 English undergraduates)",
+            "quote": "Twelve students (9 female and 3 male) who sought online peer feedback on \nthe QQ platform after writing the first draft were recruited to complete the revi-\nsion worksheet and allow the first author to collect their first and second writing \ndrafts.",
+            "entity": "participants of the present study",
+            "quotes": [
+              "Twelve students (9 female and 3 male) who sought online peer feedback on \nthe QQ platform after writing the first draft were recruited to complete the revi-\nsion worksheet and allow the first author to collect their first and second writing \ndrafts."
+            ],
+            "central": false,
+            "measure": "sample description",
+            "verdict": "supported",
+            "claim_value": "participants of the study",
+            "source_value": "Twelve students"
+          }
+        ],
+        "claim_text": "participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts",
+        "diagnostics": [],
+        "explanation": "The central assertion — that the 12 participants acted on both higher-order content and low-level language issues — is stated directly: \"participants decided to follow and incorporate both higher- and lower-order peer feedback into their second draft and revise the writing issues, especially regarding support, coherence, grammar, and spelling.\" The contrast with prior literature is also stated: \"Contrary to the conclusions drawn from other empirical studies (e.g., Cho & MacArthur, 2010; Min, 2006) which found that students tended to act on micro-level language issues from their peers and make only low-level revisions on their second drafts, this finding indicates that students could identify and balance both higher-order content and low-level language issues upon receiving peer feedback\". Both peripheral assertions (the participants' identity as the study's students, and the earlier-findings contrast) are supported, and nothing is contradicted.",
+        "paper_title": "Unpacking an online peer-mediated and self-reflective revision process in second-language persuasive writing",
+        "model_status": "verified",
+        "claim_sentence": "Notably, participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts (Li & Hebert, 2023).",
+        "evidence_quote": "Contrary to the conclusions drawn from other empirical studies (e.g., Cho & MacArthur, 2010; Min, 2006) which found that stu-\ndents tended to act on micro-level language issues from their peers and make only \nlow-level revisions on their second drafts, this finding indicates that students could \nidentify and balance both higher-order content and low-level language issues upon \nreceiving peer feedback",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "Contrary to the conclusions drawn from other empirical studies (e.g., Cho & MacArthur, 2010; Min, 2006) which found that stu-\ndents tended to act on micro-level language issues from their peers and make only \nlow-level revisions on their second drafts, this finding indicates that students could \nidentify and balance both higher-order content and low-level language issues upon \nreceiving peer feedback",
+          "Twelve students (9 female and 3 male) who sought online peer feedback on \nthe QQ platform after writing the first draft were recruited to complete the revi-\nsion worksheet and allow the first author to collect their first and second writing \ndrafts."
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (introduction)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "However, this study has not established a causal role of students’ self-reflections.",
+              "The findings suggest that the revision worksheet, which required students to document their self-reflections, provided opportunities to analyze the direct connection between students’ self-reflection and revision planning from the online peer review and subsequent text revision processes.",
+              "Thus, the current exploratory study seems to represent a step forward."
+            ],
+            "tokens": {
+              "input_tokens": 18219,
+              "output_tokens": 675
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [
+              "quote_not_verbatim"
+            ],
+            "repair_prompt_version": null
+          },
+          {
+            "quotes": [
+              "However, this study has not established a causal role of students’ self-reflections.",
+              "The findings suggest that the revision worksheet, which required students to document their self-reflections, provided opportunities to analyze the direct connection between students’ self-reflection and revision planning from the online peer review and subsequent text revision processes."
+            ],
+            "tokens": {
+              "input_tokens": 19175,
+              "output_tokens": 661
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": "sha256:7ec7cffe852d"
+          }
+        ],
+        "status": "verified",
+        "citation": "(Li & Hebert, 2023)",
+        "paper_id": "ed3099af-1e6d-490d-9f1b-e50b69dc7019",
+        "paper_doi": "10.1007/s11145-023-10466-8",
+        "assertions": [
+          {
+            "kind": "attribution",
+            "text": "A causal role for students' self-reflections was not established.",
+            "quote": "However, this study has not established a causal role of students’ self-reflections.",
+            "entity": "students' self-reflections in the present study",
+            "quotes": [
+              "However, this study has not established a causal role of students’ self-reflections."
+            ],
+            "central": true,
+            "measure": "establishment of a causal role",
+            "verdict": "supported",
+            "claim_value": "not established",
+            "source_value": "not established"
+          },
+          {
+            "kind": "population",
+            "text": "The entity in question is the present study of students' self-reflections (documented via the revision worksheet) in the peer-mediated revision process.",
+            "quote": "The findings suggest that the revision worksheet, which required students to document their self-reflections, provided opportunities to analyze the direct connection between students’ self-reflection and revision planning from the online peer review and subsequent text revision processes.",
+            "entity": "the present study",
+            "quotes": [
+              "The findings suggest that the revision worksheet, which required students to document their self-reflections, provided opportunities to analyze the direct connection between students’ self-reflection and revision planning from the online peer review and subsequent text revision processes."
+            ],
+            "central": false,
+            "measure": "study scope",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null
+          }
+        ],
+        "claim_text": "a causal role for students' self-reflections was not established",
+        "diagnostics": [],
+        "explanation": "The claim is a direct restatement of the paper's own limitation statement: \"However, this study has not established a causal role of students' self-reflections.\" The central assertion (that the study did not establish a causal role for students' self-reflections) is stated in the source in nearly identical words, and the peripheral assertion identifying the study as the relevant entity is supported by the surrounding discussion of the revision worksheet and the exploratory design. No contradiction and no removed hedge.",
+        "paper_title": "Unpacking an online peer-mediated and self-reflective revision process in second-language persuasive writing",
+        "model_status": "verified",
+        "claim_sentence": "The authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+        "evidence_quote": "However, this study has not established a causal role of students’ self-reflections.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "However, this study has not established a causal role of students’ self-reflections.",
+          "The findings suggest that the revision worksheet, which required students to document their self-reflections, provided opportunities to analyze the direct connection between students’ self-reflection and revision planning from the online peer review and subsequent text revision processes."
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (introduction)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.",
+              "Zara\nUnity—I think the explanation in the last two paragraphs of your essay is \nnot quite relevant to your central argument. Please consider deleting such \nexplanation",
+              "Mike\nWord use—You need to rewrite the sentence “…or something like that” \nbecause “something” is too general"
+            ],
+            "tokens": {
+              "input_tokens": 18221,
+              "output_tokens": 683
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Li & Hebert, 2023)",
+        "paper_id": "ed3099af-1e6d-490d-9f1b-e50b69dc7019",
+        "paper_doi": "10.1007/s11145-023-10466-8",
+        "assertions": [
+          {
+            "kind": "quantity",
+            "text": "Four students ignored unity-related peer feedback",
+            "quote": "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.",
+            "entity": "students in the study (12 Chinese-speaking L2 English undergraduates)",
+            "quotes": [
+              "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.",
+              "Zara\nUnity—I think the explanation in the last two paragraphs of your essay is \nnot quite relevant to your central argument. Please consider deleting such \nexplanation"
+            ],
+            "central": true,
+            "measure": "number of students who ignored unity-related peer feedback",
+            "verdict": "supported",
+            "claim_value": "4",
+            "source_value": "4"
+          },
+          {
+            "kind": "quantity",
+            "text": "Two students ignored word-use-related peer feedback",
+            "quote": "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.",
+            "entity": "students in the study",
+            "quotes": [
+              "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.",
+              "Mike\nWord use—You need to rewrite the sentence “…or something like that” \nbecause “something” is too general"
+            ],
+            "central": false,
+            "measure": "number of students who ignored word-use-related peer feedback",
+            "verdict": "supported",
+            "claim_value": "2",
+            "source_value": "2"
+          }
+        ],
+        "claim_text": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback",
+        "diagnostics": [],
+        "explanation": "The source states verbatim: \"Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.\" Table 7 corroborates this, listing four students (Zara, Mercer, Milton, Helen) with unity-related feedback they decided to ignore and two (Mike, Rose) with word-use-related feedback. Both the central count for unity-related feedback and the peripheral count for word-use-related feedback are supported.",
+        "paper_title": "Unpacking an online peer-mediated and self-reflective revision process in second-language persuasive writing",
+        "model_status": "verified",
+        "claim_sentence": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+        "evidence_quote": "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "Four students ignored unity-related peer feedback, while two ignored word-use-related peer feedback.",
+          "Zara\nUnity—I think the explanation in the last two paragraphs of your essay is \nnot quite relevant to your central argument. Please consider deleting such \nexplanation",
+          "Mike\nWord use—You need to rewrite the sentence “…or something like that” \nbecause “something” is too general"
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (introduction)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "This ethnographic case-study examines the impact of asynchronous written feedback comments on the peer feedback process within one doctorate writing group.",
+              "In total, the participants gave their written reactions to 99 segmented feedback comments of which 22 were coded as very useful, 71 useful, and six as not useful.",
+              "This provided evidence that the participants had critically engaged with at least 93 segmented feedback comments"
+            ],
+            "tokens": {
+              "input_tokens": 29556,
+              "output_tokens": 989
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Yallop et al., 2021)",
+        "paper_id": "a098f412-8604-417e-b967-93fc84fd5b6c",
+        "paper_doi": "10.17239/jowr-2021.12.03.02",
+        "assertions": [
+          {
+            "kind": "population",
+            "text": "The study is an ethnographic case study of a doctoral writing group.",
+            "quote": "This ethnographic case-study examines the impact of asynchronous written feedback comments on the peer feedback process within one doctorate writing group.",
+            "entity": "one L2 English doctorate writing group",
+            "quotes": [
+              "This ethnographic case-study examines the impact of asynchronous written feedback comments on the peer feedback process within one doctorate writing group."
+            ],
+            "central": false,
+            "measure": "study design and setting",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null
+          },
+          {
+            "kind": "quantity",
+            "text": "99 segmented peer comments received written reactions from the participants.",
+            "quote": "In total, the participants gave their written reactions to 99 segmented feedback comments of which 22 were coded as very useful, 71 useful, and six as not useful.",
+            "entity": "participants' segmented feedback comments",
+            "quotes": [
+              "In total, the participants gave their written reactions to 99 segmented feedback comments of which 22 were coded as very useful, 71 useful, and six as not useful."
+            ],
+            "central": false,
+            "measure": "number of segmented feedback comments with written reactions",
+            "verdict": "supported",
+            "claim_value": "99",
+            "source_value": "99"
+          },
+          {
+            "kind": "quantity",
+            "text": "93 of the 99 segmented peer comments were rated useful or very useful.",
+            "quote": "In total, the participants gave their written reactions to 99 segmented feedback comments of which 22 were coded as very useful, 71 useful, and six as not useful.",
+            "entity": "segmented peer feedback comments in the writing group",
+            "quotes": [
+              "In total, the participants gave their written reactions to 99 segmented feedback comments of which 22 were coded as very useful, 71 useful, and six as not useful.",
+              "This provided evidence that the participants had critically engaged with at least 93 segmented feedback comments"
+            ],
+            "central": true,
+            "measure": "count coded very useful (22) plus useful (71) out of 99",
+            "verdict": "supported",
+            "claim_value": "93 of 99",
+            "source_value": "22 very useful + 71 useful = 93 of 99"
+          }
+        ],
+        "claim_text": "in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful",
+        "diagnostics": [],
+        "explanation": "The source states: \"In total, the participants gave their written reactions to 99 segmented feedback comments of which 22 were coded as very useful, 71 useful, and six as not useful. This provided evidence that the participants had critically engaged with at least 93 segmented feedback comments\". 22 + 71 = 93 of 99, matching the claim's numbers exactly. The setting (ethnographic case study of one L2 English doctorate writing group) is also stated in the abstract and method. One nuance: the source frames the 93 as evidence of critical engagement with comments coded very useful/useful, and the six not-useful comments were coded \"unsure\" regarding critical engagement; the claim's \"rated useful or very useful\" is a fair rendering of the coding themes (very useful, useful, not useful).",
+        "paper_title": "The affect and effect of asynchronous written feedback comments on the peer feedback process: An ethnographic case-study approach within one L2 English doctorate writing group",
+        "model_status": "verified",
+        "claim_sentence": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+        "evidence_quote": "This ethnographic case-study examines the impact of asynchronous written feedback comments on the peer feedback process within one doctorate writing group.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "This ethnographic case-study examines the impact of asynchronous written feedback comments on the peer feedback process within one doctorate writing group.",
+          "In total, the participants gave their written reactions to 99 segmented feedback comments of which 22 were coded as very useful, 71 useful, and six as not useful.",
+          "This provided evidence that the participants had critically engaged with at least 93 segmented feedback comments"
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (preamble)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "This ethnographic case-study has identified and modelled how external components, affective components, and effective components can influence one another, and ultimately the revision processes of four participants within one L2 English doctoral writing group.",
+              "These findings, however, are still valid for this closed group at this level of study and within this particular socio-cultural context.",
+              "As this is a predominantly qualitative ethnographic case-study, the authors make no claim that these findings will be reproducible in other writing groups."
+            ],
+            "tokens": {
+              "input_tokens": 29552,
+              "output_tokens": 1016
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Yallop et al., 2021)",
+        "paper_id": "a098f412-8604-417e-b967-93fc84fd5b6c",
+        "paper_doi": "10.17239/jowr-2021.12.03.02",
+        "assertions": [
+          {
+            "kind": "population",
+            "text": "The study is small and involves a single writing group (four participants within one L2 English doctoral writing group).",
+            "quote": "This ethnographic case-study has identified and modelled how external components, affective components, and effective components can influence one another, and ultimately the revision processes of four participants within one L2 English doctoral writing group.",
+            "entity": "the study (ethnographic case-study of one L2 English doctorate writing group)",
+            "quotes": [
+              "This ethnographic case-study has identified and modelled how external components, affective components, and effective components can influence one another, and ultimately the revision processes of four participants within one L2 English doctoral writing group.",
+              "This study has identified affective components, effective components, and external components that can influence the peer feedback processes of four participants within one writing group in their two roles as a feedback recipient (or author), and as a reviewer."
+            ],
+            "central": true,
+            "measure": "number of participants and number of groups",
+            "verdict": "supported",
+            "claim_value": "small, single-group",
+            "source_value": "four participants within one writing group"
+          },
+          {
+            "kind": "scope",
+            "text": "This small, single-group design limits generalizability.",
+            "quote": "These findings, however, are still valid for this closed group at this level of study and within this particular socio-cultural context.",
+            "entity": "the study's findings",
+            "quotes": [
+              "These findings, however, are still valid for this closed group at this level of study and within this particular socio-cultural context."
+            ],
+            "central": false,
+            "measure": "scope of validity of findings",
+            "verdict": "supported",
+            "claim_value": "limited to this closed group and context",
+            "source_value": "valid for this closed group at this level of study and within this particular socio-cultural context"
+          },
+          {
+            "kind": "attribution",
+            "text": "The authors make no claim of reproducibility.",
+            "quote": "As this is a predominantly qualitative ethnographic case-study, the authors make no claim that these findings will be reproducible in other writing groups.",
+            "entity": "the authors",
+            "quotes": [
+              "As this is a predominantly qualitative ethnographic case-study, the authors make no claim that these findings will be reproducible in other writing groups."
+            ],
+            "central": false,
+            "measure": "claim about reproducibility of findings in other writing groups",
+            "verdict": "supported",
+            "claim_value": "no claim of reproducibility",
+            "source_value": "the authors make no claim that these findings will be reproducible in other writing groups"
+          }
+        ],
+        "claim_text": "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility",
+        "diagnostics": [],
+        "explanation": "The claim has two propositions. (1) The study is small and single-group: the source states the study examined \"four participants within one writing group\" and describes itself as an ethnographic case-study of \"four participants within one L2 English doctoral writing group\". (2) The authors make no claim of reproducibility: the source states verbatim \"As this is a predominantly qualitative ethnographic case-study, the authors make no claim that these findings will be reproducible in other writing groups.\" The \"limits generalizability\" framing is supported by the authors' own statement that the findings are \"still valid for this closed group at this level of study and within this particular socio-cultural context\" and that they make no claim of reproducibility in other writing groups. Both assertions are supported; no contradiction and no hedge removal.",
+        "paper_title": "The affect and effect of asynchronous written feedback comments on the peer feedback process: An ethnographic case-study approach within one L2 English doctorate writing group",
+        "model_status": "verified",
+        "claim_sentence": "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021).",
+        "evidence_quote": "This ethnographic case-study has identified and modelled how external components, affective components, and effective components can influence one another, and ultimately the revision processes of four participants within one L2 English doctoral writing group.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "This ethnographic case-study has identified and modelled how external components, affective components, and effective components can influence one another, and ultimately the revision processes of four participants within one L2 English doctoral writing group.",
+          "These findings, however, are still valid for this closed group at this level of study and within this particular socio-cultural context.",
+          "As this is a predominantly qualitative ethnographic case-study, the authors make no claim that these findings will be reproducible in other writing groups."
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (discussion)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "Affect was not coded for, as there was insufficient evidence to do this reliably."
+            ],
+            "tokens": {
+              "input_tokens": 29542,
+              "output_tokens": 554
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Yallop et al., 2021)",
+        "paper_id": "a098f412-8604-417e-b967-93fc84fd5b6c",
+        "paper_doi": "10.17239/jowr-2021.12.03.02",
+        "assertions": [
+          {
+            "kind": "direction",
+            "text": "Affect was not coded (in the analysis of the participants' revision plans)",
+            "quote": "Affect was not coded for, as there was insufficient evidence to do this reliably.",
+            "entity": "Affect in the analysis of the participants' revision plans",
+            "quotes": [
+              "Affect was not coded for, as there was insufficient evidence to do this reliably."
+            ],
+            "central": true,
+            "measure": "whether affect was coded",
+            "verdict": "supported",
+            "claim_value": "not coded",
+            "source_value": "not coded"
+          },
+          {
+            "kind": "attribution",
+            "text": "The reason affect was not coded was that there was insufficient evidence to code it reliably",
+            "quote": "Affect was not coded for, as there was insufficient evidence to do this reliably.",
+            "entity": "Affect coding in the revision plan analysis",
+            "quotes": [
+              "Affect was not coded for, as there was insufficient evidence to do this reliably."
+            ],
+            "central": false,
+            "measure": "stated reason for not coding",
+            "verdict": "supported",
+            "claim_value": "insufficient evidence for reliable coding",
+            "source_value": "insufficient evidence to do this reliably"
+          }
+        ],
+        "claim_text": "Affect was not coded because evidence was insufficient for reliable coding",
+        "diagnostics": [],
+        "explanation": "The source states verbatim, twice, that \"Affect was not coded for, as there was insufficient evidence to do this reliably.\" This directly supports both the polarity (affect was not coded) and the stated reason (insufficient evidence for reliable coding). No assertion is contradicted and no peripheral detail is absent.",
+        "paper_title": "The affect and effect of asynchronous written feedback comments on the peer feedback process: An ethnographic case-study approach within one L2 English doctorate writing group",
+        "model_status": "verified",
+        "claim_sentence": "Affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021).",
+        "evidence_quote": "Affect was not coded for, as there was insufficient evidence to do this reliably.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "Affect was not coded for, as there was insufficient evidence to do this reliably."
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (preamble)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+              "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+              "Total \n16 \n8"
+            ],
+            "tokens": {
+              "input_tokens": 17581,
+              "output_tokens": 896
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Zhang & Hyland, 2018)",
+        "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+        "paper_doi": "10.1016/j.asw.2018.02.004",
+        "assertions": [
+          {
+            "kind": "population",
+            "text": "The study is a case study conducted over a 16-week semester.",
+            "quote": "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+            "entity": "the study (two Chinese students of English)",
+            "quotes": [
+              "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester."
+            ],
+            "central": false,
+            "measure": "study design and duration",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null
+          },
+          {
+            "kind": "quantity",
+            "text": "Teacher feedback addressed more error types (16) than automated feedback (8).",
+            "quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+            "entity": "teacher feedback vs AWE feedback",
+            "quotes": [
+              "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+              "Total \n16 \n8"
+            ],
+            "central": true,
+            "measure": "number of error types addressed",
+            "verdict": "supported",
+            "claim_value": "teacher 16, AWE 8",
+            "source_value": "teacher 16, AWE 8"
+          },
+          {
+            "kind": "attribution",
+            "text": "Differences between the two assignments may have influenced this comparison.",
+            "quote": "although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors",
+            "entity": "the two assignments",
+            "quotes": [
+              "although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors"
+            ],
+            "central": false,
+            "measure": "possible influence on the error-type comparison",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null
+          }
+        ],
+        "claim_text": "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+        "diagnostics": [],
+        "explanation": "Every proposition in the claim is stated in the source. The study is described as a naturalistic case study of two students over a 16-week semester (\"looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester\"). Section 5 states verbatim: \"Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.\" Table 1 confirms the totals of 16 and 8. The hedge about assignment differences is reproduced, not removed, so no hedge test fires.",
+        "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+        "model_status": "verified",
+        "claim_sentence": "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+        "evidence_quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+          "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+          "Total \n16 \n8"
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (abstract)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text",
+              "The highly engaged learner outperformed the moderately engaged learner.",
+              "6  Flora: A highly engaged learner",
+              "7   David: A moderately engaged learner",
+              "The highly engaged learner tended to participate actively and reflect more deeply with both teacher and AWE feedback on her writing, while the moderately engaged learner was less motivated and showed less willingness to use the feedback he received from both sources."
+            ],
+            "tokens": {
+              "input_tokens": 17558,
+              "output_tokens": 1032
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Zhang & Hyland, 2018)",
+        "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+        "paper_doi": "10.1016/j.asw.2018.02.004",
+        "assertions": [
+          {
+            "kind": "direction",
+            "text": "The highly engaged learner outperformed the moderately engaged learner in responding to feedback.",
+            "quote": "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text",
+            "entity": "the highly engaged learner (Flora) versus the moderately engaged learner (David)",
+            "quotes": [
+              "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text",
+              "The highly engaged learner outperformed the moderately engaged learner."
+            ],
+            "central": true,
+            "measure": "relative quality of response to feedback",
+            "verdict": "supported",
+            "claim_value": "highly engaged learner outperformed",
+            "source_value": "highly engaged learner outperformed"
+          },
+          {
+            "kind": "scope",
+            "text": "The outperformance applied to both feedback sources (teacher feedback and AWE feedback).",
+            "quote": "The highly engaged learner tended to participate actively and reflect more deeply with both teacher and AWE feedback on her writing, while the moderately engaged learner was less motivated and showed less willingness to use the feedback he received from both sources.",
+            "entity": "the two feedback sources (teacher feedback and AWE feedback)",
+            "quotes": [
+              "The highly engaged learner tended to participate actively and reflect more deeply with both teacher and AWE feedback on her writing, while the moderately engaged learner was less motivated and showed less willingness to use the feedback he received from both sources."
+            ],
+            "central": false,
+            "measure": "scope of the comparison",
+            "verdict": "supported",
+            "claim_value": "both sources",
+            "source_value": "both sources"
+          },
+          {
+            "kind": "population",
+            "text": "The highly engaged learner is Flora and the moderately engaged learner is David.",
+            "quote": "6  Flora: A highly engaged learner",
+            "entity": "Flora and David",
+            "quotes": [
+              "6  Flora: A highly engaged learner",
+              "7   David: A moderately engaged learner"
+            ],
+            "central": false,
+            "measure": "engagement classification of the two case-study students",
+            "verdict": "supported",
+            "claim_value": "Flora = highly engaged; David = moderately engaged",
+            "source_value": "Flora = highly engaged; David = moderately engaged"
+          }
+        ],
+        "claim_text": "the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources",
+        "diagnostics": [],
+        "explanation": "The claim reproduces the paper's own comparison statement almost verbatim. Section 8 states: \"This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing shows that the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.\" The highlights also list \"The highly engaged learner outperformed the moderately engaged learner.\" The identification of Flora as the highly engaged learner and David as the moderately engaged learner is supported by the section headings (\"6 Flora: A highly engaged learner\"; \"7 David: A moderately engaged learner\"), and the \"both feedback sources\" element is supported by the same sentence's \"both teacher and AWE feedback\" and by the conclusion's \"The highly engaged learner tended to participate actively and reflect more deeply with both teacher and AWE feedback on her writing\". No assertion is contradicted or absent.",
+        "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+        "model_status": "verified",
+        "claim_sentence": "The same study found that the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources (Zhang & Hyland, 2018).",
+        "evidence_quote": "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text",
+          "The highly engaged learner outperformed the moderately engaged learner.",
+          "6  Flora: A highly engaged learner",
+          "7   David: A moderately engaged learner",
+          "The highly engaged learner tended to participate actively and reflect more deeply with both teacher and AWE feedback on her writing, while the moderately engaged learner was less motivated and showed less willingness to use the feedback he received from both sources."
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (abstract)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      }
+    ],
+    "verified_count": 11,
+    "unsupported_count": 0,
+    "abstract_only_count": 0
+  },
+  "section_type": "literature_review",
+  "citation_audit": {
+    "total": 4,
+    "matched": [
+      "Mao, 2024",
+      "Li, 2023",
+      "Yallop, 2021",
+      "Zhang, 2018"
+    ],
+    "unmatched": [],
+    "needs_citation_flags": 4
+  },
+  "citation_links": [
+    {
+      "keys": [
+        "mao_2024"
+      ],
+      "sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes (Mao et al., 2024).",
+      "proposition": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF and stakeholder beliefs as major themes",
+      "evidence_ids": [
+        "e103"
+      ],
+      "citation_text": "(Mao et al., 2024)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 0,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "mao_2024"
+      ],
+      "sentence": "Most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated (Mao et al., 2024).",
+      "proposition": "Most included studies were qualitative (66.0%) and only 22.0% were theoretically motivated",
+      "evidence_ids": [
+        "e104",
+        "e105"
+      ],
+      "citation_text": "(Mao et al., 2024)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 0,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "li_2023"
+      ],
+      "sentence": "In a peer-mediated revision study, paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision (Li & Hebert, 2023).",
+      "proposition": "paper ratings improved by a mean of 1.1 points out of 7 between drafts (t(11) = 6.51, p < 0.001, Cohen's d = 1.62), which the authors interpret as meaningful improvement following feedback-driven revision",
+      "evidence_ids": [
+        "e39"
+      ],
+      "citation_text": "(Li & Hebert, 2023)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 1,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "li_2023"
+      ],
+      "sentence": "Notably, participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts (Li & Hebert, 2023).",
+      "proposition": "participants acted on both higher-order content and low-level language issues, contrary to earlier findings that students make only low-level revisions on second drafts",
+      "evidence_ids": [
+        "e37"
+      ],
+      "citation_text": "(Li & Hebert, 2023)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 1,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "li_2023"
+      ],
+      "sentence": "The authors state that a causal role for students' self-reflections was not established (Li & Hebert, 2023).",
+      "proposition": "a causal role for students' self-reflections was not established",
+      "evidence_ids": [
+        "e38"
+      ],
+      "citation_text": "(Li & Hebert, 2023)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 1,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "li_2023"
+      ],
+      "sentence": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+      "proposition": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback",
+      "evidence_ids": [
+        "e44"
+      ],
+      "citation_text": "(Li & Hebert, 2023)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 2,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "yallop_2021"
+      ],
+      "sentence": "Four students ignored unity-related peer feedback and two ignored word-use-related feedback (Li & Hebert, 2023), while in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful (Yallop et al., 2021).",
+      "proposition": "in an ethnographic case study of a doctoral writing group, 93 of 99 segmented peer comments were rated useful or very useful",
+      "evidence_ids": [
+        "e89"
+      ],
+      "citation_text": "(Yallop et al., 2021)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 2,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "yallop_2021"
+      ],
+      "sentence": "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility (Yallop et al., 2021).",
+      "proposition": "The latter study's small, single-group design limits generalizability, and the authors make no claim of reproducibility",
+      "evidence_ids": [
+        "e92"
+      ],
+      "citation_text": "(Yallop et al., 2021)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 2,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "yallop_2021"
+      ],
+      "sentence": "Affect was not coded because evidence was insufficient for reliable coding (Yallop et al., 2021).",
+      "proposition": "Affect was not coded because evidence was insufficient for reliable coding",
+      "evidence_ids": [
+        "e86"
+      ],
+      "citation_text": "(Yallop et al., 2021)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 2,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "zhang_2018"
+      ],
+      "sentence": "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+      "proposition": "In a 16-week case study, teacher feedback addressed more error types (16) than automated feedback (8), though assignment differences may have influenced this (Zhang & Hyland, 2018).",
+      "evidence_ids": [
+        "e23"
+      ],
+      "citation_text": "(Zhang & Hyland, 2018)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 3,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "zhang_2018"
+      ],
+      "sentence": "The same study found that the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources (Zhang & Hyland, 2018).",
+      "proposition": "the highly engaged learner outperformed the moderately engaged learner in responding to both feedback sources",
+      "evidence_ids": [
+        "e20"
+      ],
+      "citation_text": "(Zhang & Hyland, 2018)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 3,
+      "coverage_incomplete": false
+    }
+  ],
+  "uncited_sentences": [
+    {
+      "tag": "finding",
+      "sentence": "Research on written corrective feedback (WCF) in second-language (L2) writing has shifted from asking whether feedback works to asking how learners engage with it and how teacher, peer, and automated sources compare [NEEDS CITATION].",
+      "paragraph_index": 0
+    },
+    {
+      "tag": "finding",
+      "sentence": "Evidence on the accuracy effects of peer feedback is limited and largely indirect [NEEDS CITATION].",
+      "paragraph_index": 1
+    },
+    {
+      "tag": "finding",
+      "sentence": "Uptake of peer comments is uneven.",
+      "paragraph_index": 2
+    },
+    {
+      "tag": "finding",
+      "sentence": "Comparative evidence on teacher versus automated feedback is sparse.",
+      "paragraph_index": 3
+    },
+    {
+      "tag": "finding",
+      "sentence": "Across these sources, peer WCF is associated with revision improvements and generally positive usefulness ratings, yet the evidence base is dominated by small, qualitative, single-context designs [NEEDS CITATION].",
+      "paragraph_index": 4
+    },
+    {
+      "tag": "finding",
+      "sentence": "Three gaps follow: no direct experimental comparison of peer, teacher, and automated WCF on accuracy; limited evidence on the conditions governing uptake; and an affective dimension that remains unexamined [NEEDS CITATION].",
+      "paragraph_index": 4
+    }
+  ]
+}

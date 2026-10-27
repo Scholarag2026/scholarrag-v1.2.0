@@ -1,0 +1,212 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2,
+        "sectionType": "literature_review"
+      },
+      "content": [
+        {
+          "text": "Learner engagement with written corrective feedback",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "mao_2024"
+            ],
+            "sentence": "A synthesis of 50 classroom studies found most were qualitative and few theoretically motivated (Mao et al., 2024).",
+            "proposition": "A synthesis of 50 classroom studies found most were qualitative and few theoretically motivated",
+            "evidence_ids": [
+              "e105",
+              "e104"
+            ],
+            "citation_text": "(Mao et al., 2024)"
+          }
+        ],
+        "uncitedSentences": [
+          {
+            "tag": "framing",
+            "sentence": "Within this framing, the library distinguishes teacher-provided feedback, peer feedback, and automated writing evaluation (AWE), and documents uptake, attention and affective response for each."
+          }
+        ]
+      },
+      "content": [
+        {
+          "text": "A synthesis of 50 classroom studies found most were qualitative and few theoretically motivated (Mao et al., 2024). Within this framing, the library distinguishes teacher-provided feedback, peer feedback, and automated writing evaluation (AWE), and documents uptake, attention and affective response for each.",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "razmi_2024"
+            ],
+            "sentence": "Razmi and Ghane (2024) reported that Iranian male learners receiving WCF outperformed controls on writing performance and self-efficacy and showed lower writing anxiety, though the sample was small, exclusively male, and intermediate-level.",
+            "proposition": "Iranian male learners receiving WCF outperformed controls on writing performance and self-efficacy and showed lower writing anxiety, though the sample was small, exclusively male, and intermediate-level",
+            "evidence_ids": [
+              "e16",
+              "e17",
+              "e12",
+              "e10"
+            ],
+            "citation_text": "Razmi and Ghane (2024)"
+          },
+          {
+            "keys": [
+              "zhang_2018"
+            ],
+            "sentence": "Zhang and Hyland (2018) showed that teacher feedback addressed more error types than automated writing evaluation (AWE), which tended to highlight rather than correct errors; the highly engaged learner outperformed the moderately engaged one in responding to both sources.",
+            "proposition": "teacher feedback addressed more error types than automated writing evaluation (AWE), which tended to highlight rather than correct errors",
+            "evidence_ids": [
+              "e23",
+              "e25"
+            ],
+            "citation_text": "Zhang and Hyland (2018)"
+          },
+          {
+            "keys": [
+              "zhang_2018"
+            ],
+            "sentence": "Zhang and Hyland (2018) showed that teacher feedback addressed more error types than automated writing evaluation (AWE), which tended to highlight rather than correct errors; the highly engaged learner outperformed the moderately engaged one in responding to both sources.",
+            "proposition": "the highly engaged learner outperformed the moderately engaged one in responding to both sources",
+            "evidence_ids": [
+              "e20"
+            ],
+            "citation_text": "Zhang and Hyland (2018)"
+          },
+          {
+            "keys": [
+              "liu_2019"
+            ],
+            "sentence": "Learner preferences converge on explicit teacher input: university ESL students favoured direct correction combined with metalinguistic explanations over direct correction alone (Liu & Wu, 2019).",
+            "proposition": "Learner preferences converge on explicit teacher input: university ESL students favoured direct correction combined with metalinguistic explanations over direct correction alone (Liu & Wu, 2019).",
+            "evidence_ids": [
+              "e79"
+            ],
+            "citation_text": "(Liu & Wu, 2019)"
+          }
+        ],
+        "uncitedSentences": [
+          {
+            "tag": "framing",
+            "sentence": "Teacher feedback anchors the comparison."
+          }
+        ]
+      },
+      "content": [
+        {
+          "text": "Teacher feedback anchors the comparison. Razmi and Ghane (2024) reported that Iranian male learners receiving WCF outperformed controls on writing performance and self-efficacy and showed lower writing anxiety, though the sample was small, exclusively male, and intermediate-level. Zhang and Hyland (2018) showed that teacher feedback addressed more error types than automated writing evaluation (AWE), which tended to highlight rather than correct errors; the highly engaged learner outperformed the moderately engaged one in responding to both sources. Learner preferences converge on explicit teacher input: university ESL students favoured direct correction combined with metalinguistic explanations over direct correction alone (Liu & Wu, 2019).",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "lópez_2018"
+            ],
+            "sentence": "Self-reported cognitive load was lower after direct corrections on grammatical errors than after metalinguistic codes on all errors (Bonilla López et al., 2018).",
+            "proposition": "Self-reported cognitive load was lower after direct corrections on grammatical errors than after metalinguistic codes on all errors",
+            "evidence_ids": [
+              "e96"
+            ],
+            "citation_text": "(Bonilla López et al., 2018)"
+          },
+          {
+            "keys": [
+              "li_2023"
+            ],
+            "sentence": "Peer-mediated revision also produced meaningful score gains, although students ignored some peer comments (Li & Hebert, 2023).",
+            "proposition": "Peer-mediated revision also produced meaningful score gains, although students ignored some peer comments",
+            "evidence_ids": [
+              "e39",
+              "e44"
+            ],
+            "citation_text": "(Li & Hebert, 2023)"
+          },
+          {
+            "keys": [
+              "zhang_2021"
+            ],
+            "sentence": "In an integrated approach, most students actively engaged and revised thoughtfully (Zhang and Hyland, 2021).",
+            "proposition": "most students actively engaged and revised thoughtfully",
+            "evidence_ids": [
+              "e57"
+            ],
+            "citation_text": "(Zhang and Hyland, 2021)"
+          }
+        ],
+        "uncitedSentences": [
+          {
+            "tag": "framing",
+            "sentence": "Experimental work indicates that feedback explicitness shapes accuracy gains and processing effort."
+          }
+        ]
+      },
+      "content": [
+        {
+          "text": "Experimental work indicates that feedback explicitness shapes accuracy gains and processing effort. Self-reported cognitive load was lower after direct corrections on grammatical errors than after metalinguistic codes on all errors (Bonilla López et al., 2018). Peer-mediated revision also produced meaningful score gains, although students ignored some peer comments (Li & Hebert, 2023). In an integrated approach, most students actively engaged and revised thoughtfully (Zhang and Hyland, 2021).",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "koltovskaia_2022"
+            ],
+            "sentence": "Teachers using Grammarly reported time savings yet still addressed lower-order concerns (Koltovskaia, 2022).",
+            "proposition": "Teachers using Grammarly reported time savings yet still addressed lower-order concerns",
+            "evidence_ids": [
+              "e29",
+              "e33"
+            ],
+            "citation_text": "(Koltovskaia, 2022)"
+          },
+          {
+            "keys": [
+              "hyland_2025"
+            ],
+            "sentence": "Concerns persist that AI feedback lacks specificity and rhetorical insight (Hyland, 2025).",
+            "proposition": "Concerns persist that AI feedback lacks specificity and rhetorical insight",
+            "evidence_ids": [
+              "e48",
+              "e47"
+            ],
+            "citation_text": "(Hyland, 2025)"
+          }
+        ],
+        "uncitedSentences": [
+          {
+            "tag": "framing",
+            "sentence": "Automated feedback raises distinct questions of accuracy and teacher role."
+          }
+        ]
+      },
+      "content": [
+        {
+          "text": "Automated feedback raises distinct questions of accuracy and teacher role. Teachers using Grammarly reported time savings yet still addressed lower-order concerns (Koltovskaia, 2022). Concerns persist that AI feedback lacks specificity and rhetorical insight (Hyland, 2025).",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}

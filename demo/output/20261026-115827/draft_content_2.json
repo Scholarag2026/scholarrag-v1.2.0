@@ -1,0 +1,121 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2,
+        "sectionType": "literature_review"
+      },
+      "content": [
+        {
+          "text": "Revision behaviour after written corrective feedback",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "mao_2024"
+            ],
+            "sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets (Mao et al., 2024).",
+            "proposition": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets",
+            "evidence_ids": [
+              "e103",
+              "e104",
+              "e105"
+            ],
+            "citation_text": "(Mao et al., 2024)"
+          }
+        ]
+      },
+      "content": [
+        {
+          "text": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets (Mao et al., 2024).",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "lópez_2018"
+            ],
+            "sentence": "The same study reported that cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+            "proposition": "cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors",
+            "evidence_ids": [
+              "e96"
+            ],
+            "citation_text": "(Bonilla López et al., 2018)"
+          }
+        ]
+      },
+      "content": [
+        {
+          "text": "The same study reported that cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "zhang_2018"
+            ],
+            "sentence": "Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison.",
+            "proposition": "automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison",
+            "evidence_ids": [
+              "e25",
+              "e23"
+            ],
+            "citation_text": "Zhang and Hyland (2018)"
+          },
+          {
+            "keys": [
+              "zhang_2021"
+            ],
+            "sentence": "In an integrated classroom case study, the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions (Zhang & Hyland, 2021).",
+            "proposition": "the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions",
+            "evidence_ids": [
+              "e57"
+            ],
+            "citation_text": "(Zhang & Hyland, 2021)"
+          },
+          {
+            "keys": [
+              "zhang_2021"
+            ],
+            "sentence": "The same authors note that students were not required to address all feedback received (Zhang & Hyland, 2021).",
+            "proposition": "students were not required to address all feedback received",
+            "evidence_ids": [
+              "e61"
+            ],
+            "citation_text": "(Zhang & Hyland, 2021)"
+          }
+        ],
+        "uncitedSentences": [
+          {
+            "tag": "framing",
+            "sentence": "Automated feedback occupies a different position in the revision process."
+          }
+        ]
+      },
+      "content": [
+        {
+          "text": "Automated feedback occupies a different position in the revision process. Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison. In an integrated classroom case study, the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions (Zhang & Hyland, 2021). The same authors note that students were not required to address all feedback received (Zhang & Hyland, 2021).",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}

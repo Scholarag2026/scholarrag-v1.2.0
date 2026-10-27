@@ -1,0 +1,21 @@
+{
+  "dataset": "Nagtegaal_2019",
+  "duplicate_record_ids": [
+    169,
+    276,
+    419,
+    562,
+    704,
+    1030,
+    1132,
+    1231,
+    1397,
+    1544,
+    1752
+  ],
+  "n_included_unique": 101,
+  "n_rows": 2019,
+  "n_ta_positive_unique": 389,
+  "n_unique": 2008,
+  "rule": "a row whose duplicate_record_id is non-empty is a duplicate of the record it names and is dropped; the named record is kept"
+}

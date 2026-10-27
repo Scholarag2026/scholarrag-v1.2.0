@@ -1,0 +1,17 @@
+url: 10.18653/v1/2025.findings-acl.412
+accessed: 2026-10-23
+Source text fetched from https://arxiv.org/pdf/2505.24757 (arXiv:2505.24757v2), the preprint of the
+Findings of ACL 2025 paper.
+
+Table 2: Zero-shot models; recall values are macro-averages over SLRs. All LLM-based models use Llama3.3-70B.
+
+Dataset         # SLRs    # Papers Domain                                              Avg. inclusion rate (%)
+SYNERGY               26 169288 medicine (21), psychology (6), computer science (2),  4.31 chemistry (2), biology (3), mathematics (1)
+
+Dataset Model      MAP TNR@95% R@20%
+SYNERGY Llama3.1-8B 31.9           61.3 80.9
+Llama3.3-70B 40.7  67.0 81.9
+Mistral-123B 38.8  65.8 82.0
+Qwen2.5-32B 38.7   63.2 78.6
+Qwen2.5-72B 41.3   68.5 83.0
+Table 3: Comparison of LLMs. Scale: 0-19. Re-ranker: monoT5 with title-only as query. 0-shot prompting.

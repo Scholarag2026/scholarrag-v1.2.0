@@ -1,0 +1,915 @@
+{
+  "runs": {
+    "Nagtegaal_2019": {
+      "1": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed01.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "1",
+          "--seed",
+          "1"
+        ],
+        "wall_seconds": 25.0
+      },
+      "2": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed02.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "2",
+          "--seed",
+          "2"
+        ],
+        "wall_seconds": 26.2
+      },
+      "3": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed03.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "3",
+          "--seed",
+          "3"
+        ],
+        "wall_seconds": 24.4
+      },
+      "4": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed04.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "4",
+          "--seed",
+          "4"
+        ],
+        "wall_seconds": 23.7
+      },
+      "5": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed05.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "5",
+          "--seed",
+          "5"
+        ],
+        "wall_seconds": 26.7
+      },
+      "6": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed06.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "6",
+          "--seed",
+          "6"
+        ],
+        "wall_seconds": 25.7
+      },
+      "7": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed07.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "7",
+          "--seed",
+          "7"
+        ],
+        "wall_seconds": 25.7
+      },
+      "8": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed08.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "8",
+          "--seed",
+          "8"
+        ],
+        "wall_seconds": 25.1
+      },
+      "9": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed09.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "9",
+          "--seed",
+          "9"
+        ],
+        "wall_seconds": 26.7
+      },
+      "10": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed10.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "10",
+          "--seed",
+          "10"
+        ],
+        "wall_seconds": 26.5
+      },
+      "11": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed11.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "11",
+          "--seed",
+          "11"
+        ],
+        "wall_seconds": 24.6
+      },
+      "12": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed12.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "12",
+          "--seed",
+          "12"
+        ],
+        "wall_seconds": 26.9
+      },
+      "13": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed13.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "13",
+          "--seed",
+          "13"
+        ],
+        "wall_seconds": 25.8
+      },
+      "14": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed14.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "14",
+          "--seed",
+          "14"
+        ],
+        "wall_seconds": 24.4
+      },
+      "15": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Nagtegaal_2019.csv",
+          "--output",
+          "<work-dir>/Nagtegaal_2019_seed15.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "15",
+          "--seed",
+          "15"
+        ],
+        "wall_seconds": 24.4
+      }
+    },
+    "Smid_2020": {
+      "1": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed01.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "1",
+          "--seed",
+          "1"
+        ],
+        "wall_seconds": 11.7
+      },
+      "2": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed02.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "2",
+          "--seed",
+          "2"
+        ],
+        "wall_seconds": 11.4
+      },
+      "3": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed03.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "3",
+          "--seed",
+          "3"
+        ],
+        "wall_seconds": 11.5
+      },
+      "4": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed04.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "4",
+          "--seed",
+          "4"
+        ],
+        "wall_seconds": 12.0
+      },
+      "5": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed05.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "5",
+          "--seed",
+          "5"
+        ],
+        "wall_seconds": 10.8
+      },
+      "6": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed06.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "6",
+          "--seed",
+          "6"
+        ],
+        "wall_seconds": 11.6
+      },
+      "7": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed07.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "7",
+          "--seed",
+          "7"
+        ],
+        "wall_seconds": 12.1
+      },
+      "8": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed08.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "8",
+          "--seed",
+          "8"
+        ],
+        "wall_seconds": 12.0
+      },
+      "9": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed09.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "9",
+          "--seed",
+          "9"
+        ],
+        "wall_seconds": 12.0
+      },
+      "10": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed10.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "10",
+          "--seed",
+          "10"
+        ],
+        "wall_seconds": 11.3
+      },
+      "11": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed11.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "11",
+          "--seed",
+          "11"
+        ],
+        "wall_seconds": 11.2
+      },
+      "12": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed12.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "12",
+          "--seed",
+          "12"
+        ],
+        "wall_seconds": 11.0
+      },
+      "13": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed13.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "13",
+          "--seed",
+          "13"
+        ],
+        "wall_seconds": 10.3
+      },
+      "14": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed14.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "14",
+          "--seed",
+          "14"
+        ],
+        "wall_seconds": 11.6
+      },
+      "15": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/Smid_2020.csv",
+          "--output",
+          "<work-dir>/Smid_2020_seed15.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "15",
+          "--seed",
+          "15"
+        ],
+        "wall_seconds": 11.3
+      }
+    },
+    "van_de_Schoot_2017": {
+      "1": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed01.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "1",
+          "--seed",
+          "1"
+        ],
+        "wall_seconds": 12.8
+      },
+      "2": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed02.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "2",
+          "--seed",
+          "2"
+        ],
+        "wall_seconds": 13.3
+      },
+      "3": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed03.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "3",
+          "--seed",
+          "3"
+        ],
+        "wall_seconds": 12.3
+      },
+      "4": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed04.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "4",
+          "--seed",
+          "4"
+        ],
+        "wall_seconds": 12.2
+      },
+      "5": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed05.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "5",
+          "--seed",
+          "5"
+        ],
+        "wall_seconds": 13.8
+      },
+      "6": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed06.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "6",
+          "--seed",
+          "6"
+        ],
+        "wall_seconds": 12.0
+      },
+      "7": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed07.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "7",
+          "--seed",
+          "7"
+        ],
+        "wall_seconds": 13.1
+      },
+      "8": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed08.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "8",
+          "--seed",
+          "8"
+        ],
+        "wall_seconds": 12.5
+      },
+      "9": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed09.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "9",
+          "--seed",
+          "9"
+        ],
+        "wall_seconds": 10.5
+      },
+      "10": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed10.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "10",
+          "--seed",
+          "10"
+        ],
+        "wall_seconds": 12.8
+      },
+      "11": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed11.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "11",
+          "--seed",
+          "11"
+        ],
+        "wall_seconds": 12.6
+      },
+      "12": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed12.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "12",
+          "--seed",
+          "12"
+        ],
+        "wall_seconds": 10.5
+      },
+      "13": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed13.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "13",
+          "--seed",
+          "13"
+        ],
+        "wall_seconds": 12.2
+      },
+      "14": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed14.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "14",
+          "--seed",
+          "14"
+        ],
+        "wall_seconds": 12.1
+      },
+      "15": {
+        "argv": [
+          "asreview",
+          "simulate",
+          "<work-dir>/van_de_Schoot_2017.csv",
+          "--output",
+          "<work-dir>/van_de_Schoot_2017_seed15.asreview",
+          "--n-prior-included",
+          "1",
+          "--n-prior-excluded",
+          "1",
+          "--prior-seed",
+          "15",
+          "--seed",
+          "15"
+        ],
+        "wall_seconds": 12.4
+      }
+    }
+  },
+  "data_sha256": {
+    "Nagtegaal_2019.csv": "a2b9c1494ec83eabb09247aa727e1f131686946880cfae7670dbd842dd6ed9a1",
+    "Smid_2020.csv": "cbf9c5df89ae2376441242f9296a01b6e33eaf2eb901f5e8e02631cedb75fa82",
+    "van_de_Schoot_2017.csv": "32b6458159f3def2ead4e5d184fba5aaeef24ca35a3ba5855a5adb2fa414f891"
+  },
+  "asreview_version": "asreview 3.0.8",
+  "python_version": "Python 3.13.5",
+  "pip_freeze": [
+    "asreview==3.0.8",
+    "attrs==26.1.0",
+    "blinker==1.9.0",
+    "cattrs==26.2.1",
+    "certifi==2026.10.23",
+    "cffi==2.1.1",
+    "charset-normalizer==3.5.2",
+    "click==8.5.0",
+    "cloudpickle==3.1.2",
+    "colorama==0.4.6",
+    "datahugger==0.13",
+    "et_xmlfile==2.0.0",
+    "filelock==4.2.4",
+    "Flask==3.1.3",
+    "flask-cors==6.0.5",
+    "Flask-Login==0.6.3",
+    "Flask-Mail==0.10.0",
+    "Flask-SQLAlchemy==3.1.1",
+    "gevent==26.9.0",
+    "gitignorefile==1.1.2",
+    "greenlet==3.5.6",
+    "idna==3.20",
+    "itsdangerous==2.2.0",
+    "Jinja2==3.1.6",
+    "joblib==1.6.0",
+    "jsonpath-ng==1.13.0",
+    "jsonschema==4.26.0",
+    "jsonschema-specifications==2025.9.1",
+    "markdown-it-py==4.2.0",
+    "MarkupSafe==3.0.4",
+    "mdurl==0.1.2",
+    "narwhals==2.27.1",
+    "natsort==8.4.0",
+    "numpy==2.5.4",
+    "openpyxl==3.1.5",
+    "pandas==2.3.3",
+    "platformdirs==4.13.5",
+    "pyalex==0.21",
+    "pycparser==3.12",
+    "Pygments==2.21.0",
+    "python-dateutil==3.0.0",
+    "pytz==2026.5",
+    "referencing==0.37.0",
+    "requests==2.34.2",
+    "requests-cache==1.3.3",
+    "rich==15.0.0",
+    "rispy==0.9.0",
+    "rpds-py==2026.9.1",
+    "scikit-learn==1.9.1",
+    "scipy==1.18.1",
+    "scisort==0.5.3",
+    "scitree==0.5.3",
+    "seedir==0.5.1",
+    "six==1.17.0",
+    "SQLAlchemy==2.1.6",
+    "SQLAlchemy-Utils==0.43.0",
+    "synergy-dataset==2.2",
+    "tabulate==0.10.0",
+    "threadpoolctl==3.7.0",
+    "tqdm==4.70.1",
+    "typing_extensions==4.16.0",
+    "tzdata==2026.5",
+    "url-normalize==3.0.1",
+    "urllib3==2.8.0",
+    "waitress==3.0.2",
+    "Werkzeug==3.1.9",
+    "zope.event==6.2",
+    "zope.interface==8.7"
+  ],
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "date": "2026-10-23T17:30:43+00:00"
+}

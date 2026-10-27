@@ -1,0 +1,632 @@
+# False negatives - Nagtegaal_2019
+
+Records the source review included that the screener excluded outright (status EXCLUDE), with the screener's stated reason. Records routed to NEEDS_REVIEW stay in the reading queue and are not listed.
+
+## Run A: excluded final inclusions (0)
+
+_none_
+
+## Run A: excluded title-and-abstract positives that were not final inclusions (102)
+
+- **1111** Interventions to improve follow-up of abnormal findings in cancer screening
+  - reason: Literature review, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **486** Default options in the ICU: widely used but insufficiently understood
+  - reason: Review article, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **872** Guidelines in professions allied to medicine
+  - reason: Systematic review of guideline implementation studies, not a single experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1705** Tailored information increases patient/physician discussion of colon cancer risk and testing: The Cancer Risk Intake System trial
+  - reason: Intervention targets patients, not healthcare professionals; patient-reported discussions.
+  - abstract: yes; run B: EXCLUDE
+- **1155** Leveraging insights from behavioral economics to increase the value of health-care service provision
+  - reason: Review/recommendation article, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **700** Electronic medical records to increase the clinical treatment of tobacco dependence: a systematic review
+  - reason: Systematic review, excluded by E4.
+  - abstract: yes; run B: EXCLUDE
+- **810** Feedback as a strategy to change behaviour: the devil is in the details
+  - reason: Review of published feedback studies, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **800** Fall prevention in acute care hospitals: a randomized trial.
+  - reason: Intervention targets patient falls, not healthcare professionals' behaviour.
+  - abstract: yes; run B: EXCLUDE
+- **1373** Pharmacy Asthma Care Program (PACP) improves outcomes for patients in the community.
+  - reason: Intervention targets patients' asthma outcomes, not healthcare professionals' behaviour.
+  - abstract: yes; run B: EXCLUDE
+- **1474** Promoting screening mammography in inner-city settings: a randomized controlled trial of computerized reminders as a component of a program to facilitate mammography
+  - reason: Randomized unit and target are patients (women), not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **928** How to enhance physician and public acceptance and utilisation of colon cancer screening recommendations
+  - reason: Review article, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **658** Effectiveness of physical therapy for patients with neck pain: an individualized approach using a clinical decision-making algorithm
+  - reason: Intervention targets patients with neck pain, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **2012** Words matter: increasing the implementation of clinical guidelines.
+  - reason: Intervention targets mental health service users (patients), not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **194** Approaches based on behavioral economics could help nudge patients and providers toward lower health spending growth
+  - reason: Review/commentary article, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **925** How payment systems affect physicians’ provision behaviour—an experimental investigation.
+  - reason: Payment incentives, not evidence-based medicine or guideline adherence.
+  - abstract: yes; run B: EXCLUDE
+- **1406** Practice development: bridging the research-practice divide through the appointment of a research lead
+  - reason: Descriptive evaluation of a post, no comparison of two or more interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1354** Patient safety research: an overview of the global evidence
+  - reason: Overview of literature, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **974** Implementation fidelity trajectories of a health promotion program in multidisciplinary settings: managing tensions in rehabilitation care
+  - reason: Longitudinal implementation fidelity study, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **323** Changing physician behavior: what works?
+  - reason: Systematic review of reviews, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1038** Improving medication management in multimorbidity: development of the MultimorbiditY COllaborative Medication Review And DEcision Making (MY COMRADE) intervention using the Behaviour Change Wheel
+  - reason: Intervention development paper, no comparison of interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1991** What implementation interventions increase cancer screening rates? a systematic review
+  - reason: Systematic review, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1106** Interventions for implementation of thromboprophylaxis in hospitalized medical and surgical patients at risk for venous thromboembolism
+  - reason: Systematic review/meta-analysis, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1615** Screening for colorectal cancer by once only sigmoidoscopy: a feasibility study in Turin
+  - reason: Nudge targets general population subjects, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **1542** Reasons and consequences of low adherence to standard precautions by the nursing team
+  - reason: Integrative literature review, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **174** An intervention to change clinician behavior: Conceptual framework for the multicolored simplified asthma guideline reminder (MSAGR)
+  - reason: Conceptual framework article, no experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1192** Management of severe sepsis in patients admitted to Asian intensive care units: prospective cohort study
+  - reason: Cohort study, no comparison of two or more interventions.
+  - abstract: yes; run B: EXCLUDE
+- **856** Guideline implementation in allied health professions: a systematic review of the literature
+  - reason: Systematic review, excluded by E4.
+  - abstract: yes; run B: EXCLUDE
+- **1043** Improving patient discharge and reducing hospital readmissions by using Intervention Mapping
+  - reason: Intervention Mapping framework development, not an experiment comparing two or more interventions.
+  - abstract: yes; run B: EXCLUDE
+- **222** Audit and feedback: effects on professional practice and health care outcomes
+  - reason: Systematic review/meta-analysis, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1405** Practice changes associated with the Department of Veterans Affairs' Family Care Collaborative
+  - reason: Mixed-method evaluation of a collaborative, not an experiment comparing two or more interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1750** The design and evaluation of a graphical display for laboratory data
+  - reason: No comparison of two or more interventions; not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1458** Proactive asthma care in childhood: general practice based randomised controlled trial.
+  - reason: Nudge (recall/reminders) targets children and families, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **1948** Use of a decision aid including information on overdetection to support informed choice about breast cancer screening: a randomised controlled trial.
+  - reason: Intervention targets women/patients, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **1851** The role of theory in research to develop and evaluate the implementation of patient safety practices
+  - reason: Conceptual/methodological paper, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1042** Improving Patient Care Through Medical Image Perception Research
+  - reason: Commentary on image perception research; no experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **320** Changing human behavior to prevent disease: the importance of targeting automatic processes.
+  - reason: Targets general public health behaviours, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **1930** Understanding non-compliance to colorectal cancer screening: a case control study, nested in a randomised trial
+  - reason: Study targets patients' screening compliance, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **1468** Professional interventions for general practitioners on the management of musculoskeletal conditions
+  - reason: Systematic review of professional interventions, not a primary experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1773** The effectiveness of computerized clinical guidelines in the process of care: a systematic review
+  - reason: Systematic review, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **93** A review of the evidence for suboptimal compliance of healthcare practitioners to standard/universal infection control precautions
+  - reason: Literature review, not an experiment comparing two or more interventions.
+  - abstract: yes; run B: EXCLUDE
+- **410** Comparative efficacy of interventions to promote hand hygiene in hospital: systematic review and network meta-analysis
+  - reason: Systematic review, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1627** Self-formulated conditional plans for changing health behaviour among healthcare consumers and health professionals.
+  - reason: Protocol for a systematic review, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **995** Implementing guidelines on the prevention of opportunistic infections in inflammatory bowel disease
+  - reason: Pre-post survey of self-reported behaviour, not an experiment comparing interventions.
+  - abstract: yes; run B: NEEDS_REVIEW
+- **1672** Strategies for rehabilitation professionals to move evidence-based knowledge into practice: a systematic review
+  - reason: Systematic review, not an experiment comparing two or more interventions.
+  - abstract: yes; run B: EXCLUDE
+- **525** Development of a complex intervention to promote appropriate prescribing and medication intensification in poorly controlled type 2 diabetes mellitus in Irish general practice
+  - reason: Intervention development paper, no experiment comparing two or more interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1076** Information technology for patient safety
+  - reason: Discussion paper on eHealth, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **437** Computerized reminders to encourage cervical screening in family practice.
+  - reason: Interventions target women/patients, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **1114** Interventions to modify health care provider adherence to asthma guidelines: a systematic review
+  - reason: Systematic review, excluded by E4.
+  - abstract: yes; run B: EXCLUDE
+- **2019** A Systematic Scoping Review of the Choice Architecture Movement: Toward Understanding When and Why Nudges Work
+  - reason: Scoping review, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1454** Printed educational materials: effects on professional practice and health care outcomes
+  - reason: Systematic review of printed educational materials, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1857** The systematic influence of gain-and loss-framed messages on interest in and use of different types of health behavior
+  - reason: Framing experiments target general public/patients, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **499** Design of high reliability organizations in health care
+  - reason: Conceptual design paper, no experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **193** Applying Choice Architecture Principles to Understand HIV Testing: Findings From Malawi and Zimbabwe
+  - reason: Targets general public/patients, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **424** Comprehensive asthma management for underserved children
+  - reason: Programme description/evaluation, not an experiment comparing two or more interventions.
+  - abstract: yes; run B: EXCLUDE
+- **822** Framing options as choice or opportunity: does the frame influence decisions?
+  - reason: Nudge targets healthy women, not healthcare professionals
+  - abstract: yes; run B: EXCLUDE
+- **1057** Improving the success of mailed letter intervention programs to influence prescribing behaviors: a review
+  - reason: Review of mailed intervention programs, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1181** Management for Physicians: An Annotated Bibliography of Recent Literature
+  - reason: Annotated bibliography, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1362** Performance of the TREAT decision support system in an environment with a low prevalence of resistant pathogens.
+  - reason: Retrospective comparison of decision support output vs practice, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1113** Interventions to increase the use of electronic health information by healthcare practitioners to improve clinical practice and patient outcomes
+  - reason: Cochrane systematic review, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1760** The effect of adding Pap smear information to a mammography reminder system in an HMO: results of randomized controlled trial.
+  - reason: Reminders target patients, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **1900** Translating Clinical Research into Clinical Practice: Impact of Using Prediction Rules To Make Decisions
+  - reason: Methodological review paper, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **532** Development, implementation, and evaluation of a community pharmacy-based asthma care model
+  - reason: Intervention targets patients; outcomes are patient clinical outcomes.
+  - abstract: yes; run B: EXCLUDE
+- **503** Designing a valid randomized pragmatic primary care implementation trial: the my own health report (MOHR) project
+  - reason: Intervention targets patients' health behaviors, not healthcare professionals' behavior.
+  - abstract: yes; run B: EXCLUDE
+- **1088** Integrating "Back to Sleep" recommendations into neonatal ICU practice
+  - reason: Intervention targets parents' behaviour, not healthcare professionals' behaviour.
+  - abstract: yes; run B: EXCLUDE
+- **1206** Measuring persistence of implementation: QUERI Series
+  - reason: Conceptual article, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **984** Implementation of the Tobacco Tactics intervention versus usual care in Trinity Health community hospitals
+  - reason: Intervention targets inpatient smokers; nurses deliver but patients are recipients.
+  - abstract: yes; run B: NEEDS_REVIEW
+- **384** Cognitive debiasing 2: impediments to and strategies for change
+  - reason: Narrative review of debiasing strategies, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **857** Guideline implementation: what the literature doesn't tell us
+  - reason: Review of reviews, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1115** Interventions to promote the evidence-based care of children with ADHD in primary-care settings
+  - reason: Review article, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1622** Screening Surgeons for HIV Infection: A Cost-effectiveness Analysis
+  - reason: Cost-effectiveness analysis, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1022** Improving clinical handover between intensive care unit and general ward professionals at intensive care unit discharge.
+  - reason: Systematic review, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1333** Paediatric nurses' postoperative pain management practices in hospital based non-critical care settings: a narrative review
+  - reason: Narrative/systematic review, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **608** Effect of Clinical Decision-Support Systems: a systematic review
+  - reason: Systematic review, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **221** Audit and feedback as a clinical practice guideline implementation strategy: a model for acute care nurse practitioners
+  - reason: Literature review proposing a model, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **318** Changing clinical behaviour by making guidelines specific
+  - reason: Commentary/overview, no experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1207** Measuring the effectiveness of a collaborative for quality improvement in pediatric asthma care: does implementing the chronic care model improve processes and outcomes of care?
+  - reason: Intervention targets pediatric patients and clinics, not healthcare professionals' behaviour.
+  - abstract: yes; run B: EXCLUDE
+- **657** Effectiveness of pharmacist care for patients with reactive airways disease: a randomized controlled trial.
+  - reason: Intervention targets patients' outcomes via pharmacist care, not nudging healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **1751** The development of an intervention to promote adherence to national guidelines for suspected viral encephalitis
+  - reason: Intervention development interview study, no comparison of interventions.
+  - abstract: yes; run B: NEEDS_REVIEW
+- **1904** Translation of appropriateness criteria into practice guidelines: application of decision table techniques to the RAND criteria for coronary artery bypass graft.
+  - reason: Methodological paper on guideline translation, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **622** Effect of physician recommendation and patient adherence on rates of colorectal cancer testing.
+  - reason: Focus on patient characteristics and adherence, not interventions targeting healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **977** Implementation of clinical guidelines through an electronic medical record: physician usage, satisfaction and assessment
+  - reason: Pre-post attitude survey, no comparison of two or more interventions.
+  - abstract: yes; run B: NEEDS_REVIEW
+- **385** Cognitive debiasing through sparklines in clinical data displays
+  - reason: Conceptual illustration piece; no experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **526** Development of a minimization instrument for allocation of a hospital-level performance improvement intervention to reduce waiting times in Ontario emergency departments
+  - reason: Instrument development study, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **415** Comparison of three methods of recalling patients for influenza vaccination.
+  - reason: Nudge targets patients, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **62** A patient-initiated system for preventive health care.
+  - reason: Patient-initiated computer system targeting patients, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **1942** Usage and effect of health information exchange: a systematic review
+  - reason: Systematic review, excluded by design.
+  - abstract: yes; run B: EXCLUDE
+- **1535** Randomized trial of model predictive control for improved anemia management
+  - reason: Intervention targets patients, not healthcare professionals' behaviour.
+  - abstract: yes; run B: EXCLUDE
+- **1966** Using shared goal setting to improve access and equity: a mixed methods study of the Good Goals intervention in children's occupational therapy
+  - reason: Goal setting for access/equity in occupational therapy, not evidence-based medicine adherence.
+  - abstract: yes; run B: EXCLUDE
+- **553** Dissemination of effectiveness and outcomes research
+  - reason: Review of dissemination literature, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **1003** Improved asthma outcomes using a coordinated care approach in a large medical group.
+  - reason: Program review with before-after data, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **29** A clinic-based mammography intervention targeting inner-city women.
+  - reason: Intervention targets patients (women) for mammography, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **64** A pilot study of an electronic interprofessional evidence-based care planning tool for clients with mental health problems and addictions
+  - reason: Pre-post usability study without comparison group; authors note RCT needed.
+  - abstract: yes; run B: EXCLUDE
+- **241** Behavior change without behavior change communication: nudging handwashing among primary school students in Bangladesh.
+  - reason: Targets primary school students, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **895** Helping doctors and patients make sense of health statistics
+  - reason: Review/commentary on statistical literacy, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **790** Exploring the feasibility of Conjoint Analysis as a tool for prioritizing innovations for implementation
+  - reason: Conjoint analysis feasibility study, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **70** A Qualitative Evaluation of the Barriers and Facilitators Toward Implementation of the WHO Surgical Safety Checklist Across Hospitals in England: Lessons From the Surgical Checklist Implementation Project
+  - reason: Qualitative interview study, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **1732** The Behavioral Economics of Health and Health Care
+  - reason: Overview article, not an experiment comparing interventions.
+  - abstract: yes; run B: EXCLUDE
+- **461** Cost-effectiveness of a nurse-based intervention (AIMS) to improve adherence among HIV-infected patients: design of a multi-centre randomised controlled trial.
+  - reason: Intervention targets HIV-infected patients, not healthcare professionals.
+  - abstract: yes; run B: EXCLUDE
+- **1553** Reducing the amount of blood transfused: a systematic review of behavioral interventions to change physicians' transfusion practices
+  - reason: Systematic review, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **105** A systematic review of clinical decision support systems for antimicrobial management: are we failing to investigate these interventions appropriately?
+  - reason: Systematic review, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+- **711** Enhancing evidence-based diabetes and chronic disease control among local health departments: a multi-phase dissemination study with a stepped-wedge cluster randomized trial component
+  - reason: Targets local health department practitioners, not healthcare professionals delivering care.
+  - abstract: yes; run B: EXCLUDE
+- **1774** The effectiveness of interventions to improve laboratory requesting patterns among primary care physicians: a systematic review
+  - reason: Systematic review, not an experiment.
+  - abstract: yes; run B: EXCLUDE
+
+## Run B: excluded final inclusions (0)
+
+_none_
+
+## Run B: excluded title-and-abstract positives that were not final inclusions (103)
+
+- **1111** Interventions to improve follow-up of abnormal findings in cancer screening
+  - reason: Literature review, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **486** Default options in the ICU: widely used but insufficiently understood
+  - reason: Review article, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **872** Guidelines in professions allied to medicine
+  - reason: Systematic review of guideline implementation studies, not a single experiment.
+  - abstract: yes; run A: EXCLUDE
+- **1705** Tailored information increases patient/physician discussion of colon cancer risk and testing: The Cancer Risk Intake System trial
+  - reason: Intervention targets patients, not healthcare professionals; patient-reported discussions.
+  - abstract: yes; run A: EXCLUDE
+- **1155** Leveraging insights from behavioral economics to increase the value of health-care service provision
+  - reason: Review/recommendation article, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1373** Pharmacy Asthma Care Program (PACP) improves outcomes for patients in the community.
+  - reason: Intervention targets patients' asthma outcomes, not healthcare professionals' behaviour.
+  - abstract: yes; run A: EXCLUDE
+- **700** Electronic medical records to increase the clinical treatment of tobacco dependence: a systematic review
+  - reason: Systematic review, excluded by E4.
+  - abstract: yes; run A: EXCLUDE
+- **1474** Promoting screening mammography in inner-city settings: a randomized controlled trial of computerized reminders as a component of a program to facilitate mammography
+  - reason: Nudge targets patients (women), not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **928** How to enhance physician and public acceptance and utilisation of colon cancer screening recommendations
+  - reason: Review article, not an experiment comparing two or more interventions.
+  - abstract: yes; run A: EXCLUDE
+- **810** Feedback as a strategy to change behaviour: the devil is in the details
+  - reason: Review of published feedback studies, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **800** Fall prevention in acute care hospitals: a randomized trial.
+  - reason: Nudge targets patient falls; intervention not aimed at professionals' behaviour.
+  - abstract: yes; run A: EXCLUDE
+- **658** Effectiveness of physical therapy for patients with neck pain: an individualized approach using a clinical decision-making algorithm
+  - reason: Intervention targets patients with neck pain, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **2012** Words matter: increasing the implementation of clinical guidelines.
+  - reason: Targets mental health service users (patients), not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **194** Approaches based on behavioral economics could help nudge patients and providers toward lower health spending growth
+  - reason: Review article, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **925** How payment systems affect physicians’ provision behaviour—an experimental investigation.
+  - reason: Payment incentives, not evidence-based medicine or guideline adherence.
+  - abstract: yes; run A: EXCLUDE
+- **1406** Practice development: bridging the research-practice divide through the appointment of a research lead
+  - reason: Descriptive evaluation of a research lead post, no comparison of interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1354** Patient safety research: an overview of the global evidence
+  - reason: Overview of literature, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **974** Implementation fidelity trajectories of a health promotion program in multidisciplinary settings: managing tensions in rehabilitation care
+  - reason: Longitudinal implementation fidelity study, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **323** Changing physician behavior: what works?
+  - reason: Systematic review of reviews, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **1038** Improving medication management in multimorbidity: development of the MultimorbiditY COllaborative Medication Review And DEcision Making (MY COMRADE) intervention using the Behaviour Change Wheel
+  - reason: Intervention development study, no comparison of two or more interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1991** What implementation interventions increase cancer screening rates? a systematic review
+  - reason: Systematic review, excluded by E4.
+  - abstract: yes; run A: EXCLUDE
+- **1615** Screening for colorectal cancer by once only sigmoidoscopy: a feasibility study in Turin
+  - reason: Nudge targets general-population screening invitees, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **1106** Interventions for implementation of thromboprophylaxis in hospitalized medical and surgical patients at risk for venous thromboembolism
+  - reason: Systematic review/meta-analysis, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **1542** Reasons and consequences of low adherence to standard precautions by the nursing team
+  - reason: Integrative literature review, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **174** An intervention to change clinician behavior: Conceptual framework for the multicolored simplified asthma guideline reminder (MSAGR)
+  - reason: Conceptual framework article, no experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1192** Management of severe sepsis in patients admitted to Asian intensive care units: prospective cohort study
+  - reason: Cohort study, no comparison of two or more interventions.
+  - abstract: yes; run A: EXCLUDE
+- **856** Guideline implementation in allied health professions: a systematic review of the literature
+  - reason: Systematic review, excluded by E4.
+  - abstract: yes; run A: EXCLUDE
+- **1043** Improving patient discharge and reducing hospital readmissions by using Intervention Mapping
+  - reason: Intervention Mapping framework development, not an experiment comparing two or more interventions.
+  - abstract: yes; run A: EXCLUDE
+- **222** Audit and feedback: effects on professional practice and health care outcomes
+  - reason: Systematic review/meta-analysis, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1405** Practice changes associated with the Department of Veterans Affairs' Family Care Collaborative
+  - reason: Mixed-method evaluation of a collaborative, not an experiment comparing two or more interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1948** Use of a decision aid including information on overdetection to support informed choice about breast cancer screening: a randomised controlled trial.
+  - reason: Intervention targets women/patients, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **1851** The role of theory in research to develop and evaluate the implementation of patient safety practices
+  - reason: Conceptual/methodological paper, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **1458** Proactive asthma care in childhood: general practice based randomised controlled trial.
+  - reason: Intervention targets children/patients, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **1750** The design and evaluation of a graphical display for laboratory data
+  - reason: No comparison of two or more interventions; not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **320** Changing human behavior to prevent disease: the importance of targeting automatic processes.
+  - reason: Targets general public health behaviours, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **1930** Understanding non-compliance to colorectal cancer screening: a case control study, nested in a randomised trial
+  - reason: Studies patients' screening compliance, not healthcare professionals' behaviour.
+  - abstract: yes; run A: EXCLUDE
+- **1468** Professional interventions for general practitioners on the management of musculoskeletal conditions
+  - reason: Systematic review of professional interventions, not a primary experiment.
+  - abstract: yes; run A: EXCLUDE
+- **1773** The effectiveness of computerized clinical guidelines in the process of care: a systematic review
+  - reason: Systematic review, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **93** A review of the evidence for suboptimal compliance of healthcare practitioners to standard/universal infection control precautions
+  - reason: Literature review, not an experiment comparing two or more interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1042** Improving Patient Care Through Medical Image Perception Research
+  - reason: Commentary on image perception research; no experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **410** Comparative efficacy of interventions to promote hand hygiene in hospital: systematic review and network meta-analysis
+  - reason: Systematic review, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **1627** Self-formulated conditional plans for changing health behaviour among healthcare consumers and health professionals.
+  - reason: Protocol for a systematic review, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **1672** Strategies for rehabilitation professionals to move evidence-based knowledge into practice: a systematic review
+  - reason: Systematic review, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **525** Development of a complex intervention to promote appropriate prescribing and medication intensification in poorly controlled type 2 diabetes mellitus in Irish general practice
+  - reason: Intervention development paper, no experiment comparing two or more interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1076** Information technology for patient safety
+  - reason: Discussion paper on eHealth, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **437** Computerized reminders to encourage cervical screening in family practice.
+  - reason: Interventions target women/patients, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **1114** Interventions to modify health care provider adherence to asthma guidelines: a systematic review
+  - reason: Systematic review, excluded by E4.
+  - abstract: yes; run A: EXCLUDE
+- **555** Do decision support systems influence variation in prescription?
+  - reason: Observational survey comparison, not an experiment comparing interventions.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **2019** A Systematic Scoping Review of the Choice Architecture Movement: Toward Understanding When and Why Nudges Work
+  - reason: Scoping review of nudge studies, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **420** Complex pharmaceutical care intervention in pulmonary care: part A. The process and pharmacists' professional satisfaction.
+  - reason: Process description of one trial arm, not a comparison of interventions.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **1973** Variations in GPs' decisions to investigate suspected lung cancer: a factorial experiment using multimedia vignettes
+  - reason: Vignette experiment manipulating patient characteristics, not comparing nudges.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **1454** Printed educational materials: effects on professional practice and health care outcomes
+  - reason: Systematic review of printed educational materials, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **1857** The systematic influence of gain-and loss-framed messages on interest in and use of different types of health behavior
+  - reason: Targets general public/patients, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **499** Design of high reliability organizations in health care
+  - reason: Conceptual design paper, no experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **193** Applying Choice Architecture Principles to Understand HIV Testing: Findings From Malawi and Zimbabwe
+  - reason: Targets general public/patients, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **424** Comprehensive asthma management for underserved children
+  - reason: Programme description/evaluation, not an experiment comparing two or more interventions.
+  - abstract: yes; run A: EXCLUDE
+- **822** Framing options as choice or opportunity: does the frame influence decisions?
+  - reason: Nudge targets healthy women, not healthcare professionals
+  - abstract: yes; run A: EXCLUDE
+- **1181** Management for Physicians: An Annotated Bibliography of Recent Literature
+  - reason: Annotated bibliography, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1057** Improving the success of mailed letter intervention programs to influence prescribing behaviors: a review
+  - reason: Review of mailed intervention programs, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **532** Development, implementation, and evaluation of a community pharmacy-based asthma care model
+  - reason: Intervention targets patients; outcomes are patient clinical outcomes.
+  - abstract: yes; run A: EXCLUDE
+- **1362** Performance of the TREAT decision support system in an environment with a low prevalence of resistant pathogens.
+  - reason: Retrospective comparison of decision support recommendation vs practice, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **1113** Interventions to increase the use of electronic health information by healthcare practitioners to improve clinical practice and patient outcomes
+  - reason: Cochrane systematic review, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1760** The effect of adding Pap smear information to a mammography reminder system in an HMO: results of randomized controlled trial.
+  - reason: Reminders target patients (women), not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **1900** Translating Clinical Research into Clinical Practice: Impact of Using Prediction Rules To Make Decisions
+  - reason: Review article, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **503** Designing a valid randomized pragmatic primary care implementation trial: the my own health report (MOHR) project
+  - reason: Intervention targets patients' health behavior, not healthcare professionals' behavior.
+  - abstract: yes; run A: EXCLUDE
+- **1088** Integrating "Back to Sleep" recommendations into neonatal ICU practice
+  - reason: Targets parents' behaviour at home, not healthcare professionals' behaviour.
+  - abstract: yes; run A: EXCLUDE
+- **1206** Measuring persistence of implementation: QUERI Series
+  - reason: Conceptual article on sustainability measurement, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **384** Cognitive debiasing 2: impediments to and strategies for change
+  - reason: Conceptual review of debiasing strategies, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **857** Guideline implementation: what the literature doesn't tell us
+  - reason: Review of systematic reviews, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **1115** Interventions to promote the evidence-based care of children with ADHD in primary-care settings
+  - reason: Review article, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1622** Screening Surgeons for HIV Infection: A Cost-effectiveness Analysis
+  - reason: Cost-effectiveness analysis, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1022** Improving clinical handover between intensive care unit and general ward professionals at intensive care unit discharge.
+  - reason: Systematic review, not an experiment comparing two or more interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1333** Paediatric nurses' postoperative pain management practices in hospital based non-critical care settings: a narrative review
+  - reason: Narrative/systematic review of nurses' pain practices, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **608** Effect of Clinical Decision-Support Systems: a systematic review
+  - reason: Systematic review of CDSS trials, not itself an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **221** Audit and feedback as a clinical practice guideline implementation strategy: a model for acute care nurse practitioners
+  - reason: Review of literature on audit and feedback, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **318** Changing clinical behaviour by making guidelines specific
+  - reason: Commentary/overview of reviews, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1207** Measuring the effectiveness of a collaborative for quality improvement in pediatric asthma care: does implementing the chronic care model improve processes and outcomes of care?
+  - reason: Intervention targets pediatric patients and care processes, not healthcare professionals' behaviour.
+  - abstract: yes; run A: EXCLUDE
+- **657** Effectiveness of pharmacist care for patients with reactive airways disease: a randomized controlled trial.
+  - reason: Intervention targets patients' outcomes via pharmacist care, not nudging healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **1904** Translation of appropriateness criteria into practice guidelines: application of decision table techniques to the RAND criteria for coronary artery bypass graft.
+  - reason: Methodological guideline-translation paper, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **622** Effect of physician recommendation and patient adherence on rates of colorectal cancer testing.
+  - reason: Focus on patient adherence and testing, not nudges to healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **526** Development of a minimization instrument for allocation of a hospital-level performance improvement intervention to reduce waiting times in Ontario emergency departments
+  - reason: Instrument development study, no comparison of two or more interventions.
+  - abstract: yes; run A: EXCLUDE
+- **385** Cognitive debiasing through sparklines in clinical data displays
+  - reason: Conceptual illustration of data displays; no experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **415** Comparison of three methods of recalling patients for influenza vaccination.
+  - reason: Nudge targets patients, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **62** A patient-initiated system for preventive health care.
+  - reason: Patient-initiated computer system targeting patients, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **1535** Randomized trial of model predictive control for improved anemia management
+  - reason: Intervention targets patients' dosing, not healthcare professionals' behaviour.
+  - abstract: yes; run A: EXCLUDE
+- **1942** Usage and effect of health information exchange: a systematic review
+  - reason: Systematic review, excluded by design criterion.
+  - abstract: yes; run A: EXCLUDE
+- **1966** Using shared goal setting to improve access and equity: a mixed methods study of the Good Goals intervention in children's occupational therapy
+  - reason: Goal setting intervention targets access/equity, not evidence-based medicine adherence.
+  - abstract: yes; run A: EXCLUDE
+- **553** Dissemination of effectiveness and outcomes research
+  - reason: Review of dissemination literature, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1003** Improved asthma outcomes using a coordinated care approach in a large medical group.
+  - reason: Program review/before-after without clear two-intervention comparison; not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **136** Adoption, reach, implementation, and maintenance of a behavioral and mental health assessment in primary care
+  - reason: Intervention targets patients completing health assessments, not nudging professionals.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **64** A pilot study of an electronic interprofessional evidence-based care planning tool for clients with mental health problems and addictions
+  - reason: Pre-post usability study without control comparison; authors note no RCT.
+  - abstract: yes; run A: EXCLUDE
+- **241** Behavior change without behavior change communication: nudging handwashing among primary school students in Bangladesh.
+  - reason: Targets primary school students, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **895** Helping doctors and patients make sense of health statistics
+  - reason: Review/commentary on statistical literacy, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **790** Exploring the feasibility of Conjoint Analysis as a tool for prioritizing innovations for implementation
+  - reason: Conjoint analysis prioritization study, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1749** The demonstration of a theory-based approach to the design of localized patient safety interventions.
+  - reason: Feasibility/co-design study; no comparison of two or more interventions reported.
+  - abstract: yes; run A: NEEDS_REVIEW
+- **29** A clinic-based mammography intervention targeting inner-city women.
+  - reason: Intervention targets patients (women) for mammography, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **70** A Qualitative Evaluation of the Barriers and Facilitators Toward Implementation of the WHO Surgical Safety Checklist Across Hospitals in England: Lessons From the Surgical Checklist Implementation Project
+  - reason: Qualitative interview study, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **1732** The Behavioral Economics of Health and Health Care
+  - reason: Overview article, not an experiment comparing interventions.
+  - abstract: yes; run A: EXCLUDE
+- **461** Cost-effectiveness of a nurse-based intervention (AIMS) to improve adherence among HIV-infected patients: design of a multi-centre randomised controlled trial.
+  - reason: Intervention targets HIV-infected patients, not healthcare professionals.
+  - abstract: yes; run A: EXCLUDE
+- **1553** Reducing the amount of blood transfused: a systematic review of behavioral interventions to change physicians' transfusion practices
+  - reason: Systematic review of behavioural interventions, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **105** A systematic review of clinical decision support systems for antimicrobial management: are we failing to investigate these interventions appropriately?
+  - reason: Systematic review, not an experiment.
+  - abstract: yes; run A: EXCLUDE
+- **711** Enhancing evidence-based diabetes and chronic disease control among local health departments: a multi-phase dissemination study with a stepped-wedge cluster randomized trial component
+  - reason: Targets local health department practitioners, not healthcare professionals delivering clinical care.
+  - abstract: yes; run A: EXCLUDE
+- **1774** The effectiveness of interventions to improve laboratory requesting patterns among primary care physicians: a systematic review
+  - reason: Systematic review, not an experiment.
+  - abstract: yes; run A: EXCLUDE

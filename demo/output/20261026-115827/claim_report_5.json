@@ -1,0 +1,1195 @@
+{
+  "draft_id": "6041dc7c-78b0-49e7-8b89-8ee0edae69c7",
+  "verifications": [
+    {
+      "claim_text": "Experimental evidence on accuracy comes from Bonilla López et al. (2018), who randomly assigned low-intermediate EFL writers (N = 139) to four feedback conditions and a self-correction control.",
+      "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+      "status": "needs_nuance",
+      "evidence_quote": "Low intermediate EFL writers (N = 139) were randomly assigned to four experimental conditions (direct corrections on grammatical errors, metalinguistic codes on grammatical errors, direct corrections on grammatical and non-grammatical errors, or metalinguistic codes on grammatical and non-grammatical errors) and a control group (self-correction).",
+      "explanation": "Every proposition in the claim is stated in the source. The abstract reports that \"Low intermediate EFL writers (N = 139) were randomly assigned to four experimental conditions (direct corrections on grammatical errors, metalinguistic codes on grammatical errors, direct corrections on grammatical and non-grammatical errors, or metalinguistic codes on grammatical and non-grammatical errors) and a control group (self-correction).\" Section 4.1 confirms the same: 139 participants, mean proficiency \"lower intermediate\", \"randomly assigned to five groups\" including \"a control group (n = 27)\" described in 4.3 as \"a self-correction (i.e., control) group (hereafter SC), where learners did not receive any corrections in their text.\" The study's accuracy outcomes (immediate and long-term grammatical and non-grammatical accuracy) are the paper's central results, so the claim that accuracy evidence comes from this study is supported. The only element not literally in the chunks is the publication year 2018, which is a bibliographic detail of the citing paper rather than a substantive proposition about the study; it is treated as peripheral and does not affect the verdict.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "The study randomly assigned low-intermediate EFL writers to four feedback conditions and a self-correction control group.",
+          "kind": "intervention",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "Low intermediate EFL writers (N = 139) were randomly assigned to four experimental conditions (direct corrections on grammatical errors, metalinguistic codes on grammatical errors, direct corrections on grammatical and non-grammatical errors, or metalinguistic codes on grammatical and non-grammatical errors) and a control group (self-correction).",
+          "central": true,
+          "entity": "low-intermediate EFL writers in the study",
+          "measure": "random assignment to four experimental feedback conditions plus a self-correction control",
+          "quotes": [
+            "Low intermediate EFL writers (N = 139) were randomly assigned to four experimental conditions (direct corrections on grammatical errors, metalinguistic codes on grammatical errors, direct corrections on grammatical and non-grammatical errors, or metalinguistic codes on grammatical and non-grammatical errors) and a control group (self-correction).",
+            "The participants were randomly assigned to five groups: direct CF on grammatical errors (n = 29), metalinguistic CF with codes on grammatical errors (n = 28), direct CF on grammatical and non-grammatical errors (n = 27), metalinguistic CF with codes on grammatical and non-grammatical errors (n = 28), and a control group (n = 27).",
+            "The study also had a self-correction (i.e., control) group (hereafter SC), where learners did not receive any corrections in their text."
+          ]
+        },
+        {
+          "text": "The sample size was N = 139.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "139",
+          "source_value": "139",
+          "quote": "Low intermediate EFL writers (N = 139) were randomly assigned to four experimental conditions",
+          "central": false,
+          "entity": "participants in the study",
+          "measure": "number of participants",
+          "quotes": [
+            "Low intermediate EFL writers (N = 139) were randomly assigned to four experimental conditions",
+            "the present study was carried out in the School of Modern Languages with 139 participants (53 male and 86 female, mean age = 21, SD = 4.11)"
+          ]
+        },
+        {
+          "text": "The writers' proficiency level was low-intermediate.",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "low-intermediate",
+          "source_value": "lower intermediate",
+          "quote": "Their native language was Spanish, and their mean English proficiency level was lower intermediate (SD = .79) as ascertained by Oxfords’ Quick Placement test (QPT)",
+          "central": false,
+          "entity": "participants",
+          "measure": "English proficiency level",
+          "quotes": [
+            "Their native language was Spanish, and their mean English proficiency level was lower intermediate (SD = .79) as ascertained by Oxfords’ Quick Placement test (QPT)",
+            "Low intermediate EFL writers (N = 139) were randomly assigned to four experimental conditions"
+          ]
+        },
+        {
+          "text": "The study provides experimental evidence on accuracy.",
+          "kind": "other",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "To measure the feedback effect on grammatical and non-grammatical accuracy, learners produced four texts, received feedback on two of them, and revised one.",
+          "central": false,
+          "entity": "the study",
+          "measure": "accuracy outcomes (immediate and long-term grammatical and non-grammatical accuracy)",
+          "quotes": [
+            "To measure the feedback effect on grammatical and non-grammatical accuracy, learners produced four texts, received feedback on two of them, and revised one.",
+            "Main results from mixed-effect linear models showed that although direct corrections and codes were effective to enhance learners’ immediate grammatical and non-grammatical accuracy (i.e., during text revision), a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections."
+          ]
+        },
+        {
+          "text": "The study was published in 2018 (Bonilla López et al., 2018).",
+          "kind": "attribution",
+          "verdict": "absent",
+          "claim_value": "2018",
+          "source_value": null,
+          "quote": null,
+          "central": false,
+          "entity": "the study's publication year",
+          "measure": "publication year",
+          "quotes": []
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "Low intermediate EFL writers (N = 139) were randomly assigned to four experimental conditions (direct corrections on grammatical errors, metalinguistic codes on grammatical errors, direct corrections on grammatical and non-grammatical errors, or metalinguistic codes on grammatical and non-grammatical errors) and a control group (self-correction).",
+        "Their native language was Spanish, and their mean English proficiency level was lower intermediate (SD = .79) as ascertained by Oxfords’ Quick Placement test (QPT)",
+        "The participants were randomly assigned to five groups: direct CF on grammatical errors (n = 29), metalinguistic CF with codes on grammatical errors (n = 28), direct CF on grammatical and non-grammatical errors (n = 27), metalinguistic CF with codes on grammatical and non-grammatical errors (n = 28), and a control group (n = 27).",
+        "The study also had a self-correction (i.e., control) group (hereafter SC), where learners did not receive any corrections in their text.",
+        "To measure the feedback effect on grammatical and non-grammatical accuracy, learners produced four texts, received feedback on two of them, and revised one."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Experimental evidence on accuracy comes from Bonilla López et al. (2018), who randomly assigned low-intermediate EFL writers (N = 139) to four feedback conditions and a self-correction control.",
+      "citation": "Bonilla López et al. (2018)",
+      "paper_doi": "10.1111/lang.12295",
+      "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 1 (preamble)",
+      "model_status": "verified",
+      "machine_reasons": [
+        "assertion_status_inconsistent"
+      ],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "Low intermediate EFL writers (N = 139) were randomly assigned to four experimental conditions (direct corrections on grammatical errors, metalinguistic codes on grammatical errors, direct corrections on grammatical and non-grammatical errors, or metalinguistic codes on grammatical and non-grammatical errors) and a control group (self-correction).",
+            "Their native language was Spanish, and their mean English proficiency level was lower intermediate (SD = .79) as ascertained by Oxfords’ Quick Placement test (QPT)",
+            "The participants were randomly assigned to five groups: direct CF on grammatical errors (n = 29), metalinguistic CF with codes on grammatical errors (n = 28), direct CF on grammatical and non-grammatical errors (n = 27), metalinguistic CF with codes on grammatical and non-grammatical errors (n = 28), and a control group (n = 27).",
+            "The study also had a self-correction (i.e., control) group (hereafter SC), where learners did not receive any corrections in their text.",
+            "To measure the feedback effect on grammatical and non-grammatical accuracy, learners produced four texts, received feedback on two of them, and revised one."
+          ],
+          "tokens": {
+            "input_tokens": 22197,
+            "output_tokens": 1708
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [
+            "assertion_status_inconsistent"
+          ],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "A long-term advantage, measured four weeks after feedback provision, was evident only for direct corrections",
+      "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+      "status": "verified",
+      "evidence_quote": "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections",
+      "explanation": "The claim reproduces the abstract's own summary almost verbatim: \"a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections.\" The four-week timing is confirmed by the design description (\"Four weeks later, in session 5 students had 30 minutes to write a new text (delayed posttest)\"), and the restriction to direct corrections is confirmed both by the abstract and by the discussion (\"in the long term non-grammatical accuracy was durable with direct corrections only whereas grammatical issues maintained the feedback effect with either feedback type—although direct corrections proved superior\"). The discussion's qualification that grammatical accuracy was maintained by either feedback type is a nuance about grammatical vs. non-grammatical outcomes, but the paper's own stated overall conclusion is the one the claim reports, so no assertion is contradicted or absent.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "A long-term advantage was evident only for direct corrections (not for metalinguistic codes).",
+          "kind": "scope",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections",
+          "central": true,
+          "entity": "comprehensive corrective feedback conditions (direct corrections vs. metalinguistic codes) in the study",
+          "measure": "long-term (delayed posttest) accuracy advantage",
+          "quotes": [
+            "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections",
+            "in the long term non-grammatical accuracy was durable with direct corrections only whereas grammatical issues maintained the feedback effect with either feedback type—although direct corrections proved superior"
+          ]
+        },
+        {
+          "text": "The long-term measurement was taken four weeks after feedback provision.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "four weeks",
+          "source_value": "four weeks",
+          "quote": "Four weeks later, in session 5 students had 30 minutes to write a new text (delayed posttest).",
+          "central": false,
+          "entity": "delayed posttest in the study",
+          "measure": "time interval after feedback provision",
+          "quotes": [
+            "Four weeks later, in session 5 students had 30 minutes to write a new text (delayed posttest).",
+            "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections",
+        "Four weeks later, in session 5 students had 30 minutes to write a new text (delayed posttest).",
+        "in the long term non-grammatical accuracy was durable with direct corrections only whereas grammatical issues maintained the feedback effect with either feedback type—although direct corrections proved superior"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "A long-term advantage, measured four weeks after feedback provision, was evident only for direct corrections (Bonilla López et al., 2018).",
+      "citation": "(Bonilla López et al., 2018)",
+      "paper_doi": "10.1111/lang.12295",
+      "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 1 (preamble)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections",
+            "Four weeks later, in session 5 students had 30 minutes to write a new text (delayed posttest).",
+            "in the long term non-grammatical accuracy was durable with direct corrections only whereas grammatical issues maintained the feedback effect with either feedback type—although direct corrections proved superior"
+          ],
+          "tokens": {
+            "input_tokens": 22175,
+            "output_tokens": 798
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "learners reported significantly lower cognitive load when revising after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors",
+      "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+      "status": "verified",
+      "evidence_quote": "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+      "explanation": "The central assertion — that reported cognitive load after revision following direct corrections on grammatical errors (DCF+G) was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN) — is stated directly in section 5.4: \"the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)\", and Table 3 lists \"***ME+GN > DCF+G 1.91 [0.95, 2.88]\" under Perceived cognitive load. The descriptive means (DCF+G = 4.76 vs. ME+GN = 6.68) are consistent with the direction. The peripheral assertions (learners' self-reported mental effort on Paas's scale; the two specific feedback conditions) are also supported by the methods and results sections. No contradiction and no hedge removal.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Learners reported lower cognitive load when revising after direct corrections on grammatical errors (DCF+G) than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN).",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "lower for DCF+G than ME+GN",
+          "source_value": "DCF+G significantly lower than ME+GN (p < 0.001)",
+          "quote": "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+          "central": true,
+          "entity": "EFL learners (N = 139) in the DCF+G and ME+GN conditions",
+          "measure": "self-reported cognitive load (mental effort) after text revision",
+          "quotes": [
+            "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+            "***ME+GN > DCF+G \n1.91 [0.95, 2.88]"
+          ]
+        },
+        {
+          "text": "The difference in reported cognitive load between these two conditions was statistically significant.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "significant",
+          "source_value": "p < 0.001 (***)",
+          "quote": "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+          "central": false,
+          "entity": "DCF+G vs. ME+GN comparison",
+          "measure": "statistical significance of the post-hoc comparison",
+          "quotes": [
+            "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+            "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)"
+          ]
+        },
+        {
+          "text": "Cognitive load was measured as learners' self-reported mental effort.",
+          "kind": "intervention",
+          "verdict": "supported",
+          "claim_value": "self-report of mental effort",
+          "source_value": "Paas's (1992) mental-effort based scale",
+          "quote": "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+          "central": false,
+          "entity": "learners in the study",
+          "measure": "instrument used to measure cognitive load",
+          "quotes": [
+            "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+            "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale"
+          ]
+        },
+        {
+          "text": "The comparison concerns the feedback conditions of direct corrections on grammatical errors versus metalinguistic codes on grammatical and non-grammatical errors.",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "DCF+G vs. ME+GN",
+          "source_value": "DCF+G = direct CF on grammatical errors; ME+GN = metalinguistic CF with codes on grammatical errors and non-grammatical errors",
+          "quote": "DCF+G = direct CF on grammatical errors; ME+G = metalinguistic CF with codes on grammatical errors; DCF+GN = direct CF on grammatical and non-grammatical errors; ME+GN = metalinguistic CF with codes on grammatical errors and non-grammatical errors",
+          "central": false,
+          "entity": "experimental conditions DCF+G and ME+GN",
+          "measure": "definition of the feedback conditions compared",
+          "quotes": [
+            "DCF+G = direct CF on grammatical errors; ME+G = metalinguistic CF with codes on grammatical errors; DCF+GN = direct CF on grammatical and non-grammatical errors; ME+GN = metalinguistic CF with codes on grammatical errors and non-grammatical errors"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+        "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+        "Perceived cognitive load \n4.76 \n1.66 \n5.71 \n1.27 \n5.59 \n1.42 \n6.68 \n.612 \n4.48 \n1.39",
+        "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+        "DCF+G = direct CF on grammatical errors; ME+G = metalinguistic CF with codes on grammatical errors; DCF+GN = direct CF on grammatical and non-grammatical errors; ME+GN = metalinguistic CF with codes on grammatical errors and non-grammatical errors"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Notably, learners reported significantly lower cognitive load when revising after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+      "citation": "(Bonilla López et al., 2018)",
+      "paper_doi": "10.1111/lang.12295",
+      "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 1 (preamble)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+            "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+            "Perceived cognitive load \n4.76 \n1.66 \n5.71 \n1.27 \n5.59 \n1.42 \n6.68 \n.612 \n4.48 \n1.39",
+            "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+            "DCF+G = direct CF on grammatical errors; ME+G = metalinguistic CF with codes on grammatical errors; DCF+GN = direct CF on grammatical and non-grammatical errors; ME+GN = metalinguistic CF with codes on grammatical errors and non-grammatical errors"
+          ],
+          "tokens": {
+            "input_tokens": 22186,
+            "output_tokens": 1477
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "The authors acknowledge they could not employ an online physiological measure of cognitive load, so this self-report finding warrants caution (Bonilla López et al., 2018).",
+      "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+      "status": "needs_nuance",
+      "evidence_quote": "Besides, although this study was a first step into examining the cognitive load imposed by comprehensive CF, we were unable to  employ an online physiological measure.",
+      "explanation": "The central assertion is supported: in the Limitations section the authors state \"although this study was a first step into examining the cognitive load imposed by comprehensive CF, we were unable to  employ an online physiological measure,\" and Note 4 confirms that \"The instructional context of this study prevented us from employing the latter\" (physiological measures). The peripheral assertion that this limitation means the self-report finding \"warrants caution\" is not stated in the source: the authors instead frame the limitation as a call for future research (\"to determine to what extent our findings hold under other conditions, a future research agenda may want to look into the cognitive load of feedback with a measure of eye activity\") and defend the mental-effort scale as \"widely adapted given its proven validity, unobtrusiveness, and easy availability.\" The general caution statement in the paper (\"caution must be exercised when interpreting its findings\") is attributed to the EFL learning-to-write/writing-to-learn setting, not to the absence of an online physiological measure. Hence the status is needs_nuance.",
+      "suggested_revision": "The authors acknowledge that, although their study was a first step in examining the cognitive load imposed by comprehensive CF, they were unable to employ an online physiological measure of cognitive load and suggest that future research use eye-tracking to determine the extent to which their self-report findings hold under other conditions (Bonilla López et al., 2018).",
+      "assertions": [
+        {
+          "text": "The authors acknowledge that they were unable to employ an online physiological measure of cognitive load.",
+          "kind": "attribution",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "Besides, although this study was a first step into examining the cognitive load imposed by comprehensive CF, we were unable to  employ an online physiological measure.",
+          "central": true,
+          "entity": "Bonilla López et al. (2018) study of cognitive load in comprehensive CF",
+          "measure": "acknowledged limitation regarding an online physiological measure of cognitive load",
+          "quotes": [
+            "Besides, although this study was a first step into examining the cognitive load imposed by comprehensive CF, we were unable to  employ an online physiological measure.",
+            "The instructional context of this study prevented us from employing the latter."
+          ]
+        },
+        {
+          "text": "Because no online physiological measure was used, the self-report cognitive-load finding warrants caution.",
+          "kind": "attribution",
+          "verdict": "absent",
+          "claim_value": null,
+          "source_value": null,
+          "quote": null,
+          "central": false,
+          "entity": "the authors' interpretation of their self-report cognitive-load finding",
+          "measure": "stated need for caution about the self-report finding",
+          "quotes": []
+        }
+      ],
+      "unstated_details": [
+        "The authors state that this limitation means the self-report cognitive-load finding warrants caution."
+      ],
+      "evidence_quotes": [
+        "Besides, although this study was a first step into examining the cognitive load imposed by comprehensive CF, we were unable to  employ an online physiological measure.",
+        "The instructional context of this study prevented us from employing the latter.",
+        "Hence, to determine to what extent our findings hold under other conditions, a future research agenda may want to look into the cognitive load of feedback with a measure of eye activity, which may be feasible to implement in an L2 writing/learning environment.",
+        "Paas's (1992) scale has been widely adapted given its proven validity, unobtrusiveness, and easy availability"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "The authors acknowledge they could not employ an online physiological measure of cognitive load, so this self-report finding warrants caution (Bonilla López et al., 2018).",
+      "citation": "(Bonilla López et al., 2018)",
+      "paper_doi": "10.1111/lang.12295",
+      "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 1 (preamble)",
+      "model_status": "needs_nuance",
+      "machine_reasons": [
+        "assertion_status_inconsistent"
+      ],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "Besides, although this study was a first step into examining the cognitive load imposed by comprehensive CF, we were unable to  employ an online physiological measure.",
+            "The instructional context of this study prevented us from employing the latter.",
+            "Hence, to determine to what extent our findings hold under other conditions, a future research agenda may want to look into the cognitive load of feedback with a measure of eye activity, which may be feasible to implement in an L2 writing/learning environment.",
+            "Paas's (1992) scale has been widely adapted given its proven validity, unobtrusiveness, and easy availability"
+          ],
+          "tokens": {
+            "input_tokens": 22189,
+            "output_tokens": 942
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "needs_nuance",
+          "machine_reasons": [
+            "assertion_status_inconsistent"
+          ],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "In a survey of 70 students in a university ESL program in the southwestern United States, students favoured direct correction with metalinguistic explanations (215/447, 48.10%), followed by direct correction alone (111/447, 24.83%) (Liu and Wu, 2019).",
+      "paper_id": "f86fb131-21e8-4973-aaa5-57ca65cfc223",
+      "status": "verified",
+      "evidence_quote": "Seventy students from a university ESL program in the southwestern U.S. participated in the study.",
+      "explanation": "Every proposition in the claim is stated in the source. The participant description matches: \"Seventy students from a university ESL program in the southwestern U.S. participated in the study.\" The central ranking and counts match verbatim: \"In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).\" The claim's \"direct correction alone\" is the source's \"direct correction without metalinguistic explanations,\" the same measure. No assertion is contradicted or absent, and no hedge is removed.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "The survey involved 70 students in a university ESL program in the southwestern United States.",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "70 students; university ESL program in the southwestern U.S.",
+          "source_value": "Seventy students from a university ESL program in the southwestern U.S.",
+          "quote": "Seventy students from a university ESL program in the southwestern U.S. participated in the study.",
+          "central": false,
+          "entity": "students in a university ESL program in the southwestern U.S.",
+          "measure": "number of student participants and program setting",
+          "quotes": [
+            "Seventy students from a university ESL program in the southwestern U.S. participated in the study."
+          ]
+        },
+        {
+          "text": "Students most favoured direct correction with metalinguistic explanations, at 215/447 (48.10%).",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "215/447, 48.10%",
+          "source_value": "215/447, 48.10%",
+          "quote": "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%)",
+          "central": true,
+          "entity": "students' choices among the seven explicitness items (447 total choices)",
+          "measure": "count and percentage favouring direct correction with metalinguistic explanations",
+          "quotes": [
+            "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%)"
+          ]
+        },
+        {
+          "text": "The second most favoured option was direct correction alone, at 111/447 (24.83%).",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "111/447, 24.83%, second",
+          "source_value": "111/447, 24.83%, followed by",
+          "quote": "followed by direct correction without metalinguistic explanations (111/447, 24.83%)",
+          "central": false,
+          "entity": "students' choices among the seven explicitness items (447 total choices)",
+          "measure": "count and percentage favouring direct correction without metalinguistic explanations, ranked second",
+          "quotes": [
+            "followed by direct correction without metalinguistic explanations (111/447, 24.83%)"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "Seventy students from a university ESL program in the southwestern U.S. participated in the study.",
+        "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%)."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "In a survey of 70 students in a university ESL program in the southwestern United States, students favoured direct correction with metalinguistic explanations (215/447, 48.10%), followed by direct correction alone (111/447, 24.83%) (Liu and Wu, 2019).",
+      "citation": "(Liu and Wu, 2019)",
+      "paper_doi": "10.17239/jowr-2019.11.02.03",
+      "paper_title": "Same goal, different beliefs: Students’ preferences and teachers’ perceptions of feedback on second language writing",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 1 (preamble)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "Seventy students from a university ESL program in the southwestern U.S. participated in the study.",
+            "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%)."
+          ],
+          "tokens": {
+            "input_tokens": 17531,
+            "output_tokens": 986
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Their descriptive, non-randomised questionnaire design limits inference, and the authors themselves note the data are necessarily descriptive (Liu and Wu, 2019).",
+      "paper_id": "f86fb131-21e8-4973-aaa5-57ca65cfc223",
+      "status": "verified",
+      "evidence_quote": "Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive.",
+      "explanation": "The central assertion — that the authors themselves describe their data as necessarily descriptive — is stated verbatim in the Limitations section: \"Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive.\" The peripheral assertions are also supported: the design is a questionnaire survey of an existing pool of students and available teachers (non-randomised, non-experimental), and the authors state that the observed patterns \"are context-specific and may not reflect student and teacher beliefs in a drastically different demographic and educational environment,\" i.e., inference is limited. No assertion is contradicted and no hedge is removed.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "The authors themselves note that the data are necessarily descriptive.",
+          "kind": "attribution",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "data collected from such limited, non-randomized sources are necessarily descriptive",
+          "central": true,
+          "entity": "Liu and Wu (2019) study data",
+          "measure": "authors' own characterisation of the data as necessarily descriptive",
+          "quotes": [
+            "Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive."
+          ]
+        },
+        {
+          "text": "The study used a questionnaire design.",
+          "kind": "intervention",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "The Student Questionnaire (see Appendix A) was designed within the six-dimension analytical framework of L2 writing feedback discussed above.",
+          "central": false,
+          "entity": "the study",
+          "measure": "instrument/design",
+          "quotes": [
+            "The Student Questionnaire (see Appendix A) was designed within the six-dimension analytical framework of L2 writing feedback discussed above.",
+            "The Teacher Questionnaire (see Appendix B) aimed to elicit teacher informants’ beliefs regarding L2 writing feedback."
+          ]
+        },
+        {
+          "text": "The sample was non-randomised, drawn from an existing pool of students and available teachers.",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "data collected from such limited, non-randomized sources are necessarily descriptive",
+          "central": false,
+          "entity": "study sample",
+          "measure": "sampling procedure",
+          "quotes": [
+            "Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive.",
+            "the methodological objective of this study is not to project population trends based on random sampling"
+          ]
+        },
+        {
+          "text": "The design limits inference.",
+          "kind": "scope",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "The patterns and trends observed are context-specific and may not reflect student and teacher beliefs in a drastically different demographic and educational environment.",
+          "central": false,
+          "entity": "findings of the study",
+          "measure": "generalisability of the observed patterns and trends",
+          "quotes": [
+            "The patterns and trends observed are context-specific and may not reflect student and teacher beliefs in a drastically different demographic and educational environment."
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive.",
+        "The patterns and trends observed are context-specific and may not reflect student and teacher beliefs in a drastically different demographic and educational environment.",
+        "The Student Questionnaire (see Appendix A) was designed within the six-dimension analytical framework of L2 writing feedback discussed above.",
+        "The Teacher Questionnaire (see Appendix B) aimed to elicit teacher informants’ beliefs regarding L2 writing feedback.",
+        "the methodological objective of this study is not to project population trends based on random sampling"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Their descriptive, non-randomised questionnaire design limits inference, and the authors themselves note the data are necessarily descriptive (Liu and Wu, 2019).",
+      "citation": "(Liu and Wu, 2019)",
+      "paper_doi": "10.17239/jowr-2019.11.02.03",
+      "paper_title": "Same goal, different beliefs: Students’ preferences and teachers’ perceptions of feedback on second language writing",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (implications)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive.",
+            "The patterns and trends observed are context-specific and may not reflect student and teacher beliefs in a drastically different demographic and educational environment.",
+            "The Student Questionnaire (see Appendix A) was designed within the six-dimension analytical framework of L2 writing feedback discussed above.",
+            "The Teacher Questionnaire (see Appendix B) aimed to elicit teacher informants’ beliefs regarding L2 writing feedback.",
+            "the methodological objective of this study is not to project population trends based on random sampling"
+          ],
+          "tokens": {
+            "input_tokens": 17499,
+            "output_tokens": 1014
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "observed a very limited range of revision operations in a second draft, with only seven of 35 errors corrected properly, and reported that automated feedback tended to highlight rather than correct errors",
+      "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+      "status": "verified",
+      "evidence_quote": "We found a very limited range of revision operations in the second draft and out of 35 errors seven were corrected properly.",
+      "explanation": "All three propositions are stated in the source. The study reports for David (AWE feedback) that \"We found a very limited range of revision operations in the second draft and out of 35 errors seven were corrected properly\", and in the comparison of feedback types it states \"AWE feedback tended to highlight, rather than correct, student errors\". The claim's \"only seven of 35 errors corrected properly\" matches the source's \"out of 35 errors seven were corrected properly\" exactly, and the \"highlight rather than correct\" wording reproduces the source's phrasing. No assertion is contradicted or absent.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "A very limited range of revision operations was observed in a second draft.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "very limited",
+          "source_value": "very limited",
+          "quote": "We found a very limited range of revision operations in the second draft",
+          "central": true,
+          "entity": "second draft (David's AWE-feedback revision)",
+          "measure": "range of revision operations observed",
+          "quotes": [
+            "We found a very limited range of revision operations in the second draft"
+          ]
+        },
+        {
+          "text": "Only seven of 35 errors were corrected properly.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "7 of 35",
+          "source_value": "seven out of 35",
+          "quote": "out of 35 errors seven were corrected properly",
+          "central": false,
+          "entity": "errors in David's first draft",
+          "measure": "number of errors corrected properly out of total errors",
+          "quotes": [
+            "out of 35 errors seven were corrected properly"
+          ]
+        },
+        {
+          "text": "Automated feedback tended to highlight rather than correct errors.",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "highlight rather than correct",
+          "source_value": "highlight, rather than correct",
+          "quote": "AWE feedback tended to highlight, rather than correct, student errors.",
+          "central": false,
+          "entity": "AWE feedback",
+          "measure": "feedback type (highlighting vs. correction)",
+          "quotes": [
+            "AWE feedback tended to highlight, rather than correct, student errors."
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "We found a very limited range of revision operations in the second draft and out of 35 errors seven were corrected properly.",
+        "AWE feedback tended to highlight, rather than correct, student errors."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Zhang and Hyland (2018) observed a very limited range of revision operations in a second draft, with only seven of 35 errors corrected properly, and reported that automated feedback tended to highlight rather than correct errors.",
+      "citation": "Zhang and Hyland (2018)",
+      "paper_doi": "10.1016/j.asw.2018.02.004",
+      "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "We found a very limited range of revision operations in the second draft and out of 35 errors seven were corrected properly.",
+            "AWE feedback tended to highlight, rather than correct, student errors."
+          ],
+          "tokens": {
+            "input_tokens": 17577,
+            "output_tokens": 745
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    }
+  ],
+  "verified_count": 5,
+  "unsupported_count": 0,
+  "nuance_count": 2,
+  "abstract_only_count": 0,
+  "error_count": 0,
+  "needs_rewrite": 2,
+  "needs_removal": 0,
+  "provenance": {
+    "agent": "claim_verification",
+    "calls": 7,
+    "temperature": 0.0,
+    "guard_digest": "8a6c833ffc329f89",
+    "input_tokens": 141354,
+    "output_tokens": 7670,
+    "model_reported": [
+      "deepseek-flash"
+    ],
+    "prompt_version": "sha256:49fcfbfaf2f6",
+    "model_configured": "deepseek-chat",
+    "system_fingerprints": [
+      "e72d3c7f663d3e1383b00b3884cb4501"
+    ],
+    "repair_prompt_version": "sha256:7ec7cffe852d",
+    "quote_relocation_version": "0269a13351c0da7d",
+    "verification_policy_version": "667bcc9209126ddc"
+  },
+  "full_text_coverage": 1.0,
+  "task_id": "14bf6786-3ed0-400f-8018-cd201dcff90e",
+  "contradicted_count": 0,
+  "guarded_count": 1,
+  "citation_coverage": {
+    "found": 7,
+    "linked": 7,
+    "sent_to_verifier": 7,
+    "unresolved": 0,
+    "unresolved_citations": [],
+    "by_source": {
+      "mapping": 7,
+      "numbered": 0,
+      "author-year": 0
+    }
+  },
+  "healed": true,
+  "finalize_stats": {
+    "frame_spans_accepted": 1,
+    "sentences_residue_excised": 0,
+    "sentences_removed_dangling": 0,
+    "sentences_unclassified_kept": 0,
+    "sentences_removed_unverified": 2,
+    "citations_dropped_no_full_text": 0,
+    "needs_citation_markers_removed": 0,
+    "sentences_removed_no_full_text": 0,
+    "sentences_removed_verb_initial": 0,
+    "sentences_removed_heading_shaped": 0,
+    "sentences_removed_uncited_finding": 0,
+    "sentences_removed_coverage_incomplete": 0,
+    "sentences_truncated_fragment_repaired": 0,
+    "sentences_removed_meta_evaluation_uncited": 0
+  },
+  "final_report": {
+    "verifications": [
+      {
+        "claim_text": "A long-term advantage, measured four weeks after feedback provision, was evident only for direct corrections",
+        "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+        "status": "verified",
+        "evidence_quote": "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections",
+        "explanation": "The claim reproduces the abstract's own summary almost verbatim: \"a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections.\" The four-week timing is confirmed by the design description (\"Four weeks later, in session 5 students had 30 minutes to write a new text (delayed posttest)\"), and the restriction to direct corrections is confirmed both by the abstract and by the discussion (\"in the long term non-grammatical accuracy was durable with direct corrections only whereas grammatical issues maintained the feedback effect with either feedback type—although direct corrections proved superior\"). The discussion's qualification that grammatical accuracy was maintained by either feedback type is a nuance about grammatical vs. non-grammatical outcomes, but the paper's own stated overall conclusion is the one the claim reports, so no assertion is contradicted or absent.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "A long-term advantage was evident only for direct corrections (not for metalinguistic codes).",
+            "kind": "scope",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections",
+            "central": true,
+            "entity": "comprehensive corrective feedback conditions (direct corrections vs. metalinguistic codes) in the study",
+            "measure": "long-term (delayed posttest) accuracy advantage",
+            "quotes": [
+              "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections",
+              "in the long term non-grammatical accuracy was durable with direct corrections only whereas grammatical issues maintained the feedback effect with either feedback type—although direct corrections proved superior"
+            ]
+          },
+          {
+            "text": "The long-term measurement was taken four weeks after feedback provision.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "four weeks",
+            "source_value": "four weeks",
+            "quote": "Four weeks later, in session 5 students had 30 minutes to write a new text (delayed posttest).",
+            "central": false,
+            "entity": "delayed posttest in the study",
+            "measure": "time interval after feedback provision",
+            "quotes": [
+              "Four weeks later, in session 5 students had 30 minutes to write a new text (delayed posttest).",
+              "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections",
+          "Four weeks later, in session 5 students had 30 minutes to write a new text (delayed posttest).",
+          "in the long term non-grammatical accuracy was durable with direct corrections only whereas grammatical issues maintained the feedback effect with either feedback type—although direct corrections proved superior"
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "A long-term advantage, measured four weeks after feedback provision, was evident only for direct corrections (Bonilla López et al., 2018).",
+        "citation": "(Bonilla López et al., 2018)",
+        "paper_doi": "10.1111/lang.12295",
+        "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (preamble)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "a long-term advantage (i.e., four weeks after feedback provision) was only evident for direct corrections",
+              "Four weeks later, in session 5 students had 30 minutes to write a new text (delayed posttest).",
+              "in the long term non-grammatical accuracy was durable with direct corrections only whereas grammatical issues maintained the feedback effect with either feedback type—although direct corrections proved superior"
+            ],
+            "tokens": {
+              "input_tokens": 22175,
+              "output_tokens": 798
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "learners reported significantly lower cognitive load when revising after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors",
+        "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+        "status": "verified",
+        "evidence_quote": "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+        "explanation": "The central assertion — that reported cognitive load after revision following direct corrections on grammatical errors (DCF+G) was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN) — is stated directly in section 5.4: \"the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)\", and Table 3 lists \"***ME+GN > DCF+G 1.91 [0.95, 2.88]\" under Perceived cognitive load. The descriptive means (DCF+G = 4.76 vs. ME+GN = 6.68) are consistent with the direction. The peripheral assertions (learners' self-reported mental effort on Paas's scale; the two specific feedback conditions) are also supported by the methods and results sections. No contradiction and no hedge removal.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Learners reported lower cognitive load when revising after direct corrections on grammatical errors (DCF+G) than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN).",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "lower for DCF+G than ME+GN",
+            "source_value": "DCF+G significantly lower than ME+GN (p < 0.001)",
+            "quote": "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+            "central": true,
+            "entity": "EFL learners (N = 139) in the DCF+G and ME+GN conditions",
+            "measure": "self-reported cognitive load (mental effort) after text revision",
+            "quotes": [
+              "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+              "***ME+GN > DCF+G \n1.91 [0.95, 2.88]"
+            ]
+          },
+          {
+            "text": "The difference in reported cognitive load between these two conditions was statistically significant.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "significant",
+            "source_value": "p < 0.001 (***)",
+            "quote": "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+            "central": false,
+            "entity": "DCF+G vs. ME+GN comparison",
+            "measure": "statistical significance of the post-hoc comparison",
+            "quotes": [
+              "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+              "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)"
+            ]
+          },
+          {
+            "text": "Cognitive load was measured as learners' self-reported mental effort.",
+            "kind": "intervention",
+            "verdict": "supported",
+            "claim_value": "self-report of mental effort",
+            "source_value": "Paas's (1992) mental-effort based scale",
+            "quote": "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+            "central": false,
+            "entity": "learners in the study",
+            "measure": "instrument used to measure cognitive load",
+            "quotes": [
+              "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+              "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale"
+            ]
+          },
+          {
+            "text": "The comparison concerns the feedback conditions of direct corrections on grammatical errors versus metalinguistic codes on grammatical and non-grammatical errors.",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": "DCF+G vs. ME+GN",
+            "source_value": "DCF+G = direct CF on grammatical errors; ME+GN = metalinguistic CF with codes on grammatical errors and non-grammatical errors",
+            "quote": "DCF+G = direct CF on grammatical errors; ME+G = metalinguistic CF with codes on grammatical errors; DCF+GN = direct CF on grammatical and non-grammatical errors; ME+GN = metalinguistic CF with codes on grammatical errors and non-grammatical errors",
+            "central": false,
+            "entity": "experimental conditions DCF+G and ME+GN",
+            "measure": "definition of the feedback conditions compared",
+            "quotes": [
+              "DCF+G = direct CF on grammatical errors; ME+G = metalinguistic CF with codes on grammatical errors; DCF+GN = direct CF on grammatical and non-grammatical errors; ME+GN = metalinguistic CF with codes on grammatical errors and non-grammatical errors"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+          "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+          "Perceived cognitive load \n4.76 \n1.66 \n5.71 \n1.27 \n5.59 \n1.42 \n6.68 \n.612 \n4.48 \n1.39",
+          "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+          "DCF+G = direct CF on grammatical errors; ME+G = metalinguistic CF with codes on grammatical errors; DCF+GN = direct CF on grammatical and non-grammatical errors; ME+GN = metalinguistic CF with codes on grammatical errors and non-grammatical errors"
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Notably, learners reported significantly lower cognitive load when revising after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+        "citation": "(Bonilla López et al., 2018)",
+        "paper_doi": "10.1111/lang.12295",
+        "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (preamble)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+              "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+              "Perceived cognitive load \n4.76 \n1.66 \n5.71 \n1.27 \n5.59 \n1.42 \n6.68 \n.612 \n4.48 \n1.39",
+              "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms",
+              "DCF+G = direct CF on grammatical errors; ME+G = metalinguistic CF with codes on grammatical errors; DCF+GN = direct CF on grammatical and non-grammatical errors; ME+GN = metalinguistic CF with codes on grammatical errors and non-grammatical errors"
+            ],
+            "tokens": {
+              "input_tokens": 22186,
+              "output_tokens": 1477
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "In a survey of 70 students in a university ESL program in the southwestern United States, students favoured direct correction with metalinguistic explanations (215/447, 48.10%), followed by direct correction alone (111/447, 24.83%) (Liu and Wu, 2019).",
+        "paper_id": "f86fb131-21e8-4973-aaa5-57ca65cfc223",
+        "status": "verified",
+        "evidence_quote": "Seventy students from a university ESL program in the southwestern U.S. participated in the study.",
+        "explanation": "Every proposition in the claim is stated in the source. The participant description matches: \"Seventy students from a university ESL program in the southwestern U.S. participated in the study.\" The central ranking and counts match verbatim: \"In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%).\" The claim's \"direct correction alone\" is the source's \"direct correction without metalinguistic explanations,\" the same measure. No assertion is contradicted or absent, and no hedge is removed.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "The survey involved 70 students in a university ESL program in the southwestern United States.",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": "70 students; university ESL program in the southwestern U.S.",
+            "source_value": "Seventy students from a university ESL program in the southwestern U.S.",
+            "quote": "Seventy students from a university ESL program in the southwestern U.S. participated in the study.",
+            "central": false,
+            "entity": "students in a university ESL program in the southwestern U.S.",
+            "measure": "number of student participants and program setting",
+            "quotes": [
+              "Seventy students from a university ESL program in the southwestern U.S. participated in the study."
+            ]
+          },
+          {
+            "text": "Students most favoured direct correction with metalinguistic explanations, at 215/447 (48.10%).",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "215/447, 48.10%",
+            "source_value": "215/447, 48.10%",
+            "quote": "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%)",
+            "central": true,
+            "entity": "students' choices among the seven explicitness items (447 total choices)",
+            "measure": "count and percentage favouring direct correction with metalinguistic explanations",
+            "quotes": [
+              "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%)"
+            ]
+          },
+          {
+            "text": "The second most favoured option was direct correction alone, at 111/447 (24.83%).",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "111/447, 24.83%, second",
+            "source_value": "111/447, 24.83%, followed by",
+            "quote": "followed by direct correction without metalinguistic explanations (111/447, 24.83%)",
+            "central": false,
+            "entity": "students' choices among the seven explicitness items (447 total choices)",
+            "measure": "count and percentage favouring direct correction without metalinguistic explanations, ranked second",
+            "quotes": [
+              "followed by direct correction without metalinguistic explanations (111/447, 24.83%)"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "Seventy students from a university ESL program in the southwestern U.S. participated in the study.",
+          "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%)."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "In a survey of 70 students in a university ESL program in the southwestern United States, students favoured direct correction with metalinguistic explanations (215/447, 48.10%), followed by direct correction alone (111/447, 24.83%) (Liu and Wu, 2019).",
+        "citation": "(Liu and Wu, 2019)",
+        "paper_doi": "10.17239/jowr-2019.11.02.03",
+        "paper_title": "Same goal, different beliefs: Students’ preferences and teachers’ perceptions of feedback on second language writing",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (preamble)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "Seventy students from a university ESL program in the southwestern U.S. participated in the study.",
+              "In general, students favored direct correction in conjunction with metalinguistic explanations (215/447, 48.10%) followed by direct correction without metalinguistic explanations (111/447, 24.83%)."
+            ],
+            "tokens": {
+              "input_tokens": 17531,
+              "output_tokens": 986
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Their descriptive, non-randomised questionnaire design limits inference, and the authors themselves note the data are necessarily descriptive (Liu and Wu, 2019).",
+        "paper_id": "f86fb131-21e8-4973-aaa5-57ca65cfc223",
+        "status": "verified",
+        "evidence_quote": "Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive.",
+        "explanation": "The central assertion — that the authors themselves describe their data as necessarily descriptive — is stated verbatim in the Limitations section: \"Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive.\" The peripheral assertions are also supported: the design is a questionnaire survey of an existing pool of students and available teachers (non-randomised, non-experimental), and the authors state that the observed patterns \"are context-specific and may not reflect student and teacher beliefs in a drastically different demographic and educational environment,\" i.e., inference is limited. No assertion is contradicted and no hedge is removed.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "The authors themselves note that the data are necessarily descriptive.",
+            "kind": "attribution",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "data collected from such limited, non-randomized sources are necessarily descriptive",
+            "central": true,
+            "entity": "Liu and Wu (2019) study data",
+            "measure": "authors' own characterisation of the data as necessarily descriptive",
+            "quotes": [
+              "Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive."
+            ]
+          },
+          {
+            "text": "The study used a questionnaire design.",
+            "kind": "intervention",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "The Student Questionnaire (see Appendix A) was designed within the six-dimension analytical framework of L2 writing feedback discussed above.",
+            "central": false,
+            "entity": "the study",
+            "measure": "instrument/design",
+            "quotes": [
+              "The Student Questionnaire (see Appendix A) was designed within the six-dimension analytical framework of L2 writing feedback discussed above.",
+              "The Teacher Questionnaire (see Appendix B) aimed to elicit teacher informants’ beliefs regarding L2 writing feedback."
+            ]
+          },
+          {
+            "text": "The sample was non-randomised, drawn from an existing pool of students and available teachers.",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "data collected from such limited, non-randomized sources are necessarily descriptive",
+            "central": false,
+            "entity": "study sample",
+            "measure": "sampling procedure",
+            "quotes": [
+              "Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive.",
+              "the methodological objective of this study is not to project population trends based on random sampling"
+            ]
+          },
+          {
+            "text": "The design limits inference.",
+            "kind": "scope",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "The patterns and trends observed are context-specific and may not reflect student and teacher beliefs in a drastically different demographic and educational environment.",
+            "central": false,
+            "entity": "findings of the study",
+            "measure": "generalisability of the observed patterns and trends",
+            "quotes": [
+              "The patterns and trends observed are context-specific and may not reflect student and teacher beliefs in a drastically different demographic and educational environment."
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive.",
+          "The patterns and trends observed are context-specific and may not reflect student and teacher beliefs in a drastically different demographic and educational environment.",
+          "The Student Questionnaire (see Appendix A) was designed within the six-dimension analytical framework of L2 writing feedback discussed above.",
+          "The Teacher Questionnaire (see Appendix B) aimed to elicit teacher informants’ beliefs regarding L2 writing feedback.",
+          "the methodological objective of this study is not to project population trends based on random sampling"
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Their descriptive, non-randomised questionnaire design limits inference, and the authors themselves note the data are necessarily descriptive (Liu and Wu, 2019).",
+        "citation": "(Liu and Wu, 2019)",
+        "paper_doi": "10.17239/jowr-2019.11.02.03",
+        "paper_title": "Same goal, different beliefs: Students’ preferences and teachers’ perceptions of feedback on second language writing",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (implications)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "Since this is not an experimental study but one that tapped into an existing pool of students and available teachers, data collected from such limited, non-randomized sources are necessarily descriptive.",
+              "The patterns and trends observed are context-specific and may not reflect student and teacher beliefs in a drastically different demographic and educational environment.",
+              "The Student Questionnaire (see Appendix A) was designed within the six-dimension analytical framework of L2 writing feedback discussed above.",
+              "The Teacher Questionnaire (see Appendix B) aimed to elicit teacher informants’ beliefs regarding L2 writing feedback.",
+              "the methodological objective of this study is not to project population trends based on random sampling"
+            ],
+            "tokens": {
+              "input_tokens": 17499,
+              "output_tokens": 1014
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "observed a very limited range of revision operations in a second draft, with only seven of 35 errors corrected properly, and reported that automated feedback tended to highlight rather than correct errors",
+        "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+        "status": "verified",
+        "evidence_quote": "We found a very limited range of revision operations in the second draft and out of 35 errors seven were corrected properly.",
+        "explanation": "All three propositions are stated in the source. The study reports for David (AWE feedback) that \"We found a very limited range of revision operations in the second draft and out of 35 errors seven were corrected properly\", and in the comparison of feedback types it states \"AWE feedback tended to highlight, rather than correct, student errors\". The claim's \"only seven of 35 errors corrected properly\" matches the source's \"out of 35 errors seven were corrected properly\" exactly, and the \"highlight rather than correct\" wording reproduces the source's phrasing. No assertion is contradicted or absent.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "A very limited range of revision operations was observed in a second draft.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "very limited",
+            "source_value": "very limited",
+            "quote": "We found a very limited range of revision operations in the second draft",
+            "central": true,
+            "entity": "second draft (David's AWE-feedback revision)",
+            "measure": "range of revision operations observed",
+            "quotes": [
+              "We found a very limited range of revision operations in the second draft"
+            ]
+          },
+          {
+            "text": "Only seven of 35 errors were corrected properly.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "7 of 35",
+            "source_value": "seven out of 35",
+            "quote": "out of 35 errors seven were corrected properly",
+            "central": false,
+            "entity": "errors in David's first draft",
+            "measure": "number of errors corrected properly out of total errors",
+            "quotes": [
+              "out of 35 errors seven were corrected properly"
+            ]
+          },
+          {
+            "text": "Automated feedback tended to highlight rather than correct errors.",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "highlight rather than correct",
+            "source_value": "highlight, rather than correct",
+            "quote": "AWE feedback tended to highlight, rather than correct, student errors.",
+            "central": false,
+            "entity": "AWE feedback",
+            "measure": "feedback type (highlighting vs. correction)",
+            "quotes": [
+              "AWE feedback tended to highlight, rather than correct, student errors."
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "We found a very limited range of revision operations in the second draft and out of 35 errors seven were corrected properly.",
+          "AWE feedback tended to highlight, rather than correct, student errors."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Zhang and Hyland (2018) observed a very limited range of revision operations in a second draft, with only seven of 35 errors corrected properly, and reported that automated feedback tended to highlight rather than correct errors.",
+        "citation": "Zhang and Hyland (2018)",
+        "paper_doi": "10.1016/j.asw.2018.02.004",
+        "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "We found a very limited range of revision operations in the second draft and out of 35 errors seven were corrected properly.",
+              "AWE feedback tended to highlight, rather than correct, student errors."
+            ],
+            "tokens": {
+              "input_tokens": 17577,
+              "output_tokens": 745
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      }
+    ],
+    "verified_count": 5
+  }
+}

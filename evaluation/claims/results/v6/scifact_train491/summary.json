@@ -1,0 +1,31 @@
+{
+  "n_rows": 491,
+  "n_errors": 0,
+  "support": {
+    "n": 206,
+    "verified": 87,
+    "needs_nuance": 79,
+    "unsupported": 40,
+    "strict_recall": 0.4223300970873786,
+    "strict_recall_wilson_95": [
+      0.3569073176378995,
+      0.49059660184569753
+    ],
+    "lenient_verified_or_nuance": 166,
+    "lenient_recall": 0.8058252427184466,
+    "lenient_recall_wilson_95": [
+      0.7464142418120633,
+      0.8540390752212728
+    ]
+  },
+  "non_support": {
+    "n": 285,
+    "by_gold": {
+      "CONTRADICT": 85,
+      "NOT_ENOUGH_INFO": 200
+    },
+    "verified": 0,
+    "needs_nuance": 12,
+    "unsupported": 273
+  }
+}

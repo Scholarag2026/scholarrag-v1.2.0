@@ -1,0 +1,107 @@
+{
+  "n_records": 140,
+  "n_no_majority": 2,
+  "by_stratum": {
+    "exclude": {
+      "n_records": 80,
+      "include": 1,
+      "exclude": 74,
+      "unsure": 5,
+      "no_majority": 0,
+      "n_any_include": 1,
+      "n": 80
+    },
+    "include": {
+      "n_records": 30,
+      "include": 26,
+      "exclude": 2,
+      "unsure": 1,
+      "no_majority": 1,
+      "n_any_include": 27,
+      "n": 29
+    },
+    "judge_demoted": {
+      "n_records": 20,
+      "include": 3,
+      "exclude": 5,
+      "unsure": 11,
+      "no_majority": 1,
+      "n_any_include": 6,
+      "n": 19
+    },
+    "other_needs_review": {
+      "n_records": 10,
+      "include": 0,
+      "exclude": 5,
+      "unsure": 5,
+      "no_majority": 0,
+      "n_any_include": 1,
+      "n": 10
+    }
+  },
+  "exclusions": {
+    "n": 80,
+    "n_majority_include": 1,
+    "miss_rate_wilson_95": [
+      0.0022099755204522697,
+      0.06746270077668665
+    ],
+    "n_any_include": 1,
+    "any_include_wilson_95": [
+      0.0022099755204522697,
+      0.06746270077668665
+    ]
+  },
+  "include_agreement": {
+    "n": 29,
+    "n_majority_include": 26,
+    "rate": 0.896551724137931,
+    "wilson_95": [
+      0.736149189092262,
+      0.964185108649323
+    ]
+  },
+  "judge_demoted": {
+    "n": 19,
+    "n_upheld": 16,
+    "rate": 0.8421052631578947,
+    "wilson_95": [
+      0.6243452472967093,
+      0.9447952836146585
+    ],
+    "n_majority_include": 3
+  },
+  "inter_rater": {
+    "fleiss_kappa": 0.742799403947825,
+    "mean_pairwise_percent_agreement": 0.8571428571428572
+  },
+  "per_labeller": {
+    "1": {
+      "include": 31,
+      "exclude": 91,
+      "unsure": 18
+    },
+    "2": {
+      "include": 28,
+      "exclude": 78,
+      "unsure": 34
+    },
+    "3": {
+      "include": 32,
+      "exclude": 85,
+      "unsure": 23
+    }
+  },
+  "integrity_flags": {
+    "n_workbooks": 3,
+    "ai_tool_used": 0,
+    "seen_before": 0,
+    "discussed_with_others": 0,
+    "flagged_workbooks": []
+  },
+  "copy_identification": [
+    "guide_line",
+    "guide_line",
+    "guide_line"
+  ]
+}

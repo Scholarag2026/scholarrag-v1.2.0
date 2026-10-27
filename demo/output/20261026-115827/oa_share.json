@@ -1,0 +1,19 @@
+{
+  "run_id": "20261026-115827",
+  "fetched_at": "2026-10-26T17:50:44+00:00",
+  "source": "https://api.openalex.org/works",
+  "included": 1398,
+  "matched": 1398,
+  "is_oa": 1046,
+  "share_is_oa": 0.748,
+  "with_oa_url": 1046,
+  "by_oa_status": {
+    "bronze": 65,
+    "closed": 352,
+    "diamond": 502,
+    "gold": 155,
+    "green": 175,
+    "hybrid": 149
+  },
+  "unmatched_ids": []
+}

@@ -1,0 +1,43 @@
+{
+  "datasets": {
+    "Fong_2021": {
+      "n_records": 477,
+      "n_inclusions": 31,
+      "inclusions_excluded_by_topic": 0,
+      "inclusions_excluded_by_topic_wilson_95": [
+        0.0,
+        0.1102553954604359
+      ],
+      "inclusions_needs_review": 31,
+      "records_excluded": 275,
+      "records_excluded_by_topic": 275,
+      "records_excluded_by_topic_gold_inclusion": 0
+    },
+    "van_Dis_2020": {
+      "n_records": 438,
+      "n_inclusions": 7,
+      "inclusions_excluded_by_topic": 1,
+      "inclusions_excluded_by_topic_wilson_95": [
+        0.02567962434474356,
+        0.5131278292743188
+      ],
+      "inclusions_needs_review": 6,
+      "records_excluded": 190,
+      "records_excluded_by_topic": 190,
+      "records_excluded_by_topic_gold_inclusion": 1
+    }
+  },
+  "combined": {
+    "n_records": 915,
+    "n_inclusions": 38,
+    "inclusions_excluded_by_topic": 1,
+    "inclusions_excluded_by_topic_wilson_95": [
+      0.004660587685768785,
+      0.13494876115952123
+    ],
+    "inclusions_needs_review": 37,
+    "records_excluded": 465,
+    "records_excluded_by_topic": 465,
+    "records_excluded_by_topic_gold_inclusion": 1
+  }
+}

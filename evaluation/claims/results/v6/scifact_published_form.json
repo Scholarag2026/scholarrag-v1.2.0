@@ -1,0 +1,1269 @@
+{
+  "mappings": {
+    "strict": "Strict: verified to SUPPORT; needs_nuance to NEI; unsupported with at least one assertion verdict \"contradicted\" to CONTRADICT; any other unsupported, no_full_text or error to NEI.",
+    "lenient": "Lenient: verified to SUPPORT; needs_nuance to SUPPORT; unsupported with at least one assertion verdict \"contradicted\" to CONTRADICT; any other unsupported, no_full_text or error to NEI."
+  },
+  "mapping_basis": "The verifier has four labels and SciFact has three. Verified maps to SUPPORT, unsupported with a contradicted assertion to CONTRADICT, and the other unsupported rows and no_full_text to NEI. needs_nuance has no SciFact slot: it marks a claim whose assertions are all supported but which overstates the finding or drops a qualifier the paper attaches. Both readings are therefore reported. Lenient counts needs_nuance as SUPPORT, which is closer to SciFact's own meaning; strict counts it as no decision, the cautious reading. The source is the SciFact evidence-annotation instructions (Wadden et al., 2020, EMNLP, Appendix D; https://scifact.s3-us-west-2.amazonaws.com/doc/evidence-annotation-instructions.pdf). Section 3.3 says \"If the evidence supports a special case of the claim (or the exact claim), support is full.\" Section 3.3.1 tells annotators to withhold scientific skepticism and to \"Just take the author's words at face value\". A claim stated more generally than its evidence was thus labelled SUPPORT in SciFact, while the verifier flags it as needs_nuance by design (51 of 138 gold SUPPORT pairs in run A and 53 in run B). The annotators were not asked about overstatement, so the lenient reading is closer to SciFact's meaning but not the same as it.",
+  "metric_definition": "Abstract-level label-only, as in the published SciFact evaluation: a prediction is correct when the predicted label equals the gold label of the (claim, abstract) pair; NOT_ENOUGH_INFO predictions are ignored. Precision is correct predictions over non-NEI predictions. Recall is correct predictions over pairs whose gold label is not NEI. F1 is computed from the unrounded precision and recall.",
+  "runs": {
+    "A": {
+      "strict": {
+        "evidence_pairs": {
+          "n_rows": 209,
+          "predicted_non_nei": 129,
+          "correct": 119,
+          "gold_evidence_pairs": 209,
+          "precision": 0.922,
+          "recall": 0.569,
+          "f1": 0.704,
+          "precision_ci": [
+            0.863,
+            0.957
+          ],
+          "recall_ci": [
+            0.502,
+            0.635
+          ]
+        },
+        "all_cited": {
+          "n_rows": 340,
+          "predicted_non_nei": 138,
+          "correct": 119,
+          "gold_evidence_pairs": 209,
+          "precision": 0.862,
+          "recall": 0.569,
+          "f1": 0.686,
+          "precision_ci": [
+            0.795,
+            0.91
+          ],
+          "recall_ci": [
+            0.502,
+            0.635
+          ]
+        }
+      },
+      "lenient": {
+        "evidence_pairs": {
+          "n_rows": 209,
+          "predicted_non_nei": 181,
+          "correct": 170,
+          "gold_evidence_pairs": 209,
+          "precision": 0.939,
+          "recall": 0.813,
+          "f1": 0.872,
+          "precision_ci": [
+            0.894,
+            0.966
+          ],
+          "recall_ci": [
+            0.755,
+            0.86
+          ]
+        },
+        "all_cited": {
+          "n_rows": 340,
+          "predicted_non_nei": 192,
+          "correct": 170,
+          "gold_evidence_pairs": 209,
+          "precision": 0.885,
+          "recall": 0.813,
+          "f1": 0.848,
+          "precision_ci": [
+            0.833,
+            0.923
+          ],
+          "recall_ci": [
+            0.755,
+            0.86
+          ]
+        }
+      },
+      "pre_guard": {
+        "n_rows": 209,
+        "predicted_non_nei": 131,
+        "correct": 121,
+        "gold_evidence_pairs": 209,
+        "precision": 0.924,
+        "recall": 0.579,
+        "f1": 0.712,
+        "precision_ci": [
+          0.865,
+          0.958
+        ],
+        "recall_ci": [
+          0.511,
+          0.644
+        ]
+      },
+      "per_class": {
+        "SUPPORT": {
+          "precision": 0.9827586206896551,
+          "recall": 0.41304347826086957,
+          "support": 138,
+          "predicted": 58
+        },
+        "CONTRADICT": {
+          "precision": 0.775,
+          "recall": 0.8732394366197183,
+          "support": 71,
+          "predicted": 80
+        },
+        "NOT_ENOUGH_INFO": {
+          "precision": 0.6039603960396039,
+          "recall": 0.9312977099236641,
+          "support": 131,
+          "predicted": 202
+        }
+      },
+      "support_class": {
+        "n_rows": 340,
+        "precision": 0.983,
+        "recall": 0.413,
+        "f1": 0.582
+      },
+      "guard_changes": {
+        "changed": 7,
+        "towards_stricter": 7
+      }
+    },
+    "B": {
+      "strict": {
+        "evidence_pairs": {
+          "n_rows": 209,
+          "predicted_non_nei": 127,
+          "correct": 119,
+          "gold_evidence_pairs": 209,
+          "precision": 0.937,
+          "recall": 0.569,
+          "f1": 0.708,
+          "precision_ci": [
+            0.881,
+            0.968
+          ],
+          "recall_ci": [
+            0.502,
+            0.635
+          ]
+        },
+        "all_cited": {
+          "n_rows": 340,
+          "predicted_non_nei": 135,
+          "correct": 119,
+          "gold_evidence_pairs": 209,
+          "precision": 0.881,
+          "recall": 0.569,
+          "f1": 0.692,
+          "precision_ci": [
+            0.816,
+            0.926
+          ],
+          "recall_ci": [
+            0.502,
+            0.635
+          ]
+        }
+      },
+      "lenient": {
+        "evidence_pairs": {
+          "n_rows": 209,
+          "predicted_non_nei": 181,
+          "correct": 172,
+          "gold_evidence_pairs": 209,
+          "precision": 0.95,
+          "recall": 0.823,
+          "f1": 0.882,
+          "precision_ci": [
+            0.908,
+            0.974
+          ],
+          "recall_ci": [
+            0.766,
+            0.869
+          ]
+        },
+        "all_cited": {
+          "n_rows": 340,
+          "predicted_non_nei": 191,
+          "correct": 172,
+          "gold_evidence_pairs": 209,
+          "precision": 0.901,
+          "recall": 0.823,
+          "f1": 0.86,
+          "precision_ci": [
+            0.85,
+            0.935
+          ],
+          "recall_ci": [
+            0.766,
+            0.869
+          ]
+        }
+      },
+      "pre_guard": {
+        "n_rows": 209,
+        "predicted_non_nei": 129,
+        "correct": 121,
+        "gold_evidence_pairs": 209,
+        "precision": 0.938,
+        "recall": 0.579,
+        "f1": 0.716,
+        "precision_ci": [
+          0.882,
+          0.968
+        ],
+        "recall_ci": [
+          0.511,
+          0.644
+        ]
+      },
+      "per_class": {
+        "SUPPORT": {
+          "precision": 0.9827586206896551,
+          "recall": 0.41304347826086957,
+          "support": 138,
+          "predicted": 58
+        },
+        "CONTRADICT": {
+          "precision": 0.8051948051948052,
+          "recall": 0.8732394366197183,
+          "support": 71,
+          "predicted": 77
+        },
+        "NOT_ENOUGH_INFO": {
+          "precision": 0.6,
+          "recall": 0.9389312977099237,
+          "support": 131,
+          "predicted": 205
+        }
+      },
+      "support_class": {
+        "n_rows": 340,
+        "precision": 0.983,
+        "recall": 0.413,
+        "f1": 0.582
+      },
+      "guard_changes": {
+        "changed": 4,
+        "towards_stricter": 4
+      }
+    }
+  },
+  "published": [
+    {
+      "key": "verisci_fever_zero_shot",
+      "system": "VeriSci trained on FEVER only (zero-shot)",
+      "citation": "Wadden et al., 2020, EMNLP",
+      "source_url": "https://aclanthology.org/2020.emnlp-main.609/",
+      "fetched_from": "https://arxiv.org/pdf/2004.14974v6",
+      "table": "Table 7 (b), abstract-level results",
+      "row_label": "Zero-shot",
+      "split": "SciFact dev, oracle abstract",
+      "setting": "Label-Only",
+      "metric": "abstract-level Label-Only precision, recall and F1 (percent), mean over bootstrap samples",
+      "scale": "percent",
+      "precision": 88.9,
+      "recall": 58.3,
+      "f1": 70.4,
+      "printed": {
+        "precision": "88.9",
+        "recall": "58.3",
+        "f1": "70.4"
+      },
+      "quote_lines": [
+        "Zero-shot 2 88.92.8",
+        "58.33.7",
+        "70.43.2"
+      ],
+      "locate": {
+        "precision": [
+          0,
+          2
+        ],
+        "recall": [
+          1,
+          0
+        ],
+        "f1": [
+          2,
+          0
+        ]
+      },
+      "different_split": false,
+      "tuned_on_dev": true,
+      "caveat": "Trained on FEVER only, but the rationale threshold was tuned on the SciFact dev set (Appendix A.1) and the reported values are dev-set bootstrap means with oracle abstracts.",
+      "basis": "evidence_209",
+      "accuracy": null
+    },
+    {
+      "key": "verisci",
+      "system": "VeriSci (FEVER then SciFact)",
+      "citation": "Wadden et al., 2020, EMNLP",
+      "source_url": "https://aclanthology.org/2020.emnlp-main.609/",
+      "fetched_from": "https://arxiv.org/pdf/2004.14974v6",
+      "table": "Table 7 (b), abstract-level results",
+      "row_label": "VERISCI",
+      "split": "SciFact dev, oracle abstract",
+      "setting": "Label-Only",
+      "metric": "abstract-level Label-Only precision, recall and F1 (percent), mean over bootstrap samples",
+      "scale": "percent",
+      "precision": 91.0,
+      "recall": 67.4,
+      "f1": 77.4,
+      "printed": {
+        "precision": "91.0",
+        "recall": "67.4",
+        "f1": "77.4"
+      },
+      "quote_lines": [
+        "VERISCI 3 91.02.3",
+        "67.43.3",
+        "77.42.7"
+      ],
+      "locate": {
+        "precision": [
+          0,
+          2
+        ],
+        "recall": [
+          1,
+          0
+        ],
+        "f1": [
+          2,
+          0
+        ]
+      },
+      "different_split": false,
+      "tuned_on_dev": true,
+      "caveat": "Hyperparameters were selected for the highest F1 on the SciFact dev set (Appendix A.5), and the values are for oracle abstracts.",
+      "basis": "evidence_209",
+      "accuracy": null
+    },
+    {
+      "key": "paragraph_joint",
+      "system": "Paragraph-Joint",
+      "citation": "Li et al., 2021, SDU workshop at AAAI (arXiv 2012.14500)",
+      "source_url": "https://arxiv.org/abs/2012.14500v2",
+      "fetched_from": "https://arxiv.org/pdf/2012.14500v2",
+      "table": "Table 3",
+      "row_label": "Paragraph-Joint",
+      "split": "SciFact dev, oracle abstract",
+      "setting": "Label-Only",
+      "metric": "abstract-level Label-Only precision, recall and F1 (percent)",
+      "scale": "percent",
+      "precision": 83.3,
+      "recall": 76.6,
+      "f1": 79.8,
+      "printed": {
+        "precision": "83.3",
+        "recall": "76.6",
+        "f1": "79.8"
+      },
+      "quote_lines": [
+        "Paragraph-Joint 75.9 62.8 68.8 67.7 56.0 61.3 83.3 76.6 79.8 76.6 70.3 73.3"
+      ],
+      "locate": {
+        "precision": [
+          0,
+          7
+        ],
+        "recall": [
+          0,
+          8
+        ],
+        "f1": [
+          0,
+          9
+        ]
+      },
+      "different_split": false,
+      "tuned_on_dev": true,
+      "caveat": "The authors tune their models on the sentence-level development set performance, and the values are for oracle abstracts.",
+      "basis": "evidence_209",
+      "accuracy": null
+    },
+    {
+      "key": "gpt4o_zero_shot_support_class",
+      "system": "GPT-4o zero-shot, SUPPORT class",
+      "citation": "Kosprdic et al., 2024, IC3K (KMIS)",
+      "source_url": "https://doi.org/10.5220/0012900000003838",
+      "fetched_from": "https://www.scitepress.org/Papers/2024/129000/129000.pdf",
+      "table": "Table 3",
+      "row_label": "GPT-4o, column S",
+      "split": "authors' own 80/10/10 re-split of SciFact train plus dev, test part (n = 122)",
+      "setting": "zero-shot prompt, title plus abstract",
+      "metric": "precision, recall and F1 of the SUPPORT class",
+      "scale": "fraction",
+      "precision": 0.91,
+      "recall": 0.8,
+      "f1": 0.85,
+      "printed": {
+        "precision": "0.91",
+        "recall": "0.80",
+        "f1": "0.85"
+      },
+      "quote_lines": [
+        "P 0.88 0.90 0.88 0.89 0.85 0.77 0.84 0.82 0.93 0.81 0.65 0.82 0.72 0.91 0.74 0.80",
+        "R 0.95 0.88 0.78 0.89 0.80 0.94 0.59 0.81 0.64 0.92 0.81 0.80 0.89 0.80 0.63 0.80",
+        "F1 0.91 0.89 0.82 0.88 0.82 0.85 0.70 0.81 0.76 0.86 0.72 0.79 0.80 0.85 0.68 0.79"
+      ],
+      "locate": {
+        "precision": [
+          0,
+          14
+        ],
+        "recall": [
+          1,
+          14
+        ],
+        "f1": [
+          2,
+          14
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "A different split from the SciFact dev set (the authors' own stratified 80/10/10 re-split of train plus dev, 122 test examples), so it is shown for orientation and is not directly comparable.",
+      "basis": "other_split",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_gpt5",
+      "system": "GPT-5 (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "GPT-5",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 73.1,
+      "printed": {
+        "f1": "73.1"
+      },
+      "quote_lines": [
+        "GPT-5 - 47.3 66.6 72.0 25.7 67.9 94.2 62.1 / 55.9 44.0 73.1 / 74.0 61.1"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_gemini25pro",
+      "system": "Gemini-2.5-Pro (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "Gemini-2.5-Pro",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 77.1,
+      "printed": {
+        "f1": "77.1"
+      },
+      "quote_lines": [
+        "Gemini-2.5-Pro - 45.1 65.1 71.2 23.7 63.9 92.8 66.6 / 52.0 42.3 77.1 / 72.5 59.8"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_deepseek_v31",
+      "system": "DeepSeek-V3.1 (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "DeepSeek-V3.1",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 82.4,
+      "printed": {
+        "f1": "82.4"
+      },
+      "quote_lines": [
+        "DeepSeek-V3.1 - 48.3 68.0 75.5 25.1 51.2 90.5 66.1 / 49.7 44.1 82.4 / 61.8 59.2"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_kimi_k2",
+      "system": "Kimi-K2 (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "Kimi-K2",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 87.6,
+      "printed": {
+        "f1": "87.6"
+      },
+      "quote_lines": [
+        "Kimi-K2 - 49.3 66.9 75.0 25.9 58.8 92.5 61.0 / 47.9 42.7 87.6 / 62.0 60.0"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_gpt4o",
+      "system": "GPT-4o (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "GPT-4o",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 85.5,
+      "printed": {
+        "f1": "85.5"
+      },
+      "quote_lines": [
+        "GPT-4o - 48.3 63.6 71.3 25.9 62.0 88.3 54.0 / 55.0 40.3 85.5 / 70.4 60.4"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_gpt4o_mini",
+      "system": "GPT-4o-mini (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "GPT-4o-mini",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 82.7,
+      "printed": {
+        "f1": "82.7"
+      },
+      "quote_lines": [
+        "GPT-4o-mini - 49.6 53.7 75.6 27.7 54.8 88.8 61.7 / 46.7 33.1 82.7 / 63.6 58.0"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_llama31_8b_instruct",
+      "system": "Llama-3.1-8B-Instruct (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "Llama-3.1-8B-Instruct",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 66.7,
+      "printed": {
+        "f1": "66.7"
+      },
+      "quote_lines": [
+        "Llama 3.1 8B-Instruct - 43.7 48.8 62.2 17.8 48.8 88.3 54.0 / 43.0 30.6 66.7 / 51.7 50.5"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          14
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. No SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_llama31_8b_instruct_sciriff",
+      "system": "Llama-3.1-8B-Instruct fine-tuned on SciRIFF (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "Llama 3.1 8B-Instruct, SciRIFF",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 85.8,
+      "printed": {
+        "f1": "85.8"
+      },
+      "quote_lines": [
+        "Llama 3.1 8B-Instruct - 43.7 48.8 62.2 17.8 48.8 88.3 54.0 / 43.0 30.6 66.7 / 51.7 50.5",
+        "SciRIFF 45.9 86.0 83.7 25.0 71.4 70.5 53.3 / 54.1 56.8 85.8 / 72.5 64.1"
+      ],
+      "locate": {
+        "f1": [
+          1,
+          11
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Fine-tuned on the SciRIFF training mixture.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "medv1_l3b",
+      "system": "Med-V1-L3B (Llama-3.2-3B-Instruct base)",
+      "citation": "Jin et al., 2026, arXiv 2603.05308v4",
+      "source_url": "https://arxiv.org/abs/2603.05308v4",
+      "fetched_from": "https://arxiv.org/pdf/2603.05308v4",
+      "table": "Figure 3, SciFact panel (bar labels)",
+      "row_label": "Med-V1-L3B (Llama-3.2-3B-Instruct base)",
+      "split": "SciFact dev, 340 claim-abstract pairs (pre-processed version); the paper does not name the split, which was identified by an exact count and label match",
+      "setting": "zero-shot, claim plus paired abstract",
+      "metric": "3-way accuracy over SUPPORT, CONTRADICT and NEI (NEI predictions counted)",
+      "scale": "fraction",
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "printed": {
+        "accuracy": "0.844"
+      },
+      "quote_lines": [
+        "0.812",
+        "0.832 0.847 0.832 0.818",
+        "0.600",
+        "0.844",
+        "0.638",
+        "0.856",
+        "real-world medical claims verified against biomedical abstracts. For consistency, we use the pre-processed versions of these datasets [43], containing 340 SciFact instances and 903 HealthVer instances."
+      ],
+      "locate": {
+        "accuracy": [
+          3,
+          0
+        ]
+      },
+      "different_split": false,
+      "tuned_on_dev": false,
+      "caveat": "Preprint, not peer reviewed. Three-way accuracy with NEI counted, so it is not the Label-Only F1 of the other rows. The value is read from the bar label of the figure (embedded text) and matches the average panel; the figure has no table. Med-V1 is a 3B model fine-tuned on synthetic data and run without benchmark-specific training. Bar order in the panel: Llama-70B, o3-mini, GPT-4o-mini, GPT-4o, GPT-5, Llama-3B, Med-V1-L3B, Qwen-3B, Med-V1-Q3B.",
+      "basis": "all_340",
+      "accuracy": 0.844
+    },
+    {
+      "key": "medv1_q3b",
+      "system": "Med-V1-Q3B (Qwen2.5-3B-Instruct base)",
+      "citation": "Jin et al., 2026, arXiv 2603.05308v4",
+      "source_url": "https://arxiv.org/abs/2603.05308v4",
+      "fetched_from": "https://arxiv.org/pdf/2603.05308v4",
+      "table": "Figure 3, SciFact panel (bar labels)",
+      "row_label": "Med-V1-Q3B (Qwen2.5-3B-Instruct base)",
+      "split": "SciFact dev, 340 claim-abstract pairs (pre-processed version); the paper does not name the split, which was identified by an exact count and label match",
+      "setting": "zero-shot, claim plus paired abstract",
+      "metric": "3-way accuracy over SUPPORT, CONTRADICT and NEI (NEI predictions counted)",
+      "scale": "fraction",
+      "precision": null,
+      "recall": null,
+      "f1": null,
+      "printed": {
+        "accuracy": "0.856"
+      },
+      "quote_lines": [
+        "0.812",
+        "0.832 0.847 0.832 0.818",
+        "0.600",
+        "0.844",
+        "0.638",
+        "0.856",
+        "real-world medical claims verified against biomedical abstracts. For consistency, we use the pre-processed versions of these datasets [43], containing 340 SciFact instances and 903 HealthVer instances."
+      ],
+      "locate": {
+        "accuracy": [
+          5,
+          0
+        ]
+      },
+      "different_split": false,
+      "tuned_on_dev": false,
+      "caveat": "Preprint, not peer reviewed. Three-way accuracy with NEI counted, so it is not the Label-Only F1 of the other rows. The value is read from the bar label of the figure (embedded text) and matches the average panel; the figure has no table. Med-V1 is a 3B model fine-tuned on synthetic data and run without benchmark-specific training. Bar order in the panel: Llama-70B, o3-mini, GPT-4o-mini, GPT-4o, GPT-5, Llama-3B, Med-V1-L3B, Qwen-3B, Med-V1-Q3B.",
+      "basis": "all_340",
+      "accuracy": 0.856
+    }
+  ],
+  "same_340": {
+    "ours": {
+      "A": {
+        "strict": {
+          "n_rows": 340,
+          "f1": 0.686,
+          "accuracy": 0.709,
+          "accuracy_ci": [
+            0.658,
+            0.755
+          ]
+        },
+        "lenient": {
+          "n_rows": 340,
+          "f1": 0.848,
+          "accuracy": 0.853,
+          "accuracy_ci": [
+            0.811,
+            0.887
+          ]
+        }
+      },
+      "B": {
+        "strict": {
+          "n_rows": 340,
+          "f1": 0.692,
+          "accuracy": 0.712,
+          "accuracy_ci": [
+            0.661,
+            0.757
+          ]
+        },
+        "lenient": {
+          "n_rows": 340,
+          "f1": 0.86,
+          "accuracy": 0.862,
+          "accuracy_ci": [
+            0.821,
+            0.894
+          ]
+        }
+      }
+    },
+    "published": [
+      {
+        "key": "medv1_l3b",
+        "system": "Med-V1-L3B (Llama-3.2-3B-Instruct base)",
+        "citation": "Jin et al., 2026, arXiv 2603.05308v4",
+        "source_url": "https://arxiv.org/abs/2603.05308v4",
+        "fetched_from": "https://arxiv.org/pdf/2603.05308v4",
+        "table": "Figure 3, SciFact panel (bar labels)",
+        "row_label": "Med-V1-L3B (Llama-3.2-3B-Instruct base)",
+        "split": "SciFact dev, 340 claim-abstract pairs (pre-processed version); the paper does not name the split, which was identified by an exact count and label match",
+        "setting": "zero-shot, claim plus paired abstract",
+        "metric": "3-way accuracy over SUPPORT, CONTRADICT and NEI (NEI predictions counted)",
+        "scale": "fraction",
+        "precision": null,
+        "recall": null,
+        "f1": null,
+        "printed": {
+          "accuracy": "0.844"
+        },
+        "quote_lines": [
+          "0.812",
+          "0.832 0.847 0.832 0.818",
+          "0.600",
+          "0.844",
+          "0.638",
+          "0.856",
+          "real-world medical claims verified against biomedical abstracts. For consistency, we use the pre-processed versions of these datasets [43], containing 340 SciFact instances and 903 HealthVer instances."
+        ],
+        "locate": {
+          "accuracy": [
+            3,
+            0
+          ]
+        },
+        "different_split": false,
+        "tuned_on_dev": false,
+        "caveat": "Preprint, not peer reviewed. Three-way accuracy with NEI counted, so it is not the Label-Only F1 of the other rows. The value is read from the bar label of the figure (embedded text) and matches the average panel; the figure has no table. Med-V1 is a 3B model fine-tuned on synthetic data and run without benchmark-specific training. Bar order in the panel: Llama-70B, o3-mini, GPT-4o-mini, GPT-4o, GPT-5, Llama-3B, Med-V1-L3B, Qwen-3B, Med-V1-Q3B.",
+        "basis": "all_340",
+        "accuracy": 0.844
+      },
+      {
+        "key": "medv1_q3b",
+        "system": "Med-V1-Q3B (Qwen2.5-3B-Instruct base)",
+        "citation": "Jin et al., 2026, arXiv 2603.05308v4",
+        "source_url": "https://arxiv.org/abs/2603.05308v4",
+        "fetched_from": "https://arxiv.org/pdf/2603.05308v4",
+        "table": "Figure 3, SciFact panel (bar labels)",
+        "row_label": "Med-V1-Q3B (Qwen2.5-3B-Instruct base)",
+        "split": "SciFact dev, 340 claim-abstract pairs (pre-processed version); the paper does not name the split, which was identified by an exact count and label match",
+        "setting": "zero-shot, claim plus paired abstract",
+        "metric": "3-way accuracy over SUPPORT, CONTRADICT and NEI (NEI predictions counted)",
+        "scale": "fraction",
+        "precision": null,
+        "recall": null,
+        "f1": null,
+        "printed": {
+          "accuracy": "0.856"
+        },
+        "quote_lines": [
+          "0.812",
+          "0.832 0.847 0.832 0.818",
+          "0.600",
+          "0.844",
+          "0.638",
+          "0.856",
+          "real-world medical claims verified against biomedical abstracts. For consistency, we use the pre-processed versions of these datasets [43], containing 340 SciFact instances and 903 HealthVer instances."
+        ],
+        "locate": {
+          "accuracy": [
+            5,
+            0
+          ]
+        },
+        "different_split": false,
+        "tuned_on_dev": false,
+        "caveat": "Preprint, not peer reviewed. Three-way accuracy with NEI counted, so it is not the Label-Only F1 of the other rows. The value is read from the bar label of the figure (embedded text) and matches the average panel; the figure has no table. Med-V1 is a 3B model fine-tuned on synthetic data and run without benchmark-specific training. Bar order in the panel: Llama-70B, o3-mini, GPT-4o-mini, GPT-4o, GPT-5, Llama-3B, Med-V1-L3B, Qwen-3B, Med-V1-Q3B.",
+        "basis": "all_340",
+        "accuracy": 0.856
+      }
+    ]
+  },
+  "sciriff_fold": [
+    {
+      "key": "sciriff_gpt5",
+      "system": "GPT-5 (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "GPT-5",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 73.1,
+      "printed": {
+        "f1": "73.1"
+      },
+      "quote_lines": [
+        "GPT-5 - 47.3 66.6 72.0 25.7 67.9 94.2 62.1 / 55.9 44.0 73.1 / 74.0 61.1"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_gemini25pro",
+      "system": "Gemini-2.5-Pro (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "Gemini-2.5-Pro",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 77.1,
+      "printed": {
+        "f1": "77.1"
+      },
+      "quote_lines": [
+        "Gemini-2.5-Pro - 45.1 65.1 71.2 23.7 63.9 92.8 66.6 / 52.0 42.3 77.1 / 72.5 59.8"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_deepseek_v31",
+      "system": "DeepSeek-V3.1 (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "DeepSeek-V3.1",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 82.4,
+      "printed": {
+        "f1": "82.4"
+      },
+      "quote_lines": [
+        "DeepSeek-V3.1 - 48.3 68.0 75.5 25.1 51.2 90.5 66.1 / 49.7 44.1 82.4 / 61.8 59.2"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_kimi_k2",
+      "system": "Kimi-K2 (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "Kimi-K2",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 87.6,
+      "printed": {
+        "f1": "87.6"
+      },
+      "quote_lines": [
+        "Kimi-K2 - 49.3 66.9 75.0 25.9 58.8 92.5 61.0 / 47.9 42.7 87.6 / 62.0 60.0"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_gpt4o",
+      "system": "GPT-4o (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "GPT-4o",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 85.5,
+      "printed": {
+        "f1": "85.5"
+      },
+      "quote_lines": [
+        "GPT-4o - 48.3 63.6 71.3 25.9 62.0 88.3 54.0 / 55.0 40.3 85.5 / 70.4 60.4"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_gpt4o_mini",
+      "system": "GPT-4o-mini (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "GPT-4o-mini",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 82.7,
+      "printed": {
+        "f1": "82.7"
+      },
+      "quote_lines": [
+        "GPT-4o-mini - 49.6 53.7 75.6 27.7 54.8 88.8 61.7 / 46.7 33.1 82.7 / 63.6 58.0"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          12
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Frontier model, no SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_llama31_8b_instruct",
+      "system": "Llama-3.1-8B-Instruct (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "Llama-3.1-8B-Instruct",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 66.7,
+      "printed": {
+        "f1": "66.7"
+      },
+      "quote_lines": [
+        "Llama 3.1 8B-Instruct - 43.7 48.8 62.2 17.8 48.8 88.3 54.0 / 43.0 30.6 66.7 / 51.7 50.5"
+      ],
+      "locate": {
+        "f1": [
+          0,
+          14
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. No SciRIFF training.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    },
+    {
+      "key": "sciriff_llama31_8b_instruct_sciriff",
+      "system": "Llama-3.1-8B-Instruct fine-tuned on SciRIFF (oracle abstract)",
+      "citation": "Wadden et al., 2025, EMNLP",
+      "source_url": "https://aclanthology.org/2025.emnlp-main.310/",
+      "fetched_from": "https://arxiv.org/pdf/2406.07835v4",
+      "table": "Table 2, SciFact column (Label F1 / Token F1)",
+      "row_label": "Llama 3.1 8B-Instruct, SciRIFF",
+      "split": "not stated in the paper; the released SciRIFF harness scores its 184-pair SciFact-train validation fold; oracle abstract",
+      "setting": "Label-Only",
+      "metric": "SciRIFF-Eval SciFact Label F1 (percent): abstract-level Label-Only, NEI ignored; the paper reports F1 only, with no precision or recall",
+      "scale": "percent",
+      "precision": null,
+      "recall": null,
+      "f1": 85.8,
+      "printed": {
+        "f1": "85.8"
+      },
+      "quote_lines": [
+        "Llama 3.1 8B-Instruct - 43.7 48.8 62.2 17.8 48.8 88.3 54.0 / 43.0 30.6 66.7 / 51.7 50.5",
+        "SciRIFF 45.9 86.0 83.7 25.0 71.4 70.5 53.3 / 54.1 56.8 85.8 / 72.5 64.1"
+      ],
+      "locate": {
+        "f1": [
+          1,
+          11
+        ]
+      },
+      "different_split": true,
+      "tuned_on_dev": false,
+      "caveat": "The paper does not state which SciFact fold Table 2 scores. The released evaluation templates use the validation fold, which holds 184 SciFact pairs drawn from SciFact train, and the paper describes its test set as 4.1K instances from held-out tasks. The row is therefore not set beside the ScholarRAG dev figures. Label F1 only, no precision or recall. Prompt: the paper's expert-written template with one inline example and no demonstrations. Fine-tuned on the SciRIFF training mixture.",
+      "basis": "sciriff_fold",
+      "accuracy": null
+    }
+  ],
+  "r1_9": {
+    "per_run": {
+      "A": {
+        "verified_total": 58,
+        "verified_support": 57,
+        "false_verified_ids": [
+          "385:9767444"
+        ],
+        "nei_verified": 1,
+        "nei_total": 131,
+        "nei_distinct_pairs": 130,
+        "contradict_verified": 0,
+        "contradict_total": 71,
+        "verified_precision": 0.983,
+        "verified_precision_ci": [
+          0.909,
+          0.997
+        ],
+        "nei_verified_ci": [
+          0.001,
+          0.042
+        ]
+      },
+      "B": {
+        "verified_total": 58,
+        "verified_support": 57,
+        "false_verified_ids": [
+          "385:9767444"
+        ],
+        "nei_verified": 1,
+        "nei_total": 131,
+        "nei_distinct_pairs": 130,
+        "contradict_verified": 0,
+        "contradict_total": 71,
+        "verified_precision": 0.983,
+        "verified_precision_ci": [
+          0.909,
+          0.997
+        ],
+        "nei_verified_ci": [
+          0.001,
+          0.042
+        ]
+      }
+    },
+    "baseline": {
+      "verified_total": 2,
+      "contradict_verified": 1,
+      "nei_verified": 0
+    }
+  },
+  "r2_1": {
+    "A": {
+      "support_total": 138,
+      "verified": 57,
+      "verified_recall": 0.413,
+      "verified_recall_ci": [
+        0.334,
+        0.496
+      ],
+      "needs_nuance": 51,
+      "unsupported": 30,
+      "unsupported_with_contradicted_assertion": 10,
+      "pre_guard_verified": 59,
+      "guard_moved_ids": [
+        "275:4961038",
+        "880:8426046"
+      ]
+    },
+    "B": {
+      "support_total": 138,
+      "verified": 57,
+      "verified_recall": 0.413,
+      "verified_recall_ci": [
+        0.334,
+        0.496
+      ],
+      "needs_nuance": 53,
+      "unsupported": 28,
+      "unsupported_with_contradicted_assertion": 8,
+      "pre_guard_verified": 59,
+      "guard_moved_ids": [
+        "275:4961038",
+        "880:8426046"
+      ]
+    }
+  },
+  "provenance_notes": [
+    "The verifier prompt was developed on SciFact train pairs; dev was not used to write it.",
+    "Guard 7 was designed with a probe over 852 stored rows that included SciFact dev rows (FREEZE_DIGESTS_v6.md), so dev is not fully held out for the guard chain.",
+    "The guards changed 7 (run A) and 4 (run B) SciFact statuses, all towards stricter."
+  ],
+  "caveats": [
+    "The comparison uses SciFact dev with oracle abstracts; no test-set or open-retrieval result is reported.",
+    "The published VeriSci and Paragraph-Joint models were fine-tuned on SciFact train, and all three were tuned on dev (the zero-shot VeriSci row only for its rationale threshold).",
+    "Our CONTRADICT label is inferred from assertion verdicts.",
+    "The GPT-4o row uses its authors' own re-split of train and dev (n = 122) and a SUPPORT-class metric, so it is set beside our SUPPORT-class row only.",
+    "The NEI total counts 131 rows over 130 distinct pairs; one pair appears twice in the shipped runs.",
+    "Comparisons hold for the stated reading; the SciRIFF rows are not ranked.",
+    "The Med-V1 rows are scored on 340 pairs and count NEI pairs, so they are set beside the all-cited figures of ScholarRAG, not beside the 209 evidence pairs. Med-V1 reports 3-way accuracy, a different metric.",
+    "The SciRIFF paper does not state which SciFact fold its Table 2 scores, and the released harness scores a 184-pair fold drawn from SciFact train. The SciRIFF rows are therefore listed apart, with no ScholarRAG row beside them. SciRIFF reports Label F1 only, without precision or recall, and its prompt is its own expert-written template.",
+    "No superiority over the general-purpose models is claimed: the verifier is itself a general-purpose model, and SciFact measures one step, labelling a claim against a given abstract."
+  ]
+}

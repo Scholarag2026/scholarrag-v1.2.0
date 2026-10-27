@@ -1,0 +1,754 @@
+{
+  "sizes": {
+    "hss_dev_claims": 30,
+    "hss_dev_band2_claims": 15,
+    "hss_claims": 30,
+    "hss_test_v3_claims": 60,
+    "real_claims_dev": 0,
+    "real_claims_test": 26,
+    "Fong_2021": 1299,
+    "Fong_2021 (with DOI)": 595,
+    "van_Dis_2020": 10953,
+    "van_Dis_2020 (with DOI)": 7100,
+    "Nagtegaal_2019": 2019,
+    "Nagtegaal_2019 (with DOI)": 297,
+    "Smid_2020": 2627,
+    "Smid_2020 (with DOI)": 2554,
+    "van_de_Schoot_2017": 6189,
+    "van_de_Schoot_2017 (with DOI)": 1628,
+    "scifact_train_dev120": 120,
+    "scifact_dev": 300
+  },
+  "pairs": [
+    {
+      "a": "Fong_2021",
+      "b": "Nagtegaal_2019",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "Smid_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "hss_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "hss_dev_band2_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "hss_dev_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "hss_test_v3_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "real_claims_dev",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "real_claims_test",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "van_Dis_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "van_de_Schoot_2017",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "Smid_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "hss_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "hss_dev_band2_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "hss_dev_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "hss_test_v3_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "real_claims_dev",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "real_claims_test",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "van_Dis_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "van_de_Schoot_2017",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Smid_2020",
+      "b": "hss_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Smid_2020",
+      "b": "hss_dev_band2_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Smid_2020",
+      "b": "hss_dev_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Smid_2020",
+      "b": "hss_test_v3_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Smid_2020",
+      "b": "real_claims_dev",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Smid_2020",
+      "b": "real_claims_test",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Smid_2020",
+      "b": "van_Dis_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Smid_2020",
+      "b": "van_de_Schoot_2017",
+      "key": "dois",
+      "n_shared": 9,
+      "examples": [
+        [
+          "1085",
+          "4586"
+        ],
+        [
+          "2211",
+          "1420"
+        ],
+        [
+          "2229",
+          "1489"
+        ],
+        [
+          "3112",
+          "4770"
+        ],
+        [
+          "3307",
+          "5629"
+        ]
+      ]
+    },
+    {
+      "a": "hss_claims",
+      "b": "hss_dev_band2_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_claims",
+      "b": "hss_dev_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_claims",
+      "b": "hss_test_v3_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_claims",
+      "b": "real_claims_dev",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_claims",
+      "b": "real_claims_test",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_claims",
+      "b": "van_Dis_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_claims",
+      "b": "van_de_Schoot_2017",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_band2_claims",
+      "b": "hss_dev_claims",
+      "key": "dois",
+      "n_shared": 10,
+      "examples": [
+        [
+          "hss-altered-01",
+          "hss-altered-03"
+        ],
+        [
+          "hss-altered-02",
+          "hss-altered-04"
+        ],
+        [
+          "hss-altered-03",
+          "hss-altered-05"
+        ],
+        [
+          "hss-altered-04",
+          "hss-altered-06"
+        ],
+        [
+          "hss-altered-05",
+          "hss-altered-07"
+        ]
+      ]
+    },
+    {
+      "a": "hss_dev_band2_claims",
+      "b": "hss_test_v3_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_band2_claims",
+      "b": "real_claims_dev",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_band2_claims",
+      "b": "real_claims_test",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_band2_claims",
+      "b": "van_Dis_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_band2_claims",
+      "b": "van_de_Schoot_2017",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_claims",
+      "b": "hss_test_v3_claims",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_claims",
+      "b": "real_claims_dev",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_claims",
+      "b": "real_claims_test",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_claims",
+      "b": "van_Dis_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_claims",
+      "b": "van_de_Schoot_2017",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_test_v3_claims",
+      "b": "real_claims_dev",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_test_v3_claims",
+      "b": "real_claims_test",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_test_v3_claims",
+      "b": "van_Dis_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_test_v3_claims",
+      "b": "van_de_Schoot_2017",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "real_claims_dev",
+      "b": "real_claims_test",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "real_claims_dev",
+      "b": "van_Dis_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "real_claims_dev",
+      "b": "van_de_Schoot_2017",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "real_claims_test",
+      "b": "van_Dis_2020",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "real_claims_test",
+      "b": "van_de_Schoot_2017",
+      "key": "dois",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "van_Dis_2020",
+      "b": "van_de_Schoot_2017",
+      "key": "dois",
+      "n_shared": 48,
+      "examples": [
+        [
+          "10675",
+          "1798"
+        ],
+        [
+          "10941",
+          "1857"
+        ],
+        [
+          "125",
+          "4973"
+        ],
+        [
+          "2485",
+          "6013"
+        ],
+        [
+          "2596",
+          "5936"
+        ]
+      ]
+    },
+    {
+      "a": "hss_claims",
+      "b": "hss_dev_band2_claims",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_claims",
+      "b": "hss_dev_claims",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_claims",
+      "b": "hss_test_v3_claims",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_claims",
+      "b": "real_claims_dev",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_claims",
+      "b": "real_claims_test",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_band2_claims",
+      "b": "hss_dev_claims",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_band2_claims",
+      "b": "hss_test_v3_claims",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_band2_claims",
+      "b": "real_claims_dev",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_band2_claims",
+      "b": "real_claims_test",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_claims",
+      "b": "hss_test_v3_claims",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_claims",
+      "b": "real_claims_dev",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_dev_claims",
+      "b": "real_claims_test",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_test_v3_claims",
+      "b": "real_claims_dev",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "hss_test_v3_claims",
+      "b": "real_claims_test",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "real_claims_dev",
+      "b": "real_claims_test",
+      "key": "claims",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "Nagtegaal_2019",
+      "key": "titles",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "Smid_2020",
+      "key": "titles",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "van_Dis_2020",
+      "key": "titles",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Fong_2021",
+      "b": "van_de_Schoot_2017",
+      "key": "titles",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "Smid_2020",
+      "key": "titles",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "van_Dis_2020",
+      "key": "titles",
+      "n_shared": 10,
+      "examples": [
+        [
+          "1239",
+          "5946"
+        ],
+        [
+          "162",
+          "8675"
+        ],
+        [
+          "1642",
+          "2609"
+        ],
+        [
+          "1912",
+          "388"
+        ],
+        [
+          "240",
+          "5513"
+        ]
+      ]
+    },
+    {
+      "a": "Nagtegaal_2019",
+      "b": "van_de_Schoot_2017",
+      "key": "titles",
+      "n_shared": 2,
+      "examples": [
+        [
+          "1430",
+          "2509"
+        ],
+        [
+          "217",
+          "2646"
+        ]
+      ]
+    },
+    {
+      "a": "Smid_2020",
+      "b": "van_Dis_2020",
+      "key": "titles",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "Smid_2020",
+      "b": "van_de_Schoot_2017",
+      "key": "titles",
+      "n_shared": 22,
+      "examples": [
+        [
+          "1085",
+          "4586"
+        ],
+        [
+          "152",
+          "499"
+        ],
+        [
+          "155",
+          "498"
+        ],
+        [
+          "20",
+          "5631"
+        ],
+        [
+          "2211",
+          "1420"
+        ]
+      ]
+    },
+    {
+      "a": "van_Dis_2020",
+      "b": "van_de_Schoot_2017",
+      "key": "titles",
+      "n_shared": 183,
+      "examples": [
+        [
+          "10422",
+          "2369"
+        ],
+        [
+          "10445",
+          "3328"
+        ],
+        [
+          "10461",
+          "1168"
+        ],
+        [
+          "10503",
+          "1776"
+        ],
+        [
+          "10548",
+          "821"
+        ]
+      ]
+    },
+    {
+      "a": "scifact_dev",
+      "b": "scifact_train_dev120",
+      "key": "claim_ids",
+      "n_shared": 0,
+      "examples": []
+    },
+    {
+      "a": "scifact_dev",
+      "b": "scifact_train_dev120",
+      "key": "doc_ids",
+      "n_shared": 49,
+      "examples": [
+        [
+          "10165258",
+          "10165258"
+        ],
+        [
+          "10300888",
+          "10300888"
+        ],
+        [
+          "1049501",
+          "1049501"
+        ],
+        [
+          "10984005",
+          "10984005"
+        ],
+        [
+          "1148122",
+          "1148122"
+        ]
+      ]
+    }
+  ]
+}

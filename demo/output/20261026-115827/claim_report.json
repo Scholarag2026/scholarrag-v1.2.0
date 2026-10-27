@@ -1,0 +1,1917 @@
+{
+  "draft_id": "bd81effb-53e5-453a-8013-7fbde0cccfe5",
+  "verifications": [
+    {
+      "claim_text": "The same trial found that cognitive load during revision after direct corrections on grammatical errors was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+      "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+      "status": "verified",
+      "evidence_quote": "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+      "explanation": "The central assertion — that self-reported cognitive load after revision following direct corrections on grammatical errors (DCF+G) was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN) — is stated verbatim in section 5.4: \"the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)\", and corroborated in Table 3 (\"***ME+GN > DCF+G 1.91 [0.95, 2.88]\") and the conclusion (\"learners’ cognitive load estimates proved significantly lower when corrections were provided directly and they targeted grammatical issues only\"). The peripheral assertions (same study, cognitive load measured during/after revision, the two specific feedback conditions) are all supported by the methods and results sections. No contradiction and no hedge removal.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "The finding comes from the same trial (Bonilla López et al., 2018) that examined comprehensive feedback forms in the L2 writing class.",
+          "kind": "attribution",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": null,
+          "central": false,
+          "entity": "Bonilla López et al. (2018) study",
+          "measure": "source of the cognitive load finding",
+          "quotes": [
+            "This study investigated the potential of comprehensive corrective feedback forms as editing and learning tools as well as their effect on learners’ cognitive and attitudinal engagement."
+          ]
+        },
+        {
+          "text": "Cognitive load was measured during/after revision with the feedback forms.",
+          "kind": "intervention",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": null,
+          "central": false,
+          "entity": "learners' self-perceived cognitive load",
+          "measure": "timing of cognitive load measurement (after text revision)",
+          "quotes": [
+            "After text revision, learners completed the mental effort scale.",
+            "The mixed-effect model showed a statistically significant effect of condition on reported mental effort after text revision"
+          ]
+        },
+        {
+          "text": "Cognitive load after direct corrections on grammatical errors (DCF+G) was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN).",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "DCF+G significantly lower than ME+GN",
+          "source_value": "DCF+G significantly lower than ME+GN (p < 0.001)",
+          "quote": null,
+          "central": true,
+          "entity": "DCF+G vs. ME+GN groups",
+          "measure": "self-reported cognitive load (mental effort) after revision",
+          "quotes": [
+            "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+            "***ME+GN > DCF+G \n1.91 [0.95, 2.88]"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+        "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+        "The mixed-effect model showed a statistically significant effect of condition on reported mental effort after text revision, F(4,134) = 12, p < 0.001, R2 = .26, R2 adjusted = .24",
+        "yet learners’ cognitive load estimates proved significantly lower when corrections were provided directly and they targeted grammatical issues only.",
+        "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "The same trial found that cognitive load during revision after direct corrections on grammatical errors was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+      "citation": "(Bonilla López et al., 2018)",
+      "paper_doi": "10.1111/lang.12295",
+      "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 1 (preamble)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+            "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+            "The mixed-effect model showed a statistically significant effect of condition on reported mental effort after text revision, F(4,134) = 12, p < 0.001, R2 = .26, R2 adjusted = .24",
+            "yet learners’ cognitive load estimates proved significantly lower when corrections were provided directly and they targeted grammatical issues only.",
+            "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4."
+          ],
+          "tokens": {
+            "input_tokens": 22200,
+            "output_tokens": 1072
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Automated feedback highlights rather than corrects errors",
+      "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+      "status": "verified",
+      "evidence_quote": "AWE feedback tended to highlight, rather than correct, student errors.",
+      "explanation": "The claim's central proposition — that AWE feedback tended to highlight rather than correct student errors — is stated almost verbatim in Section 5: \"AWE feedback tended to highlight, rather than correct, student errors.\" This is corroborated by Table 2, which lists \"Correction\" only under teacher feedback and not under AWE feedback, and by the later remark that teachers' comments are \"not a pattern-matching algorithm designed to highlight errors.\" No assertion in the claim is contradicted or absent.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Automated (AWE) feedback highlights student errors",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "AWE feedback tended to highlight, rather than correct, student errors.",
+          "central": true,
+          "entity": "AWE (automated writing evaluation) feedback",
+          "measure": "whether feedback highlights errors",
+          "quotes": [
+            "AWE feedback tended to highlight, rather than correct, student errors.",
+            "not a pattern-matching algorithm designed to highlight errors"
+          ]
+        },
+        {
+          "text": "Automated feedback does not correct errors (contrast with correcting)",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "AWE feedback tended to highlight, rather than correct, student errors.",
+          "central": false,
+          "entity": "AWE feedback",
+          "measure": "provision of direct correction",
+          "quotes": [
+            "AWE feedback tended to highlight, rather than correct, student errors."
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "AWE feedback tended to highlight, rather than correct, student errors.",
+        "not a pattern-matching algorithm designed to highlight errors"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Automated feedback highlights rather than corrects errors (Zhang & Hyland, 2018).",
+      "citation": "(Zhang & Hyland, 2018)",
+      "paper_doi": "10.1016/j.asw.2018.02.004",
+      "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "AWE feedback tended to highlight, rather than correct, student errors.",
+            "not a pattern-matching algorithm designed to highlight errors"
+          ],
+          "tokens": {
+            "input_tokens": 17550,
+            "output_tokens": 536
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Teacher feedback addressed more error types than automated feedback, although assignment differences may have influenced this comparison",
+      "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+      "status": "verified",
+      "evidence_quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+      "explanation": "The claim reproduces Section 5 almost verbatim: \"Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.\" The central assertion (teacher feedback addressed more error types than AWE feedback) is supported by that sentence and by Table 1's totals (16 vs 8). The peripheral hedge about assignment differences is also supported by the same sentence, so no hedge is removed and nothing is contradicted.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Teacher feedback addressed more error types than automated (AWE) feedback.",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "more (teacher) than AWE",
+          "source_value": "16 vs 8",
+          "quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+          "central": true,
+          "entity": "teacher feedback versus AWE feedback in the study",
+          "measure": "number of error types addressed",
+          "quotes": [
+            "Teacher feedback addressed more error types (16) than the AWE feedback (8)"
+          ]
+        },
+        {
+          "text": "Differences between the two assignments may have influenced this comparison.",
+          "kind": "attribution",
+          "verdict": "supported",
+          "claim_value": "may have influenced",
+          "source_value": "may have influenced",
+          "quote": "although differences in the two assignments may have influenced this",
+          "central": false,
+          "entity": "the two assignments (Advanced English vs Tourism English essays)",
+          "measure": "possible influence on the comparison of error types",
+          "quotes": [
+            "although differences in the two assignments may have influenced this"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+        "Table 1 Comparison of error focus between teacher feedback and AWE feedback"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Teacher feedback addressed more error types than automated feedback, although assignment differences may have influenced this comparison (Zhang & Hyland, 2018).",
+      "citation": "(Zhang & Hyland, 2018)",
+      "paper_doi": "10.1016/j.asw.2018.02.004",
+      "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+            "Table 1 Comparison of error focus between teacher feedback and AWE feedback"
+          ],
+          "tokens": {
+            "input_tokens": 17560,
+            "output_tokens": 663
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Comparisons of ChatGPT and Grammarly found that ChatGPT maintained high precision across prompts (94–98%) versus Grammarly's 85%, while recall rose from 10% to 55% as prompts became more sophisticated (Luo et al., 2025).",
+      "paper_id": "a896c5f9-e7ac-4bab-84d9-a09d9be0cc57",
+      "status": "verified",
+      "evidence_quote": "ChatGPT remained consistently high in precision regardless of prompts, being 94%, 98% and 94% respectively for GPT-P1, GPT-P2 and GPT-P3, higher than Grammarly (85%).",
+      "explanation": "The central assertion — that ChatGPT's precision stayed high across the three prompts (94%, 98%, 94%) while Grammarly's was 85% — is stated verbatim in the Results: \"ChatGPT remained consistently high in precision regardless of prompts, being 94%, 98% and 94% respectively for GPT-P1, GPT-P2 and GPT-P3, higher than Grammarly (85%).\" The peripheral assertion that recall rose from 10% to 55% with increasing prompt sophistication is also stated: \"the recall of ChatGPT considerably improved across prompts, with that of GPT-P1, GPT-P2 and GPT-P3 being 10%, 33% and 55% respectively,\" and Table 1's totals confirm 10 (33/334), 33 (110/334), 55 (184/334) versus Grammarly's 85 (117/137) precision. The comparison is between ChatGPT-4 with three prompts and Grammarly on the same 30-essay corpus, matching the claim's entities. No assertion is contradicted or absent.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Comparisons of ChatGPT (with three prompts) and Grammarly were conducted on the same essays, benchmarking ChatGPT's feedback against Grammarly.",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": null,
+          "central": false,
+          "entity": "ChatGPT-4 with three prompts and Grammarly",
+          "measure": "benchmark comparison of AWCF on the same 30-essay corpus",
+          "quotes": [
+            "The accuracy and coverage of ChatGPT’s feedback across these three prompts were benchmarked against Grammarly, a widely used traditional automated writing evaluation (AWE) tool.",
+            "The AWCF by ChatGPT with the three prompts and by Grammarly were analyzed based on the same procedures described as follows."
+          ]
+        },
+        {
+          "text": "ChatGPT maintained high precision across prompts, at 94–98%.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "94–98%",
+          "source_value": "94%, 98%, 94%",
+          "quote": null,
+          "central": true,
+          "entity": "ChatGPT-4 with Prompts 1, 2 and 3",
+          "measure": "overall precision",
+          "quotes": [
+            "ChatGPT remained consistently high in precision regardless of prompts, being 94%, 98% and 94% respectively for GPT-P1, GPT-P2 and GPT-P3, higher than Grammarly (85%)."
+          ]
+        },
+        {
+          "text": "Grammarly's precision was 85%.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "85%",
+          "source_value": "85% (117/137)",
+          "quote": null,
+          "central": false,
+          "entity": "Grammarly",
+          "measure": "overall precision",
+          "quotes": [
+            "higher than Grammarly (85%)",
+            "85\n(117/137)"
+          ]
+        },
+        {
+          "text": "ChatGPT's recall rose from 10% to 55% as prompts became more sophisticated.",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "10% to 55%",
+          "source_value": "10%, 33%, 55%",
+          "quote": null,
+          "central": false,
+          "entity": "ChatGPT-4 across Prompts 1 to 3",
+          "measure": "overall recall",
+          "quotes": [
+            "In contrast, the recall of ChatGPT considerably improved across prompts, with that of GPT-P1, GPT-P2 and GPT-P3 being 10%, 33% and 55% respectively."
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "ChatGPT remained consistently high in precision regardless of prompts, being 94%, 98% and 94% respectively for GPT-P1, GPT-P2 and GPT-P3, higher than Grammarly (85%).",
+        "In contrast, the recall of ChatGPT considerably improved across prompts, with that of GPT-P1, GPT-P2 and GPT-P3 being 10%, 33% and 55% respectively.",
+        "94\n(33/35)\n10\n(33/334)\n98\n(110/112)\n33\n(110/334)\n94\n(184/196)\n55\n(184/334)\n85\n(117/137)\n35\n(117/334)"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Comparisons of ChatGPT and Grammarly found that ChatGPT maintained high precision across prompts (94–98%) versus Grammarly's 85%, while recall rose from 10% to 55% as prompts became more sophisticated (Luo et al., 2025).",
+      "citation": "(Luo et al., 2025)",
+      "paper_doi": "10.1017/s095834402510044x",
+      "paper_title": "Impact of prompt sophistication on ChatGPT’s output for automated written corrective feedback",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "ChatGPT remained consistently high in precision regardless of prompts, being 94%, 98% and 94% respectively for GPT-P1, GPT-P2 and GPT-P3, higher than Grammarly (85%).",
+            "In contrast, the recall of ChatGPT considerably improved across prompts, with that of GPT-P1, GPT-P2 and GPT-P3 being 10%, 33% and 55% respectively.",
+            "94\n(33/35)\n10\n(33/334)\n98\n(110/112)\n33\n(110/334)\n94\n(184/196)\n55\n(184/334)\n85\n(117/137)\n35\n(117/334)"
+          ],
+          "tokens": {
+            "input_tokens": 14186,
+            "output_tokens": 1214
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "Teachers using Grammarly as a complement still addressed both global and local concerns, with no division of labour",
+      "paper_id": "6ec99bcb-e7dc-48a0-a292-af6b34d9889d",
+      "status": "verified",
+      "evidence_quote": "The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement, and there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns.",
+      "explanation": "The abstract states the finding directly: \"The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement, and there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns.\" The Findings section corroborates: \"all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement,\" and the Discussion states \"This is in line with previous research that suggests that there is no division of labor, such as that AWE takes care of LOCs ... and a teacher takes care of HOCs.\" Both the central assertion (feedback on both global and local concerns) and the peripheral assertion (no division of labour) are supported; no contradiction and no hedge removal.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "Teachers using Grammarly as a complement still provided feedback on both global (higher-order) and local (lower-order) aspects of writing.",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement",
+          "central": true,
+          "entity": "Postsecondary L2 writing teachers using Grammarly as a complement to their feedback",
+          "measure": "Provision of feedback on both global and local aspects of writing",
+          "quotes": [
+            "The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement",
+            "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement."
+          ]
+        },
+        {
+          "text": "There was no division of labour between teachers and Grammarly (e.g., teachers taking higher-order concerns and Grammarly taking lower-order concerns).",
+          "kind": "attribution",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns",
+          "central": false,
+          "entity": "Teachers and Grammarly in the complementary feedback arrangement",
+          "measure": "Division of labour by feedback level",
+          "quotes": [
+            "there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns",
+            "This is in line with previous research that suggests that there is no division of labor, such as that AWE takes care of LOCs as it is more computationally adept at providing such feedback and a teacher takes care of HOCs (Jiang et al., 2020; Wilson & Czik, 2016)."
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement, and there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns.",
+        "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+        "This is in line with previous research that suggests that there is no division of labor, such as that AWE takes care of LOCs as it is more computationally adept at providing such feedback and a teacher takes care of HOCs (Jiang et al., 2020; Wilson & Czik, 2016)."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Teachers using Grammarly as a complement still addressed both global and local concerns, with no division of labour (Koltovskaia, 2022).",
+      "citation": "(Koltovskaia, 2022)",
+      "paper_doi": "10.1017/s0958344022000179",
+      "paper_title": "Postsecondary L2 writing teachers’ use and perceptions of Grammarly as a complement to their feedback",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement, and there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns.",
+            "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+            "This is in line with previous research that suggests that there is no division of labor, such as that AWE takes care of LOCs as it is more computationally adept at providing such feedback and a teacher takes care of HOCs (Jiang et al., 2020; Wilson & Czik, 2016)."
+          ],
+          "tokens": {
+            "input_tokens": 13701,
+            "output_tokens": 990
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "A 16-week naturalistic case study of two Chinese students found that the highly engaged learner outperformed the moderately engaged learner in responding to both teacher and automated feedback and in improving her text (Zhang & Hyland, 2018).",
+      "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+      "status": "verified",
+      "evidence_quote": "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+      "explanation": "Every proposition in the claim is stated in the source. The design is described as \"This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.\" The central finding is stated almost verbatim in Section 8: \"the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.\" The labels \"highly engaged learner\" (Flora) and \"moderately engaged learner\" (David) are the paper's own section headings and conclusion wording. No assertion is contradicted and no hedge is removed.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "The study is a naturalistic case study.",
+          "kind": "intervention",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+          "central": false,
+          "entity": "the study reported in the paper",
+          "measure": "study design label",
+          "quotes": [
+            "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester."
+          ]
+        },
+        {
+          "text": "The study lasted 16 weeks.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "16 weeks",
+          "source_value": "16-week semester",
+          "quote": "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+          "central": false,
+          "entity": "the study",
+          "measure": "duration of data collection",
+          "quotes": [
+            "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester."
+          ]
+        },
+        {
+          "text": "The study involved two Chinese students.",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "two Chinese students",
+          "source_value": "two Chinese students",
+          "quote": "The participants in this study were two Chinese students in the first semester of their third year in a university in China.",
+          "central": false,
+          "entity": "participants",
+          "measure": "number and nationality of participants",
+          "quotes": [
+            "The participants in this study were two Chinese students in the first semester of their third year in a university in China."
+          ]
+        },
+        {
+          "text": "The highly engaged learner outperformed the moderately engaged learner in responding to both teacher and automated feedback and in improving her text.",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "highly engaged learner outperformed",
+          "source_value": "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text",
+          "quote": "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing shows that the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+          "central": true,
+          "entity": "the highly engaged learner (Flora) versus the moderately engaged learner (David)",
+          "measure": "response to teacher and AWE feedback and improvement to text",
+          "quotes": [
+            "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing shows that the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+            "The different styles of engagement adopted by these students led us to identify one as a highly engaged learner and the other as a moderately engaged learner"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+        "The participants in this study were two Chinese students in the first semester of their third year in a university in China.",
+        "6  Flora: A highly engaged learner",
+        "7   David: A moderately engaged learner",
+        "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing shows that the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "A 16-week naturalistic case study of two Chinese students found that the highly engaged learner outperformed the moderately engaged learner in responding to both teacher and automated feedback and in improving her text (Zhang & Hyland, 2018).",
+      "citation": "(Zhang & Hyland, 2018)",
+      "paper_doi": "10.1016/j.asw.2018.02.004",
+      "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+            "The participants in this study were two Chinese students in the first semester of their third year in a university in China.",
+            "6  Flora: A highly engaged learner",
+            "7   David: A moderately engaged learner",
+            "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing shows that the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text."
+          ],
+          "tokens": {
+            "input_tokens": 17588,
+            "output_tokens": 1259
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "In an integrated approach combining automated, peer, and teacher feedback, most of 33 students actively engaged and the approach promoted behavioural, affective, and cognitive engagement and thoughtful revisions (Zhang & Hyland, 2021).",
+      "paper_id": "352c8d24-a3b2-4956-b6ef-22a954b81f19",
+      "status": "verified",
+      "evidence_quote": "This case study explores an authentic classroom and how a group of 33 students engaged with a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback.",
+      "explanation": "The abstract states: \"We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.\" This supports the central assertion (majority of the 33 students actively engaged) and the peripheral assertions about the three engagement dimensions and thoughtful revisions. The participant count of 33 is confirmed in the abstract and methods (\"one teacher and 33 students\"). The only nuance is that the paper elsewhere acknowledges some students \"failed to engage\", but \"most\"/\"majority\" is consistent with that, so no contradiction arises.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "The approach integrated three types of feedback: automated, peer, and teacher feedback.",
+          "kind": "intervention",
+          "verdict": "supported",
+          "claim_value": "automated, peer, and teacher feedback",
+          "source_value": "automated, peer, and teacher feedback",
+          "quote": null,
+          "central": false,
+          "entity": "the pedagogical approach in the study",
+          "measure": "types of feedback integrated",
+          "quotes": [
+            "This case study explores an authentic classroom and how a group of 33 students engaged with a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback."
+          ]
+        },
+        {
+          "text": "The study involved 33 students.",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "33",
+          "source_value": "33",
+          "quote": null,
+          "central": false,
+          "entity": "study participants",
+          "measure": "number of students",
+          "quotes": [
+            "The participants in this study were one teacher and 33 students at a Chinese university."
+          ]
+        },
+        {
+          "text": "Most of the 33 students actively engaged with the integrated approach.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "most",
+          "source_value": "the majority",
+          "quote": null,
+          "central": true,
+          "entity": "the 33 students",
+          "measure": "proportion actively engaging with the integrated approach",
+          "quotes": [
+            "We found that the majority of students actively engaged with this integrated approach"
+          ]
+        },
+        {
+          "text": "The approach promoted behavioural, affective, and cognitive engagement.",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "promoted all three dimensions",
+          "source_value": "promoted all three dimensions",
+          "quote": null,
+          "central": false,
+          "entity": "students' engagement with feedback",
+          "measure": "behavioural, affective, and cognitive engagement",
+          "quotes": [
+            "it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing"
+          ]
+        },
+        {
+          "text": "The approach encouraged thoughtful revisions.",
+          "kind": "direction",
+          "verdict": "supported",
+          "claim_value": "encouraged",
+          "source_value": "encouraged",
+          "quote": null,
+          "central": false,
+          "entity": "students' revisions",
+          "measure": "thoughtful revisions",
+          "quotes": [
+            "encouraged thoughtful revisions"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "This case study explores an authentic classroom and how a group of 33 students engaged with a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback.",
+        "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+        "The participants in this study were one teacher and 33 students at a Chinese university."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "In an integrated approach combining automated, peer, and teacher feedback, most of 33 students actively engaged and the approach promoted behavioural, affective, and cognitive engagement and thoughtful revisions (Zhang & Hyland, 2021).",
+      "citation": "(Zhang & Hyland, 2021)",
+      "paper_doi": "10.1016/j.asw.2021.100586",
+      "paper_title": "Fostering student engagement with feedback: An integrated approach",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "This case study explores an authentic classroom and how a group of 33 students engaged with a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback.",
+            "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+            "The participants in this study were one teacher and 33 students at a Chinese university."
+          ],
+          "tokens": {
+            "input_tokens": 12737,
+            "output_tokens": 969
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "A synthesis of 50 naturalistic classroom studies identified teacher practices, learner responses, stakeholder beliefs, and motivation and emotions as major themes",
+      "paper_id": "c5c68874-7dbe-4180-bd00-ceff93a9b93b",
+      "status": "verified",
+      "evidence_quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+      "explanation": "The source states that a systematic search generated 50 empirical studies and that the review \"revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.\" This matches the claim's count (50 studies), setting (naturalistic classroom studies), and all four themes. The central assertion (the synthesis identified these four themes) is supported, and the peripheral assertions about the number of studies and the nature of the studies are also supported.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "The synthesis identified four major themes: teacher practices, learner responses, stakeholder beliefs, and motivation and emotions.",
+          "kind": "other",
+          "verdict": "supported",
+          "claim_value": "four themes: teacher practices, learner responses, stakeholder beliefs, motivation and emotions",
+          "source_value": "four themes: teacher WCF practices, L2 learner responses, stakeholders’ beliefs and perspectives, WCF-related motivation and emotions",
+          "quote": null,
+          "central": true,
+          "entity": "the synthesis of naturalistic WCF classroom studies",
+          "measure": "major themes identified",
+          "quotes": [
+            "which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions"
+          ]
+        },
+        {
+          "text": "The synthesis covered 50 studies.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "50",
+          "source_value": "50",
+          "quote": null,
+          "central": false,
+          "entity": "the synthesis",
+          "measure": "number of included studies",
+          "quotes": [
+            "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+            "Our final sample contains 50 journal articles"
+          ]
+        },
+        {
+          "text": "The synthesized studies were naturalistic classroom studies.",
+          "kind": "population",
+          "verdict": "supported",
+          "claim_value": "naturalistic classroom studies",
+          "source_value": "naturalistic WCF studies in L2 writing classrooms",
+          "quote": null,
+          "central": false,
+          "entity": "the included studies",
+          "measure": "study type (naturalistic classroom)",
+          "quotes": [
+            "providing a comprehensive and critical review of natur- alistic WCF studies in L2 writing",
+            "the current review advances our knowledge on this underexplored yet crucially important area"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+        "Our final sample contains 50 journal articles, which are listed in Table 1.",
+        "This state-of-the-art article intends to fill the gap by providing a comprehensive and critical review of natur- alistic WCF studies in L2 writing, with significant implications for practice and research."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "A synthesis of 50 naturalistic classroom studies identified teacher practices, learner responses, stakeholder beliefs, and motivation and emotions as major themes (Mao et al., 2024).",
+      "citation": "(Mao et al., 2024)",
+      "paper_doi": "10.1017/s0261444823000393",
+      "paper_title": "Written corrective feedback in second language writing: A synthesis of naturalistic classroom studies",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+            "Our final sample contains 50 journal articles, which are listed in Table 1.",
+            "This state-of-the-art article intends to fill the gap by providing a comprehensive and critical review of natur- alistic WCF studies in L2 writing, with significant implications for practice and research."
+          ],
+          "tokens": {
+            "input_tokens": 23559,
+            "output_tokens": 927
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": null
+        }
+      ]
+    },
+    {
+      "claim_text": "A systematic search for the review identified 50 empirical studies meeting its inclusion criteria, revealing four major themes: teacher feedback practices in L2 writing classrooms, L2 learner responses to feedback, stakeholders' beliefs and perspectives about feedback, and feedback-related motivation and emotions",
+      "paper_id": "c5c68874-7dbe-4180-bd00-ceff93a9b93b",
+      "status": "verified",
+      "evidence_quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+      "explanation": "The abstract states verbatim that \"A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.\" The count (50), the systematic search, the inclusion criteria, and all four themes match the claim; the only differences are the abbreviation of \"written corrective feedback\" to \"feedback\" and \"on\" versus \"about\", which do not change meaning. Section 5 independently confirms the four research strands and the 50-study sample.",
+      "suggested_revision": null,
+      "assertions": [
+        {
+          "text": "A systematic search for the review identified 50 empirical studies meeting its inclusion criteria.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "50",
+          "source_value": "50",
+          "quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+          "central": true,
+          "entity": "the review's systematic search",
+          "measure": "number of empirical studies meeting inclusion criteria",
+          "quotes": [
+            "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+            "Our final sample contains 50 journal articles, which are listed in Table 1."
+          ]
+        },
+        {
+          "text": "The reviewed studies revealed four major themes.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "four",
+          "source_value": "four",
+          "quote": "which revealed four major themes",
+          "central": false,
+          "entity": "the reviewed studies",
+          "measure": "number of major themes identified",
+          "quotes": [
+            "which revealed four major themes"
+          ]
+        },
+        {
+          "text": "One theme is teacher feedback practices in L2 writing classrooms.",
+          "kind": "other",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "(1) teacher WCF practices in L2 writing classrooms",
+          "central": false,
+          "entity": "theme 1",
+          "measure": "theme content",
+          "quotes": [
+            "(1) teacher WCF practices in L2 writing classrooms"
+          ]
+        },
+        {
+          "text": "One theme is L2 learner responses to feedback.",
+          "kind": "other",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "(2) L2 learner responses to WCF",
+          "central": false,
+          "entity": "theme 2",
+          "measure": "theme content",
+          "quotes": [
+            "(2) L2 learner responses to WCF"
+          ]
+        },
+        {
+          "text": "One theme is stakeholders' beliefs and perspectives about feedback.",
+          "kind": "other",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "(3) stakeholders’ beliefs and perspectives on WCF",
+          "central": false,
+          "entity": "theme 3",
+          "measure": "theme content",
+          "quotes": [
+            "(3) stakeholders’ beliefs and perspectives on WCF"
+          ]
+        },
+        {
+          "text": "One theme is feedback-related motivation and emotions.",
+          "kind": "other",
+          "verdict": "supported",
+          "claim_value": null,
+          "source_value": null,
+          "quote": "(4) WCF-related motivation and emotions",
+          "central": false,
+          "entity": "theme 4",
+          "measure": "theme content",
+          "quotes": [
+            "(4) WCF-related motivation and emotions"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+        "Our final sample contains 50 journal articles, which are listed in Table 1."
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "A systematic search for the review identified 50 empirical studies meeting its inclusion criteria, revealing four major themes: teacher feedback practices in L2 writing classrooms, L2 learner responses to feedback, stakeholders' beliefs and perspectives about feedback, and feedback-related motivation and emotions (Mao et al., 2024).",
+      "citation": "(Mao et al., 2024)",
+      "paper_doi": "10.1017/s0261444823000393",
+      "paper_title": "Written corrective feedback in second language writing: A synthesis of naturalistic classroom studies",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "verified",
+      "machine_reasons": [],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+            "Our final sample contains 50 journal articles, which are listed in Table 1.",
+            "we synthesized the key empirical findings into four research strands: (a) teacher WCF practices in L2 writing classrooms; (b) L2 learners’ responses to WCF; (c) stakeholders’ beliefs and perspectives on WCF; and (d) WCF-related motivation and emotions."
+          ],
+          "tokens": {
+            "input_tokens": 23584,
+            "output_tokens": 1156
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [
+            "quote_not_verbatim"
+          ],
+          "repair_prompt_version": null
+        },
+        {
+          "quotes": [
+            "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+            "Our final sample contains 50 journal articles, which are listed in Table 1."
+          ],
+          "tokens": {
+            "input_tokens": 25067,
+            "output_tokens": 1084
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "verified",
+          "machine_reasons": [],
+          "repair_prompt_version": "sha256:7ec7cffe852d"
+        }
+      ]
+    },
+    {
+      "claim_text": "Screening yielded the same 50 eligible studies for the review, sorted into two major themes: writing accuracy outcomes and learner motivation only",
+      "paper_id": "c5c68874-7dbe-4180-bd00-ceff93a9b93b",
+      "status": "unsupported",
+      "evidence_quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+      "explanation": "The claim's central proposition — that the 50 included studies were sorted into two major themes, \"writing accuracy outcomes\" and \"learner motivation\" only — is contradicted by the source, which reports four major themes: \"(1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.\" The number of studies (50) is supported (\"A systematic search generated 50 empirical studies that met our inclusion criteria for the current review\"), but the thematic structure and the exclusivity word \"only\" are not: the source's four strands are teacher WCF practices (k = 12), L2 learner responses (k = 17), stakeholders' beliefs (k = 16), and WCF-related motivation and emotions (k = 8). \"Writing accuracy outcomes\" is not one of the themes at all; accuracy appears only as a sub-finding within learner responses. The claim also mischaracterizes the screening outcome as \"the same 50\" studies, whereas the source describes a whittling-down process from a larger pool.",
+      "suggested_revision": "Screening yielded 50 eligible studies for the review, which were synthesized into four major themes: teacher WCF practices in L2 writing classrooms, L2 learner responses to WCF, stakeholders' beliefs and perspectives on WCF, and WCF-related motivation and emotions.",
+      "assertions": [
+        {
+          "text": "Screening yielded 50 eligible studies for the review.",
+          "kind": "quantity",
+          "verdict": "supported",
+          "claim_value": "50",
+          "source_value": "50",
+          "quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+          "central": false,
+          "entity": "included studies in the review",
+          "measure": "number of studies meeting inclusion criteria",
+          "quotes": [
+            "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+            "Our final sample contains 50 journal articles, which are listed in Table 1."
+          ]
+        },
+        {
+          "text": "The 50 studies were sorted into two major themes only.",
+          "kind": "scope",
+          "verdict": "contradicted",
+          "claim_value": "two",
+          "source_value": "four",
+          "quote": "which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions",
+          "central": true,
+          "entity": "themes of the reviewed studies",
+          "measure": "number of major themes identified",
+          "quotes": [
+            "which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions"
+          ]
+        },
+        {
+          "text": "One of the two themes is writing accuracy outcomes.",
+          "kind": "other",
+          "verdict": "contradicted",
+          "claim_value": "writing accuracy outcomes",
+          "source_value": "teacher WCF practices; L2 learner responses; stakeholders' beliefs and perspectives; WCF-related motivation and emotions",
+          "quote": null,
+          "central": false,
+          "entity": "themes of the reviewed studies",
+          "measure": "theme labels",
+          "quotes": []
+        },
+        {
+          "text": "The other theme is learner motivation.",
+          "kind": "other",
+          "verdict": "supported",
+          "claim_value": "learner motivation",
+          "source_value": "WCF-related motivation and emotions",
+          "quote": "WCF-related motivation and emotions",
+          "central": false,
+          "entity": "themes of the reviewed studies",
+          "measure": "theme labels",
+          "quotes": [
+            "WCF-related motivation and emotions"
+          ]
+        }
+      ],
+      "unstated_details": [],
+      "evidence_quotes": [
+        "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+        "Our final sample contains 50 journal articles, which are listed in Table 1.",
+        "which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions",
+        "we synthesized the key empirical findings into four research strands: (a) teacher WCF practices in L2 writing classrooms; (b) L2 learners’ responses to WCF; (c) stakeholders’ beliefs and perspectives on WCF; and (d) WCF-related motivation and emotions",
+        "WCF-related motivation and emotions"
+      ],
+      "model_reported": "deepseek-flash",
+      "claim_sentence": "Screening yielded the same 50 eligible studies for the review, sorted into two major themes: writing accuracy outcomes and learner motivation only (Mao et al., 2024).",
+      "citation": "(Mao et al., 2024)",
+      "paper_doi": "10.1017/s0261444823000393",
+      "paper_title": "Written corrective feedback in second language writing: A synthesis of naturalistic classroom studies",
+      "acquisition_route": "unpaywall",
+      "evidence_location": "chunk 2 (abstract)",
+      "model_status": "unsupported",
+      "machine_reasons": [
+        "assertion_status_inconsistent"
+      ],
+      "diagnostics": [],
+      "quote_relocations": [],
+      "passes": [
+        {
+          "quotes": [
+            "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+            "Our final sample contains 50 journal articles, which are listed in Table 1.",
+            "which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions",
+            "we synthesized the key empirical findings into four research strands: (a) teacher WCF practices in L2 writing classrooms; (b) L2 learners’ responses to WCF; (c) stakeholders’ beliefs and perspectives on WCF; and (d) WCF-related motivation and emotions",
+            "WCF-related motivation and emotions"
+          ],
+          "tokens": {
+            "input_tokens": 23558,
+            "output_tokens": 1426
+          },
+          "diagnostics": [],
+          "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+          "model_status": "unsupported",
+          "machine_reasons": [
+            "assertion_status_inconsistent"
+          ],
+          "repair_prompt_version": null
+        }
+      ]
+    }
+  ],
+  "verified_count": 9,
+  "unsupported_count": 1,
+  "nuance_count": 0,
+  "abstract_only_count": 0,
+  "error_count": 0,
+  "needs_rewrite": 0,
+  "needs_removal": 1,
+  "provenance": {
+    "agent": "claim_verification",
+    "calls": 11,
+    "temperature": 0.0,
+    "guard_digest": "8a6c833ffc329f89",
+    "input_tokens": 211290,
+    "output_tokens": 11296,
+    "model_reported": [
+      "deepseek-flash"
+    ],
+    "prompt_version": "sha256:49fcfbfaf2f6",
+    "model_configured": "deepseek-chat",
+    "system_fingerprints": [
+      "e72d3c7f663d3e1383b00b3884cb4501"
+    ],
+    "repair_prompt_version": "sha256:7ec7cffe852d",
+    "quote_relocation_version": "0269a13351c0da7d",
+    "verification_policy_version": "667bcc9209126ddc"
+  },
+  "full_text_coverage": 1.0,
+  "task_id": "f97561ec-e32c-4ab7-a2d5-b6f34157d8e3",
+  "contradicted_count": 1,
+  "guarded_count": 0,
+  "citation_coverage": {
+    "found": 10,
+    "linked": 10,
+    "sent_to_verifier": 10,
+    "unresolved": 0,
+    "unresolved_citations": [],
+    "by_source": {
+      "mapping": 10,
+      "numbered": 0,
+      "author-year": 0
+    }
+  },
+  "healed": true,
+  "finalize_stats": {
+    "frame_spans_accepted": 0,
+    "sentences_residue_excised": 0,
+    "sentences_removed_dangling": 0,
+    "sentences_unclassified_kept": 0,
+    "sentences_removed_unverified": 1,
+    "citations_dropped_no_full_text": 0,
+    "needs_citation_markers_removed": 0,
+    "sentences_removed_no_full_text": 0,
+    "sentences_removed_verb_initial": 0,
+    "sentences_removed_heading_shaped": 0,
+    "sentences_removed_uncited_finding": 0,
+    "sentences_removed_coverage_incomplete": 0,
+    "sentences_truncated_fragment_repaired": 0,
+    "sentences_removed_meta_evaluation_uncited": 0
+  },
+  "final_report": {
+    "verifications": [
+      {
+        "claim_text": "The same trial found that cognitive load during revision after direct corrections on grammatical errors was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+        "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+        "status": "verified",
+        "evidence_quote": "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+        "explanation": "The central assertion — that self-reported cognitive load after revision following direct corrections on grammatical errors (DCF+G) was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN) — is stated verbatim in section 5.4: \"the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)\", and corroborated in Table 3 (\"***ME+GN > DCF+G 1.91 [0.95, 2.88]\") and the conclusion (\"learners’ cognitive load estimates proved significantly lower when corrections were provided directly and they targeted grammatical issues only\"). The peripheral assertions (same study, cognitive load measured during/after revision, the two specific feedback conditions) are all supported by the methods and results sections. No contradiction and no hedge removal.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "The finding comes from the same trial (Bonilla López et al., 2018) that examined comprehensive feedback forms in the L2 writing class.",
+            "kind": "attribution",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": null,
+            "central": false,
+            "entity": "Bonilla López et al. (2018) study",
+            "measure": "source of the cognitive load finding",
+            "quotes": [
+              "This study investigated the potential of comprehensive corrective feedback forms as editing and learning tools as well as their effect on learners’ cognitive and attitudinal engagement."
+            ]
+          },
+          {
+            "text": "Cognitive load was measured during/after revision with the feedback forms.",
+            "kind": "intervention",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": null,
+            "central": false,
+            "entity": "learners' self-perceived cognitive load",
+            "measure": "timing of cognitive load measurement (after text revision)",
+            "quotes": [
+              "After text revision, learners completed the mental effort scale.",
+              "The mixed-effect model showed a statistically significant effect of condition on reported mental effort after text revision"
+            ]
+          },
+          {
+            "text": "Cognitive load after direct corrections on grammatical errors (DCF+G) was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN).",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "DCF+G significantly lower than ME+GN",
+            "source_value": "DCF+G significantly lower than ME+GN (p < 0.001)",
+            "quote": null,
+            "central": true,
+            "entity": "DCF+G vs. ME+GN groups",
+            "measure": "self-reported cognitive load (mental effort) after revision",
+            "quotes": [
+              "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+              "***ME+GN > DCF+G \n1.91 [0.95, 2.88]"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+          "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+          "The mixed-effect model showed a statistically significant effect of condition on reported mental effort after text revision, F(4,134) = 12, p < 0.001, R2 = .26, R2 adjusted = .24",
+          "yet learners’ cognitive load estimates proved significantly lower when corrections were provided directly and they targeted grammatical issues only.",
+          "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "The same trial found that cognitive load during revision after direct corrections on grammatical errors was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+        "citation": "(Bonilla López et al., 2018)",
+        "paper_doi": "10.1111/lang.12295",
+        "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (preamble)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "Based on self-reporting, the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350).",
+              "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+              "The mixed-effect model showed a statistically significant effect of condition on reported mental effort after text revision, F(4,134) = 12, p < 0.001, R2 = .26, R2 adjusted = .24",
+              "yet learners’ cognitive load estimates proved significantly lower when corrections were provided directly and they targeted grammatical issues only.",
+              "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4."
+            ],
+            "tokens": {
+              "input_tokens": 22200,
+              "output_tokens": 1072
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Automated feedback highlights rather than corrects errors",
+        "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+        "status": "verified",
+        "evidence_quote": "AWE feedback tended to highlight, rather than correct, student errors.",
+        "explanation": "The claim's central proposition — that AWE feedback tended to highlight rather than correct student errors — is stated almost verbatim in Section 5: \"AWE feedback tended to highlight, rather than correct, student errors.\" This is corroborated by Table 2, which lists \"Correction\" only under teacher feedback and not under AWE feedback, and by the later remark that teachers' comments are \"not a pattern-matching algorithm designed to highlight errors.\" No assertion in the claim is contradicted or absent.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Automated (AWE) feedback highlights student errors",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "AWE feedback tended to highlight, rather than correct, student errors.",
+            "central": true,
+            "entity": "AWE (automated writing evaluation) feedback",
+            "measure": "whether feedback highlights errors",
+            "quotes": [
+              "AWE feedback tended to highlight, rather than correct, student errors.",
+              "not a pattern-matching algorithm designed to highlight errors"
+            ]
+          },
+          {
+            "text": "Automated feedback does not correct errors (contrast with correcting)",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "AWE feedback tended to highlight, rather than correct, student errors.",
+            "central": false,
+            "entity": "AWE feedback",
+            "measure": "provision of direct correction",
+            "quotes": [
+              "AWE feedback tended to highlight, rather than correct, student errors."
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "AWE feedback tended to highlight, rather than correct, student errors.",
+          "not a pattern-matching algorithm designed to highlight errors"
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Automated feedback highlights rather than corrects errors (Zhang & Hyland, 2018).",
+        "citation": "(Zhang & Hyland, 2018)",
+        "paper_doi": "10.1016/j.asw.2018.02.004",
+        "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "AWE feedback tended to highlight, rather than correct, student errors.",
+              "not a pattern-matching algorithm designed to highlight errors"
+            ],
+            "tokens": {
+              "input_tokens": 17550,
+              "output_tokens": 536
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Teacher feedback addressed more error types than automated feedback, although assignment differences may have influenced this comparison",
+        "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+        "status": "verified",
+        "evidence_quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+        "explanation": "The claim reproduces Section 5 almost verbatim: \"Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.\" The central assertion (teacher feedback addressed more error types than AWE feedback) is supported by that sentence and by Table 1's totals (16 vs 8). The peripheral hedge about assignment differences is also supported by the same sentence, so no hedge is removed and nothing is contradicted.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Teacher feedback addressed more error types than automated (AWE) feedback.",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "more (teacher) than AWE",
+            "source_value": "16 vs 8",
+            "quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+            "central": true,
+            "entity": "teacher feedback versus AWE feedback in the study",
+            "measure": "number of error types addressed",
+            "quotes": [
+              "Teacher feedback addressed more error types (16) than the AWE feedback (8)"
+            ]
+          },
+          {
+            "text": "Differences between the two assignments may have influenced this comparison.",
+            "kind": "attribution",
+            "verdict": "supported",
+            "claim_value": "may have influenced",
+            "source_value": "may have influenced",
+            "quote": "although differences in the two assignments may have influenced this",
+            "central": false,
+            "entity": "the two assignments (Advanced English vs Tourism English essays)",
+            "measure": "possible influence on the comparison of error types",
+            "quotes": [
+              "although differences in the two assignments may have influenced this"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+          "Table 1 Comparison of error focus between teacher feedback and AWE feedback"
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Teacher feedback addressed more error types than automated feedback, although assignment differences may have influenced this comparison (Zhang & Hyland, 2018).",
+        "citation": "(Zhang & Hyland, 2018)",
+        "paper_doi": "10.1016/j.asw.2018.02.004",
+        "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+              "Table 1 Comparison of error focus between teacher feedback and AWE feedback"
+            ],
+            "tokens": {
+              "input_tokens": 17560,
+              "output_tokens": 663
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Comparisons of ChatGPT and Grammarly found that ChatGPT maintained high precision across prompts (94–98%) versus Grammarly's 85%, while recall rose from 10% to 55% as prompts became more sophisticated (Luo et al., 2025).",
+        "paper_id": "a896c5f9-e7ac-4bab-84d9-a09d9be0cc57",
+        "status": "verified",
+        "evidence_quote": "ChatGPT remained consistently high in precision regardless of prompts, being 94%, 98% and 94% respectively for GPT-P1, GPT-P2 and GPT-P3, higher than Grammarly (85%).",
+        "explanation": "The central assertion — that ChatGPT's precision stayed high across the three prompts (94%, 98%, 94%) while Grammarly's was 85% — is stated verbatim in the Results: \"ChatGPT remained consistently high in precision regardless of prompts, being 94%, 98% and 94% respectively for GPT-P1, GPT-P2 and GPT-P3, higher than Grammarly (85%).\" The peripheral assertion that recall rose from 10% to 55% with increasing prompt sophistication is also stated: \"the recall of ChatGPT considerably improved across prompts, with that of GPT-P1, GPT-P2 and GPT-P3 being 10%, 33% and 55% respectively,\" and Table 1's totals confirm 10 (33/334), 33 (110/334), 55 (184/334) versus Grammarly's 85 (117/137) precision. The comparison is between ChatGPT-4 with three prompts and Grammarly on the same 30-essay corpus, matching the claim's entities. No assertion is contradicted or absent.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Comparisons of ChatGPT (with three prompts) and Grammarly were conducted on the same essays, benchmarking ChatGPT's feedback against Grammarly.",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": null,
+            "central": false,
+            "entity": "ChatGPT-4 with three prompts and Grammarly",
+            "measure": "benchmark comparison of AWCF on the same 30-essay corpus",
+            "quotes": [
+              "The accuracy and coverage of ChatGPT’s feedback across these three prompts were benchmarked against Grammarly, a widely used traditional automated writing evaluation (AWE) tool.",
+              "The AWCF by ChatGPT with the three prompts and by Grammarly were analyzed based on the same procedures described as follows."
+            ]
+          },
+          {
+            "text": "ChatGPT maintained high precision across prompts, at 94–98%.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "94–98%",
+            "source_value": "94%, 98%, 94%",
+            "quote": null,
+            "central": true,
+            "entity": "ChatGPT-4 with Prompts 1, 2 and 3",
+            "measure": "overall precision",
+            "quotes": [
+              "ChatGPT remained consistently high in precision regardless of prompts, being 94%, 98% and 94% respectively for GPT-P1, GPT-P2 and GPT-P3, higher than Grammarly (85%)."
+            ]
+          },
+          {
+            "text": "Grammarly's precision was 85%.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "85%",
+            "source_value": "85% (117/137)",
+            "quote": null,
+            "central": false,
+            "entity": "Grammarly",
+            "measure": "overall precision",
+            "quotes": [
+              "higher than Grammarly (85%)",
+              "85\n(117/137)"
+            ]
+          },
+          {
+            "text": "ChatGPT's recall rose from 10% to 55% as prompts became more sophisticated.",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "10% to 55%",
+            "source_value": "10%, 33%, 55%",
+            "quote": null,
+            "central": false,
+            "entity": "ChatGPT-4 across Prompts 1 to 3",
+            "measure": "overall recall",
+            "quotes": [
+              "In contrast, the recall of ChatGPT considerably improved across prompts, with that of GPT-P1, GPT-P2 and GPT-P3 being 10%, 33% and 55% respectively."
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "ChatGPT remained consistently high in precision regardless of prompts, being 94%, 98% and 94% respectively for GPT-P1, GPT-P2 and GPT-P3, higher than Grammarly (85%).",
+          "In contrast, the recall of ChatGPT considerably improved across prompts, with that of GPT-P1, GPT-P2 and GPT-P3 being 10%, 33% and 55% respectively.",
+          "94\n(33/35)\n10\n(33/334)\n98\n(110/112)\n33\n(110/334)\n94\n(184/196)\n55\n(184/334)\n85\n(117/137)\n35\n(117/334)"
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Comparisons of ChatGPT and Grammarly found that ChatGPT maintained high precision across prompts (94–98%) versus Grammarly's 85%, while recall rose from 10% to 55% as prompts became more sophisticated (Luo et al., 2025).",
+        "citation": "(Luo et al., 2025)",
+        "paper_doi": "10.1017/s095834402510044x",
+        "paper_title": "Impact of prompt sophistication on ChatGPT’s output for automated written corrective feedback",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "ChatGPT remained consistently high in precision regardless of prompts, being 94%, 98% and 94% respectively for GPT-P1, GPT-P2 and GPT-P3, higher than Grammarly (85%).",
+              "In contrast, the recall of ChatGPT considerably improved across prompts, with that of GPT-P1, GPT-P2 and GPT-P3 being 10%, 33% and 55% respectively.",
+              "94\n(33/35)\n10\n(33/334)\n98\n(110/112)\n33\n(110/334)\n94\n(184/196)\n55\n(184/334)\n85\n(117/137)\n35\n(117/334)"
+            ],
+            "tokens": {
+              "input_tokens": 14186,
+              "output_tokens": 1214
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "Teachers using Grammarly as a complement still addressed both global and local concerns, with no division of labour",
+        "paper_id": "6ec99bcb-e7dc-48a0-a292-af6b34d9889d",
+        "status": "verified",
+        "evidence_quote": "The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement, and there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns.",
+        "explanation": "The abstract states the finding directly: \"The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement, and there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns.\" The Findings section corroborates: \"all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement,\" and the Discussion states \"This is in line with previous research that suggests that there is no division of labor, such as that AWE takes care of LOCs ... and a teacher takes care of HOCs.\" Both the central assertion (feedback on both global and local concerns) and the peripheral assertion (no division of labour) are supported; no contradiction and no hedge removal.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "Teachers using Grammarly as a complement still provided feedback on both global (higher-order) and local (lower-order) aspects of writing.",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement",
+            "central": true,
+            "entity": "Postsecondary L2 writing teachers using Grammarly as a complement to their feedback",
+            "measure": "Provision of feedback on both global and local aspects of writing",
+            "quotes": [
+              "The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement",
+              "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement."
+            ]
+          },
+          {
+            "text": "There was no division of labour between teachers and Grammarly (e.g., teachers taking higher-order concerns and Grammarly taking lower-order concerns).",
+            "kind": "attribution",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns",
+            "central": false,
+            "entity": "Teachers and Grammarly in the complementary feedback arrangement",
+            "measure": "Division of labour by feedback level",
+            "quotes": [
+              "there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns",
+              "This is in line with previous research that suggests that there is no division of labor, such as that AWE takes care of LOCs as it is more computationally adept at providing such feedback and a teacher takes care of HOCs (Jiang et al., 2020; Wilson & Czik, 2016)."
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement, and there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns.",
+          "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+          "This is in line with previous research that suggests that there is no division of labor, such as that AWE takes care of LOCs as it is more computationally adept at providing such feedback and a teacher takes care of HOCs (Jiang et al., 2020; Wilson & Czik, 2016)."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "Teachers using Grammarly as a complement still addressed both global and local concerns, with no division of labour (Koltovskaia, 2022).",
+        "citation": "(Koltovskaia, 2022)",
+        "paper_doi": "10.1017/s0958344022000179",
+        "paper_title": "Postsecondary L2 writing teachers’ use and perceptions of Grammarly as a complement to their feedback",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "The findings showed that teachers provided feedback both on global and local aspects of writing despite using Grammarly as a complement, and there was no division of labor such as that a teacher takes care of higher-order and Grammarly takes care of lower-order concerns.",
+              "According to Figure 2, all six participants provided feedback on both HOCs and LOCs, despite having Grammarly feedback on LOCs as a complement.",
+              "This is in line with previous research that suggests that there is no division of labor, such as that AWE takes care of LOCs as it is more computationally adept at providing such feedback and a teacher takes care of HOCs (Jiang et al., 2020; Wilson & Czik, 2016)."
+            ],
+            "tokens": {
+              "input_tokens": 13701,
+              "output_tokens": 990
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "A 16-week naturalistic case study of two Chinese students found that the highly engaged learner outperformed the moderately engaged learner in responding to both teacher and automated feedback and in improving her text (Zhang & Hyland, 2018).",
+        "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+        "status": "verified",
+        "evidence_quote": "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+        "explanation": "Every proposition in the claim is stated in the source. The design is described as \"This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.\" The central finding is stated almost verbatim in Section 8: \"the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.\" The labels \"highly engaged learner\" (Flora) and \"moderately engaged learner\" (David) are the paper's own section headings and conclusion wording. No assertion is contradicted and no hedge is removed.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "The study is a naturalistic case study.",
+            "kind": "intervention",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+            "central": false,
+            "entity": "the study reported in the paper",
+            "measure": "study design label",
+            "quotes": [
+              "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester."
+            ]
+          },
+          {
+            "text": "The study lasted 16 weeks.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "16 weeks",
+            "source_value": "16-week semester",
+            "quote": "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+            "central": false,
+            "entity": "the study",
+            "measure": "duration of data collection",
+            "quotes": [
+              "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester."
+            ]
+          },
+          {
+            "text": "The study involved two Chinese students.",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": "two Chinese students",
+            "source_value": "two Chinese students",
+            "quote": "The participants in this study were two Chinese students in the first semester of their third year in a university in China.",
+            "central": false,
+            "entity": "participants",
+            "measure": "number and nationality of participants",
+            "quotes": [
+              "The participants in this study were two Chinese students in the first semester of their third year in a university in China."
+            ]
+          },
+          {
+            "text": "The highly engaged learner outperformed the moderately engaged learner in responding to both teacher and automated feedback and in improving her text.",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "highly engaged learner outperformed",
+            "source_value": "the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text",
+            "quote": "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing shows that the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+            "central": true,
+            "entity": "the highly engaged learner (Flora) versus the moderately engaged learner (David)",
+            "measure": "response to teacher and AWE feedback and improvement to text",
+            "quotes": [
+              "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing shows that the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text.",
+              "The different styles of engagement adopted by these students led us to identify one as a highly engaged learner and the other as a moderately engaged learner"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+          "The participants in this study were two Chinese students in the first semester of their third year in a university in China.",
+          "6  Flora: A highly engaged learner",
+          "7   David: A moderately engaged learner",
+          "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing shows that the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "A 16-week naturalistic case study of two Chinese students found that the highly engaged learner outperformed the moderately engaged learner in responding to both teacher and automated feedback and in improving her text (Zhang & Hyland, 2018).",
+        "citation": "(Zhang & Hyland, 2018)",
+        "paper_doi": "10.1016/j.asw.2018.02.004",
+        "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "This naturalistic case study addresses this gap, looking at how two Chinese students of English engage with both teacher and AWE feedback on their writing over a 16-week semester.",
+              "The participants in this study were two Chinese students in the first semester of their third year in a university in China.",
+              "6  Flora: A highly engaged learner",
+              "7   David: A moderately engaged learner",
+              "This detailed description of how the two learners engaged with both teacher and AWE feedback on their writing shows that the highly engaged learner (Flora) outperformed the moderately engaged learner (David) in her response to both sources of feedback as well as in making more improvements to her text."
+            ],
+            "tokens": {
+              "input_tokens": 17588,
+              "output_tokens": 1259
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "In an integrated approach combining automated, peer, and teacher feedback, most of 33 students actively engaged and the approach promoted behavioural, affective, and cognitive engagement and thoughtful revisions (Zhang & Hyland, 2021).",
+        "paper_id": "352c8d24-a3b2-4956-b6ef-22a954b81f19",
+        "status": "verified",
+        "evidence_quote": "This case study explores an authentic classroom and how a group of 33 students engaged with a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback.",
+        "explanation": "The abstract states: \"We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.\" This supports the central assertion (majority of the 33 students actively engaged) and the peripheral assertions about the three engagement dimensions and thoughtful revisions. The participant count of 33 is confirmed in the abstract and methods (\"one teacher and 33 students\"). The only nuance is that the paper elsewhere acknowledges some students \"failed to engage\", but \"most\"/\"majority\" is consistent with that, so no contradiction arises.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "The approach integrated three types of feedback: automated, peer, and teacher feedback.",
+            "kind": "intervention",
+            "verdict": "supported",
+            "claim_value": "automated, peer, and teacher feedback",
+            "source_value": "automated, peer, and teacher feedback",
+            "quote": null,
+            "central": false,
+            "entity": "the pedagogical approach in the study",
+            "measure": "types of feedback integrated",
+            "quotes": [
+              "This case study explores an authentic classroom and how a group of 33 students engaged with a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback."
+            ]
+          },
+          {
+            "text": "The study involved 33 students.",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": "33",
+            "source_value": "33",
+            "quote": null,
+            "central": false,
+            "entity": "study participants",
+            "measure": "number of students",
+            "quotes": [
+              "The participants in this study were one teacher and 33 students at a Chinese university."
+            ]
+          },
+          {
+            "text": "Most of the 33 students actively engaged with the integrated approach.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "most",
+            "source_value": "the majority",
+            "quote": null,
+            "central": true,
+            "entity": "the 33 students",
+            "measure": "proportion actively engaging with the integrated approach",
+            "quotes": [
+              "We found that the majority of students actively engaged with this integrated approach"
+            ]
+          },
+          {
+            "text": "The approach promoted behavioural, affective, and cognitive engagement.",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "promoted all three dimensions",
+            "source_value": "promoted all three dimensions",
+            "quote": null,
+            "central": false,
+            "entity": "students' engagement with feedback",
+            "measure": "behavioural, affective, and cognitive engagement",
+            "quotes": [
+              "it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing"
+            ]
+          },
+          {
+            "text": "The approach encouraged thoughtful revisions.",
+            "kind": "direction",
+            "verdict": "supported",
+            "claim_value": "encouraged",
+            "source_value": "encouraged",
+            "quote": null,
+            "central": false,
+            "entity": "students' revisions",
+            "measure": "thoughtful revisions",
+            "quotes": [
+              "encouraged thoughtful revisions"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "This case study explores an authentic classroom and how a group of 33 students engaged with a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback.",
+          "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+          "The participants in this study were one teacher and 33 students at a Chinese university."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "In an integrated approach combining automated, peer, and teacher feedback, most of 33 students actively engaged and the approach promoted behavioural, affective, and cognitive engagement and thoughtful revisions (Zhang & Hyland, 2021).",
+        "citation": "(Zhang & Hyland, 2021)",
+        "paper_doi": "10.1016/j.asw.2021.100586",
+        "paper_title": "Fostering student engagement with feedback: An integrated approach",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "This case study explores an authentic classroom and how a group of 33 students engaged with a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback.",
+              "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+              "The participants in this study were one teacher and 33 students at a Chinese university."
+            ],
+            "tokens": {
+              "input_tokens": 12737,
+              "output_tokens": 969
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "A synthesis of 50 naturalistic classroom studies identified teacher practices, learner responses, stakeholder beliefs, and motivation and emotions as major themes",
+        "paper_id": "c5c68874-7dbe-4180-bd00-ceff93a9b93b",
+        "status": "verified",
+        "evidence_quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+        "explanation": "The source states that a systematic search generated 50 empirical studies and that the review \"revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.\" This matches the claim's count (50 studies), setting (naturalistic classroom studies), and all four themes. The central assertion (the synthesis identified these four themes) is supported, and the peripheral assertions about the number of studies and the nature of the studies are also supported.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "The synthesis identified four major themes: teacher practices, learner responses, stakeholder beliefs, and motivation and emotions.",
+            "kind": "other",
+            "verdict": "supported",
+            "claim_value": "four themes: teacher practices, learner responses, stakeholder beliefs, motivation and emotions",
+            "source_value": "four themes: teacher WCF practices, L2 learner responses, stakeholders’ beliefs and perspectives, WCF-related motivation and emotions",
+            "quote": null,
+            "central": true,
+            "entity": "the synthesis of naturalistic WCF classroom studies",
+            "measure": "major themes identified",
+            "quotes": [
+              "which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions"
+            ]
+          },
+          {
+            "text": "The synthesis covered 50 studies.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "50",
+            "source_value": "50",
+            "quote": null,
+            "central": false,
+            "entity": "the synthesis",
+            "measure": "number of included studies",
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+              "Our final sample contains 50 journal articles"
+            ]
+          },
+          {
+            "text": "The synthesized studies were naturalistic classroom studies.",
+            "kind": "population",
+            "verdict": "supported",
+            "claim_value": "naturalistic classroom studies",
+            "source_value": "naturalistic WCF studies in L2 writing classrooms",
+            "quote": null,
+            "central": false,
+            "entity": "the included studies",
+            "measure": "study type (naturalistic classroom)",
+            "quotes": [
+              "providing a comprehensive and critical review of natur- alistic WCF studies in L2 writing",
+              "the current review advances our knowledge on this underexplored yet crucially important area"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+          "Our final sample contains 50 journal articles, which are listed in Table 1.",
+          "This state-of-the-art article intends to fill the gap by providing a comprehensive and critical review of natur- alistic WCF studies in L2 writing, with significant implications for practice and research."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "A synthesis of 50 naturalistic classroom studies identified teacher practices, learner responses, stakeholder beliefs, and motivation and emotions as major themes (Mao et al., 2024).",
+        "citation": "(Mao et al., 2024)",
+        "paper_doi": "10.1017/s0261444823000393",
+        "paper_title": "Written corrective feedback in second language writing: A synthesis of naturalistic classroom studies",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+              "Our final sample contains 50 journal articles, which are listed in Table 1.",
+              "This state-of-the-art article intends to fill the gap by providing a comprehensive and critical review of natur- alistic WCF studies in L2 writing, with significant implications for practice and research."
+            ],
+            "tokens": {
+              "input_tokens": 23559,
+              "output_tokens": 927
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ]
+      },
+      {
+        "claim_text": "A systematic search for the review identified 50 empirical studies meeting its inclusion criteria, revealing four major themes: teacher feedback practices in L2 writing classrooms, L2 learner responses to feedback, stakeholders' beliefs and perspectives about feedback, and feedback-related motivation and emotions",
+        "paper_id": "c5c68874-7dbe-4180-bd00-ceff93a9b93b",
+        "status": "verified",
+        "evidence_quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+        "explanation": "The abstract states verbatim that \"A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.\" The count (50), the systematic search, the inclusion criteria, and all four themes match the claim; the only differences are the abbreviation of \"written corrective feedback\" to \"feedback\" and \"on\" versus \"about\", which do not change meaning. Section 5 independently confirms the four research strands and the 50-study sample.",
+        "suggested_revision": null,
+        "assertions": [
+          {
+            "text": "A systematic search for the review identified 50 empirical studies meeting its inclusion criteria.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "50",
+            "source_value": "50",
+            "quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+            "central": true,
+            "entity": "the review's systematic search",
+            "measure": "number of empirical studies meeting inclusion criteria",
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+              "Our final sample contains 50 journal articles, which are listed in Table 1."
+            ]
+          },
+          {
+            "text": "The reviewed studies revealed four major themes.",
+            "kind": "quantity",
+            "verdict": "supported",
+            "claim_value": "four",
+            "source_value": "four",
+            "quote": "which revealed four major themes",
+            "central": false,
+            "entity": "the reviewed studies",
+            "measure": "number of major themes identified",
+            "quotes": [
+              "which revealed four major themes"
+            ]
+          },
+          {
+            "text": "One theme is teacher feedback practices in L2 writing classrooms.",
+            "kind": "other",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "(1) teacher WCF practices in L2 writing classrooms",
+            "central": false,
+            "entity": "theme 1",
+            "measure": "theme content",
+            "quotes": [
+              "(1) teacher WCF practices in L2 writing classrooms"
+            ]
+          },
+          {
+            "text": "One theme is L2 learner responses to feedback.",
+            "kind": "other",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "(2) L2 learner responses to WCF",
+            "central": false,
+            "entity": "theme 2",
+            "measure": "theme content",
+            "quotes": [
+              "(2) L2 learner responses to WCF"
+            ]
+          },
+          {
+            "text": "One theme is stakeholders' beliefs and perspectives about feedback.",
+            "kind": "other",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "(3) stakeholders’ beliefs and perspectives on WCF",
+            "central": false,
+            "entity": "theme 3",
+            "measure": "theme content",
+            "quotes": [
+              "(3) stakeholders’ beliefs and perspectives on WCF"
+            ]
+          },
+          {
+            "text": "One theme is feedback-related motivation and emotions.",
+            "kind": "other",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null,
+            "quote": "(4) WCF-related motivation and emotions",
+            "central": false,
+            "entity": "theme 4",
+            "measure": "theme content",
+            "quotes": [
+              "(4) WCF-related motivation and emotions"
+            ]
+          }
+        ],
+        "unstated_details": [],
+        "evidence_quotes": [
+          "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+          "Our final sample contains 50 journal articles, which are listed in Table 1."
+        ],
+        "model_reported": "deepseek-flash",
+        "claim_sentence": "A systematic search for the review identified 50 empirical studies meeting its inclusion criteria, revealing four major themes: teacher feedback practices in L2 writing classrooms, L2 learner responses to feedback, stakeholders' beliefs and perspectives about feedback, and feedback-related motivation and emotions (Mao et al., 2024).",
+        "citation": "(Mao et al., 2024)",
+        "paper_doi": "10.1017/s0261444823000393",
+        "paper_title": "Written corrective feedback in second language writing: A synthesis of naturalistic classroom studies",
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 2 (abstract)",
+        "model_status": "verified",
+        "machine_reasons": [],
+        "diagnostics": [],
+        "quote_relocations": [],
+        "passes": [
+          {
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+              "Our final sample contains 50 journal articles, which are listed in Table 1.",
+              "we synthesized the key empirical findings into four research strands: (a) teacher WCF practices in L2 writing classrooms; (b) L2 learners’ responses to WCF; (c) stakeholders’ beliefs and perspectives on WCF; and (d) WCF-related motivation and emotions."
+            ],
+            "tokens": {
+              "input_tokens": 23584,
+              "output_tokens": 1156
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [
+              "quote_not_verbatim"
+            ],
+            "repair_prompt_version": null
+          },
+          {
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+              "Our final sample contains 50 journal articles, which are listed in Table 1."
+            ],
+            "tokens": {
+              "input_tokens": 25067,
+              "output_tokens": 1084
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": "sha256:7ec7cffe852d"
+          }
+        ]
+      }
+    ],
+    "verified_count": 9
+  }
+}

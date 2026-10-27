@@ -1,0 +1,204 @@
+{
+  "content": "Tutoring boosts outcomes (Smith, 2020). Tutoring improves retention (Jones, 2019).",
+  "citation_links": [
+    {
+      "keys": [
+        "smith_2020"
+      ],
+      "sentence": "Tutoring boosts outcomes (Smith, 2020).",
+      "proposition": "Tutoring boosts outcomes",
+      "citation_text": "(Smith, 2020)",
+      "paragraph_index": 0
+    },
+    {
+      "keys": [
+        "jones_2019"
+      ],
+      "sentence": "Tutoring improves retention (Jones, 2019).",
+      "proposition": "Tutoring improves retention",
+      "citation_text": "(Jones, 2019)",
+      "paragraph_index": 0
+    }
+  ],
+  "uncited_sentences": [],
+  "loop_stats": {
+    "loop_revised": true,
+    "survival_rate": null,
+    "length_trimmed": false,
+    "link_map_failed": false,
+    "headings_removed": 0,
+    "regeneration_kept": "first",
+    "length_regenerated": false,
+    "frame_spans_accepted": 0,
+    "verb_initial_reasons": [],
+    "heading_shaped_reasons": [],
+    "meta_evaluation_reasons": [],
+    "first_pass_verified_rate": 0.5,
+    "headings_removed_reasons": [],
+    "empty_section_regenerated": 1,
+    "sentences_residue_excised": 0,
+    "link_coverage_retry_failed": false,
+    "sentences_removed_dangling": 0,
+    "truncated_fragment_reasons": [],
+    "coverage_incomplete_reasons": [],
+    "links_unmatched_to_sentence": 0,
+    "sentences_unclassified_kept": 0,
+    "sentences_removed_title_echo": 0,
+    "sentences_removed_unverified": 0,
+    "citations_dropped_no_full_text": 0,
+    "needs_citation_markers_removed": 0,
+    "sentences_removed_no_full_text": 0,
+    "sentences_removed_verb_initial": 0,
+    "empty_section_after_regeneration": false,
+    "sentences_removed_heading_shaped": 0,
+    "sentences_removed_uncited_finding": 0,
+    "sentences_removed_coverage_incomplete": 0,
+    "sentences_truncated_fragment_repaired": 0,
+    "sentences_removed_meta_evaluation_uncited": 0
+  },
+  "gate_log": {
+    "attempts": [
+      {
+        "kept": true,
+        "attempt": "first",
+        "finalize": {
+          "sentences": [
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "Tutoring boosts outcomes (Smith, 2020).",
+              "delivered": "Tutoring boosts outcomes (Smith, 2020).",
+              "paragraph": 0
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "Tutoring improves retention (Jones, 2019).",
+              "delivered": "Tutoring improves retention (Jones, 2019).",
+              "paragraph": 0
+            }
+          ]
+        },
+        "revision": {
+          "claims": [
+            {
+              "key": "smith_2020",
+              "reused": true,
+              "status": "verified",
+              "sentence": "Tutoring boosts outcomes (Smith, 2020).",
+              "proposition": "Tutoring boosts outcomes"
+            },
+            {
+              "key": "jones_2019",
+              "reused": false,
+              "status": "verified",
+              "sentence": "Tutoring improves retention (Jones, 2019).",
+              "proposition": "Tutoring improves retention"
+            }
+          ],
+          "failed": [
+            {
+              "key": "jones_2019",
+              "status": "unsupported",
+              "sentence": "Tutoring reduces costs (Jones, 2019)."
+            }
+          ],
+          "triggers": [
+            "unsupported"
+          ],
+          "sentences": [
+            "Tutoring boosts outcomes (Smith, 2020).",
+            "Tutoring improves retention (Jones, 2019)."
+          ],
+          "unclassified": [],
+          "keep_verbatim": [
+            "Tutoring boosts outcomes (Smith, 2020)."
+          ],
+          "coverage_issue": [],
+          "link_map_failed": false,
+          "uncited_finding": []
+        },
+        "first_pass": {
+          "claims": [
+            {
+              "key": "smith_2020",
+              "status": "verified",
+              "sentence": "Tutoring boosts outcomes (Smith, 2020).",
+              "proposition": "Tutoring boosts outcomes"
+            },
+            {
+              "key": "jones_2019",
+              "status": "unsupported",
+              "sentence": "Tutoring reduces costs (Jones, 2019).",
+              "proposition": "Tutoring reduces costs"
+            }
+          ],
+          "sentences": [
+            "Tutoring boosts outcomes (Smith, 2020).",
+            "Tutoring reduces costs (Jones, 2019)."
+          ]
+        },
+        "link_map_failed": false
+      },
+      {
+        "kept": false,
+        "attempt": "second",
+        "finalize": {
+          "sentences": [
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "Tutoring boosts outcomes (Smith, 2020).",
+              "delivered": "Tutoring boosts outcomes (Smith, 2020).",
+              "paragraph": 0
+            },
+            {
+              "fate": "removed",
+              "rule": "unverified",
+              "sentence": "Tutoring reduces costs (Jones, 2019).",
+              "delivered": null,
+              "paragraph": 0
+            }
+          ]
+        },
+        "revision": null,
+        "first_pass": {
+          "claims": [
+            {
+              "key": "smith_2020",
+              "status": "verified",
+              "sentence": "Tutoring boosts outcomes (Smith, 2020).",
+              "proposition": "Tutoring boosts outcomes"
+            },
+            {
+              "key": "jones_2019",
+              "status": "unsupported",
+              "sentence": "Tutoring reduces costs (Jones, 2019).",
+              "proposition": "Tutoring reduces costs"
+            }
+          ],
+          "sentences": [
+            "Tutoring boosts outcomes (Smith, 2020).",
+            "Tutoring reduces costs (Jones, 2019)."
+          ]
+        },
+        "link_map_failed": false
+      }
+    ],
+    "kept_attempt": "first",
+    "schema_version": 1
+  },
+  "provenance": {
+    "length": {}
+  },
+  "claim_report": {
+    "verifications": [
+      {
+        "status": "verified"
+      },
+      {
+        "status": "verified"
+      }
+    ]
+  }
+}

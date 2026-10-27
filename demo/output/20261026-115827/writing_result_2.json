@@ -1,0 +1,1020 @@
+{
+  "content": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets (Mao et al., 2024).\n\nThe same study reported that cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).\n\nAutomated feedback occupies a different position in the revision process. Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison. In an integrated classroom case study, the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions (Zhang & Hyland, 2021). The same authors note that students were not required to address all feedback received (Zhang & Hyland, 2021).",
+  "metrics": {
+    "analysis": {
+      "papers": 0,
+      "papers_failed": 0,
+      "verbatim_rate": 1.0,
+      "evidence_items": 0,
+      "rejected_items": 0,
+      "papers_attempted": 0
+    }
+  },
+  "gate_log": {
+    "attempts": [
+      {
+        "kept": true,
+        "attempt": "first",
+        "finalize": {
+          "sentences": [
+            {
+              "fate": "removed",
+              "rule": "uncited_finding",
+              "sentence": "Research on how second-language writers revise after written corrective feedback (WCF) converges on a distinction between immediate text improvement and durable accuracy gains, though the evidence base is uneven.",
+              "delivered": null,
+              "paragraph": 0
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets (Mao et al., 2024).",
+              "delivered": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets (Mao et al., 2024).",
+              "paragraph": 0
+            },
+            {
+              "fate": "removed",
+              "rule": "uncited_finding",
+              "sentence": "This methodological profile matters for interpreting the revision literature: descriptive accounts of uptake predominate over designs capable of isolating feedback type.",
+              "delivered": null,
+              "paragraph": 0
+            },
+            {
+              "fate": "removed",
+              "rule": "uncited_finding",
+              "sentence": "Direct corrections appear to support longer-term accuracy where metalinguistic codes do not.",
+              "delivered": null,
+              "paragraph": 1
+            },
+            {
+              "fate": "removed",
+              "rule": "unverified",
+              "sentence": "In a study of 139 low-intermediate EFL writers randomly assigned to four experimental conditions and a self-correction control, direct corrections and codes both enhanced immediate grammatical and non-grammatical accuracy during text revision, but a long-term advantage four weeks after feedback provision was evident only for direct corrections (Bonilla López et al., 2018).",
+              "delivered": null,
+              "paragraph": 1
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "The same study reported that cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+              "delivered": "The same study reported that cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+              "paragraph": 1
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "Automated feedback occupies a different position in the revision process.",
+              "delivered": "Automated feedback occupies a different position in the revision process.",
+              "paragraph": 2
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison.",
+              "delivered": "Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison.",
+              "paragraph": 2
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "In an integrated classroom case study, the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions (Zhang & Hyland, 2021).",
+              "delivered": "In an integrated classroom case study, the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions (Zhang & Hyland, 2021).",
+              "paragraph": 2
+            },
+            {
+              "fate": "kept",
+              "rule": null,
+              "sentence": "The same authors note that students were not required to address all feedback received (Zhang & Hyland, 2021).",
+              "delivered": "The same authors note that students were not required to address all feedback received (Zhang & Hyland, 2021).",
+              "paragraph": 2
+            },
+            {
+              "fate": "removed",
+              "rule": "dangling",
+              "sentence": "What the library does not yet establish is how revision behaviour differs when learners choose among feedback sources rather than receiving them in a fixed sequence.",
+              "delivered": null,
+              "paragraph": 3
+            },
+            {
+              "fate": "removed",
+              "rule": "uncited_finding",
+              "sentence": "Evidence on automated feedback remains largely corpus- or case-based, with limited classroom uptake data.",
+              "delivered": null,
+              "paragraph": 3
+            }
+          ]
+        },
+        "revision": {
+          "claims": [
+            {
+              "key": "mao_2024",
+              "reused": false,
+              "status": "verified",
+              "sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets (Mao et al., 2024).",
+              "proposition": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets"
+            },
+            {
+              "key": "lópez_2018",
+              "reused": false,
+              "status": "needs_nuance",
+              "sentence": "In a study of 139 low-intermediate EFL writers randomly assigned to four experimental conditions and a self-correction control, direct corrections and codes both enhanced immediate grammatical and non-grammatical accuracy during text revision, but a long-term advantage four weeks after feedback provision was evident only for direct corrections (Bonilla López et al., 2018).",
+              "proposition": "In a study of 139 low-intermediate EFL writers randomly assigned to four experimental conditions and a self-correction control, direct corrections and codes both enhanced immediate grammatical and non-grammatical accuracy during text revision, but a long-term advantage four weeks after feedback provision was evident only for direct corrections (Bonilla López et al., 2018)."
+            },
+            {
+              "key": "lópez_2018",
+              "reused": false,
+              "status": "verified",
+              "sentence": "The same study reported that cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+              "proposition": "cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors"
+            },
+            {
+              "key": "zhang_2018",
+              "reused": false,
+              "status": "verified",
+              "sentence": "Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison.",
+              "proposition": "automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison"
+            },
+            {
+              "key": "zhang_2021",
+              "reused": false,
+              "status": "verified",
+              "sentence": "In an integrated classroom case study, the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions (Zhang & Hyland, 2021).",
+              "proposition": "the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions"
+            },
+            {
+              "key": "zhang_2021",
+              "reused": false,
+              "status": "verified",
+              "sentence": "The same authors note that students were not required to address all feedback received (Zhang & Hyland, 2021).",
+              "proposition": "students were not required to address all feedback received"
+            }
+          ],
+          "failed": [
+            {
+              "key": "lópez_2018",
+              "status": "needs_nuance",
+              "sentence": "Bonilla López et al. (2018) tested this directly: 139 low-intermediate EFL writers were randomly assigned to direct corrections, metalinguistic codes, or a self-correction control, and although both coded and direct feedback improved immediate grammatical and non-grammatical accuracy during revision, only direct corrections retained an advantage four weeks later."
+            },
+            {
+              "key": "zhang_2021",
+              "status": "needs_nuance",
+              "sentence": "A larger integrated-feedback case study reported that most of 33 students engaged actively with combined automated, peer, and teacher feedback and made thoughtful revisions (Zhang & Hyland, 2021), though the authors concede that nothing required students to address the feedback they received, leaving uptake partly voluntary."
+            }
+          ],
+          "triggers": [
+            "coverage_flag",
+            "needs_nuance"
+          ],
+          "sentences": [
+            "Research on how second-language writers revise after written corrective feedback (WCF) converges on a distinction between immediate text improvement and durable accuracy gains, though the evidence base is uneven.",
+            "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets (Mao et al., 2024).",
+            "This methodological profile matters for interpreting the revision literature: descriptive accounts of uptake predominate over designs capable of isolating feedback type.",
+            "Direct corrections appear to support longer-term accuracy where metalinguistic codes do not.",
+            "In a study of 139 low-intermediate EFL writers randomly assigned to four experimental conditions and a self-correction control, direct corrections and codes both enhanced immediate grammatical and non-grammatical accuracy during text revision, but a long-term advantage four weeks after feedback provision was evident only for direct corrections (Bonilla López et al., 2018).",
+            "The same study reported that cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+            "Automated feedback occupies a different position in the revision process.",
+            "Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison.",
+            "In an integrated classroom case study, the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions (Zhang & Hyland, 2021).",
+            "The same authors note that students were not required to address all feedback received (Zhang & Hyland, 2021).",
+            "What the library does not yet establish is how revision behaviour differs when learners choose among feedback sources rather than receiving them in a fixed sequence.",
+            "Evidence on automated feedback remains largely corpus- or case-based, with limited classroom uptake data."
+          ],
+          "unclassified": [],
+          "keep_verbatim": [
+            "Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison."
+          ],
+          "coverage_issue": [
+            "More recent work on prompt design suggests automated systems can detect errors with high precision but that recall rises steeply with prompt sophistication, from 10% to 55% (Luo et al., 2025); this indicates that automated feedback quality is a design variable rather than a fixed property, though the 30-essay corpus from one institution constrains generalisation."
+          ],
+          "link_map_failed": false,
+          "uncited_finding": [
+            "Synthesis across these studies is hampered by divergent outcome measures—accuracy scores, revision operations, resubmission counts—and by the predominance of single-site designs.",
+            "The design is unusually strong for this literature—random assignment, a genuine control, and a delayed posttest—but the single Costa Rican university setting and the self-report measure of cognitive load limit what can be claimed about other proficiency levels and contexts.",
+            "The finding that direct corrections imposed significantly lower cognitive load than metalinguistic codes offers a plausible mechanism for the durability difference, yet the authors acknowledge they could not employ an online physiological measure, so the load account remains inferential.",
+            "Their case study is instructive precisely because engagement varied so widely—one learner resubmitted thirteen times while the other resubmitted once—but two students in one semester cannot support generalisation."
+          ]
+        },
+        "first_pass": {
+          "claims": [
+            {
+              "key": "lópez_2018",
+              "status": "needs_nuance",
+              "sentence": "Bonilla López et al. (2018) tested this directly: 139 low-intermediate EFL writers were randomly assigned to direct corrections, metalinguistic codes, or a self-correction control, and although both coded and direct feedback improved immediate grammatical and non-grammatical accuracy during revision, only direct corrections retained an advantage four weeks later.",
+              "proposition": "139 low-intermediate EFL writers were randomly assigned to direct corrections, metalinguistic codes, or a self-correction control, and although both coded and direct feedback improved immediate grammatical and non-grammatical accuracy during revision, only direct corrections retained an advantage four weeks later."
+            },
+            {
+              "key": "zhang_2018",
+              "status": "verified",
+              "sentence": "Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison.",
+              "proposition": "automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison."
+            },
+            {
+              "key": "zhang_2021",
+              "status": "needs_nuance",
+              "sentence": "A larger integrated-feedback case study reported that most of 33 students engaged actively with combined automated, peer, and teacher feedback and made thoughtful revisions (Zhang & Hyland, 2021), though the authors concede that nothing required students to address the feedback they received, leaving uptake partly voluntary.",
+              "proposition": "A larger integrated-feedback case study reported that most of 33 students engaged actively with combined automated, peer, and teacher feedback and made thoughtful revisions (Zhang & Hyland, 2021), though the authors concede that nothing required students to address the feedback they received, leaving uptake partly voluntary."
+            },
+            {
+              "key": "luo_2025",
+              "status": "needs_nuance",
+              "sentence": "More recent work on prompt design suggests automated systems can detect errors with high precision but that recall rises steeply with prompt sophistication, from 10% to 55% (Luo et al., 2025); this indicates that automated feedback quality is a design variable rather than a fixed property, though the 30-essay corpus from one institution constrains generalisation.",
+              "proposition": "automated systems can detect errors with high precision but that recall rises steeply with prompt sophistication, from 10% to 55%"
+            },
+            {
+              "key": "luo_2025",
+              "status": "verified",
+              "sentence": "More recent work on prompt design suggests automated systems can detect errors with high precision but that recall rises steeply with prompt sophistication, from 10% to 55% (Luo et al., 2025); this indicates that automated feedback quality is a design variable rather than a fixed property, though the 30-essay corpus from one institution constrains generalisation.",
+              "proposition": "the 30-essay corpus from one institution constrains generalisation."
+            },
+            {
+              "key": "luo_2025",
+              "status": "needs_nuance",
+              "sentence": "More recent work on prompt design suggests automated systems can detect errors with high precision but that recall rises steeply with prompt sophistication, from 10% to 55% (Luo et al., 2025); this indicates that automated feedback quality is a design variable rather than a fixed property, though the 30-essay corpus from one institution constrains generalisation.",
+              "proposition": "More recent work on prompt design suggests automated systems can detect errors with high precision but that recall rises steeply with prompt sophistication, from 10% to 55%"
+            },
+            {
+              "key": "luo_2025",
+              "status": "needs_nuance",
+              "sentence": "More recent work on prompt design suggests automated systems can detect errors with high precision but that recall rises steeply with prompt sophistication, from 10% to 55% (Luo et al., 2025); this indicates that automated feedback quality is a design variable rather than a fixed property, though the 30-essay corpus from one institution constrains generalisation.",
+              "proposition": "this indicates that automated feedback quality is a design variable rather than a fixed property"
+            },
+            {
+              "key": "luo_2025",
+              "status": "verified",
+              "sentence": "More recent work on prompt design suggests automated systems can detect errors with high precision but that recall rises steeply with prompt sophistication, from 10% to 55% (Luo et al., 2025); this indicates that automated feedback quality is a design variable rather than a fixed property, though the 30-essay corpus from one institution constrains generalisation.",
+              "proposition": "though the 30-essay corpus from one institution constrains generalisation"
+            }
+          ],
+          "sentences": [
+            "Research on how second-language (L2) writers revise after written corrective feedback (WCF) converges on a distinction between the accuracy gains that different feedback forms produce during revision and those they sustain beyond it.",
+            "Bonilla López et al. (2018) tested this directly: 139 low-intermediate EFL writers were randomly assigned to direct corrections, metalinguistic codes, or a self-correction control, and although both coded and direct feedback improved immediate grammatical and non-grammatical accuracy during revision, only direct corrections retained an advantage four weeks later.",
+            "The design is unusually strong for this literature—random assignment, a genuine control, and a delayed posttest—but the single Costa Rican university setting and the self-report measure of cognitive load limit what can be claimed about other proficiency levels and contexts.",
+            "The finding that direct corrections imposed significantly lower cognitive load than metalinguistic codes offers a plausible mechanism for the durability difference, yet the authors acknowledge they could not employ an online physiological measure, so the load account remains inferential.",
+            "Automated feedback complicates this picture.",
+            "Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison.",
+            "Their case study is instructive precisely because engagement varied so widely—one learner resubmitted thirteen times while the other resubmitted once—but two students in one semester cannot support generalisation.",
+            "A larger integrated-feedback case study reported that most of 33 students engaged actively with combined automated, peer, and teacher feedback and made thoughtful revisions (Zhang & Hyland, 2021), though the authors concede that nothing required students to address the feedback they received, leaving uptake partly voluntary.",
+            "More recent work on prompt design suggests automated systems can detect errors with high precision but that recall rises steeply with prompt sophistication, from 10% to 55% (Luo et al., 2025); this indicates that automated feedback quality is a design variable rather than a fixed property, though the 30-essay corpus from one institution constrains generalisation.",
+            "Synthesis across these studies is hampered by divergent outcome measures—accuracy scores, revision operations, resubmission counts—and by the predominance of single-site designs.",
+            "What we know is that feedback form shapes both the accuracy of revision and its persistence; what we do not know is how these effects interact with learner proficiency and engagement over extended classroom use."
+          ]
+        },
+        "link_map_failed": false
+      }
+    ],
+    "kept_attempt": "first",
+    "schema_version": 1
+  },
+  "loop_stats": {
+    "loop_revised": true,
+    "survival_rate": 0.445,
+    "length_trimmed": false,
+    "link_map_failed": false,
+    "headings_removed": 0,
+    "regeneration_kept": "first",
+    "length_regenerated": false,
+    "frame_spans_accepted": 4,
+    "verb_initial_reasons": [],
+    "heading_shaped_reasons": [],
+    "meta_evaluation_reasons": [],
+    "first_pass_verified_rate": 0.375,
+    "headings_removed_reasons": [],
+    "empty_section_regenerated": 0,
+    "sentences_residue_excised": 0,
+    "link_coverage_retry_failed": false,
+    "sentences_removed_dangling": 1,
+    "truncated_fragment_reasons": [],
+    "coverage_incomplete_reasons": [],
+    "links_unmatched_to_sentence": 0,
+    "sentences_unclassified_kept": 0,
+    "sentences_removed_title_echo": 0,
+    "sentences_removed_unverified": 1,
+    "citations_dropped_no_full_text": 0,
+    "needs_citation_markers_removed": 1,
+    "sentences_removed_no_full_text": 0,
+    "sentences_removed_verb_initial": 0,
+    "empty_section_after_regeneration": false,
+    "sentences_removed_heading_shaped": 0,
+    "sentences_removed_uncited_finding": 4,
+    "sentences_removed_coverage_incomplete": 0,
+    "sentences_truncated_fragment_repaired": 0,
+    "sentences_removed_meta_evaluation_uncited": 0
+  },
+  "provenance": {
+    "agent": "writing",
+    "length": {
+      "words": 389,
+      "final_words": 178,
+      "over_target": false,
+      "regenerated": false,
+      "hard_maximum": 500,
+      "target_words": 400
+    },
+    "provider": "deepseek",
+    "thinking": "disabled",
+    "called_at": "2026-10-26T17:37:46.440184Z",
+    "max_tokens": 4096,
+    "output_mode": null,
+    "temperature": 0.7,
+    "total_calls": 19,
+    "input_tokens": 19953,
+    "output_tokens": 510,
+    "analysis_calls": [],
+    "model_reported": "deepseek-flash",
+    "prompt_version": "sha256:9a968e1df20f",
+    "model_configured": "deepseek-chat",
+    "reasoning_effort": null,
+    "guard_conversions": 0,
+    "citation_link_call": {
+      "agent": "citation_link",
+      "provider": "deepseek",
+      "called_at": "2026-10-26T17:38:22.131485Z",
+      "output_mode": null,
+      "temperature": null,
+      "input_tokens": 7987,
+      "output_tokens": 1114,
+      "model_reported": "deepseek-flash",
+      "prompt_version": "sha256:5a8092ebd77b",
+      "model_configured": "deepseek-chat",
+      "reasoning_effort": null,
+      "guard_conversions": 0,
+      "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+      "provider_response_id": "7be079fa-9b07-406d-948b-7f3c0dd6ffc2"
+    },
+    "regeneration_calls": [],
+    "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+    "total_input_tokens": 299296,
+    "verification_calls": [
+      {
+        "agent": "claim_verification",
+        "calls": 8,
+        "temperature": 0.0,
+        "guard_digest": "8a6c833ffc329f89",
+        "input_tokens": 123306,
+        "output_tokens": 8411,
+        "model_reported": [
+          "deepseek-flash"
+        ],
+        "prompt_version": "sha256:49fcfbfaf2f6",
+        "model_configured": "deepseek-chat",
+        "system_fingerprints": [
+          "e72d3c7f663d3e1383b00b3884cb4501"
+        ],
+        "repair_prompt_version": "sha256:7ec7cffe852d",
+        "quote_relocation_version": "0269a13351c0da7d",
+        "verification_policy_version": "667bcc9209126ddc"
+      },
+      {
+        "agent": "claim_verification",
+        "calls": 6,
+        "temperature": 0.0,
+        "guard_digest": "8a6c833ffc329f89",
+        "input_tokens": 111002,
+        "output_tokens": 6214,
+        "model_reported": [
+          "deepseek-flash"
+        ],
+        "prompt_version": "sha256:49fcfbfaf2f6",
+        "model_configured": "deepseek-chat",
+        "system_fingerprints": [
+          "e72d3c7f663d3e1383b00b3884cb4501"
+        ],
+        "repair_prompt_version": "sha256:7ec7cffe852d",
+        "quote_relocation_version": "0269a13351c0da7d",
+        "verification_policy_version": "667bcc9209126ddc"
+      }
+    ],
+    "citation_link_calls": [
+      {
+        "agent": "citation_link",
+        "provider": "deepseek",
+        "called_at": "2026-10-26T17:37:53.161328Z",
+        "output_mode": null,
+        "temperature": null,
+        "input_tokens": 8054,
+        "output_tokens": 1486,
+        "model_reported": "deepseek-flash",
+        "prompt_version": "sha256:5a8092ebd77b",
+        "model_configured": "deepseek-chat",
+        "reasoning_effort": null,
+        "guard_conversions": 0,
+        "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+        "provider_response_id": "69b7834b-7b2f-4e39-a8a1-663ab59fbabf"
+      },
+      {
+        "agent": "citation_link",
+        "provider": "deepseek",
+        "called_at": "2026-10-26T17:37:56.887166Z",
+        "output_mode": null,
+        "temperature": null,
+        "input_tokens": 7761,
+        "output_tokens": 802,
+        "model_reported": "deepseek-flash",
+        "prompt_version": "sha256:5a8092ebd77b",
+        "model_configured": "deepseek-chat",
+        "reasoning_effort": null,
+        "guard_conversions": 0,
+        "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+        "provider_response_id": "2e7ef92d-06f9-4e1f-a854-809451fc39f8"
+      },
+      {
+        "agent": "citation_link",
+        "provider": "deepseek",
+        "called_at": "2026-10-26T17:38:22.131485Z",
+        "output_mode": null,
+        "temperature": null,
+        "input_tokens": 7987,
+        "output_tokens": 1114,
+        "model_reported": "deepseek-flash",
+        "prompt_version": "sha256:5a8092ebd77b",
+        "model_configured": "deepseek-chat",
+        "reasoning_effort": null,
+        "guard_conversions": 0,
+        "system_fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+        "provider_response_id": "7be079fa-9b07-406d-948b-7f3c0dd6ffc2"
+      }
+    ],
+    "total_output_tokens": 18975,
+    "provider_response_id": "1bfe15b5-0d54-437e-b6c2-71df01169071",
+    "prompt_template_version": "sha256:beb00d2d0e42"
+  },
+  "papers_used": 12,
+  "claim_report": {
+    "draft_id": "a223af7a-52c0-44ff-8d8b-3e4bfaad328b",
+    "error_count": 0,
+    "nuance_count": 0,
+    "verifications": [
+      {
+        "passes": [
+          {
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+              "Among the 50 articles included in this review, most were not the-\noretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets.",
+              "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+              "Qualitative\n7\n16\n7\n5\n35 (66.0%)"
+            ],
+            "tokens": {
+              "input_tokens": 23586,
+              "output_tokens": 1275
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Mao et al., 2024)",
+        "paper_id": "c5c68874-7dbe-4180-bd00-ceff93a9b93b",
+        "paper_doi": "10.1017/s0261444823000393",
+        "assertions": [
+          {
+            "kind": "population",
+            "text": "The review is a systematic review of 50 naturalistic classroom studies.",
+            "quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review",
+            "entity": "the review's sample",
+            "quotes": [
+              "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review"
+            ],
+            "central": false,
+            "measure": "number and type of included studies",
+            "verdict": "supported",
+            "claim_value": "50 naturalistic classroom studies",
+            "source_value": "50 empirical studies"
+          },
+          {
+            "kind": "other",
+            "text": "The review identified learner responses to WCF as one of four major themes.",
+            "quote": "which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions",
+            "entity": "themes identified in the review",
+            "quotes": [
+              "which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions"
+            ],
+            "central": true,
+            "measure": "number and identity of major themes",
+            "verdict": "supported",
+            "claim_value": "learner responses to WCF is one of four major themes",
+            "source_value": "four major themes including (2) L2 learner responses to WCF"
+          },
+          {
+            "kind": "quantity",
+            "text": "Most included studies adopted qualitative designs, accounting for 66.0% of the included studies.",
+            "quote": "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+            "entity": "included studies",
+            "quotes": [
+              "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+              "Qualitative\n7\n16\n7\n5\n35 (66.0%)"
+            ],
+            "central": false,
+            "measure": "proportion adopting qualitative research design",
+            "verdict": "supported",
+            "claim_value": "66.0%",
+            "source_value": "66.0% (35 of 53 strand entries; 35 of 50 studies)"
+          },
+          {
+            "kind": "quantity",
+            "text": "Only 11 studies (22.0%) made explicit reference to theoretical tenets.",
+            "quote": "only 11 studies (22.0%) made explicit reference to theoretical tenets",
+            "entity": "included studies",
+            "quotes": [
+              "Among the 50 articles included in this review, most were not the-\noretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets."
+            ],
+            "central": false,
+            "measure": "number and percentage making explicit reference to theoretical tenets",
+            "verdict": "supported",
+            "claim_value": "11 studies (22.0%)",
+            "source_value": "11 studies (22.0%)"
+          }
+        ],
+        "claim_text": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets",
+        "diagnostics": [],
+        "explanation": "Every proposition in the claim is stated in the source. The abstract reports that \"A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.\" Section 4 states \"Among the 50 articles included in this review, most were not theoretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets.\" Section 6.1 states \"Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies,\" and Table 4 gives Qualitative 35 (66.0%). No assertion is contradicted and none is absent.",
+        "paper_title": "Written corrective feedback in second language writing: A synthesis of naturalistic classroom studies",
+        "model_status": "verified",
+        "claim_sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets (Mao et al., 2024).",
+        "evidence_quote": "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "A systematic search generated 50 empirical studies that met our inclusion criteria for the current review, which revealed four major themes: (1) teacher WCF practices in L2 writing classrooms, (2) L2 learner responses to WCF, (3) stakeholders’ beliefs and perspectives on WCF, and (4) WCF-related motivation and emotions.",
+          "Among the 50 articles included in this review, most were not the-\noretically motivated, and only 11 studies (22.0%) made explicit reference to theoretical tenets.",
+          "Most of the studies in our review have adopted a qualitative research design, which account for 66.0% of the included studies.",
+          "Qualitative\n7\n16\n7\n5\n35 (66.0%)"
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (abstract)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+              "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+              "learners’ cognitive load estimates proved significantly lower when corrections were provided directly and they targeted grammatical issues only",
+              "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4",
+              "After text revision, learners completed the mental effort scale.",
+              "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms"
+            ],
+            "tokens": {
+              "input_tokens": 22185,
+              "output_tokens": 1203
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Bonilla López et al., 2018)",
+        "paper_id": "d6f96f32-e90c-42be-b53b-ce468fa24ea7",
+        "paper_doi": "10.1111/lang.12295",
+        "assertions": [
+          {
+            "kind": "direction",
+            "text": "Cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors.",
+            "quote": "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+            "entity": "EFL writers revising a text after comprehensive CF (DCF+G vs. ME+GN groups)",
+            "quotes": [
+              "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+              "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+              "learners’ cognitive load estimates proved significantly lower when corrections were provided directly and they targeted grammatical issues only"
+            ],
+            "central": true,
+            "measure": "self-reported cognitive load (mental effort) after text revision; significance of the DCF+G vs. ME+GN contrast",
+            "verdict": "supported",
+            "claim_value": "significantly lower for DCF+G than ME+GN",
+            "source_value": "significantly lower for DCF+G than ME+GN (p < 0.001, SE = 0.350)"
+          },
+          {
+            "kind": "other",
+            "text": "Cognitive load was measured in relation to the revision task (during/after revision).",
+            "quote": "After text revision, learners completed the mental effort scale.",
+            "entity": "participants in the study",
+            "quotes": [
+              "After text revision, learners completed the mental effort scale.",
+              "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)"
+            ],
+            "central": false,
+            "measure": "timing of cognitive load measurement",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null
+          },
+          {
+            "kind": "population",
+            "text": "The comparison involves direct corrections on grammatical errors versus metalinguistic codes on grammatical and non-grammatical errors.",
+            "quote": "Learners received either direct CF on grammatical errors (hereafter DCF+G), metalinguistic CF with codes on grammatical errors (hereafter ME+G), direct CF on grammatical errors and non-grammatical errors (hereafter DCF+GN), and metalinguistic CF with codes on grammatical errors and non-grammatical errors (hereafter ME+GN).",
+            "entity": "experimental conditions DCF+G and ME+GN",
+            "quotes": [
+              "Learners received either direct CF on grammatical errors (hereafter DCF+G), metalinguistic CF with codes on grammatical errors (hereafter ME+G), direct CF on grammatical errors and non-grammatical errors (hereafter DCF+GN), and metalinguistic CF with codes on grammatical errors and non-grammatical errors (hereafter ME+GN)."
+            ],
+            "central": false,
+            "measure": "feedback condition definitions",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null
+          }
+        ],
+        "claim_text": "cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors",
+        "diagnostics": [],
+        "explanation": "The central assertion — that self-reported cognitive load after revision with direct corrections on grammatical errors (DCF+G) was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (ME+GN) — is stated directly in section 5.4: \"the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)\", and corroborated in Table 3 (\"***ME+GN > DCF+G 1.91 [0.95, 2.88]\") and the conclusion (\"learners’ cognitive load estimates proved significantly lower when corrections were provided directly and they targeted grammatical issues only\"). The peripheral assertions (cognitive load measured during/after text revision via Paas's mental-effort scale; the two named feedback conditions) are also supported by the methods and results sections. No contradiction and no hedge removal.",
+        "paper_title": "The Differential Effects of Comprehensive Feedback Forms in the Second Language Writing Class",
+        "model_status": "verified",
+        "claim_sentence": "The same study reported that cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+        "evidence_quote": "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "the cognitive load imposed by revision after DCF+G was significantly lower than that after ME+GN (p < 0.001, SE = 0.350)",
+          "***ME+GN > DCF+G \n1.91 [0.95, 2.88]",
+          "learners’ cognitive load estimates proved significantly lower when corrections were provided directly and they targeted grammatical issues only",
+          "To measure the cognitive load of comprehensive CF forms, we administered Paas's (1992) mental-effort based scale4",
+          "After text revision, learners completed the mental effort scale.",
+          "learners reported on their perceived amount of mental effort after, in this case, processing comprehensive CF forms"
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (preamble)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+              "AWE feedback tended to highlight, rather than correct, student errors.",
+              "Total \n16 \n8"
+            ],
+            "tokens": {
+              "input_tokens": 17576,
+              "output_tokens": 819
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "Zhang and Hyland (2018)",
+        "paper_id": "990e4520-ae22-4311-8f3f-8551ed3549cd",
+        "paper_doi": "10.1016/j.asw.2018.02.004",
+        "assertions": [
+          {
+            "kind": "direction",
+            "text": "AWE feedback tended to highlight rather than correct student errors.",
+            "quote": "AWE feedback tended to highlight, rather than correct, student errors.",
+            "entity": "AWE feedback (Pigai)",
+            "quotes": [
+              "AWE feedback tended to highlight, rather than correct, student errors."
+            ],
+            "central": false,
+            "measure": "feedback type: highlighting vs. direct correction",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null
+          },
+          {
+            "kind": "quantity",
+            "text": "Teacher feedback addressed more error types than the AWE feedback.",
+            "quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+            "entity": "teacher feedback vs. AWE feedback",
+            "quotes": [
+              "Teacher feedback addressed more error types (16) than the AWE feedback (8)",
+              "Total \n16 \n8"
+            ],
+            "central": true,
+            "measure": "number of error types addressed",
+            "verdict": "supported",
+            "claim_value": "teacher > AWE",
+            "source_value": "16 vs 8"
+          },
+          {
+            "kind": "attribution",
+            "text": "Differences in the demands of the two assignments may have confounded the comparison.",
+            "quote": "although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors",
+            "entity": "the two assignments",
+            "quotes": [
+              "although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors"
+            ],
+            "central": false,
+            "measure": "possible influence of assignment differences (difficulty, length) on error types",
+            "verdict": "supported",
+            "claim_value": null,
+            "source_value": null
+          }
+        ],
+        "claim_text": "automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison",
+        "diagnostics": [],
+        "explanation": "All three propositions are stated in the source. The central comparison is stated verbatim: \"Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.\" The flagging-vs-correcting point is also stated: \"AWE feedback tended to highlight, rather than correct, student errors.\" The confound caveat is likewise present (\"differences in the two assignments may have influenced this\"), so no hedge is removed. Table 1 corroborates the 16 vs 8 totals.",
+        "paper_title": "Student engagement with teacher and automated feedback on L2 writing",
+        "model_status": "verified",
+        "claim_sentence": "Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison.",
+        "evidence_quote": "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "Teacher feedback addressed more error types (16) than the AWE feedback (8), although differences in the two assignments may have influenced this, with factors such as difficulty and length causing students to commit different types of errors.",
+          "AWE feedback tended to highlight, rather than correct, student errors.",
+          "Total \n16 \n8"
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (abstract)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+              "The participants in this study were one teacher and 33 students at a Chinese university.",
+              "a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback"
+            ],
+            "tokens": {
+              "input_tokens": 12727,
+              "output_tokens": 960
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Zhang & Hyland, 2021)",
+        "paper_id": "352c8d24-a3b2-4956-b6ef-22a954b81f19",
+        "paper_doi": "10.1016/j.asw.2021.100586",
+        "assertions": [
+          {
+            "kind": "quantity",
+            "text": "The majority of the 33 students actively engaged with the integrated feedback approach.",
+            "quote": "We found that the majority of students actively engaged with this integrated approach",
+            "entity": "the 33 students in the case study",
+            "quotes": [
+              "We found that the majority of students actively engaged with this integrated approach",
+              "The participants in this study were one teacher and 33 students at a Chinese university."
+            ],
+            "central": true,
+            "measure": "proportion actively engaging with the integrated approach",
+            "verdict": "supported",
+            "claim_value": "majority",
+            "source_value": "majority"
+          },
+          {
+            "kind": "intervention",
+            "text": "The feedback approach combined automated, peer, and teacher feedback.",
+            "quote": "a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback",
+            "entity": "the pedagogical approach",
+            "quotes": [
+              "a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback"
+            ],
+            "central": false,
+            "measure": "types of feedback integrated",
+            "verdict": "supported",
+            "claim_value": "automated, peer, and teacher feedback",
+            "source_value": "automated, peer, and teacher feedback"
+          },
+          {
+            "kind": "direction",
+            "text": "The approach promoted students' behavioural, affective, and cognitive engagement.",
+            "quote": "it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing",
+            "entity": "students' engagement with feedback",
+            "quotes": [
+              "it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing"
+            ],
+            "central": false,
+            "measure": "promotion of behavioural, affective, and cognitive engagement",
+            "verdict": "supported",
+            "claim_value": "promoted",
+            "source_value": "effectively promoted"
+          },
+          {
+            "kind": "direction",
+            "text": "The approach encouraged thoughtful revisions.",
+            "quote": "and encouraged thoughtful revisions",
+            "entity": "students' revisions",
+            "quotes": [
+              "and encouraged thoughtful revisions"
+            ],
+            "central": false,
+            "measure": "encouragement of thoughtful revisions",
+            "verdict": "supported",
+            "claim_value": "encouraged",
+            "source_value": "encouraged"
+          }
+        ],
+        "claim_text": "the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions",
+        "diagnostics": [],
+        "explanation": "The abstract states verbatim: \"We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.\" The study population is \"one teacher and 33 students at a Chinese university,\" and the integrated approach is defined as combining \"automated, peer, and teacher feedback.\" Every proposition in the claim — the majority engaging, the 33-student sample, the three-feedback integration, the promotion of behavioural/affective/cognitive engagement, and the encouragement of thoughtful revisions — is stated in the source with the same meaning and no hedge removed (the source's own \"We found\" is reported at equal force).",
+        "paper_title": "Fostering student engagement with feedback: An integrated approach",
+        "model_status": "verified",
+        "claim_sentence": "In an integrated classroom case study, the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions (Zhang & Hyland, 2021).",
+        "evidence_quote": "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "We found that the majority of students actively engaged with this integrated approach and that it effectively promoted students’ behavioural, affective, and cognitive engagement with feedback on their writing and encouraged thoughtful revisions.",
+          "The participants in this study were one teacher and 33 students at a Chinese university.",
+          "a pedagogical approach that systematically integrated three types of feedback on academic writing: automated, peer, and teacher feedback"
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (abstract)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      },
+      {
+        "passes": [
+          {
+            "quotes": [
+              "It should be noted that there is no requirement for students to address all the feedback they receive."
+            ],
+            "tokens": {
+              "input_tokens": 12703,
+              "output_tokens": 462
+            },
+            "diagnostics": [],
+            "fingerprint": "e72d3c7f663d3e1383b00b3884cb4501",
+            "model_status": "verified",
+            "machine_reasons": [],
+            "repair_prompt_version": null
+          }
+        ],
+        "status": "verified",
+        "citation": "(Zhang & Hyland, 2021)",
+        "paper_id": "352c8d24-a3b2-4956-b6ef-22a954b81f19",
+        "paper_doi": "10.1016/j.asw.2021.100586",
+        "assertions": [
+          {
+            "kind": "scope",
+            "text": "Students in the course were not required to address all the feedback they received.",
+            "quote": "It should be noted that there is no requirement for students to address all the feedback they receive.",
+            "entity": "students in Hong's Advanced Academic English course (33 students)",
+            "quotes": [
+              "It should be noted that there is no requirement for students to address all the feedback they receive."
+            ],
+            "central": true,
+            "measure": "requirement to address all feedback received",
+            "verdict": "supported",
+            "claim_value": "no requirement",
+            "source_value": "no requirement"
+          }
+        ],
+        "claim_text": "students were not required to address all feedback received",
+        "diagnostics": [],
+        "explanation": "The claim's single proposition — that there was no requirement for students to address all the feedback they received — is stated almost verbatim in the source: \"It should be noted that there is no requirement for students to address all the feedback they receive.\" The entity (the 33 students in Hong's course), the measure (requirement to address all feedback) and the polarity (no requirement) all match, so the central assertion is supported and no peripheral assertion is contradicted or absent.",
+        "paper_title": "Fostering student engagement with feedback: An integrated approach",
+        "model_status": "verified",
+        "claim_sentence": "The same authors note that students were not required to address all feedback received (Zhang & Hyland, 2021).",
+        "evidence_quote": "It should be noted that there is no requirement for students to address all the feedback they receive.",
+        "model_reported": "deepseek-flash",
+        "evidence_quotes": [
+          "It should be noted that there is no requirement for students to address all the feedback they receive."
+        ],
+        "machine_reasons": [],
+        "unstated_details": [],
+        "acquisition_route": "unpaywall",
+        "evidence_location": "chunk 1 (abstract)",
+        "quote_relocations": [],
+        "suggested_revision": null
+      }
+    ],
+    "verified_count": 5,
+    "unsupported_count": 0,
+    "abstract_only_count": 0
+  },
+  "section_type": "literature_review",
+  "citation_audit": {
+    "total": 4,
+    "matched": [
+      "Mao, 2024",
+      "López, 2018",
+      "Zhang, 2018",
+      "Zhang, 2021"
+    ],
+    "unmatched": [],
+    "needs_citation_flags": 1
+  },
+  "citation_links": [
+    {
+      "keys": [
+        "mao_2024"
+      ],
+      "sentence": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets (Mao et al., 2024).",
+      "proposition": "A systematic review of 50 naturalistic classroom studies identified learner responses to WCF as one of four major themes, and noted that most included studies adopted qualitative designs (66.0%) and that only 11 (22.0%) made explicit reference to theoretical tenets",
+      "evidence_ids": [
+        "e103",
+        "e104",
+        "e105"
+      ],
+      "citation_text": "(Mao et al., 2024)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 0,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "lópez_2018"
+      ],
+      "sentence": "The same study reported that cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+      "proposition": "cognitive load during revision was significantly lower after direct corrections on grammatical errors than after metalinguistic codes on grammatical and non-grammatical errors",
+      "evidence_ids": [
+        "e96"
+      ],
+      "citation_text": "(Bonilla López et al., 2018)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 1,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "zhang_2018"
+      ],
+      "sentence": "Zhang and Hyland (2018) found that automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison.",
+      "proposition": "automated writing evaluation tended to flag rather than correct errors, and that teacher feedback addressed more error types than the automated system, although differing assignment demands may have confounded the comparison",
+      "evidence_ids": [
+        "e25",
+        "e23"
+      ],
+      "citation_text": "Zhang and Hyland (2018)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 2,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "zhang_2021"
+      ],
+      "sentence": "In an integrated classroom case study, the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions (Zhang & Hyland, 2021).",
+      "proposition": "the majority of 33 students actively engaged with combined automated, peer, and teacher feedback, and the approach promoted behavioural, affective, and cognitive engagement and encouraged thoughtful revisions",
+      "evidence_ids": [
+        "e57"
+      ],
+      "citation_text": "(Zhang & Hyland, 2021)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 2,
+      "coverage_incomplete": false
+    },
+    {
+      "keys": [
+        "zhang_2021"
+      ],
+      "sentence": "The same authors note that students were not required to address all feedback received (Zhang & Hyland, 2021).",
+      "proposition": "students were not required to address all feedback received",
+      "evidence_ids": [
+        "e61"
+      ],
+      "citation_text": "(Zhang & Hyland, 2021)",
+      "residue_spans": [],
+      "meta_evaluation": false,
+      "paragraph_index": 2,
+      "coverage_incomplete": false
+    }
+  ],
+  "uncited_sentences": [
+    {
+      "tag": "finding",
+      "sentence": "Research on how second-language writers revise after written corrective feedback (WCF) converges on a distinction between immediate text improvement and durable accuracy gains, though the evidence base is uneven.",
+      "paragraph_index": 0
+    },
+    {
+      "tag": "finding",
+      "sentence": "This methodological profile matters for interpreting the revision literature: descriptive accounts of uptake predominate over designs capable of isolating feedback type.",
+      "paragraph_index": 0
+    },
+    {
+      "tag": "finding",
+      "sentence": "Direct corrections appear to support longer-term accuracy where metalinguistic codes do not.",
+      "paragraph_index": 1
+    },
+    {
+      "tag": "framing",
+      "sentence": "Automated feedback occupies a different position in the revision process.",
+      "paragraph_index": 2
+    },
+    {
+      "tag": "framing",
+      "sentence": "What the library does not yet establish is how revision behaviour differs when learners choose among feedback sources rather than receiving them in a fixed sequence [NEEDS CITATION].",
+      "paragraph_index": 3
+    },
+    {
+      "tag": "finding",
+      "sentence": "Evidence on automated feedback remains largely corpus- or case-based, with limited classroom uptake data.",
+      "paragraph_index": 3
+    }
+  ]
+}

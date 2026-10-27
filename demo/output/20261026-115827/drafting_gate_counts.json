@@ -1,0 +1,836 @@
+{
+  "status": "per_sentence_log",
+  "status_note": "per-sentence gate outcomes logged by the run",
+  "basis": "demo run 20261026-115827",
+  "not_recorded": [
+    "which first-pass sentences the revision rewrote rather than dropped"
+  ],
+  "sections": [
+    {
+      "removed_by_reason": {
+        "dangling": 1,
+        "unverified": 2,
+        "uncited_finding": 1
+      },
+      "removed_total": 4,
+      "residue_excised": 0,
+      "needs_citation_markers_removed": 1,
+      "headings_removed": 0,
+      "loop_revised": true,
+      "first_pass_verified_rate": 0.9230769230769231,
+      "words_first_generation": 427,
+      "words_final": 249,
+      "delivered_sentences": 11,
+      "delivered_cited_sentences": 8,
+      "claim_rows": 8,
+      "stored_removed": {
+        "texts": [
+          {
+            "reason": "uncited_finding",
+            "text": "These strands establish that feedback type is associated with differential accuracy gains and that engagement varies across learners."
+          }
+        ],
+        "stored_count": 1,
+        "ambiguous": false
+      },
+      "gate": {
+        "attempts": 1,
+        "kept_attempt": "first",
+        "first_pass": {
+          "sentences": 18,
+          "claims": 13,
+          "claims_by_status": {
+            "needs_nuance": 1,
+            "verified": 12
+          }
+        },
+        "revision": {
+          "triggers": 1,
+          "keep_verbatim": 9,
+          "failed": 0,
+          "coverage_issue": 1,
+          "uncited_finding": 5,
+          "unclassified": 0,
+          "first_pass_sentences_carried_verbatim": 10,
+          "first_pass_sentences_not_carried": 8,
+          "new_sentences": 5,
+          "claims": 11,
+          "claims_reused": 6,
+          "claims_reverified": 5,
+          "claims_by_status": {
+            "needs_nuance": 2,
+            "verified": 9
+          },
+          "link_map_failed": false
+        },
+        "finalize": {
+          "input_sentences": 15,
+          "kept": 11,
+          "changed": 0,
+          "merged": 0,
+          "removed_by_rule": {
+            "dangling": 1,
+            "uncited_finding": 1,
+            "unverified": 2
+          },
+          "removed_total": 4,
+          "headings_removed": 0,
+          "identity_ok": true
+        },
+        "discarded_attempt_sentences": 0,
+        "fate_counter_mismatch": [],
+        "removed_texts": [
+          {
+            "rule": "unverified",
+            "text": "In a study with 139 low-intermediate EFL writers randomly assigned to four feedback conditions and a self-correction control, direct corrections and metalinguistic codes both enhanced immediate grammatical and non-grammatical accuracy during revision, yet a long-term advantage four weeks after feedback was evident only for direct corrections (Bonilla López et al., 2018)."
+          },
+          {
+            "rule": "unverified",
+            "text": "This suggests that the explicitness of feedback interacts with processing effort, although cognitive load was measured through self-report rather than an online physiological measure (Bonilla López et al., 2018)."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "These strands establish that feedback type is associated with differential accuracy gains and that engagement varies across learners."
+          },
+          {
+            "rule": "dangling",
+            "text": "What remains unexamined in the project library is how teacher, peer, and automated feedback compare on revision behaviour and engagement within a single design."
+          }
+        ]
+      }
+    },
+    {
+      "removed_by_reason": {
+        "dangling": 1,
+        "unverified": 1,
+        "uncited_finding": 4
+      },
+      "removed_total": 6,
+      "residue_excised": 0,
+      "needs_citation_markers_removed": 1,
+      "headings_removed": 0,
+      "loop_revised": true,
+      "first_pass_verified_rate": 0.375,
+      "words_first_generation": 389,
+      "words_final": 178,
+      "delivered_sentences": 6,
+      "delivered_cited_sentences": 5,
+      "claim_rows": 5,
+      "stored_removed": {
+        "texts": [
+          {
+            "reason": "uncited_finding",
+            "text": "Research on how second-language writers revise after written corrective feedback (WCF) converges on a distinction between immediate text improvement and durable accuracy gains, though the evidence base is uneven."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "This methodological profile matters for interpreting the revision literature: descriptive accounts of uptake predominate over designs capable of isolating feedback type."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Direct corrections appear to support longer-term accuracy where metalinguistic codes do not."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Evidence on automated feedback remains largely corpus- or case-based, with limited classroom uptake data."
+          }
+        ],
+        "stored_count": 4,
+        "ambiguous": false
+      },
+      "gate": {
+        "attempts": 1,
+        "kept_attempt": "first",
+        "first_pass": {
+          "sentences": 11,
+          "claims": 8,
+          "claims_by_status": {
+            "needs_nuance": 5,
+            "verified": 3
+          }
+        },
+        "revision": {
+          "triggers": 2,
+          "keep_verbatim": 1,
+          "failed": 2,
+          "coverage_issue": 1,
+          "uncited_finding": 4,
+          "unclassified": 0,
+          "first_pass_sentences_carried_verbatim": 1,
+          "first_pass_sentences_not_carried": 10,
+          "new_sentences": 11,
+          "claims": 6,
+          "claims_reused": 0,
+          "claims_reverified": 6,
+          "claims_by_status": {
+            "verified": 5,
+            "needs_nuance": 1
+          },
+          "link_map_failed": false
+        },
+        "finalize": {
+          "input_sentences": 12,
+          "kept": 6,
+          "changed": 0,
+          "merged": 0,
+          "removed_by_rule": {
+            "dangling": 1,
+            "uncited_finding": 4,
+            "unverified": 1
+          },
+          "removed_total": 6,
+          "headings_removed": 0,
+          "identity_ok": true
+        },
+        "discarded_attempt_sentences": 0,
+        "fate_counter_mismatch": [],
+        "removed_texts": [
+          {
+            "rule": "uncited_finding",
+            "text": "Research on how second-language writers revise after written corrective feedback (WCF) converges on a distinction between immediate text improvement and durable accuracy gains, though the evidence base is uneven."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "This methodological profile matters for interpreting the revision literature: descriptive accounts of uptake predominate over designs capable of isolating feedback type."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Direct corrections appear to support longer-term accuracy where metalinguistic codes do not."
+          },
+          {
+            "rule": "unverified",
+            "text": "In a study of 139 low-intermediate EFL writers randomly assigned to four experimental conditions and a self-correction control, direct corrections and codes both enhanced immediate grammatical and non-grammatical accuracy during text revision, but a long-term advantage four weeks after feedback provision was evident only for direct corrections (Bonilla López et al., 2018)."
+          },
+          {
+            "rule": "dangling",
+            "text": "What the library does not yet establish is how revision behaviour differs when learners choose among feedback sources rather than receiving them in a fixed sequence."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Evidence on automated feedback remains largely corpus- or case-based, with limited classroom uptake data."
+          }
+        ]
+      }
+    },
+    {
+      "removed_by_reason": {
+        "unverified": 3,
+        "uncited_finding": 3
+      },
+      "removed_total": 6,
+      "residue_excised": 0,
+      "needs_citation_markers_removed": 0,
+      "headings_removed": 0,
+      "loop_revised": true,
+      "first_pass_verified_rate": 0.75,
+      "words_first_generation": 369,
+      "words_final": 245,
+      "delivered_sentences": 13,
+      "delivered_cited_sentences": 9,
+      "claim_rows": 10,
+      "stored_removed": {
+        "texts": [
+          {
+            "reason": "uncited_finding",
+            "text": "Research on written corrective feedback (WCF) in second-language (L2) writing increasingly examines how learners engage with feedback rather than only whether it improves accuracy."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Affective outcomes are documented less consistently."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Across these studies, feedback type, learner engagement, and affective response interact, but evidence remains fragmented across small samples and single contexts."
+          }
+        ],
+        "stored_count": 3,
+        "ambiguous": false
+      },
+      "gate": {
+        "attempts": 1,
+        "kept_attempt": "first",
+        "first_pass": {
+          "sentences": 17,
+          "claims": 12,
+          "claims_by_status": {
+            "unsupported": 2,
+            "verified": 9,
+            "needs_nuance": 1
+          }
+        },
+        "revision": {
+          "triggers": 3,
+          "keep_verbatim": 5,
+          "failed": 1,
+          "coverage_issue": 2,
+          "uncited_finding": 6,
+          "unclassified": 0,
+          "first_pass_sentences_carried_verbatim": 7,
+          "first_pass_sentences_not_carried": 10,
+          "new_sentences": 12,
+          "claims": 13,
+          "claims_reused": 5,
+          "claims_reverified": 8,
+          "claims_by_status": {
+            "verified": 10,
+            "needs_nuance": 3
+          },
+          "link_map_failed": false
+        },
+        "finalize": {
+          "input_sentences": 19,
+          "kept": 13,
+          "changed": 0,
+          "merged": 0,
+          "removed_by_rule": {
+            "uncited_finding": 3,
+            "unverified": 3
+          },
+          "removed_total": 6,
+          "headings_removed": 0,
+          "identity_ok": true
+        },
+        "discarded_attempt_sentences": 0,
+        "fate_counter_mismatch": [],
+        "removed_texts": [
+          {
+            "rule": "uncited_finding",
+            "text": "Research on written corrective feedback (WCF) in second-language (L2) writing increasingly examines how learners engage with feedback rather than only whether it improves accuracy."
+          },
+          {
+            "rule": "unverified",
+            "text": "Engagement is commonly analysed along behavioural, cognitive and affective dimensions (Zhang & Hyland, 2021)."
+          },
+          {
+            "rule": "unverified",
+            "text": "Direct corrections and codes enhanced immediate grammatical and non-grammatical accuracy during revision, but a long-term advantage four weeks after feedback provision was evident only for direct corrections (Bonilla López et al., 2018)."
+          },
+          {
+            "rule": "unverified",
+            "text": "Automated tools are not interchangeable: ChatGPT achieved higher precision than Grammarly but lower recall, improving with prompt sophistication (Luo et al., 2025)."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Affective outcomes are documented less consistently."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Across these studies, feedback type, learner engagement, and affective response interact, but evidence remains fragmented across small samples and single contexts."
+          }
+        ]
+      }
+    },
+    {
+      "removed_by_reason": {
+        "uncited_finding": 3
+      },
+      "removed_total": 3,
+      "residue_excised": 0,
+      "needs_citation_markers_removed": 1,
+      "headings_removed": 0,
+      "loop_revised": true,
+      "first_pass_verified_rate": 0.5294117647058824,
+      "words_first_generation": 466,
+      "words_final": 300,
+      "delivered_sentences": 12,
+      "delivered_cited_sentences": 10,
+      "claim_rows": 11,
+      "stored_removed": {
+        "texts": [
+          {
+            "reason": "uncited_finding",
+            "text": "Direct written corrective feedback (WCF), which supplies the correct form, and indirect WCF, which locates or codes errors without supplying it, differ in the interpretive demands they place on L2 writers."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Experimental classroom evidence indicates that both forms can support accuracy gains during revision, though their durability differs."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Whether these strands converge on a single account of direct versus indirect WCF remains unresolved."
+          }
+        ],
+        "stored_count": 3,
+        "ambiguous": false
+      },
+      "gate": {
+        "attempts": 1,
+        "kept_attempt": "first",
+        "first_pass": {
+          "sentences": 18,
+          "claims": 17,
+          "claims_by_status": {
+            "unsupported": 5,
+            "verified": 9,
+            "needs_nuance": 3
+          }
+        },
+        "revision": {
+          "triggers": 3,
+          "keep_verbatim": 5,
+          "failed": 3,
+          "coverage_issue": 3,
+          "uncited_finding": 3,
+          "unclassified": 0,
+          "first_pass_sentences_carried_verbatim": 5,
+          "first_pass_sentences_not_carried": 13,
+          "new_sentences": 10,
+          "claims": 11,
+          "claims_reused": 3,
+          "claims_reverified": 8,
+          "claims_by_status": {
+            "verified": 11
+          },
+          "link_map_failed": false
+        },
+        "finalize": {
+          "input_sentences": 15,
+          "kept": 12,
+          "changed": 0,
+          "merged": 0,
+          "removed_by_rule": {
+            "uncited_finding": 3
+          },
+          "removed_total": 3,
+          "headings_removed": 0,
+          "identity_ok": true
+        },
+        "discarded_attempt_sentences": 0,
+        "fate_counter_mismatch": [],
+        "removed_texts": [
+          {
+            "rule": "uncited_finding",
+            "text": "Direct written corrective feedback (WCF), which supplies the correct form, and indirect WCF, which locates or codes errors without supplying it, differ in the interpretive demands they place on L2 writers."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Experimental classroom evidence indicates that both forms can support accuracy gains during revision, though their durability differs."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Whether these strands converge on a single account of direct versus indirect WCF remains unresolved."
+          }
+        ]
+      }
+    },
+    {
+      "removed_by_reason": {
+        "dangling": 2,
+        "unverified": 1,
+        "uncited_finding": 2,
+        "meta_evaluation_uncited": 1
+      },
+      "removed_total": 6,
+      "residue_excised": 0,
+      "needs_citation_markers_removed": 0,
+      "headings_removed": 0,
+      "loop_revised": true,
+      "first_pass_verified_rate": 0.6666666666666666,
+      "words_first_generation": 422,
+      "words_final": 254,
+      "delivered_sentences": 11,
+      "delivered_cited_sentences": 7,
+      "claim_rows": 7,
+      "stored_removed": {
+        "texts": [
+          {
+            "reason": "uncited_finding",
+            "text": "Metalinguistic coded feedback - error codes with brief explanatory labels that flag an error without supplying the correct form - has been examined as a distinct written corrective feedback (WCF) condition in this literature."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Preference data of this kind indicate valuation, not effect on accuracy or revision."
+          },
+          {
+            "reason": "meta_evaluation_uncited",
+            "text": "The evidence base in the project library is small and uneven, with the strongest experimental comparison and the main preference data coming from different designs, so conclusions about codes relative to other feedback types remain tentative."
+          }
+        ],
+        "stored_count": 3,
+        "ambiguous": false
+      },
+      "gate": {
+        "attempts": 1,
+        "kept_attempt": "first",
+        "first_pass": {
+          "sentences": 16,
+          "claims": 12,
+          "claims_by_status": {
+            "needs_nuance": 2,
+            "verified": 8,
+            "unsupported": 2
+          }
+        },
+        "revision": {
+          "triggers": 3,
+          "keep_verbatim": 5,
+          "failed": 3,
+          "coverage_issue": 1,
+          "uncited_finding": 4,
+          "unclassified": 0,
+          "first_pass_sentences_carried_verbatim": 5,
+          "first_pass_sentences_not_carried": 11,
+          "new_sentences": 12,
+          "claims": 8,
+          "claims_reused": 4,
+          "claims_reverified": 4,
+          "claims_by_status": {
+            "verified": 7,
+            "needs_nuance": 1
+          },
+          "link_map_failed": false
+        },
+        "finalize": {
+          "input_sentences": 17,
+          "kept": 11,
+          "changed": 0,
+          "merged": 0,
+          "removed_by_rule": {
+            "dangling": 2,
+            "meta_evaluation_uncited": 1,
+            "uncited_finding": 2,
+            "unverified": 1
+          },
+          "removed_total": 6,
+          "headings_removed": 0,
+          "identity_ok": true
+        },
+        "discarded_attempt_sentences": 0,
+        "fate_counter_mismatch": [],
+        "removed_texts": [
+          {
+            "rule": "uncited_finding",
+            "text": "Metalinguistic coded feedback - error codes with brief explanatory labels that flag an error without supplying the correct form - has been examined as a distinct written corrective feedback (WCF) condition in this literature."
+          },
+          {
+            "rule": "meta_evaluation_uncited",
+            "text": "The evidence base in the project library is small and uneven, with the strongest experimental comparison and the main preference data coming from different designs, so conclusions about codes relative to other feedback types remain tentative."
+          },
+          {
+            "rule": "unverified",
+            "text": "Mixed-effect models showed that direct corrections and codes enhanced learners' immediate grammatical and non-grammatical accuracy during revision (Bonilla López et al., 2018)."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Preference data of this kind indicate valuation, not effect on accuracy or revision."
+          },
+          {
+            "rule": "dangling",
+            "text": "Taken together, the library suggests codes may support immediate accuracy but appear weaker than direct correction for retention, with uptake likely shaped by learner preference."
+          },
+          {
+            "rule": "dangling",
+            "text": "No study in the library compares coded feedback with peer and automated conditions within a single design, which is the gap the present study addresses."
+          }
+        ]
+      }
+    },
+    {
+      "removed_by_reason": {
+        "dangling": 1,
+        "unverified": 3,
+        "uncited_finding": 2
+      },
+      "removed_total": 6,
+      "residue_excised": 0,
+      "needs_citation_markers_removed": 0,
+      "headings_removed": 4,
+      "loop_revised": true,
+      "first_pass_verified_rate": 0.7142857142857143,
+      "words_first_generation": 451,
+      "words_final": 382,
+      "delivered_sentences": 16,
+      "delivered_cited_sentences": 11,
+      "claim_rows": 11,
+      "stored_removed": {
+        "texts": [
+          {
+            "reason": "uncited_finding",
+            "text": "Accuracy of detection is the precondition for any downstream effect on writing."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Taken together, the library indicates that AWCF can match or exceed established tools on precision and on some error categories while remaining weaker on others, and that engagement with automated feedback varies widely across learners and teachers."
+          }
+        ],
+        "stored_count": 2,
+        "ambiguous": false
+      },
+      "gate": {
+        "attempts": 1,
+        "kept_attempt": "first",
+        "first_pass": {
+          "sentences": 20,
+          "claims": 14,
+          "claims_by_status": {
+            "verified": 10,
+            "needs_nuance": 3,
+            "unsupported": 1
+          }
+        },
+        "revision": {
+          "triggers": 2,
+          "keep_verbatim": 8,
+          "failed": 2,
+          "coverage_issue": 2,
+          "uncited_finding": 3,
+          "unclassified": 0,
+          "first_pass_sentences_carried_verbatim": 9,
+          "first_pass_sentences_not_carried": 11,
+          "new_sentences": 13,
+          "claims": 15,
+          "claims_reused": 4,
+          "claims_reverified": 11,
+          "claims_by_status": {
+            "verified": 12,
+            "needs_nuance": 2,
+            "unsupported": 1
+          },
+          "link_map_failed": false
+        },
+        "finalize": {
+          "input_sentences": 22,
+          "kept": 16,
+          "changed": 0,
+          "merged": 0,
+          "removed_by_rule": {
+            "dangling": 1,
+            "heading": 4,
+            "uncited_finding": 2,
+            "unverified": 3
+          },
+          "removed_total": 6,
+          "headings_removed": 4,
+          "identity_ok": true
+        },
+        "discarded_attempt_sentences": 0,
+        "fate_counter_mismatch": [],
+        "removed_texts": [
+          {
+            "rule": "heading",
+            "text": "### 2.1 Detection Accuracy Across AWCF Systems"
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Accuracy of detection is the precondition for any downstream effect on writing."
+          },
+          {
+            "rule": "unverified",
+            "text": "The same study found that ChatGPT lagged behind Grammarly on article, preposition, spelling, verb-form and word-form errors (Luo et al., 2025)."
+          },
+          {
+            "rule": "heading",
+            "text": "### 2.2 Revision Behaviour Under Automated Feedback"
+          },
+          {
+            "rule": "unverified",
+            "text": "Peer-mediated revision involving Grammarly alongside self-reflection produced rubric gains between drafts (Li & Hebert, 2023), though a causal role for self-reflection was not established."
+          },
+          {
+            "rule": "heading",
+            "text": "### 2.3 Teacher and Learner Engagement"
+          },
+          {
+            "rule": "heading",
+            "text": "### 2.4 Synthesis and Research Gaps"
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Taken together, the library indicates that AWCF can match or exceed established tools on precision and on some error categories while remaining weaker on others, and that engagement with automated feedback varies widely across learners and teachers."
+          },
+          {
+            "rule": "unverified",
+            "text": "Three gaps follow: no library study compares AWCF with teacher feedback on accuracy in a controlled design; teacher–tool interaction has been examined only through one-time hypothetical scenarios (Koltovskaia, 2022); and prompt-design effects on learner revision outcomes remain untested."
+          },
+          {
+            "rule": "dangling",
+            "text": "These gaps motivate the present study's comparison of feedback conditions."
+          }
+        ]
+      }
+    },
+    {
+      "removed_by_reason": {
+        "uncited_finding": 6
+      },
+      "removed_total": 6,
+      "residue_excised": 0,
+      "needs_citation_markers_removed": 0,
+      "headings_removed": 0,
+      "loop_revised": true,
+      "first_pass_verified_rate": 0.7647058823529411,
+      "words_first_generation": 463,
+      "words_final": 255,
+      "delivered_sentences": 10,
+      "delivered_cited_sentences": 10,
+      "claim_rows": 11,
+      "stored_removed": {
+        "texts": [
+          {
+            "reason": "uncited_finding",
+            "text": "Research on written corrective feedback (WCF) in second-language (L2) writing has shifted from asking whether feedback works to asking how learners engage with it and how teacher, peer, and automated sources compare [NEEDS CITATION]."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Evidence on the accuracy effects of peer feedback is limited and largely indirect [NEEDS CITATION]."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Uptake of peer comments is uneven."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Comparative evidence on teacher versus automated feedback is sparse."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Across these sources, peer WCF is associated with revision improvements and generally positive usefulness ratings, yet the evidence base is dominated by small, qualitative, single-context designs [NEEDS CITATION]."
+          },
+          {
+            "reason": "uncited_finding",
+            "text": "Three gaps follow: no direct experimental comparison of peer, teacher, and automated WCF on accuracy; limited evidence on the conditions governing uptake; and an affective dimension that remains unexamined [NEEDS CITATION]."
+          }
+        ],
+        "stored_count": 6,
+        "ambiguous": false
+      },
+      "gate": {
+        "attempts": 1,
+        "kept_attempt": "first",
+        "first_pass": {
+          "sentences": 19,
+          "claims": 17,
+          "claims_by_status": {
+            "verified": 13,
+            "needs_nuance": 4
+          }
+        },
+        "revision": {
+          "triggers": 2,
+          "keep_verbatim": 6,
+          "failed": 0,
+          "coverage_issue": 3,
+          "uncited_finding": 6,
+          "unclassified": 0,
+          "first_pass_sentences_carried_verbatim": 6,
+          "first_pass_sentences_not_carried": 13,
+          "new_sentences": 10,
+          "claims": 11,
+          "claims_reused": 5,
+          "claims_reverified": 6,
+          "claims_by_status": {
+            "verified": 11
+          },
+          "link_map_failed": false
+        },
+        "finalize": {
+          "input_sentences": 16,
+          "kept": 10,
+          "changed": 0,
+          "merged": 0,
+          "removed_by_rule": {
+            "uncited_finding": 6
+          },
+          "removed_total": 6,
+          "headings_removed": 0,
+          "identity_ok": true
+        },
+        "discarded_attempt_sentences": 0,
+        "fate_counter_mismatch": [],
+        "removed_texts": [
+          {
+            "rule": "uncited_finding",
+            "text": "Research on written corrective feedback (WCF) in second-language (L2) writing has shifted from asking whether feedback works to asking how learners engage with it and how teacher, peer, and automated sources compare."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Evidence on the accuracy effects of peer feedback is limited and largely indirect."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Uptake of peer comments is uneven."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Comparative evidence on teacher versus automated feedback is sparse."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Across these sources, peer WCF is associated with revision improvements and generally positive usefulness ratings, yet the evidence base is dominated by small, qualitative, single-context designs."
+          },
+          {
+            "rule": "uncited_finding",
+            "text": "Three gaps follow: no direct experimental comparison of peer, teacher, and automated WCF on accuracy; limited evidence on the conditions governing uptake; and an affective dimension that remains unexamined."
+          }
+        ]
+      }
+    }
+  ],
+  "totals": {
+    "removed_total": 37,
+    "residue_excised": 0,
+    "needs_citation_markers_removed": 3,
+    "headings_removed": 4,
+    "words_first_generation": 2987,
+    "words_final": 1863,
+    "delivered_sentences": 79,
+    "delivered_cited_sentences": 60,
+    "claim_rows": 63,
+    "removed_by_reason": {
+      "dangling": 5,
+      "unverified": 10,
+      "uncited_finding": 21,
+      "meta_evaluation_uncited": 1
+    },
+    "stored_removed_count": 22,
+    "sections_revised": 7,
+    "gate": {
+      "first_pass": {
+        "sentences": 119,
+        "claims": 93,
+        "claims_by_status": {
+          "needs_nuance": 19,
+          "verified": 64,
+          "unsupported": 10
+        }
+      },
+      "revision": {
+        "keep_verbatim": 39,
+        "failed": 11,
+        "coverage_issue": 13,
+        "uncited_finding": 31,
+        "unclassified": 0,
+        "first_pass_sentences_carried_verbatim": 43,
+        "first_pass_sentences_not_carried": 76,
+        "new_sentences": 73,
+        "claims": 75,
+        "claims_reused": 27,
+        "claims_reverified": 48,
+        "claims_by_status": {
+          "needs_nuance": 9,
+          "verified": 65,
+          "unsupported": 1
+        }
+      },
+      "finalize": {
+        "input_sentences": 116,
+        "kept": 79,
+        "changed": 0,
+        "merged": 0,
+        "removed_by_rule": {
+          "dangling": 5,
+          "uncited_finding": 21,
+          "unverified": 10,
+          "meta_evaluation_uncited": 1,
+          "heading": 4
+        },
+        "removed_total": 37,
+        "headings_removed": 4,
+        "identity_ok": true
+      },
+      "discarded_attempt_sentences": 0,
+      "fate_counter_mismatch": [],
+      "sections_revised_at_gate": 7
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "label_of_record": "blind labeller majority (results/v6/human_labels_blind.json)",
+  "note": "Scored against results/v6/*.jsonl (the guard-7 replay of the cached model answers), not against the workbook's own stored verifier_status column.",
+  "by_set": {
+    "constructed": {
+      "run_A": {
+        "n": 60,
+        "n_matched_to_human_label": 60,
+        "n_missing_human_label": 0,
+        "accuracy": 0.8833333333333333,
+        "n_correct": 53,
+        "accuracy_wilson_95": [
+          0.7782121197582914,
+          0.9423227935994396
+        ],
+        "kappa": 0.8287810843864655,
+        "verified_precision": 0.9285714285714286,
+        "verified_recall": 0.8666666666666667,
+        "falsely_verified": 1,
+        "confusion": {
+          "needs_nuance->needs_nuance": 6,
+          "needs_nuance->unsupported": 3,
+          "needs_nuance->verified": 1,
+          "no_full_text->no_full_text": 8,
+          "unsupported->needs_nuance": 1,
+          "unsupported->unsupported": 26,
+          "verified->needs_nuance": 2,
+          "verified->verified": 13
+        }
+      },
+      "run_B": {
+        "n": 60,
+        "n_matched_to_human_label": 60,
+        "n_missing_human_label": 0,
+        "accuracy": 0.8666666666666667,
+        "n_correct": 52,
+        "accuracy_wilson_95": [
+          0.7583484032350039,
+          0.9308589051941303
+        ],
+        "kappa": 0.8047192839707079,
+        "verified_precision": 0.9230769230769231,
+        "verified_recall": 0.8,
+        "falsely_verified": 1,
+        "confusion": {
+          "needs_nuance->needs_nuance": 6,
+          "needs_nuance->unsupported": 3,
+          "needs_nuance->verified": 1,
+          "no_full_text->no_full_text": 8,
+          "unsupported->needs_nuance": 1,
+          "unsupported->unsupported": 26,
+          "verified->needs_nuance": 3,
+          "verified->verified": 12
+        }
+      }
+    },
+    "real": {
+      "run_A": {
+        "n": 26,
+        "n_matched_to_human_label": 26,
+        "n_missing_human_label": 0,
+        "accuracy": 0.5769230769230769,
+        "n_correct": 15,
+        "accuracy_wilson_95": [
+          0.3894861374659171,
+          0.7445555668634343
+        ],
+        "kappa": 0.36017897091722584,
+        "verified_precision": 1.0,
+        "verified_recall": 0.46153846153846156,
+        "falsely_verified": 0,
+        "confusion": {
+          "needs_nuance->needs_nuance": 6,
+          "needs_nuance->unsupported": 4,
+          "unsupported->unsupported": 3,
+          "verified->needs_nuance": 7,
+          "verified->verified": 6
+        }
+      },
+      "run_B": {
+        "n": 26,
+        "n_matched_to_human_label": 26,
+        "n_missing_human_label": 0,
+        "accuracy": 0.5769230769230769,
+        "n_correct": 15,
+        "accuracy_wilson_95": [
+          0.3894861374659171,
+          0.7445555668634343
+        ],
+        "kappa": 0.36017897091722584,
+        "verified_precision": 1.0,
+        "verified_recall": 0.46153846153846156,
+        "falsely_verified": 0,
+        "confusion": {
+          "needs_nuance->needs_nuance": 6,
+          "needs_nuance->unsupported": 4,
+          "unsupported->unsupported": 3,
+          "verified->needs_nuance": 7,
+          "verified->verified": 6
+        }
+      }
+    }
+  }
+}

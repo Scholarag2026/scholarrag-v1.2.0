@@ -1,0 +1,191 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "level": 2,
+        "sectionType": "literature_review"
+      },
+      "content": [
+        {
+          "text": "Literature Review",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "lópez_2018"
+            ],
+            "sentence": "The same trial found that cognitive load during revision after direct corrections on grammatical errors was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+            "proposition": "The same trial found that cognitive load during revision after direct corrections on grammatical errors was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+            "evidence_ids": [
+              "e96"
+            ],
+            "citation_text": "(Bonilla López et al., 2018)"
+          }
+        ],
+        "uncitedSentences": [
+          {
+            "tag": "framing",
+            "sentence": "Experimental work in the project library indicates that the explicitness of written corrective feedback (WCF) shapes both immediate revision and durability."
+          }
+        ]
+      },
+      "content": [
+        {
+          "text": "Experimental work in the project library indicates that the explicitness of written corrective feedback (WCF) shapes both immediate revision and durability. The same trial found that cognitive load during revision after direct corrections on grammatical errors was significantly lower than after metalinguistic codes on grammatical and non-grammatical errors (Bonilla López et al., 2018).",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "zhang_2018"
+            ],
+            "sentence": "Automated feedback highlights rather than corrects errors (Zhang & Hyland, 2018).",
+            "proposition": "Automated feedback highlights rather than corrects errors",
+            "evidence_ids": [
+              "e25"
+            ],
+            "citation_text": "(Zhang & Hyland, 2018)"
+          },
+          {
+            "keys": [
+              "zhang_2018"
+            ],
+            "sentence": "Teacher feedback addressed more error types than automated feedback, although assignment differences may have influenced this comparison (Zhang & Hyland, 2018).",
+            "proposition": "Teacher feedback addressed more error types than automated feedback, although assignment differences may have influenced this comparison",
+            "evidence_ids": [
+              "e23"
+            ],
+            "citation_text": "(Zhang & Hyland, 2018)"
+          },
+          {
+            "keys": [
+              "luo_2025"
+            ],
+            "sentence": "Comparisons of ChatGPT and Grammarly found that ChatGPT maintained high precision across prompts (94–98%) versus Grammarly's 85%, while recall rose from 10% to 55% as prompts became more sophisticated (Luo et al., 2025).",
+            "proposition": "Comparisons of ChatGPT and Grammarly found that ChatGPT maintained high precision across prompts (94–98%) versus Grammarly's 85%, while recall rose from 10% to 55% as prompts became more sophisticated (Luo et al., 2025).",
+            "evidence_ids": [
+              "e68",
+              "e69"
+            ],
+            "citation_text": "(Luo et al., 2025)"
+          },
+          {
+            "keys": [
+              "koltovskaia_2022"
+            ],
+            "sentence": "Teachers using Grammarly as a complement still addressed both global and local concerns, with no division of labour (Koltovskaia, 2022).",
+            "proposition": "Teachers using Grammarly as a complement still addressed both global and local concerns, with no division of labour",
+            "evidence_ids": [
+              "e33"
+            ],
+            "citation_text": "(Koltovskaia, 2022)"
+          }
+        ],
+        "uncitedSentences": [
+          {
+            "tag": "framing",
+            "sentence": "Automated feedback occupies a different position in the evidence base."
+          }
+        ]
+      },
+      "content": [
+        {
+          "text": "Automated feedback occupies a different position in the evidence base. Automated feedback highlights rather than corrects errors (Zhang & Hyland, 2018). Teacher feedback addressed more error types than automated feedback, although assignment differences may have influenced this comparison (Zhang & Hyland, 2018). Comparisons of ChatGPT and Grammarly found that ChatGPT maintained high precision across prompts (94–98%) versus Grammarly's 85%, while recall rose from 10% to 55% as prompts became more sophisticated (Luo et al., 2025). Teachers using Grammarly as a complement still addressed both global and local concerns, with no division of labour (Koltovskaia, 2022).",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "zhang_2018"
+            ],
+            "sentence": "A 16-week naturalistic case study of two Chinese students found that the highly engaged learner outperformed the moderately engaged learner in responding to both teacher and automated feedback and in improving her text (Zhang & Hyland, 2018).",
+            "proposition": "A 16-week naturalistic case study of two Chinese students found that the highly engaged learner outperformed the moderately engaged learner in responding to both teacher and automated feedback and in improving her text (Zhang & Hyland, 2018).",
+            "evidence_ids": [
+              "e20"
+            ],
+            "citation_text": "(Zhang & Hyland, 2018)"
+          },
+          {
+            "keys": [
+              "zhang_2021"
+            ],
+            "sentence": "In an integrated approach combining automated, peer, and teacher feedback, most of 33 students actively engaged and the approach promoted behavioural, affective, and cognitive engagement and thoughtful revisions (Zhang & Hyland, 2021).",
+            "proposition": "In an integrated approach combining automated, peer, and teacher feedback, most of 33 students actively engaged and the approach promoted behavioural, affective, and cognitive engagement and thoughtful revisions (Zhang & Hyland, 2021).",
+            "evidence_ids": [
+              "e50"
+            ],
+            "citation_text": "(Zhang & Hyland, 2021)"
+          },
+          {
+            "keys": [
+              "mao_2024"
+            ],
+            "sentence": "A synthesis of 50 naturalistic classroom studies identified teacher practices, learner responses, stakeholder beliefs, and motivation and emotions as major themes (Mao et al., 2024).",
+            "proposition": "A synthesis of 50 naturalistic classroom studies identified teacher practices, learner responses, stakeholder beliefs, and motivation and emotions as major themes",
+            "evidence_ids": [
+              "e103"
+            ],
+            "citation_text": "(Mao et al., 2024)"
+          }
+        ],
+        "uncitedSentences": [
+          {
+            "tag": "framing",
+            "sentence": "Evidence on learner response is largely naturalistic."
+          }
+        ]
+      },
+      "content": [
+        {
+          "text": "Evidence on learner response is largely naturalistic. A 16-week naturalistic case study of two Chinese students found that the highly engaged learner outperformed the moderately engaged learner in responding to both teacher and automated feedback and in improving her text (Zhang & Hyland, 2018). In an integrated approach combining automated, peer, and teacher feedback, most of 33 students actively engaged and the approach promoted behavioural, affective, and cognitive engagement and thoughtful revisions (Zhang & Hyland, 2021). A synthesis of 50 naturalistic classroom studies identified teacher practices, learner responses, stakeholder beliefs, and motivation and emotions as major themes (Mao et al., 2024).",
+          "type": "text"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": {
+        "citationLinks": [
+          {
+            "keys": [
+              "mao_2024"
+            ],
+            "sentence": "A systematic search for the review identified 50 empirical studies meeting its inclusion criteria, revealing four major themes: teacher feedback practices in L2 writing classrooms, L2 learner responses to feedback, stakeholders' beliefs and perspectives about feedback, and feedback-related motivation and emotions (Mao et al., 2024).",
+            "proposition": "A systematic search for the review identified 50 empirical studies meeting its inclusion criteria, revealing four major themes: teacher feedback practices in L2 writing classrooms, L2 learner responses to feedback, stakeholders' beliefs and perspectives about feedback, and feedback-related motivation and emotions",
+            "evidence_ids": [],
+            "citation_text": "(Mao et al., 2024)",
+            "residue_spans": [],
+            "meta_evaluation": false,
+            "paragraph_index": 0,
+            "coverage_incomplete": false
+          }
+        ],
+        "uncitedSentences": []
+      },
+      "content": [
+        {
+          "text": "A systematic search for the review identified 50 empirical studies meeting its inclusion criteria, revealing four major themes: teacher feedback practices in L2 writing classrooms, L2 learner responses to feedback, stakeholders' beliefs and perspectives about feedback, and feedback-related motivation and emotions (Mao et al., 2024).",
+          "type": "text"
+        }
+      ]
+    }
+  ]
+}
